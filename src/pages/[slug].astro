@@ -1,0 +1,101 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import BookList from '../components/BookList.astro';
+import FAQ from '../components/FAQ.astro';
+import { getAllSeries, getRelatedSeries, getSeriesByAuthor, getSeriesByGenre } from '../utils/series';
+import { generateBreadcrumbJsonLd, generateFaqJsonLd, generateItemListJsonLd } from '../utils/seo';
+
+export async function getStaticPaths() {
+  const series = await getCollection('series');
+  return series.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}
+
+import { getCollection } from 'astro:content';
+const { entry } = Astro.props;
+const { slug } = Astro.params;
+const series = entry.data;
+const siteUrl = 'https://kolejnoscksiazek.pl';
+
+const allSeries = await getAllSeries();
+const related = getRelatedSeries(allSeries, series.relatedSeries);
+const sameAuthor = getSeriesByAuthor(allSeries, series.authorSlug).filter((s) => s.id !== slug);
+const sameGenreFirst = getSeriesByGenre(allSeries, series.genre[0]).filter((s) => s.id !== slug).slice(0, 4);
+
+const title = `${series.title} - kolejność książek`;
+const description = `Kolejność czytania książek z serii ${series.title} ${series.author}. ${series.books.length} ${series.books.length === 1 ? 'książka' : series.books.length < 5 ? 'książki' : 'książek'} w porządku chronologicznym. Pełna lista z latami wydania.`;
+
+const jsonLd = [
+  generateBreadcrumbJsonLd(
+    [{ name: 'Strona główna', url: '/' }, { name: series.title, url: `/${slug}` }],
+    siteUrl
+  ),
+  generateItemListJsonLd(series.title, series.books, siteUrl, slug!),
+  ...(series.faq.length > 0 ? [generateFaqJsonLd(series.faq)] : []),
+];
+---
+
+<BaseLayout title={title} description={description} jsonLd={jsonLd}>
+  <Breadcrumbs items={[{ name: 'Strona główna', href: '/' }, { name: series.title, href: `/${slug}` }]} />
+
+  <article>
+    <header class="mb-8">
+      <h1 class="text-3xl md:text-4xl font-bold text-gray-900 mb-2">
+        {series.title} - kolejność książek
+      </h1>
+      {series.titleOriginal && (
+        <p class="text-lg text-gray-500 italic mb-2">{series.titleOriginal}</p>
+      )}
+      <p class="text-lg text-gray-700">
+        Autor: <a href={`/autorzy/${series.authorSlug}`} class="text-blue-700 hover:underline">{series.author}</a>
+        {' '} &middot; {series.books.length} {series.books.length === 1 ? 'książka' : series.books.length < 5 ? 'książki' : 'książek'}
+      </p>
+    </header>
+
+    <p class="text-gray-700 mb-6 leading-relaxed">{series.description}</p>
+
+    <section>
+      <h2 class="text-2xl font-bold mb-4">Kolejność czytania</h2>
+      <BookList books={series.books} />
+    </section>
+
+    <FAQ faqs={series.faq} />
+  </article>
+
+  {sameAuthor.length > 0 && (
+    <section class="mt-10">
+      <h2 class="text-2xl font-bold mb-4">Inne serie autora</h2>
+      <div class="grid gap-3 sm:grid-cols-2">
+        {sameAuthor.map((s) => (
+          <a href={`/${s.id}`} class="block border border-gray-200 rounded-lg p-4 hover:bg-gray-50 transition-colors">
+            <h3 class="font-semibold text-blue-700">{s.data.title}</h3>
+            <p class="text-sm text-gray-600">{s.data.books.length} {s.data.books.length === 1 ? 'książka' : s.data.books.length < 5 ? 'książki' : 'książek'}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {(related.length > 0 || sameGenreFirst.length > 0) && (
+    <section class="mt-10">
+      <h2 class="text-2xl font-bold mb-4">Powiązane serie</h2>
+      <div class="grid gap-3 sm:grid-cols-2">
+        {related.map((s) => (
+          <a href={`/${s.id}`} class="block border border-gray-200 rounded-lg p-4 hover:bg-gray-50 transition-colors">
+            <h3 class="font-semibold text-blue-700">{s.data.title}</h3>
+            <p class="text-sm text-gray-600">{s.data.author} &middot; {s.data.books.length} {s.data.books.length === 1 ? 'książka' : s.data.books.length < 5 ? 'książki' : 'książek'}</p>
+          </a>
+        ))}
+        {sameGenreFirst.map((s) => (
+          <a href={`/${s.id}`} class="block border border-gray-200 rounded-lg p-4 hover:bg-gray-50 transition-colors">
+            <h3 class="font-semibold text-blue-700">{s.data.title}</h3>
+            <p class="text-sm text-gray-600">{s.data.author} &middot; {s.data.books.length} {s.data.books.length === 1 ? 'książka' : s.data.books.length < 5 ? 'książki' : 'książek'}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+</BaseLayout>

@@ -1,0 +1,41 @@
+---
+interface Book {
+  order: number;
+  title: string;
+  titleOriginal?: string;
+  yearOriginal: number;
+  yearPolish?: number;
+  type?: string;
+}
+
+interface Props {
+  books: Book[];
+}
+
+const { books } = Astro.props;
+---
+
+<ol class="space-y-3">
+  {books.map((book) => (
+    <li class="flex gap-4 items-start border border-gray-200 rounded-lg p-4 hover:bg-gray-50 transition-colors">
+      <span class="flex-shrink-0 w-10 h-10 flex items-center justify-center bg-blue-700 text-white font-bold rounded-full text-lg">
+        {book.order}
+      </span>
+      <div class="flex-1 min-w-0">
+        <h3 class="font-semibold text-gray-900">{book.title}</h3>
+        {book.titleOriginal && (
+          <p class="text-sm text-gray-500 italic">{book.titleOriginal}</p>
+        )}
+        <div class="mt-1 flex flex-wrap gap-3 text-sm text-gray-600">
+          <span>Wydanie oryginalne: <strong>{book.yearOriginal}</strong></span>
+          {book.yearPolish && (
+            <span>Wydanie polskie: <strong>{book.yearPolish}</strong></span>
+          )}
+          {book.type && book.type !== 'powieść' && (
+            <span class="px-2 py-0.5 bg-gray-200 rounded text-xs uppercase tracking-wide">{book.type}</span>
+          )}
+        </div>
+      </div>
+    </li>
+  ))}
+</ol>

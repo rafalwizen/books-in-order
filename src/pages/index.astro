@@ -1,11 +1,60 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { getAllSeries, getAllGenres } from '../utils/series';
+
+const allSeries = await getAllSeries();
+const genres = getAllGenres(allSeries);
+
+const title = 'KolejnoscKsiazek.pl';
+const description = 'Sprawdź w jakiej kolejności czytać książki z ulubionych serii. Kompletne listy książek w porządku chronologicznym z latami wydania.';
 ---
 
-<BaseLayout
-  title="KolejnoscKsiazek.pl"
-  description="Sprawdź w jakiej kolejności czytać książki z ulubionych serii. Kompletne listy książek w porządku chronologicznym z latami wydania."
->
-  <h1 class="text-3xl font-bold mb-4">KolejnoscKsiazek.pl</h1>
-  <p class="text-lg text-gray-600">Strona w budowie.</p>
+<BaseLayout title={title} description={description}>
+  <div class="text-center mb-10">
+    <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
+      Kolejność książek
+    </h1>
+    <p class="text-lg text-gray-600 max-w-2xl mx-auto">
+      Sprawdź w jakiej kolejności czytać książki z ulubionych serii. Pełne listy w porządku chronologicznym z latami wydania.
+    </p>
+  </div>
+
+  <div class="mb-10">
+    <div class="relative">
+      <input
+        type="search"
+        id="search"
+        placeholder="Szukaj serii książek..."
+        class="w-full px-5 py-3 border border-gray-300 rounded-lg text-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+        data-pagefind-type="search"
+      />
+    </div>
+  </div>
+
+  <section class="mb-10">
+    <h2 class="text-2xl font-bold mb-4">Gatunki</h2>
+    <div class="flex flex-wrap gap-2">
+      {[...genres.entries()].map(([genre, count]) => (
+        <a
+          href={`/gatunki/${genre}`}
+          class="px-4 py-2 bg-gray-100 rounded-full text-gray-700 hover:bg-blue-100 hover:text-blue-700 transition-colors"
+        >
+          {genre} ({count})
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section>
+    <h2 class="text-2xl font-bold mb-4">Wszystkie serie</h2>
+    <div class="grid gap-3 sm:grid-cols-2">
+      {allSeries.map((s) => (
+        <a href={`/${s.id}`} class="block border border-gray-200 rounded-lg p-4 hover:bg-gray-50 transition-colors">
+          <h3 class="font-semibold text-blue-700">{s.data.title}</h3>
+          <p class="text-sm text-gray-600">{s.data.author}</p>
+          <p class="text-sm text-gray-500">{s.data.books.length} {s.data.books.length === 1 ? 'książka' : s.data.books.length < 5 ? 'książki' : 'książek'}</p>
+        </a>
+      ))}
+    </div>
+  </section>
 </BaseLayout>
