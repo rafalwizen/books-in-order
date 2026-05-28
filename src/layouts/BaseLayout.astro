@@ -1,0 +1,71 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  canonicalUrl?: string;
+  jsonLd?: object | object[];
+}
+
+const { title, description, canonicalUrl, jsonLd } = Astro.props;
+const siteTitle = 'KolejnoscKsiazek.pl';
+const fullTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
+const canonical = canonicalUrl || new URL(Astro.url.pathname, Astro.site).href;
+---
+
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta name="robots" content="index, follow, max-snippet:-1" />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <title>{fullTitle}</title>
+
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="article" />
+    <meta property="og:locale" content="pl_PL" />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:site_name" content={siteTitle} />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+
+    {jsonLd && (
+      <script
+        type="application/ld+json"
+        set:html={JSON.stringify(
+          Array.isArray(jsonLd) ? jsonLd : [jsonLd]
+        )}
+      />
+    )}
+
+    <slot name="head" />
+  </head>
+  <body class="bg-white text-gray-900 min-h-screen flex flex-col">
+    <header class="border-b border-gray-200">
+      <nav class="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between">
+        <a href="/" class="text-xl font-bold text-blue-700 hover:text-blue-900">
+          KolejnoscKsiazek.pl
+        </a>
+        <a href="/szukaj" class="text-gray-600 hover:text-gray-900">
+          Szukaj
+        </a>
+      </nav>
+    </header>
+
+    <main class="flex-1 max-w-4xl mx-auto px-4 py-8 w-full">
+      <slot />
+    </main>
+
+    <footer class="border-t border-gray-200 mt-12">
+      <div class="max-w-4xl mx-auto px-4 py-6 text-center text-sm text-gray-500">
+        <p>&copy; {new Date().getFullYear()} KolejnoscKsiazek.pl</p>
+      </div>
+    </footer>
+  </body>
+</html>
