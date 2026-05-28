@@ -6,6 +6,8 @@ interface Props {
   jsonLd?: object | object[];
 }
 
+import '../styles/global.css';
+
 const { title, description, canonicalUrl, jsonLd } = Astro.props;
 const siteTitle = 'KolejnoscKsiazek.pl';
 const fullTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
