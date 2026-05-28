@@ -1,0 +1,20 @@
+{
+  "title": "Igrzyska Śmierci",
+  "titleOriginal": "The Hunger Games",
+  "author": "Suzanne Collins",
+  "authorSlug": "suzanne-collins",
+  "genre": ["sci-fi", "dystopia", "young-adult"],
+  "description": "Kolejność czytania książek z serii Igrzyska Śmierci Suzanne Collins. Kompletna lista z latami wydania.",
+  "books": [
+    { "order": 1, "title": "Igrzyska Śmierci", "titleOriginal": "The Hunger Games", "yearOriginal": 2008, "yearPolish": 2009, "type": "powieść" },
+    { "order": 2, "title": "W Pierścieniu Ognia", "titleOriginal": "Catching Fire", "yearOriginal": 2009, "yearPolish": 2010, "type": "powieść" },
+    { "order": 3, "title": "Kosogłos", "titleOriginal": "Mockingjay", "yearOriginal": 2010, "yearPolish": 2011, "type": "powieść" },
+    { "order": 4, "title": "Ballada ptaków i węży", "titleOriginal": "The Ballad of Songbirds and Snakes", "yearOriginal": 2020, "yearPolish": 2020, "type": "powiązane" },
+    { "order": 5, "title": "Wschód słońca na żniwach", "titleOriginal": "Sunrise on the Reaping", "yearOriginal": 2025, "yearPolish": 2025, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "Ile książek liczy seria Igrzyska Śmierci?", "answer": "Główna trylogia składa się z 3 książek: Igrzyska Śmierci, W Pierścieniu Ognia i Kosogłos. Dodatkowo wydano dwie powieści prequele: Balladę ptaków i węży (2020) i Wschód słońca na żniwach (2025)." },
+    { "question": "Czy trzeba czytać prequele?", "answer": "Nie, główna trylogia jest kompletną historią. Prequele (Ballada ptaków i węży, Wschód słońca na żniwach) można czytać po trylogii." }
+  ],
+  "relatedSeries": []
+}

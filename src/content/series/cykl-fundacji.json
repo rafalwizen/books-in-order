@@ -1,0 +1,22 @@
+{
+  "title": "Cykl Fundacji",
+  "titleOriginal": "Foundation series",
+  "author": "Isaac Asimov",
+  "authorSlug": "isaac-asimov",
+  "genre": ["sci-fi"],
+  "description": "Kolejność czytania książek z Cyklu Fundacji Isaaca Asimova. Kompletna lista z latami wydania.",
+  "books": [
+    { "order": 1, "title": "Preludium Fundacji", "titleOriginal": "Prelude to Foundation", "yearOriginal": 1988, "yearPolish": 1994, "type": "powieść" },
+    { "order": 2, "title": "Narodziny Fundacji", "titleOriginal": "Forward the Foundation", "yearOriginal": 1993, "yearPolish": 1996, "type": "powieść" },
+    { "order": 3, "title": "Fundacja", "titleOriginal": "Foundation", "yearOriginal": 1951, "yearPolish": 1984, "type": "powieść" },
+    { "order": 4, "title": "Fundacja i Imperium", "titleOriginal": "Foundation and Empire", "yearOriginal": 1952, "yearPolish": 1985, "type": "powieść" },
+    { "order": 5, "title": "Druga Fundacja", "titleOriginal": "Second Foundation", "yearOriginal": 1953, "yearPolish": 1986, "type": "powieść" },
+    { "order": 6, "title": "Ostatnie Fundacje", "titleOriginal": "Foundation's Edge", "yearOriginal": 1982, "yearPolish": 1993, "type": "powieść" },
+    { "order": 7, "title": "Fundacja i Ziemia", "titleOriginal": "Foundation and Earth", "yearOriginal": 1986, "yearPolish": 1995, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Cykl Fundacji?", "answer": "Istnieją dwa podejścia: chronologiczne (od Preludium Fundacji) lub wg daty wydania (od Fundacji). Wg wydania pozwala lepiej docenić ewolycję stylu Asimova." },
+    { "question": "Ile książek liczy Cykl Fundacji?", "answer": "Główny cykl liczy 7 powieści. Dodatkowo istnieją powieści powiązane z serią Robotów, które dzieją się w tym samym uniwersum." }
+  ],
+  "relatedSeries": []
+}

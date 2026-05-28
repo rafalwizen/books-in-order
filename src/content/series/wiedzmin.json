@@ -1,0 +1,24 @@
+{
+  "title": "Wiedźmin",
+  "titleOriginal": "Wiedźmin",
+  "author": "Andrzej Sapkowski",
+  "authorSlug": "andrzej-sapkowski",
+  "genre": ["fantasy", "dark-fantasy"],
+  "description": "Kolejność czytania książek z sagi o Wiedźminie Andrzeja Sapkowskiego. Kompletna lista w porządku chronologicznym.",
+  "books": [
+    { "order": 1, "title": "Ostatnie życzenie", "yearOriginal": 1993, "type": "opowiadanie" },
+    { "order": 2, "title": "Miecz przeznaczenia", "yearOriginal": 1992, "type": "opowiadanie" },
+    { "order": 3, "title": "Krew elfów", "yearOriginal": 1994, "type": "powieść" },
+    { "order": 4, "title": "Czas pogardy", "yearOriginal": 1995, "type": "powieść" },
+    { "order": 5, "title": "Chrzest ognia", "yearOriginal": 1996, "type": "powieść" },
+    { "order": 6, "title": "Wieża Jaskółki", "yearOriginal": 1997, "type": "powieść" },
+    { "order": 7, "title": "Pani Jeziora", "yearOriginal": 1999, "type": "powieść" },
+    { "order": 8, "title": "Sezon burz", "yearOriginal": 2013, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Wiedźmina?", "answer": "Najpierw dwa tomy opowiadań (Ostatnie życzenie i Miecz przeznaczenia), potem główną sagę od Krwi elfów do Pani Jeziora. Sezon burz czyta się na końcu." },
+    { "question": "Czy można pominąć opowiadania i zacząć od Krwi elfów?", "answer": "Nie zalecane. Opowiadania wprowadzają postacie, świat i motywy, które są kluczowe dla zrozumienia głównej sagi. Bez nich wiele wątków będzie niejasnych." },
+    { "question": "Czy Wiedźmin jest ukończony?", "answer": "Tak, główna saga jest ukończona. Sezon burz z 2013 roku to dodatkowa powieść osadzona między opowiadaniami, ale nie jest wymagana do zrozumienia głównej fabuły." }
+  ],
+  "relatedSeries": []
+}

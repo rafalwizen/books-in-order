@@ -1,0 +1,21 @@
+{
+  "title": "Diuna",
+  "titleOriginal": "Dune",
+  "author": "Frank Herbert",
+  "authorSlug": "frank-herbert",
+  "genre": ["sci-fi"],
+  "description": "Kolejność czytania książek z sagi Diuna Franka Herberta. Kompletna lista z latami wydania.",
+  "books": [
+    { "order": 1, "title": "Diuna", "titleOriginal": "Dune", "yearOriginal": 1965, "yearPolish": 1992, "type": "powieść" },
+    { "order": 2, "title": "Mesjasz Diuny", "titleOriginal": "Dune Messiah", "yearOriginal": 1969, "yearPolish": 1993, "type": "powieść" },
+    { "order": 3, "title": "Dzieci Diuny", "titleOriginal": "Children of Dune", "yearOriginal": 1976, "yearPolish": 1993, "type": "powieść" },
+    { "order": 4, "title": "Bóg Imperator Diuny", "titleOriginal": "God Emperor of Dune", "yearOriginal": 1981, "yearPolish": 1994, "type": "powieść" },
+    { "order": 5, "title": "Heretycy Diuny", "titleOriginal": "Heretics of Dune", "yearOriginal": 1984, "yearPolish": 1994, "type": "powieść" },
+    { "order": 6, "title": "Kapitularz Diuną", "titleOriginal": "Chapterhouse: Dune", "yearOriginal": 1985, "yearPolish": 1995, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "Ile książek liczy saga Diuna?", "answer": "Frank Herbert napisał 6 książek. Jego syn Brian Herbert wspólnie z Kevinem J. Andersonem napisali kilkanaście książek rozszerzających uniwersum, ale główna saga to 6 tomów." },
+    { "question": "Czy trzeba czytać wszystkie książki Diuny?", "answer": "Pierwsza książka (Diuna) jest samodzielną historią. Dalsze tomy rozwijają fabułę, ale pierwsza część daje pełne doświadczenie." }
+  ],
+  "relatedSeries": []
+}

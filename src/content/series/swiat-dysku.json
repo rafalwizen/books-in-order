@@ -1,0 +1,21 @@
+{
+  "title": "Świat Dysku",
+  "titleOriginal": "Discworld",
+  "author": "Terry Pratchett",
+  "authorSlug": "terry-pratchett",
+  "genre": ["fantasy", "komedia"],
+  "description": "Kolejność czytania książek z serii Świat Dysku Terry'ego Pratchetta. Główne podcykle w porządku chronologicznym.",
+  "books": [
+    { "order": 1, "title": "Kolor magii", "titleOriginal": "The Colour of Magic", "yearOriginal": 1983, "yearPolish": 1994, "type": "powieść" },
+    { "order": 2, "title": "Licho nie śpi", "titleOriginal": "The Light Fantastic", "yearOriginal": 1986, "yearPolish": 1995, "type": "powieść" },
+    { "order": 3, "title": "Czarodzicielstwo", "titleOriginal": "Equal Rites", "yearOriginal": 1987, "yearPolish": 1996, "type": "powieść" },
+    { "order": 4, "title": "Mort", "titleOriginal": "Mort", "yearOriginal": 1987, "yearPolish": 1996, "type": "powieść" },
+    { "order": 5, "title": "Straż! Straż!", "titleOriginal": "Guards! Guards!", "yearOriginal": 1989, "yearPolish": 1998, "type": "powieść" },
+    { "order": 6, "title": "Dziewczyny, które idą w tyle", "titleOriginal": "Wyrd Sisters", "yearOriginal": 1988, "yearPolish": 1997, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "Ile książek liczy seria Świat Dysku?", "answer": "Seria liczy 41 powieści wydanych w latach 1983–2015. Książki dzielą się na kilka podcykli skupionych na różnych postaciach: Rincewind, Śmierć, Straż Miejska, Wiedźmy i inne." },
+    { "question": "Od której książki zacząć Świat Dysku?", "answer": "Można zacząć od pierwszej (Kolor magii) lub wybrać dowolny podcykl. Wielu czytelników poleca zacząć od Straż! Straż! lub Mort, które lepiej oddają styl późniejszych książek serii." }
+  ],
+  "relatedSeries": []
+}

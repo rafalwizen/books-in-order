@@ -1,0 +1,20 @@
+{
+  "title": "Zmierzch",
+  "titleOriginal": "Twilight",
+  "author": "Stephenie Meyer",
+  "authorSlug": "stephenie-meyer",
+  "genre": ["fantasy", "romans", "young-adult"],
+  "description": "Kolejność czytania książek z sagi Zmierzch Stephenie Meyer. Kompletna lista z latami wydania.",
+  "books": [
+    { "order": 1, "title": "Zmierzch", "titleOriginal": "Twilight", "yearOriginal": 2005, "yearPolish": 2006, "type": "powieść" },
+    { "order": 2, "title": "Księżyc w nowiu", "titleOriginal": "New Moon", "yearOriginal": 2006, "yearPolish": 2007, "type": "powieść" },
+    { "order": 3, "title": "Zaćmienie", "titleOriginal": "Eclipse", "yearOriginal": 2007, "yearPolish": 2008, "type": "powieść" },
+    { "order": 4, "title": "Przed świtem", "titleOriginal": "Breaking Dawn", "yearOriginal": 2008, "yearPolish": 2009, "type": "powieść" },
+    { "order": 5, "title": "Świt - pierwsza odsłona", "titleOriginal": "Midnight Sun", "yearOriginal": 2020, "yearPolish": 2020, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "Ile książek liczy saga Zmierzch?", "answer": "Główna saga składa się z 4 książek. Dodatkowo wydany został Świt - pierwsza odsłona (2020), będąca retellingiem pierwszego tomu z perspektywy Edwarda." },
+    { "question": "Czy trzeba czytać Świt - pierwszą odsłonę?", "answer": "Nie, to dodatkowa powieść opowiadająca historię pierwszego tomu z perspektywy Edwarda. Można ją przeczytać po głównej sadze." }
+  ],
+  "relatedSeries": []
+}

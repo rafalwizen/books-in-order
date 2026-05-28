@@ -1,0 +1,22 @@
+{
+  "title": "Harry Potter",
+  "titleOriginal": "Harry Potter",
+  "author": "J.K. Rowling",
+  "authorSlug": "jk-rowling",
+  "genre": ["fantasy", "young-adult"],
+  "description": "Kolejność czytania książek z serii Harry Potter J.K. Rowling. Pełna lista 7 tomów z latami wydania.",
+  "books": [
+    { "order": 1, "title": "Harry Potter i Kamień Filozoficzny", "titleOriginal": "Harry Potter and the Philosopher's Stone", "yearOriginal": 1997, "yearPolish": 2000, "type": "powieść" },
+    { "order": 2, "title": "Harry Potter i Komnata Tajemnic", "titleOriginal": "Harry Potter and the Chamber of Secrets", "yearOriginal": 1998, "yearPolish": 2000, "type": "powieść" },
+    { "order": 3, "title": "Harry Potter i Więzień Azkabanu", "titleOriginal": "Harry Potter and the Prisoner of Azkaban", "yearOriginal": 1999, "yearPolish": 2001, "type": "powieść" },
+    { "order": 4, "title": "Harry Potter i Czara Ognia", "titleOriginal": "Harry Potter and the Goblet of Fire", "yearOriginal": 2000, "yearPolish": 2001, "type": "powieść" },
+    { "order": 5, "title": "Harry Potter i Zakon Feniksa", "titleOriginal": "Harry Potter and the Order of the Phoenix", "yearOriginal": 2003, "yearPolish": 2004, "type": "powieść" },
+    { "order": 6, "title": "Harry Potter i Książę Półkrwi", "titleOriginal": "Harry Potter and the Half-Blood Prince", "yearOriginal": 2005, "yearPolish": 2006, "type": "powieść" },
+    { "order": 7, "title": "Harry Potter i Insygnia Śmierci", "titleOriginal": "Harry Potter and the Deathly Hallows", "yearOriginal": 2007, "yearPolish": 2008, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "Ile książek liczy seria Harry Potter?", "answer": "Główna seria składa się z 7 książek, od Kamienia Filozoficznego po Insygnia Śmierci. Ponadto istnieją książki dodatkowe jak Fantastyczne Zwierzęta czy Przeklęte Dziecko." },
+    { "question": "Czy trzeba czytać Harry Potter po kolei?", "answer": "Tak, książki budują się na sobie i muszą być czytane w kolejności wydania. Każdy tom nawiązuje do wydarzeń z poprzednich." }
+  ],
+  "relatedSeries": []
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Władca Pierścieni",
+  "titleOriginal": "The Lord of the Rings",
+  "author": "J.R.R. Tolkien",
+  "authorSlug": "jrr-tolkien",
+  "genre": ["fantasy", "high-fantasy"],
+  "description": "Kolejność czytania książek z serii Władca Pierścieni J.R.R. Tolkiena. Pełna lista w porządku chronologicznym z latami wydania.",
+  "books": [
+    { "order": 1, "title": "Hobbit, czyli tam i z powrotem", "titleOriginal": "The Hobbit, or There and Back Again", "yearOriginal": 1937, "yearPolish": 1960, "type": "powieść" },
+    { "order": 2, "title": "Drużyna Pierścienia", "titleOriginal": "The Fellowship of the Ring", "yearOriginal": 1954, "yearPolish": 1961, "type": "powieść" },
+    { "order": 3, "title": "Dwie Wieże", "titleOriginal": "The Two Towers", "yearOriginal": 1954, "yearPolish": 1962, "type": "powieść" },
+    { "order": 4, "title": "Powrót Króla", "titleOriginal": "The Return of the King", "yearOriginal": 1955, "yearPolish": 1963, "type": "powieść" },
+    { "order": 5, "title": "Silmarillion", "titleOriginal": "The Silmarillion", "yearOriginal": 1977, "yearPolish": 1985, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "Czy trzeba przeczytać Hobbita przed Władcą Pierścieni?", "answer": "Nie jest to absolutnie konieczne, ale bardzo zalecane. Hobbit wprowadza do świata Śródziemia, wyjaśnia genezę Pierścienia i poznajemy w nim Bilba Bagginsa, którego historia jest kluczowa dla fabuły Władcy Pierścieni." },
+    { "question": "Ile książek liczy seria Władca Pierścieni?", "answer": "Główna trylogia Władcy Pierścieni składa się z 3 tomów: Drużyna Pierścienia, Dwie Wieże i Powrót Króla. Razem z Hobbitem jako prequelem to 4 książki." },
+    { "question": "Czy warto czytać Silmarillion?", "answer": "Silmarillion to księga mitów i legend Śródziemia. Należy ją czytać po trylogii, jeśli chcesz poznać pełną historię świata Tolkiena. Jest trudniejsza w czytaniu niż Władca Pierścieni." }
+  ],
+  "relatedSeries": ["ziemiomorze"]
+}

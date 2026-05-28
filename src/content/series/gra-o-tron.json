@@ -1,0 +1,21 @@
+{
+  "title": "Pieśń Lodu i Ognia",
+  "titleOriginal": "A Song of Ice and Fire",
+  "author": "George R.R. Martin",
+  "authorSlug": "george-rr-martin",
+  "genre": ["fantasy", "epic-fantasy"],
+  "description": "Kolejność czytania książek z serii Pieśń Lodu i Ognia George'a R.R. Martina. Pełna lista z latami wydania.",
+  "books": [
+    { "order": 1, "title": "Gra o Tron", "titleOriginal": "A Game of Thrones", "yearOriginal": 1996, "yearPolish": 1998, "type": "powieść" },
+    { "order": 2, "title": "Starcie królów", "titleOriginal": "A Clash of Kings", "yearOriginal": 1998, "yearPolish": 2000, "type": "powieść" },
+    { "order": 3, "title": "Nawałnica mieczy", "titleOriginal": "A Storm of Swords", "yearOriginal": 2000, "yearPolish": 2002, "type": "powieść" },
+    { "order": 4, "title": "Uczta dla wron", "titleOriginal": "A Feast for Crows", "yearOriginal": 2005, "yearPolish": 2006, "type": "powieść" },
+    { "order": 5, "title": "Taniec ze smokami", "titleOriginal": "A Dance with Dragons", "yearOriginal": 2011, "yearPolish": 2012, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "Czy seria Pieśń Lodu i Ognia jest ukończona?", "answer": "Nie. George R.R. Martin wciąż pracuje nad szóstym tomem \"Wichry zimy\". Siódmym i ostatnim tomem ma być \"Sen o wiośnie\"." },
+    { "question": "Ile książek będzie w serii Pieśń Lodu i Ognia?", "answer": "Planowanych jest 7 książek. Obecnie wydanych jest 5: Gra o Tron, Starcie królów, Nawałnica mieczy, Uczta dla wron i Taniec ze smokami." },
+    { "question": "Czy Uczta dla wron i Taniec ze smokami dzieją się równocześnie?", "answer": "Tak, częściowo. Uczta dla wron i Taniec ze smokami obejmują ten sam okres czasu, ale skupiają się na różnych postaciach i lokalizacjach." }
+  ],
+  "relatedSeries": []
+}

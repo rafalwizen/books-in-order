@@ -1,0 +1,21 @@
+{
+  "title": "Ziemiomorze",
+  "titleOriginal": "Earthsea",
+  "author": "Ursula K. Le Guin",
+  "authorSlug": "ursula-k-le-guin",
+  "genre": ["fantasy"],
+  "description": "Kolejność czytania książek z cyklu Ziemiomorze Ursuli K. Le Guin. Kompletna lista z latami wydania.",
+  "books": [
+    { "order": 1, "title": "Czarnoksiężnik z Archipelagu", "titleOriginal": "A Wizard of Earthsea", "yearOriginal": 1968, "yearPolish": 1990, "type": "powieść" },
+    { "order": 2, "title": "Grobowce Atuanu", "titleOriginal": "The Tombs of Atuan", "yearOriginal": 1971, "yearPolish": 1990, "type": "powieść" },
+    { "order": 3, "title": "Najdalszy brzeg", "titleOriginal": "The Farthest Shore", "yearOriginal": 1972, "yearPolish": 1991, "type": "powieść" },
+    { "order": 4, "title": "Tehanu", "titleOriginal": "Tehanu", "yearOriginal": 1990, "yearPolish": 1993, "type": "powieść" },
+    { "order": 5, "title": "Opowieści z Ziemiomorza", "titleOriginal": "Tales from Earthsea", "yearOriginal": 2001, "yearPolish": 2003, "type": "opowiadanie" },
+    { "order": 6, "title": "Na innych wiatrach", "titleOriginal": "The Other Wind", "yearOriginal": 2001, "yearPolish": 2003, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "Czy trzeba czytać Opowieści z Ziemiomorza?", "answer": "Opowieści z Ziemiomorza to zbiór opowiadań, które wzbogacają świat cyklu. Nie są obowiązkowe dla głównej fabuły, ale pomagają zrozumieć tło przed lekturą Na innych wiatrach." },
+    { "question": "Ile książek liczy cykl Ziemiomorze?", "answer": "Cykl składa się z 4 głównych powieści, 1 tomu opowiadań i 1 powieści kończącej, co daje łącznie 6 książek." }
+  ],
+  "relatedSeries": ["wladca-pierscieni"]
+}
