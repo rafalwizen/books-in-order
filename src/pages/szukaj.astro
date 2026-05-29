@@ -8,37 +8,68 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 >
   <h1 class="text-3xl font-bold mb-6">Szukaj serii książek</h1>
 
-  <div id="search" class="mb-8"></div>
+  <form action="/szukaj" method="get" class="mb-8">
+    <div class="relative">
+      <input
+        type="search"
+        name="q"
+        id="search-input"
+        placeholder="Wpisz tytuł serii, autora lub gatunek..."
+        class="w-full px-5 py-3 border border-gray-300 rounded-lg text-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+      />
+    </div>
+  </form>
 
+  <div id="search-status" class="text-gray-500 mb-4"></div>
   <div id="pagefind-search-results"></div>
 </BaseLayout>
 
-<script>
-  window.addEventListener('DOMContentLoaded', () => {
-    const searchContainer = document.querySelector('#pagefind-search-results');
+<script is:inline>
+  (function() {
+    var params = new URLSearchParams(window.location.search);
+    var query = params.get('q') || '';
 
-    if (searchContainer && typeof window.pagefind !== 'undefined') {
-      const params = new URLSearchParams(window.location.search);
-      const query = params.get('q') || '';
+    var input = document.querySelector('#search-input');
+    if (input && query) {
+      input.value = query;
+    }
 
-      if (query) {
-        const input = document.querySelector<HTMLInputElement>('#search input');
-        if (input) input.value = query;
+    if (!query) return;
 
-        window.pagefind.search(query).then((results: any) => {
-          results.results.forEach((result: any) => {
-            result.data().then((data: any) => {
-              const div = document.createElement('div');
-              div.className = 'border border-gray-200 rounded-lg p-4 mb-3';
-              div.innerHTML = `
-                <a href="${data.url}" class="text-blue-700 font-semibold text-lg hover:underline">${data.meta?.title || data.url}</a>
-                <p class="text-sm text-gray-600 mt-1">${data.excerpt || ''}</p>
-              `;
-              searchContainer.appendChild(div);
-            });
+    var statusEl = document.querySelector('#search-status');
+    var resultsEl = document.querySelector('#pagefind-search-results');
+    statusEl.textContent = 'Szukam...';
+
+    var script = document.createElement('script');
+    script.src = '/pagefind/pagefind.js';
+    script.onload = function() {
+      window.pagefind.init().then(function() {
+        return window.pagefind.search(query);
+      }).then(function(results) {
+        if (results.results.length === 0) {
+          statusEl.textContent = 'Brak wyników dla „' + query + '"';
+          return;
+        }
+
+        var count = results.results.length;
+        var label = count === 1 ? 'wynik' : count < 5 ? 'wyniki' : 'wyników';
+        statusEl.textContent = 'Znaleziono ' + count + ' ' + label + ' dla „' + query + '"';
+
+        results.results.forEach(function(result) {
+          result.data().then(function(data) {
+            var div = document.createElement('div');
+            div.className = 'border border-gray-200 rounded-lg p-4 mb-3';
+            div.innerHTML =
+              '<a href="' + data.url + '" class="text-blue-700 font-semibold text-lg hover:underline">' + (data.meta && data.meta.title || data.url) + '</a>' +
+              '<p class="text-sm text-gray-600 mt-1">' + (data.excerpt || '') + '</p>';
+            resultsEl.appendChild(div);
           });
         });
-      }
-    }
-  });
+      });
+    };
+    script.onerror = function() {
+      statusEl.textContent = 'Wyszukiwanie jest dostępne po zbudowaniu strony (npm run build).';
+    };
+    document.head.appendChild(script);
+  })();
 </script>
