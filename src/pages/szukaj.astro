@@ -40,11 +40,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     var resultsEl = document.querySelector('#pagefind-search-results');
     statusEl.textContent = 'Szukam...';
 
-    var script = document.createElement('script');
-    script.src = '/pagefind/pagefind.js';
-    script.onload = function() {
-      window.pagefind.init().then(function() {
-        return window.pagefind.search(query);
+    import('/pagefind/pagefind.js').then(function(pagefind) {
+      return pagefind.init().then(function() {
+        return pagefind.search(query);
       }).then(function(results) {
         if (results.results.length === 0) {
           statusEl.textContent = 'Brak wyników dla „' + query + '"';
@@ -66,10 +64,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           });
         });
       });
-    };
-    script.onerror = function() {
+    }).catch(function(err) {
       statusEl.textContent = 'Wyszukiwanie jest dostępne po zbudowaniu strony (npm run build).';
-    };
-    document.head.appendChild(script);
+      console.error('Pagefind error:', err);
+    });
   })();
 </script>
