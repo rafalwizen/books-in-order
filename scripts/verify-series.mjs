@@ -391,21 +391,23 @@ async function crossCheckWiki(slug, data) {
 }
 
 // ---------- Debug helper ----------
-// Print extracted Wikipedia rows for one slug and exit.
-// Usage: node scripts/verify-series.mjs --debug-rows <slug>
+// Print extracted Wikipedia rows for one or more slugs (comma-separated) and exit.
+// Usage: node scripts/verify-series.mjs --debug-rows <slug[,slug...]>
 if (opts.debugRows) {
-  const mapping = wikiMappings.get(opts.debugRows);
-  if (!mapping) {
-    console.error(`no mapping for ${opts.debugRows}`);
-    process.exit(1);
-  }
-  const { project, article } = mapping.attempts[0];
-  const wikitext = await getWikitext(project, article, { refresh: opts.refresh });
-  const { rows, sectionKeys } = extractPublicationRows(wikitext ?? '');
-  console.log(`article: ${project}:${article}, rows: ${rows.length}`);
-  for (const r of rows.slice(0, 60)) {
-    const inSection = sectionKeys.has(normalizeTitle(r.title).join(' ')) ? '[S]' : '   ';
-    console.log(`  ${inSection} ${r.title} | ${r.year}`);
+  for (const slug of opts.debugRows.split(',')) {
+    const mapping = wikiMappings.get(slug);
+    if (!mapping) {
+      console.log(`### ${slug}: no mapping`);
+      continue;
+    }
+    const { project, article } = mapping.attempts[0];
+    const wikitext = await getWikitext(project, article, { refresh: opts.refresh });
+    const { rows, sectionKeys } = extractPublicationRows(wikitext ?? '');
+    console.log(`### ${slug} (${project}:${article}) rows: ${rows.length}`);
+    for (const r of rows.slice(0, 60)) {
+      const inSection = sectionKeys.has(normalizeTitle(r.title).join(' ')) ? '[S]' : '   ';
+      console.log(`  ${inSection} ${r.title} | ${r.year}`);
+    }
   }
   process.exit(0);
 }
