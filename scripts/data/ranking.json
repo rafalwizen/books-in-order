@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:54:38.481Z",
+  "generatedAt": "2026-10-24T14:12:21.775Z",
   "window": {
     "from": "2025-10",
     "to": "2026-09"
@@ -489,33 +489,6 @@
         "2026-07": 44174,
         "2026-08": 46878,
         "2026-09": 41742
-      }
-    },
-    {
-      "slug": "herkules-poirot",
-      "workingTitle": "Herkules Poirot",
-      "author": "Agatha Christie",
-      "existingSlug": null,
-      "status": "ok",
-      "resolved": {
-        "project": "en",
-        "article": "Hercule Poirot"
-      },
-      "medianMonthlyViews": 45151,
-      "totalViews": 616349,
-      "monthly": {
-        "2025-10": 46080,
-        "2025-11": 43226,
-        "2025-12": 95571,
-        "2026-01": 74339,
-        "2026-02": 47136,
-        "2026-03": 44222,
-        "2026-04": 41523,
-        "2026-05": 41416,
-        "2026-06": 39004,
-        "2026-07": 43014,
-        "2026-08": 46360,
-        "2026-09": 54458
       }
     },
     {
@@ -1029,6 +1002,33 @@
         "2026-07": 28042,
         "2026-08": 34488,
         "2026-09": 26235
+      }
+    },
+    {
+      "slug": "herkules-poirot",
+      "workingTitle": "Herkules Poirot",
+      "author": "Agatha Christie",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Agatha Christie bibliography"
+      },
+      "medianMonthlyViews": 26479,
+      "totalViews": 356748,
+      "monthly": {
+        "2025-10": 27524,
+        "2025-11": 26327,
+        "2025-12": 32491,
+        "2026-01": 55669,
+        "2026-02": 33411,
+        "2026-03": 28861,
+        "2026-04": 26479,
+        "2026-05": 25976,
+        "2026-06": 23416,
+        "2026-07": 25323,
+        "2026-08": 26478,
+        "2026-09": 24793
       }
     },
     {
