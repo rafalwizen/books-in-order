@@ -1,0 +1,23 @@
+{
+  "title": "Opowieści z Narnii",
+  "titleOriginal": "The Chronicles of Narnia",
+  "author": "C.S. Lewis",
+  "authorSlug": "cs-lewis",
+  "genre": ["fantasy", "young-adult", "klasyka"],
+  "description": "Kolejność czytania Opowieści z Narnii C.S. Lewisa. Wszystkie 7 książek w porządku wydania, od Lwa, czarownicy i starej szafy po Ostatnią bitwę.",
+  "books": [
+    { "order": 1, "title": "Lew, czarownica i stara szafa", "titleOriginal": "The Lion, the Witch and the Wardrobe", "yearOriginal": 1950, "type": "powieść" },
+    { "order": 2, "title": "Książę Kaspian", "titleOriginal": "Prince Caspian", "yearOriginal": 1951, "type": "powieść" },
+    { "order": 3, "title": "Podróż „Wędrowca do Świtu”", "titleOriginal": "The Voyage of the Dawn Treader", "yearOriginal": 1952, "type": "powieść" },
+    { "order": 4, "title": "Srebrne krzesło", "titleOriginal": "The Silver Chair", "yearOriginal": 1953, "type": "powieść" },
+    { "order": 5, "title": "Koń i jego chłopiec", "titleOriginal": "The Horse and His Boy", "yearOriginal": 1954, "type": "powieść" },
+    { "order": 6, "title": "Siostrzeniec czarodzieja", "titleOriginal": "The Magician's Nephew", "yearOriginal": 1955, "type": "powieść" },
+    { "order": 7, "title": "Ostatnia bitwa", "titleOriginal": "The Last Battle", "yearOriginal": 1956, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Opowieści z Narnii?", "answer": "Polecamy kolejność wydania: od Lwa, czarownicy i starej szafy (1950) do Ostatniej bitwy (1956). Tak czytało je pierwsze pokolenie czytelników i tak najlepiej buduje się magia odkrywania Narnii." },
+    { "question": "Kolejność wydania czy chronologiczna?", "answer": "To najsłynniejszy spór o Narnię. Wydawcy od numeru 58. nakładu stosują kolejność chronologiczną (najpierw Siostrzeńca czarodzieja), ale C.S. Lewis sam sugerował, że kolejność wydania jest lepsza dla nowych czytelników. Na tej stronie stosujemy kolejność wydania." },
+    { "question": "Ile książek liczy cykl Narnia?", "answer": "Siedem powieści wydanych w latach 1950–1956. Cykl jest ukończony, a wszystkie tomy łączą postacie i wątek Aslana oraz dzieci z rodziny Pevensie." }
+  ],
+  "relatedSeries": []
+}

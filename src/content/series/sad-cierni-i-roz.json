@@ -1,0 +1,21 @@
+{
+  "title": "Sąd cierni i róż",
+  "titleOriginal": "A Court of Thorns and Roses",
+  "author": "Sarah J. Maas",
+  "authorSlug": "sarah-j-maas",
+  "genre": ["fantasy", "romans"],
+  "description": "Kolejność czytania książek z serii Sąd cierni i róż Sarah J. Maas. Kompletna lista tomów bestsellerowej romantasy w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Sąd cierni i róż", "titleOriginal": "A Court of Thorns and Roses", "yearOriginal": 2015, "type": "powieść" },
+    { "order": 2, "title": "Sąd mgły i gniewu", "titleOriginal": "A Court of Mist and Fury", "yearOriginal": 2016, "type": "powieść" },
+    { "order": 3, "title": "Sąd skrzydeł i zniszczenia", "titleOriginal": "A Court of Wings and Ruin", "yearOriginal": 2017, "type": "powieść" },
+    { "order": 4, "title": "Sąd mrozu i gwiazd", "titleOriginal": "A Court of Frost and Starlight", "yearOriginal": 2018, "type": "powieść" },
+    { "order": 5, "title": "Sąd srebrnych płomieni", "titleOriginal": "A Court of Silver Flames", "yearOriginal": 2021, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Sąd cierni i róż?", "answer": "Zawsze w kolejności wydania: Sąd cierni i róż, Sąd mgły i gniewu, Sąd skrzydeł i zniszczenia, a następnie krótszy Sąd mrozu i gwiazd i najnowszy Sąd srebrnych płomieni. Kolejność ma znaczenie, bo fabuła i wątki romantyczne budują się z tomu na tom." },
+    { "question": "Czy seria Sąd cierni i róż jest ukończona?", "answer": "Nie, seria jest wciąż kontynuowana. Główny wątek trylogii jest domknięty w trzecim tomie, ale Sarah J. Maas zapowiedziała kolejne książki rozgrywające się w tym świecie." },
+    { "question": "Czy Sąd mrozu i gwiazd jest pełnoprawnym tomem serii?", "answer": "To krótsza opowieść (nowela) łącząca trzeci tom z Sądem srebrnych płomieni. Warto ją przeczytać w kolejności wydania, bo wprowadza wydarzenia bezpośrednio poprzedzające piątą część." }
+  ],
+  "relatedSeries": []
+}

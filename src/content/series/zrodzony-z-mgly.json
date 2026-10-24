@@ -1,0 +1,24 @@
+{
+  "title": "Zrodzony z mgły",
+  "titleOriginal": "Mistborn",
+  "author": "Brandon Sanderson",
+  "authorSlug": "brandon-sanderson",
+  "genre": ["fantasy", "epic-fantasy"],
+  "description": "Kolejność czytania książek z cyklu Zrodzony z mgły Brandona Sandersona. Obie ery serii — klasyczna trylogia Kelsiera i przygody Waxa i Wayne'a — w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Ostatnie Imperium", "titleOriginal": "The Final Empire", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 2, "title": "Studnia Wniebowstąpienia", "titleOriginal": "The Well of Ascension", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 3, "title": "Bohater Wieku", "titleOriginal": "The Hero of Ages", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 4, "title": "The Alloy of Law", "titleOriginal": "The Alloy of Law", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 5, "title": "Shadows of Self", "titleOriginal": "Shadows of Self", "yearOriginal": 2015, "type": "powieść" },
+    { "order": 6, "title": "The Bands of Mourning", "titleOriginal": "The Bands of Mourning", "yearOriginal": 2016, "type": "powieść" },
+    { "order": 7, "title": "The Lost Metal", "titleOriginal": "The Lost Metal", "yearOriginal": 2022, "type": "powieść" },
+    { "order": 8, "title": "Secret History", "titleOriginal": "Mistborn: Secret History", "yearOriginal": 2016, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Zrodzonego z mgły?", "answer": "Najpierw trylogia ery pierwszej: Ostatnie Imperium, Studnia Wniebowstąpienia i Bohater Wieku. Potem era druga z Waxem i Wayne'em: The Alloy of Law, Shadows of Self, The Bands of Mourning i The Lost Metal." },
+    { "question": "Czy Zrodzony z mgły jest ukończony?", "answer": "Era pierwsza i druga są zakończone. Sanderson zapowiedział trzecią erę serii, która ma być osadzona we współczesności świata Scadrial — cykl jest więc wciąż otwarty." },
+    { "question": "Czytać Secret History między tomami?", "answer": "Novela Secret History rozgrywa się równolegle z trylogią, ale została wydana z dużym opóźnieniem. Czytaj ją dopiero po trzecim tomie — inaczej zdradzi kluczowe zwroty akcji ery pierwszej." }
+  ],
+  "relatedSeries": []
+}

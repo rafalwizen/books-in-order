@@ -1,0 +1,35 @@
+{
+  "title": "Joanna Chyłka",
+  "author": "Remigiusz Mróz",
+  "authorSlug": "remigiusz-mroz",
+  "genre": ["kryminal", "thriller"],
+  "description": "Kolejność czytania książek z serii Joanna Chyłka Remigiusza Mroza. Wszystkie tomy przygód warszawskiej adwokatki w porządku wydania, od Kasacji po Bezprawie.",
+  "books": [
+    { "order": 1, "title": "Kasacja", "yearOriginal": 2015, "type": "powieść" },
+    { "order": 2, "title": "Zaginięcie", "yearOriginal": 2015, "type": "powieść" },
+    { "order": 3, "title": "Rewizja", "yearOriginal": 2016, "type": "powieść" },
+    { "order": 4, "title": "Immunitet", "yearOriginal": 2016, "type": "powieść" },
+    { "order": 5, "title": "Inwigilacja", "yearOriginal": 2017, "type": "powieść" },
+    { "order": 6, "title": "Oskarżenie", "yearOriginal": 2017, "type": "powieść" },
+    { "order": 7, "title": "Testament", "yearOriginal": 2018, "type": "powieść" },
+    { "order": 8, "title": "Kontratyp", "yearOriginal": 2018, "type": "powieść" },
+    { "order": 9, "title": "Umorzenie", "yearOriginal": 2019, "type": "powieść" },
+    { "order": 10, "title": "Wyrok", "yearOriginal": 2019, "type": "powieść" },
+    { "order": 11, "title": "Ekstradycja", "yearOriginal": 2020, "type": "powieść" },
+    { "order": 12, "title": "Precedens", "yearOriginal": 2020, "type": "powieść" },
+    { "order": 13, "title": "Afekt", "yearOriginal": 2021, "type": "powieść" },
+    { "order": 14, "title": "Egzekucja", "yearOriginal": 2021, "type": "powieść" },
+    { "order": 15, "title": "Skazanie", "yearOriginal": 2022, "type": "powieść" },
+    { "order": 16, "title": "Werdykt", "yearOriginal": 2022, "type": "powieść" },
+    { "order": 17, "title": "Zarzut", "yearOriginal": 2023, "type": "powieść" },
+    { "order": 18, "title": "Obrona", "yearOriginal": 2024, "type": "powieść" },
+    { "order": 19, "title": "Substytucja", "yearOriginal": 2025, "type": "powieść" },
+    { "order": 20, "title": "Bezprawie", "yearOriginal": 2026, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Chyłkę?", "answer": "Koniecznie w kolejności wydania, od Kasacji (2015). Sprawy są odrębne, ale życie prywatne Joanny Chyłki, jej współpracownika Kornela i komisarza Zordony rozwija się z tomu na tom." },
+    { "question": "Ile książek liczy seria z Joanną Chyłką?", "answer": "Obecnie 20 powieści wydanych w latach 2015–2026 w Wydawnictwie Czwarta Strona. Remigiusz Mróz wydaje nowe tomy regularnie — zwykle dwa rocznie." },
+    { "question": "Czy każda sprawa Chyłki to osobna historia?", "answer": "Tak — każdy tom opisuje odrębną sprawę karną i można ją śledzić niezależnie. Jednak wątki osobiste bohaterów, zwłaszcza relacja Chyłki z aplikantem Kornelem, rozwijają się przez całą serię, dlatego kolejność wydania jest zalecana." }
+  ],
+  "relatedSeries": []
+}

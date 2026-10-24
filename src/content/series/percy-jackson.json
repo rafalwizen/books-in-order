@@ -1,0 +1,23 @@
+{
+  "title": "Percy Jackson",
+  "titleOriginal": "Percy Jackson & the Olympians",
+  "author": "Rick Riordan",
+  "authorSlug": "rick-riordan",
+  "genre": ["fantasy", "young-adult"],
+  "description": "Kolejność czytania książek z serii Percy Jackson Ricka Riordana. Wszystkie 5 tomów przygód syna Posejdona w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Złodziej pioruna", "titleOriginal": "The Lightning Thief", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 2, "title": "Morze potworów", "titleOriginal": "The Sea of Monsters", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 3, "title": "Klątwa Tytana", "titleOriginal": "The Titan's Curse", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 4, "title": "Bitwa w labiryncie", "titleOriginal": "The Battle of the Labyrinth", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 5, "title": "Ostatni Olimpijczyk", "titleOriginal": "The Last Olympian", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 6, "title": "The Chalice of the Gods", "titleOriginal": "The Chalice of the Gods", "yearOriginal": 2023, "type": "powieść" },
+    { "order": 7, "title": "Wrath of the Triple Goddess", "titleOriginal": "Wrath of the Triple Goddess", "yearOriginal": 2025, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Percy Jacksona?", "answer": "Dokładnie w kolejności wydania, od Złodzieja pioruna (2005) po najnowsze tomy. Pierwsze pięć książek tworzy zamkniętą historię wojny z tytanem Kronosem, a od 2023 roku Rick Riordan dopisuje kolejne przygody Percy'ego w senioralnym roku." },
+    { "question": "Czy seria Percy Jackson jest ukończona?", "answer": "Główna pentalogia (2005–2009) jest zakończona, ale Rick Riordan wrócił do bohatera i wydaje nowe tomy: The Chalice of the Gods (2023) i Wrath of the Triple Goddess (2025). Historię świata kontynuują też serie Bohaterowie Olimpu i Próby Apollona." },
+    { "question": "Co czytać po Percy Jacksonu?", "answer": "Naturalną kontynuacją jest pięciotomowa seria Bohaterowie Olimpu, w której Percy występuje obok nowych bohaterów. Kolejne w kolejności wydania są Próby Apollona." }
+  ],
+  "relatedSeries": []
+}

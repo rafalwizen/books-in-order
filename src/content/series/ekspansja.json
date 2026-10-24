@@ -1,0 +1,26 @@
+{
+  "title": "Ekspansja",
+  "titleOriginal": "The Expanse",
+  "author": "James S.A. Corey",
+  "authorSlug": "james-sa-corey",
+  "genre": ["sci-fi"],
+  "description": "Kolejność czytania książek z serii Ekspansja Jamesa S.A. Coreya. Wszystkie 9 powieści i kluczowa nowela w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Przebudzenie Lewiatana", "titleOriginal": "Leviathan Wakes", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 2, "title": "Rzeźnik ze stacji Anderson", "titleOriginal": "The Butcher of Anderson Station", "yearOriginal": 2011, "type": "opowiadanie" },
+    { "order": 3, "title": "Wojna Kalibana", "titleOriginal": "Caliban's War", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 4, "title": "Bramy Abaddona", "titleOriginal": "Abaddon's Gate", "yearOriginal": 2013, "type": "powieść" },
+    { "order": 5, "title": "Cibola Burn", "titleOriginal": "Cibola Burn", "yearOriginal": 2014, "type": "powieść" },
+    { "order": 6, "title": "Nemesis Games", "titleOriginal": "Nemesis Games", "yearOriginal": 2015, "type": "powieść" },
+    { "order": 7, "title": "Babylon's Ashes", "titleOriginal": "Babylon's Ashes", "yearOriginal": 2016, "type": "powieść" },
+    { "order": 8, "title": "Persepolis Rising", "titleOriginal": "Persepolis Rising", "yearOriginal": 2017, "type": "powieść" },
+    { "order": 9, "title": "Tiamat's Wrath", "titleOriginal": "Tiamat's Wrath", "yearOriginal": 2019, "type": "powieść" },
+    { "order": 10, "title": "Leviathan Falls", "titleOriginal": "Leviathan Falls", "yearOriginal": 2021, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Ekspansję?", "answer": "W kolejności wydania: od Przebudzenia Lewiatana (2011) do Leviathan Falls (2021). Nowela Rzeźnik ze stacji Anderson łączy się bezpośrednio z pierwszym tomem i najlepiej czyta się ją tuż po nim." },
+    { "question": "Czy Ekspansja jest ukończona?", "answer": "Tak, główny cykl dziewięciu powieści został zakończony w 2021 roku tomem Leviathan Falls. Autorzy zapowiedzieli kolejne powieści osadzone w tym samym wszechświecie po czasach głównej serii." },
+    { "question": "Czy novelę i opowiadania trzeba czytać?", "answer": "Główna fabuła mieszści się w dziewięciu powieściach. Nowele, m.in. The Churn i Strange Dogs, pogłębiają wątki drugoplanowych bohaterów i można je czytać po właściwych tomach serii." }
+  ],
+  "relatedSeries": []
+}

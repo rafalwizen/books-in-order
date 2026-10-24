@@ -1,0 +1,23 @@
+{
+  "title": "Dungeon Crawler Carl",
+  "author": "Matt Dinniman",
+  "authorSlug": "matt-dinniman",
+  "genre": ["fantasy", "sci-fi", "przygodowa"],
+  "description": "Kolejność czytania książek z serii Dungeon Crawler Carl Matta Dinnimana. Wszystkie tomy kultowego LitRPG o apokalipsie w formie reality show w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Dungeon Crawler Carl", "yearOriginal": 2020, "type": "powieść" },
+    { "order": 2, "title": "Carl's Doomsday Scenario", "yearOriginal": 2021, "type": "powieść" },
+    { "order": 3, "title": "The Dungeon Anarchist's Cookbook", "yearOriginal": 2021, "type": "powieść" },
+    { "order": 4, "title": "The Gate of the Feral Gods", "yearOriginal": 2021, "type": "powieść" },
+    { "order": 5, "title": "The Butcher's Masquerade", "yearOriginal": 2022, "type": "powieść" },
+    { "order": 6, "title": "The Eye of the Bedlam Bride", "yearOriginal": 2023, "type": "powieść" },
+    { "order": 7, "title": "This Inevitable Ruin", "yearOriginal": 2024, "type": "powieść" },
+    { "order": 8, "title": "A Parade of Horribles", "yearOriginal": 2026, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Dungeon Crawler Carl?", "answer": "W kolejności wydania, od pierwszego tomu z 2020 roku. Akcja biegnie nieprzerwanie od książki do książki — każda kończy się cliffhangerem kontynuowanym w następnej." },
+    { "question": "Czy Dungeon Crawler Carl jest ukończony?", "answer": "Nie, seria jest wciąż kontynuowana. Ósmy tom, A Parade of Horribles, ukazał się w 2026 roku, a Matt Dinniman zapowiedział dalsze części." },
+    { "question": "Skąd pochodzi seria Dungeon Crawler Carl?", "answer": "Historia zaczęła się jako serializacja internetowa na platformie Royal Road, a potem została wydana w formie książkowej. Seria słynie też z nagradzanych audiobooków produkowanych przez Soundbooth Theater." }
+  ],
+  "relatedSeries": []
+}
