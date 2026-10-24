@@ -1,0 +1,23 @@
+{
+  "title": "Archiwum Burzy",
+  "titleOriginal": "The Stormlight Archive",
+  "author": "Brandon Sanderson",
+  "authorSlug": "brandon-sanderson",
+  "genre": ["epic-fantasy", "fantasy"],
+  "description": "Kolejność czytania Archiwum Burzy Brandona Sandersona. Wszystkie główne tomy epickiej sagi o Rosharanie oraz towarzyszące nowele Edgedancer i Dawnshard.",
+  "books": [
+    { "order": 1, "title": "Droga królów", "titleOriginal": "The Way of Kings", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 2, "title": "Słowa blasku", "titleOriginal": "Words of Radiance", "yearOriginal": 2014, "type": "powieść" },
+    { "order": 3, "title": "Przysięgobraniec", "titleOriginal": "Oathbringer", "yearOriginal": 2017, "type": "powieść" },
+    { "order": 4, "title": "Rytm wojny", "titleOriginal": "Rhythm of War", "yearOriginal": 2020, "type": "powieść" },
+    { "order": 5, "title": "Wiatr i prawda", "titleOriginal": "Wind and Truth", "yearOriginal": 2024, "type": "powieść" },
+    { "order": 6, "title": "Edgedancer", "yearOriginal": 2016, "type": "powiązane" },
+    { "order": 7, "title": "Dawnshard", "yearOriginal": 2020, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Archiwum Burzy?", "answer": "Główne tomy czytaj w kolejności wydania: Droga królów, Słowa blasku, Przysięgobraniec, Rytm wojny i Wiatr i prawda. Nowele Edgedancer i Dawnshard osadzone są między tomami, ale można je przeczytać po pierwszych pięciu książkach." },
+    { "question": "Kiedy czytać Edgedancer i Dawnshard?", "answer": "Edgedancer dzieje się między Słowami blasku a Przysięgobraniem, a Dawnshard między Przysięgobraniem a Rytmem wojny. Brandon Sanderson zaleca je po ukończeniu głównego cyklu — nie są wymagane do zrozumienia fabuły." },
+    { "question": "Czy Archiwum Burzy jest ukończone?", "answer": "Pierwsza pięciotomowa odsłona sagi została zamknięta tomem Wiatr i prawda (2024). Sanderson planuje drugi cykl w tym samym świecie, ale na razie główne pięć tomów tworzy zamkniętą całość." }
+  ],
+  "relatedSeries": []
+}

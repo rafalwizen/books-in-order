@@ -1,0 +1,20 @@
+{
+  "title": "Problem trzech ciał",
+  "titleOriginal": "Remembrance of Earth's Past",
+  "author": "Liu Cixin",
+  "authorSlug": "liu-cixin",
+  "genre": ["sci-fi"],
+  "description": "Kolejność czytania trylogii Problem trzech ciał Liu Cixina. Wszystkie tomy, od Problemu trzech ciał po Kres śmierci, oraz luźno powiązana powieść Ball Lightning.",
+  "books": [
+    { "order": 1, "title": "Problem trzech ciał", "titleOriginal": "The Three-Body Problem", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 2, "title": "Ciemny las", "titleOriginal": "The Dark Forest", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 3, "title": "Kres śmierci", "titleOriginal": "Death's End", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 4, "title": "Ball Lightning", "yearOriginal": 2004, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Problem trzech ciał?", "answer": "Trylogię czytaj w kolejności: Problem trzech ciał, Ciemny las i Kres śmierci. Każdy tom przesuwa akcję o kolejne dekady kontaktu z cywilizacją Trisolarian — kolejność jest kluczowa." },
+    { "question": "Dlaczego lata wydania są takie wczesne?", "answer": "Podajemy oryginalne chińskie premiery (2006, 2008, 2010). Na Zachód trylogia trafiła w tłumaczeniu Kena Liua dopiero w 2014 roku, a po polsku w 2017 roku." },
+    { "question": "Czy Ball Lightning trzeba czytać?", "answer": "To wcześniejsza, samodzielna powieść Liu Cixina osadzona w tym samym uniwersum — pojawia się w niej doktor Ding, ale historię trylogii znać nie trzeba. Traktujemy ją jako lekturę dodatkową." }
+  ],
+  "relatedSeries": []
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Kingsbridge",
+  "titleOriginal": "Kingsbridge series",
+  "author": "Ken Follett",
+  "authorSlug": "ken-follett",
+  "genre": ["historyczna"],
+  "description": "Kolejność czytania serii Kingsbridge Kena Folletta. Wszystkie powieści o fikcyjnym miasteczku Kingsbridge, od Filarów Ziemi po najnowszy tom.",
+  "books": [
+    { "order": 1, "title": "Filary Ziemi", "titleOriginal": "The Pillars of the Earth", "yearOriginal": 1989, "type": "powieść" },
+    { "order": 2, "title": "Świat bez końca", "titleOriginal": "World Without End", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 3, "title": "Słup ognia", "titleOriginal": "A Column of Fire", "yearOriginal": 2017, "type": "powieść" },
+    { "order": 4, "title": "Wieczór i poranek", "titleOriginal": "The Evening and the Morning", "yearOriginal": 2020, "type": "powieść" },
+    { "order": 5, "title": "The Armour of Light", "yearOriginal": 2023, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Kingsbridge?", "answer": "W kolejności wydania, od Filarów Ziemi (1989). Każdy tom to samodzielna historia w innym okresie dziejów miasteczka, połączona rodami i miejscem, więc kolejność wydania jest w pełni wystarczająca." },
+    { "question": "Czy Wieczór i poranek to prequel?", "answer": "Tak, akcja toczy się na przełomie tysiącleci, kilkaset lat przed Filarami Ziemi. Wydano go jednak czwartym tomem — czytanie w kolejności wydania nie psuje żadnych wątków." },
+    { "question": "Czy trzeba znać historię Anglii?", "answer": "Nie — Ken Follett sam wprowadza czytelnika w realia każdej epoki, od wojny domowej o tron w XII wieku po wojny religijne XVI wieku. Książki czerpią z historii, ale są w pełni samowystarczalne." }
+  ],
+  "relatedSeries": []
+}

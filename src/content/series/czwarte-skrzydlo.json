@@ -1,0 +1,20 @@
+{
+  "title": "Czwarte skrzydło",
+  "titleOriginal": "Empyrean",
+  "author": "Rebecca Yarros",
+  "authorSlug": "rebecca-yarros",
+  "genre": ["fantasy", "romans"],
+  "description": "Kolejność czytania bestsellerowej serii Czwarte skrzydło (Empyrean) Rebekki Yarros. Wszystkie tomy przygód Violet Sorrengail na Baszcie Wojowników w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Czwarte skrzydło", "titleOriginal": "Fourth Wing", "yearOriginal": 2023, "type": "powieść" },
+    { "order": 2, "title": "Żelazny płomień", "titleOriginal": "Iron Flame", "yearOriginal": 2023, "type": "powieść" },
+    { "order": 3, "title": "Onyx Storm", "yearOriginal": 2025, "type": "powieść" },
+    { "order": 4, "title": "Threshing Day", "yearOriginal": 2026, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Czwarte skrzydło?", "answer": "Dokładnie w kolejności wydania: Czwarte skrzydło (2023), Żelazny płomień (2023), Onyx Storm (2025) i kolejne tomy. Fabuła jest ściśle ciągła — każdy tom kończy się cliffhangerem prowadzącym do następnego." },
+    { "question": "Ile książek będzie miała seria Czwarte skrzydło?", "answer": "Rebecca Yarros zaplanowała pięciotomową sagę (Empyrean). Trzy pierwsze tomy są już wydane, a czwarty — Threshing Day — zapowiedziany na 2026 rok." },
+    { "question": "Czy Czwarte skrzydło to seria dla dorosłych?", "answer": "Tak, to tzw. new adult fantasy romance — seria kierowana do dorosłych czytelników, z wyraźną linią romantyczną między Violet a Xadenem Riorsonem." }
+  ],
+  "relatedSeries": []
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Cormoran Strike",
+  "author": "Robert Galbraith",
+  "authorSlug": "robert-galbraith",
+  "genre": ["kryminal", "thriller"],
+  "description": "Kolejność czytania serii o Cormoranie Strike'u Roberta Galbraitha. Wszystkie powieści o detektywie i Robin Ellacott, od Wołania kukułki po najnowsze śledztwo.",
+  "books": [
+    { "order": 1, "title": "Wołanie kukułki", "titleOriginal": "The Cuckoo's Calling", "yearOriginal": 2013, "type": "powieść" },
+    { "order": 2, "title": "Jedwabnik", "titleOriginal": "The Silkworm", "yearOriginal": 2014, "type": "powieść" },
+    { "order": 3, "title": "Career of Evil", "yearOriginal": 2015, "type": "powieść" },
+    { "order": 4, "title": "Lethal White", "yearOriginal": 2018, "type": "powieść" },
+    { "order": 5, "title": "Troubled Blood", "yearOriginal": 2020, "type": "powieść" },
+    { "order": 6, "title": "The Ink Black Heart", "yearOriginal": 2022, "type": "powieść" },
+    { "order": 7, "title": "The Running Grave", "yearOriginal": 2023, "type": "powieść" },
+    { "order": 8, "title": "The Hallmarked Man", "yearOriginal": 2025, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Cormorana Strike'a?", "answer": "Koniecznie w kolejności wydania, od Wołania kukułki (2013). Relacja Strike'a z Robin oraz wątki z ich przeszłości rozwijają się z tomu na tom — pominięcie kolejności psuje największe zwroty akcji." },
+    { "question": "Kto napisał naprawdę te książki?", "answer": "Robert Galbraith to pseudonim J.K. Rowling. Autorka ukrywała się pod nim przez dwa lata, aż do ujawnienia w 2014 roku — od tego czasu seria ukazuje się nadal jako dzieło Galbraitha." },
+    { "question": "Czy seria jest ukończona?", "answer": "Nie — po The Hallmarked Man (2025) zapowiedziano kolejne śledztwo (Sleep Tight, Evangeline). Rowling zapowiada, że seria liczyć ma więcej niż dziesięć tomów." }
+  ],
+  "relatedSeries": []
+}

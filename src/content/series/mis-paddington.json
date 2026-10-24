@@ -1,0 +1,29 @@
+{
+  "title": "Miś Paddington",
+  "titleOriginal": "Paddington",
+  "author": "Michael Bond",
+  "authorSlug": "michael-bond",
+  "genre": ["komedia", "przygodowa"],
+  "description": "Kolejność czytania książek o misiu Paddingtonie Michaela Bonda. Wszystkie powieści od 1958 do 2008 roku o niedźwiadku z Peru w dżinsowym kapeluszu i z marmoladą w kufrze.",
+  "books": [
+    { "order": 1, "title": "A Bear Called Paddington", "yearOriginal": 1958, "type": "powieść" },
+    { "order": 2, "title": "More About Paddington", "yearOriginal": 1959, "type": "powieść" },
+    { "order": 3, "title": "Paddington Helps Out", "yearOriginal": 1960, "type": "powieść" },
+    { "order": 4, "title": "Paddington Abroad", "yearOriginal": 1961, "type": "powieść" },
+    { "order": 5, "title": "Paddington at Large", "yearOriginal": 1962, "type": "powieść" },
+    { "order": 6, "title": "Paddington Marches On", "yearOriginal": 1964, "type": "powieść" },
+    { "order": 7, "title": "Paddington at Work", "yearOriginal": 1966, "type": "powieść" },
+    { "order": 8, "title": "Paddington Goes to Town", "yearOriginal": 1968, "type": "powieść" },
+    { "order": 9, "title": "Paddington Takes the Air", "yearOriginal": 1970, "type": "powieść" },
+    { "order": 10, "title": "Paddington's Garden", "yearOriginal": 1972, "type": "powieść" },
+    { "order": 11, "title": "Paddington on Top", "yearOriginal": 1974, "type": "powieść" },
+    { "order": 12, "title": "Paddington Takes the Test", "yearOriginal": 1979, "type": "powieść" },
+    { "order": 13, "title": "Paddington Here and Now", "yearOriginal": 2008, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać książki o Paddingtonie?", "answer": "Od A Bear Called Paddington (1958) w kolejności wydania. Przygody niedźwiadka układały się przez pół wieku, a każdy tom opisuje kolejny etap jego życia u rodziny Brownów." },
+    { "question": "Dlaczego Paddington Here and Now wyszedł tak późno?", "answer": "Michael Bond napisał go w 2008 roku, w 50. rocznicę pierwszej książki. To ostatnia pełna powieść o Paddingtonie — autor zmarł w 2017 roku." },
+    { "question": "Czy filmy o Paddingtonie pokrywają się z książkami?", "answer": "Tylko luźno — filmy z 2014 i 2017 roku czerpią z klimatu i motywów książek (marmolada, twarde spojrzenie), ale opowiadają własne historie. Książkowe przygody są przy tym łagodniejsze i epizodyczne." }
+  ],
+  "relatedSeries": []
+}

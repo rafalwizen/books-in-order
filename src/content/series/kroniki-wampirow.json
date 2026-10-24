@@ -1,0 +1,29 @@
+{
+  "title": "Kroniki wampirów",
+  "titleOriginal": "The Vampire Chronicles",
+  "author": "Anne Rice",
+  "authorSlug": "anne-rice",
+  "genre": ["dark-fantasy", "horror"],
+  "description": "Kolejność czytania Kronik wampirów Anne Rice. Wszystkie 13 powieści o wampirach Lestacie, Louisie i Armandzie, od Wywiadu z wampirem po Blood Communion.",
+  "books": [
+    { "order": 1, "title": "Wywiad z wampirem", "titleOriginal": "Interview with the Vampire", "yearOriginal": 1976, "type": "powieść" },
+    { "order": 2, "title": "Wampir Lestat", "titleOriginal": "The Vampire Lestat", "yearOriginal": 1985, "type": "powieść" },
+    { "order": 3, "title": "Królowa potępionych", "titleOriginal": "The Queen of the Damned", "yearOriginal": 1988, "type": "powieść" },
+    { "order": 4, "title": "Historia złodzieja ciał", "titleOriginal": "The Tale of the Body Thief", "yearOriginal": 1992, "type": "powieść" },
+    { "order": 5, "title": "Memnoch diabeł", "titleOriginal": "Memnoch the Devil", "yearOriginal": 1995, "type": "powieść" },
+    { "order": 6, "title": "Wampir Armand", "titleOriginal": "The Vampire Armand", "yearOriginal": 1998, "type": "powieść" },
+    { "order": 7, "title": "Merrick", "yearOriginal": 2000, "type": "powieść" },
+    { "order": 8, "title": "Krew i złoto", "titleOriginal": "Blood and Gold", "yearOriginal": 2001, "type": "powieść" },
+    { "order": 9, "title": "Folwark Blackwood", "titleOriginal": "Blackwood Farm", "yearOriginal": 2002, "type": "powieść" },
+    { "order": 10, "title": "Blood Canticle", "yearOriginal": 2003, "type": "powieść" },
+    { "order": 11, "title": "Książę Lestat", "titleOriginal": "Prince Lestat", "yearOriginal": 2014, "type": "powieść" },
+    { "order": 12, "title": "Prince Lestat and the Realms of Atlantis", "yearOriginal": 2016, "type": "powieść" },
+    { "order": 13, "title": "Blood Communion", "yearOriginal": 2018, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Kroniki wampirów?", "answer": "W kolejności wydania, od Wywiadu z wampirem (1976). Pierwsze trzy tomy tworzą klasyczny rdzeń sagi, a po przerwie Anne Rice wróciła do Lestata w trylogii Książę Lestat (2014-2018)." },
+    { "question": "Które tomy łączą się z czarownicami z Mayfair?", "answer": "Merrick, Folwark Blackwood i Blood Canticle to formalnie części Kronik wampirów, ale splatają się z trylogią Czarownice z Mayfair. Warto znać tamtą serię, choć nie jest konieczna." },
+    { "question": "Czy Pandora i Vittorio należą do serii?", "answer": "To powieści z cyklu New Tales of the Vampires — samodzielne historie w tym samym świecie. Główne Kroniki wampirów to 13 powieści z naszej listy." }
+  ],
+  "relatedSeries": []
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Tarzan",
+  "author": "Edgar Rice Burroughs",
+  "authorSlug": "edgar-rice-burroughs",
+  "genre": ["przygodowa", "klasyka"],
+  "description": "Kolejność czytania książek o Tarzanie Edgara Rice'a Burroughsa. Wszystkie powieści i zbiory opowiadań o lordzie dżungli, od Tarzana wśród małp po książki pośmiertne.",
+  "books": [
+    { "order": 1, "title": "Tarzan wśród małp", "titleOriginal": "Tarzan of the Apes", "yearOriginal": 1912, "type": "powieść" },
+    { "order": 2, "title": "Powrót Tarzana", "titleOriginal": "The Return of Tarzan", "yearOriginal": 1913, "type": "powieść" },
+    { "order": 3, "title": "The Beasts of Tarzan", "yearOriginal": 1914, "type": "powieść" },
+    { "order": 4, "title": "The Son of Tarzan", "yearOriginal": 1915, "type": "powieść" },
+    { "order": 5, "title": "Tarzan and the Jewels of Opar", "yearOriginal": 1916, "type": "powieść" },
+    { "order": 6, "title": "Jungle Tales of Tarzan", "yearOriginal": 1919, "type": "opowiadanie" },
+    { "order": 7, "title": "Tarzan the Untamed", "yearOriginal": 1920, "type": "powieść" },
+    { "order": 8, "title": "Tarzan the Terrible", "yearOriginal": 1921, "type": "powieść" },
+    { "order": 9, "title": "Tarzan and the Golden Lion", "yearOriginal": 1922, "type": "powieść" },
+    { "order": 10, "title": "Tarzan and the Ant Men", "yearOriginal": 1924, "type": "powieść" },
+    { "order": 11, "title": "Tarzan, Lord of the Jungle", "yearOriginal": 1927, "type": "powieść" },
+    { "order": 12, "title": "Tarzan and the Lost Empire", "yearOriginal": 1928, "type": "powieść" },
+    { "order": 13, "title": "Tarzan at the Earth's Core", "yearOriginal": 1929, "type": "powieść" },
+    { "order": 14, "title": "Tarzan the Invincible", "yearOriginal": 1930, "type": "powieść" },
+    { "order": 15, "title": "Tarzan Triumphant", "yearOriginal": 1931, "type": "powieść" },
+    { "order": 16, "title": "Tarzan and the City of Gold", "yearOriginal": 1932, "type": "powieść" },
+    { "order": 17, "title": "Tarzan and the Lion Man", "yearOriginal": 1933, "type": "powieść" },
+    { "order": 18, "title": "Tarzan and the Leopard Men", "yearOriginal": 1935, "type": "powieść" },
+    { "order": 19, "title": "Tarzan's Quest", "yearOriginal": 1935, "type": "powieść" },
+    { "order": 20, "title": "Tarzan and the Forbidden City", "yearOriginal": 1938, "type": "powieść" },
+    { "order": 21, "title": "Tarzan the Magnificent", "yearOriginal": 1939, "type": "powieść" },
+    { "order": 22, "title": "Tarzan and the Foreign Legion", "yearOriginal": 1947, "type": "powieść" },
+    { "order": 23, "title": "Tarzan and the Madman", "yearOriginal": 1964, "type": "powieść" },
+    { "order": 24, "title": "Tarzan and the Castaways", "yearOriginal": 1965, "type": "opowiadanie" },
+    { "order": 25, "title": "Tarzan: The Lost Adventure", "yearOriginal": 1995, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Tarzana?", "answer": "W kolejności wydania, od Tarzana wśród małp (1912). Pierwsze kilkanaście tomów układa się w jedną, spójną biografię bohatera — później powieści stają się bardziej samodzielne." },
+    { "question": "Dlaczego Tarzan at the Earth's Core wygląda inaczej?", "answer": "To crossover z cyklem Pellucidar — Tarzan trafia do pustej w środku Ziemi. Fabularnie należy do obu serii, ale czyta się go jak zwykły tom przygód Tarzana." },
+    { "question": "Co z Tarzan: The Lost Adventure?", "answer": "To ostatni, niedokończony rękopis Burroughsa, uzupełniony i wydany w 1995 roku przez Joe R. Lansdale'a. Traktujemy go jako dodatek — do głównej serii wystarczą 24 książki autora." }
+  ],
+  "relatedSeries": []
+}

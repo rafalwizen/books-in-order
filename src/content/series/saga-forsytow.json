@@ -1,0 +1,25 @@
+{
+  "title": "Saga Forsytów",
+  "titleOriginal": "The Forsyte Saga",
+  "author": "John Galsworthy",
+  "authorSlug": "john-galsworthy",
+  "genre": ["klasyka"],
+  "description": "Kolejność czytania sagi Forsytów Johna Galsworthy'ego. Wszystkie 9 powieści o trzech pokoleniach rodziny Forsytów, od Majątku po Over the River, w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Majątek", "titleOriginal": "The Man of Property", "yearOriginal": 1906, "type": "powieść" },
+    { "order": 2, "title": "W szachu", "titleOriginal": "In Chancery", "yearOriginal": 1920, "type": "powieść" },
+    { "order": 3, "title": "Do wynajęcia", "titleOriginal": "To Let", "yearOriginal": 1921, "type": "powieść" },
+    { "order": 4, "title": "Biała małpa", "titleOriginal": "The White Monkey", "yearOriginal": 1924, "type": "powieść" },
+    { "order": 5, "title": "Srebrna łyżka", "titleOriginal": "The Silver Spoon", "yearOriginal": 1926, "type": "powieść" },
+    { "order": 6, "title": "Łabędzi śpiew", "titleOriginal": "Swan Song", "yearOriginal": 1928, "type": "powieść" },
+    { "order": 7, "title": "Maid in Waiting", "yearOriginal": 1931, "type": "powieść" },
+    { "order": 8, "title": "Flowering Wilderness", "yearOriginal": 1932, "type": "powieść" },
+    { "order": 9, "title": "Over the River", "yearOriginal": 1933, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać sagę Forsytów?", "answer": "W kolejności wydania, od Majątku (1906). Galsworthy budował historię rodziny naprzemiennie — najpierw trylogia o Soamesie, potem Nowa komedia o Fleur, na końcu Końiec rozdziału o Dinny Cherrell." },
+    { "question": "Z czego składa się cała saga?", "answer": "Z trzech trylogii: Saga Forsytów (1906-1921), Nowa komedia Forsytów (1924-1928) i Końiec rozdziału (1931-1933). Razem dziewięć powieści, spisanych w porządku wydania na naszej liście." },
+    { "question": "Czy można czytać tylko pierwszą trylogię?", "answer": "Tak — trylogia z Majątkiem, W szachu i Do wynajęcia tworzy zamkniętą całość i to ona stała się podstawą słynnego serialu BBC z 1967 roku. Dalsze sześć powieści kontynuuje losy dzieci bohaterów." }
+  ],
+  "relatedSeries": []
+}

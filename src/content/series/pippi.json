@@ -1,0 +1,19 @@
+{
+  "title": "Pippi Pończoszanka",
+  "titleOriginal": "Pippi Longstocking",
+  "author": "Astrid Lindgren",
+  "authorSlug": "astrid-lindgren",
+  "genre": ["komedia", "przygodowa"],
+  "description": "Kolejność czytania książek o Pippi Pończoszance Astrid Lindgren. Wszystkie trzy tomy o najsilniejszej dziewczynce świata, od Villi Villekulla po Południowe Morze.",
+  "books": [
+    { "order": 1, "title": "Pippi Pończoszanka", "titleOriginal": "Pippi Långstrump", "yearOriginal": 1945, "type": "powieść" },
+    { "order": 2, "title": "Pippi wchodzi na pokład", "titleOriginal": "Pippi går ombord", "yearOriginal": 1946, "type": "powieść" },
+    { "order": 3, "title": "Pippi na Południowym Morzu", "titleOriginal": "Pippi i Söderhavet", "yearOriginal": 1948, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Pippi Pończoszankę?", "answer": "Od pierwszego tomu z 1945 roku, w którym Pippi wprowadza się do Villi Villekulla, przez Pippi wchodzi na pokład po Pippi na Południowym Morzu. Kolejność wydania jest tu naturalną kolejnością przygód." },
+    { "question": "Ile książek o Pippi napisała Astrid Lindgren?", "answer": "Trzy pełne tomy przygód oraz kilkanaście krótszych opowiadań i książeczek obrazkowych. Klasyczny kanon to właśnie trylogia z lat 1945-1948." },
+    { "question": "Czy Pippi ma kontynuacje lub adaptacje?", "answer": "Tak — historie Pippi doczekały się filmów, seriali animowanych i sztuk teatralnych. Literacką podstawą jest jednak zawsze trylogia książkowa z lat 40." }
+  ],
+  "relatedSeries": []
+}

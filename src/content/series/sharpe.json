@@ -1,0 +1,42 @@
+{
+  "title": "Sharpe",
+  "author": "Bernard Cornwell",
+  "authorSlug": "bernard-cornwell",
+  "genre": ["historyczna", "przygodowa"],
+  "description": "Kolejność czytania serii Sharpe Bernarda Cornwella. Wszystkie powieści i opowiadania o Richardzie Sharpe z czasów wojen napoleońskich w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Sharpe's Eagle", "yearOriginal": 1981, "type": "powieść" },
+    { "order": 2, "title": "Sharpe's Gold", "yearOriginal": 1981, "type": "powieść" },
+    { "order": 3, "title": "Sharpe's Company", "yearOriginal": 1982, "type": "powieść" },
+    { "order": 4, "title": "Sharpe's Sword", "yearOriginal": 1983, "type": "powieść" },
+    { "order": 5, "title": "Sharpe's Enemy", "yearOriginal": 1984, "type": "powieść" },
+    { "order": 6, "title": "Sharpe's Honour", "yearOriginal": 1985, "type": "powieść" },
+    { "order": 7, "title": "Sharpe's Regiment", "yearOriginal": 1986, "type": "powieść" },
+    { "order": 8, "title": "Sharpe's Siege", "yearOriginal": 1987, "type": "powieść" },
+    { "order": 9, "title": "Sharpe's Rifles", "yearOriginal": 1988, "type": "powieść" },
+    { "order": 10, "title": "Sharpe's Revenge", "yearOriginal": 1989, "type": "powieść" },
+    { "order": 11, "title": "Sharpe's Waterloo", "yearOriginal": 1990, "type": "powieść" },
+    { "order": 12, "title": "Sharpe's Devil", "yearOriginal": 1992, "type": "powieść" },
+    { "order": 13, "title": "Sharpe's Christmas", "yearOriginal": 1994, "type": "opowiadanie" },
+    { "order": 14, "title": "Sharpe's Ransom", "yearOriginal": 1994, "type": "opowiadanie" },
+    { "order": 15, "title": "Sharpe's Battle", "yearOriginal": 1995, "type": "powieść" },
+    { "order": 16, "title": "Sharpe's Tiger", "yearOriginal": 1997, "type": "powieść" },
+    { "order": 17, "title": "Sharpe's Triumph", "yearOriginal": 1998, "type": "powieść" },
+    { "order": 18, "title": "Sharpe's Skirmish", "yearOriginal": 1999, "type": "opowiadanie" },
+    { "order": 19, "title": "Sharpe's Fortress", "yearOriginal": 1999, "type": "powieść" },
+    { "order": 20, "title": "Sharpe's Trafalgar", "yearOriginal": 2000, "type": "powieść" },
+    { "order": 21, "title": "Sharpe's Prey", "yearOriginal": 2001, "type": "powieść" },
+    { "order": 22, "title": "Sharpe's Havoc", "yearOriginal": 2003, "type": "powieść" },
+    { "order": 23, "title": "Sharpe's Escape", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 24, "title": "Sharpe's Fury", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 25, "title": "Sharpe's Assassin", "yearOriginal": 2021, "type": "powieść" },
+    { "order": 26, "title": "Sharpe's Command", "yearOriginal": 2023, "type": "powieść" },
+    { "order": 27, "title": "Sharpe's Storm", "yearOriginal": 2025, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Sharpe'a?", "answer": "Prezentujemy kolejność wydania, od Sharpe's Eagle (1981). Cornwell początkowo pisał w porządku publikacji, a potem cofał się po stracone lata kariery bohatera — dlatego lata akcji nie idą w parze z latami wydania." },
+    { "question": "Kolejność wydania czy chronologiczna?", "answer": "To najsłynniejszy dylemat serii. Bernard Cornwell radzi czytać chronologicznie — od Sharpe's Tiger (1799, Indie) po Sharpe's Devil (1820-21). Kolejność wydania jest jednak równie poprawna i to właśnie w niej seria zdobyła pierwszych czytelników." },
+    { "question": "Dlaczego między 2007 a 2021 rokiem jest przerwa?", "answer": "Po Sharpe's Fury Cornwell zajmował się innymi cyklami i wrócił do Sharpe dopiero po latach — najpierw powieściami uzupełniającymi środek kariery bohatera (Sharpe's Assassin, Command i Storm). Nadal wypełniają luki w chronologii, a nie wydłużają życie bohatera." }
+  ],
+  "relatedSeries": []
+}

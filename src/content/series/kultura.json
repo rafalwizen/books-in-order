@@ -1,0 +1,26 @@
+{
+  "title": "Kultura",
+  "titleOriginal": "The Culture",
+  "author": "Iain M. Banks",
+  "authorSlug": "iain-m-banks",
+  "genre": ["sci-fi"],
+  "description": "Kolejność czytania serii Kultura Iaina M. Banksa. Wszystkie powieści i zbiory opowiadań o postkapitalistycznej cywilizacji Kultury i jej Umysłach, w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Consider Phlebas", "yearOriginal": 1987, "type": "powieść" },
+    { "order": 2, "title": "The Player of Games", "yearOriginal": 1988, "type": "powieść" },
+    { "order": 3, "title": "The State of the Art", "yearOriginal": 1989, "type": "opowiadanie" },
+    { "order": 4, "title": "Use of Weapons", "yearOriginal": 1990, "type": "powieść" },
+    { "order": 5, "title": "Excession", "yearOriginal": 1996, "type": "powieść" },
+    { "order": 6, "title": "Inversions", "yearOriginal": 1998, "type": "powieść" },
+    { "order": 7, "title": "Look to Windward", "yearOriginal": 2000, "type": "powieść" },
+    { "order": 8, "title": "Matter", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 9, "title": "Surface Detail", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 10, "title": "The Hydrogen Sonata", "yearOriginal": 2012, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Kulturę?", "answer": "W kolejności wydania, od Consider Phlebas (1987). Każdy tom to odrębna historia w tym samym uniwersum — kolejność nie jest obowiązkowa, ale wydawnicza pozwala śledzić, jak Banks stopniowo rozszerza obraz cywilizacji." },
+    { "question": "Od którego tomu zacząć?", "answer": "Najczęściej polecany jest The Player of Games — przystępny i świetnie pokazuje mechanikę Kultury. Consider Phlebas jest bardziej szorstki, ale jako pierwszy wydany tom najpełniej wprowadza w świat." },
+    { "question": "Czy seria jest ukończona?", "answer": "Iain M. Banks zmarł w 2013 roku, niedługo po The Hydrogen Sonata. Cykl zamyka dziesięć książek i nie będzie kontynuowany — Banks zapowiadał co najmniej jeszcze jedną powieść o Kulturze, której nie zdążył napisać." }
+  ],
+  "relatedSeries": []
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Sherlock Holmes",
+  "author": "Arthur Conan Doyle",
+  "authorSlug": "arthur-conan-doyle",
+  "genre": ["kryminal", "klasyka"],
+  "description": "Kolejność czytania kanonu Sherlocka Holmesa Arthura Conana Doyle'a. Wszystkie 4 powieści i 5 zbiorów opowiadań, od Studium w szkarłacie po Archiwum Sherlocka Holmesa.",
+  "books": [
+    { "order": 1, "title": "Studium w szkarłacie", "titleOriginal": "A Study in Scarlet", "yearOriginal": 1887, "type": "powieść" },
+    { "order": 2, "title": "Znak czterech", "titleOriginal": "The Sign of the Four", "yearOriginal": 1890, "type": "powieść" },
+    { "order": 3, "title": "Przygody Sherlocka Holmesa", "titleOriginal": "The Adventures of Sherlock Holmes", "yearOriginal": 1892, "type": "opowiadanie" },
+    { "order": 4, "title": "Wspomnienia Sherlocka Holmesa", "titleOriginal": "The Memoirs of Sherlock Holmes", "yearOriginal": 1894, "type": "opowiadanie" },
+    { "order": 5, "title": "Pies Baskerville'ów", "titleOriginal": "The Hound of the Baskervilles", "yearOriginal": 1902, "type": "powieść" },
+    { "order": 6, "title": "Powrót Sherlocka Holmesa", "titleOriginal": "The Return of Sherlock Holmes", "yearOriginal": 1905, "type": "opowiadanie" },
+    { "order": 7, "title": "Dolina strachu", "titleOriginal": "The Valley of Fear", "yearOriginal": 1915, "type": "powieść" },
+    { "order": 8, "title": "Jego ostatni ukłon", "titleOriginal": "His Last Bow", "yearOriginal": 1917, "type": "opowiadanie" },
+    { "order": 9, "title": "Archiwum Sherlocka Holmesa", "titleOriginal": "The Case-Book of Sherlock Holmes", "yearOriginal": 1927, "type": "opowiadanie" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Sherlocka Holmesa?", "answer": "W kolejności wydania, od Studium w szkarłacie (1887). W Wspomnieniach Sherlocka Holmesa pojawia się słynny Ostatni problem z wodospadem Reichenbach, a Powrót Sherlocka Holmesa przywraca detektywa — dlatego kolejność wydania jest ważna." },
+    { "question": "Ile opowiadań napisał Conan Doyle?", "answer": "Kanon to 4 powieści i 56 opowiadań. Na naszej liście opowiadania ujęliśmy w pięć zbiorów książkowych, tak jak ukazywały się w druku." },
+    { "question": "Od czego zacząć, jeśli nie chcę czytać wszystkiego?", "answer": "Od zbioru Przygody Sherlocka Holmesa — to esencja kanonu. Następnie Pies Baskerville'ów jako najsłynniejsza powieść, a potem resztę w kolejności wydania." }
+  ],
+  "relatedSeries": []
+}

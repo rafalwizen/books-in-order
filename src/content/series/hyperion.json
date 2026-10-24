@@ -1,0 +1,21 @@
+{
+  "title": "Hyperion",
+  "titleOriginal": "Hyperion Cantos",
+  "author": "Dan Simmons",
+  "authorSlug": "dan-simmons",
+  "genre": ["sci-fi"],
+  "description": "Kolejność czytania Hyperiona Dana Simmonsa. Cztery powieści kantosów, od Hyperion po The Rise of Endymion, w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Hyperion", "yearOriginal": 1989, "type": "powieść" },
+    { "order": 2, "title": "Upadek Hyperiona", "titleOriginal": "The Fall of Hyperion", "yearOriginal": 1990, "type": "powieść" },
+    { "order": 3, "title": "Endymion", "yearOriginal": 1996, "type": "powieść" },
+    { "order": 4, "title": "The Rise of Endymion", "yearOriginal": 1997, "type": "powieść" },
+    { "order": 5, "title": "Orphans of the Helix", "yearOriginal": 1999, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Hyperiona?", "answer": "W kolejności wydania: Hyperion i Upadek Hyperiona tworzą pierwszy dyptyk, a Endymion i The Rise of Endymion drugi, rozgrywający się prawie 300 lat później. Kolejność jest konieczna — drugi dyptyk polega na znajomości finału pierwszego." },
+    { "question": "Czy Hyperion ma otwarte zakończenie?", "answer": "Tak — pierwszy tom kończy się w najlepszym momencie: siedmiu pielgrzymów dopiero dociera do grobowców czasu i nic nie zostaje rozstrzygnięte. Pełne domknięcie przynosi dopiero Upadek Hyperiona." },
+    { "question": "Co to jest Orphans of the Helix?", "answer": "Krótka nowela osadzona w świecie kantosów, opublikowana w antologii Far Horizons. To smaczek dla fanów — nie jest wymagana do zrozumienia czterech powieści." }
+  ],
+  "relatedSeries": []
+}

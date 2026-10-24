@@ -1,0 +1,37 @@
+{
+  "title": "Aubrey i Maturin",
+  "titleOriginal": "Aubrey–Maturin series",
+  "author": "Patrick O'Brian",
+  "authorSlug": "patrick-obrian",
+  "genre": ["przygodowa", "historyczna"],
+  "description": "Kolejność czytania cyklu o Jacku Aubreyu i Stephenie Maturinie Patricka O'Briana. Wszystkie 20 ukończonych powieści morskich z czasów wojen napoleońskich w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Kapitan i dowódca", "titleOriginal": "Master and Commander", "yearOriginal": 1969, "type": "powieść" },
+    { "order": 2, "title": "Post Captain", "yearOriginal": 1972, "type": "powieść" },
+    { "order": 3, "title": "HMS Surprise", "yearOriginal": 1973, "type": "powieść" },
+    { "order": 4, "title": "The Mauritius Command", "yearOriginal": 1977, "type": "powieść" },
+    { "order": 5, "title": "Desolation Island", "yearOriginal": 1978, "type": "powieść" },
+    { "order": 6, "title": "The Fortune of War", "yearOriginal": 1979, "type": "powieść" },
+    { "order": 7, "title": "The Surgeon's Mate", "yearOriginal": 1980, "type": "powieść" },
+    { "order": 8, "title": "The Ionian Mission", "yearOriginal": 1981, "type": "powieść" },
+    { "order": 9, "title": "Treason's Harbour", "yearOriginal": 1983, "type": "powieść" },
+    { "order": 10, "title": "The Far Side of the World", "yearOriginal": 1984, "type": "powieść" },
+    { "order": 11, "title": "The Reverse of the Medal", "yearOriginal": 1986, "type": "powieść" },
+    { "order": 12, "title": "The Letter of Marque", "yearOriginal": 1988, "type": "powieść" },
+    { "order": 13, "title": "The Thirteen-Gun Salute", "yearOriginal": 1989, "type": "powieść" },
+    { "order": 14, "title": "The Nutmeg of Consolation", "yearOriginal": 1991, "type": "powieść" },
+    { "order": 15, "title": "Clarissa Oakes", "yearOriginal": 1992, "type": "powieść" },
+    { "order": 16, "title": "The Wine-Dark Sea", "yearOriginal": 1993, "type": "powieść" },
+    { "order": 17, "title": "The Commodore", "yearOriginal": 1995, "type": "powieść" },
+    { "order": 18, "title": "The Yellow Admiral", "yearOriginal": 1996, "type": "powieść" },
+    { "order": 19, "title": "The Hundred Days", "yearOriginal": 1998, "type": "powieść" },
+    { "order": 20, "title": "Blue at the Mizzen", "yearOriginal": 1999, "type": "powieść" },
+    { "order": 21, "title": "The Final Unfinished Voyage of Jack Aubrey", "yearOriginal": 2004, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Aubreya i Maturina?", "answer": "Wyłącznie w kolejności wydania, od Kapitana i dowódcy (1969). Cykl tworzy jedną ciągłą historię — kapitan Jack Aubrey i doktor Stephen Maturin przechodzą przez dwadzieścia tomów bez większej przerwy, a wątki osobiste ciągną się latami." },
+    { "question": "Co to za tom The Final Unfinished Voyage?", "answer": "Po śmierci O'Briana w 2000 roku został rękopis niedokończonego 21. tomu, wydany pośmiertnie w 2004 roku. To fragment — traktujemy go jako dodatek dla wiernych czytelników." },
+    { "question": "Czy cykl jest porównywalny z Hornblowerem?", "answer": "Tak — O'Brian świadomie mierzył się z cyklem C.S. Forestera o Hornblowerze, ale poszedł głębiej w relacje bohaterów i realizm epoki. Fani marynistyki zwykle znają i cenią oba cykle." }
+  ],
+  "relatedSeries": []
+}

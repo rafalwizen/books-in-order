@@ -1,0 +1,22 @@
+{
+  "title": "Autostopem przez Galaktykę",
+  "titleOriginal": "The Hitchhiker's Guide to the Galaxy",
+  "author": "Douglas Adams",
+  "authorSlug": "douglas-adams",
+  "genre": ["sci-fi", "komedia"],
+  "description": "Kolejność czytania słynnej serii Douglasa Adamsa. Wszystkie 5 powieści o Arthurze Dencie, od Autostopem przez Galaktykę po Głównie nieszkodliwie, w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Autostopem przez Galaktykę", "titleOriginal": "The Hitchhiker's Guide to the Galaxy", "yearOriginal": 1979, "type": "powieść" },
+    { "order": 2, "title": "Restauracja na końcu wszechświata", "titleOriginal": "The Restaurant at the End of the Universe", "yearOriginal": 1980, "type": "powieść" },
+    { "order": 3, "title": "Życie, wszechświat i cała reszta", "titleOriginal": "Life, the Universe and Everything", "yearOriginal": 1982, "type": "powieść" },
+    { "order": 4, "title": "Do widzenia i dziękuję za ryby", "titleOriginal": "So Long, and Thanks for All the Fish", "yearOriginal": 1984, "type": "powieść" },
+    { "order": 5, "title": "Głównie nieszkodliwie", "titleOriginal": "Mostly Harmless", "yearOriginal": 1992, "type": "powieść" },
+    { "order": 6, "title": "And Another Thing...", "yearOriginal": 2009, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Autostopem przez Galaktykę?", "answer": "W kolejności wydania — od Autostopem przez Galaktykę (1979) po Głównie nieszkodliwie (1992). Tomy budują na sobie żarty i wątki, więc kolejność jest ważna." },
+    { "question": "Dlaczego trylogia ma pięć części?", "answer": "Douglas Adams żartobliwie nazywał ją trylogią w pięciu częściach — po sukcesie pierwszych książek dopisywał kolejne. Po jego śmierci Eoin Colfer dodał oficjalny szósty tom, And Another Thing... (2009)." },
+    { "question": "Czy And Another Thing... trzeba czytać?", "answer": "To opcjonalna kontynuacja napisana przez Eoina Colfera za zgodą rodziny Adamsa. Pierwsze pięć książek tworzy zamkniętą całość autorstwa samego Adamsa." }
+  ],
+  "relatedSeries": []
+}

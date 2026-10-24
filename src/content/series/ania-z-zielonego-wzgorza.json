@@ -1,0 +1,27 @@
+{
+  "title": "Ania z Zielonego Wzgórza",
+  "titleOriginal": "Anne of Green Gables",
+  "author": "Lucy Maud Montgomery",
+  "authorSlug": "lucy-maud-montgomery",
+  "genre": ["klasyka"],
+  "description": "Kolejność czytania cyklu o Ani z Zielonego Wzgórza Lucy Maud Montgomery. Wszystkie powieści i zbiory opowiadań z Avonlea w porządku wydania, od 1908 do 1939 roku.",
+  "books": [
+    { "order": 1, "title": "Ania z Zielonego Wzgórza", "titleOriginal": "Anne of Green Gables", "yearOriginal": 1908, "type": "powieść" },
+    { "order": 2, "title": "Ania z Avonlea", "titleOriginal": "Anne of Avonlea", "yearOriginal": 1909, "type": "powieść" },
+    { "order": 3, "title": "Kroniki Avonlea", "titleOriginal": "Chronicles of Avonlea", "yearOriginal": 1912, "type": "opowiadanie" },
+    { "order": 4, "title": "Ania z wyspy", "titleOriginal": "Anne of the Island", "yearOriginal": 1915, "type": "powieść" },
+    { "order": 5, "title": "Anne's House of Dreams", "yearOriginal": 1917, "type": "powieść" },
+    { "order": 6, "title": "Tęczowa Dolina", "titleOriginal": "Rainbow Valley", "yearOriginal": 1919, "type": "powieść" },
+    { "order": 7, "title": "Further Chronicles of Avonlea", "yearOriginal": 1920, "type": "opowiadanie" },
+    { "order": 8, "title": "Rilla z Ingleside", "titleOriginal": "Rilla of Ingleside", "yearOriginal": 1921, "type": "powieść" },
+    { "order": 9, "title": "Ania ze Świerkowego Zagonu", "titleOriginal": "Anne of Windy Poplars", "yearOriginal": 1936, "type": "powieść" },
+    { "order": 10, "title": "Ania z Ingleside", "titleOriginal": "Anne of Ingleside", "yearOriginal": 1939, "type": "powieść" },
+    { "order": 11, "title": "The Blythes Are Quoted", "yearOriginal": 2009, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Anię z Zielonego Wzgórza?", "answer": "W porządku wydania, od Ani z Zielonego Wzgórza (1908) po Anię z Ingleside (1939). Tak czytały pokolenia czytelników i taka kolejność odkrywa historię Ani etapami." },
+    { "question": "Dlaczego Ania ze Świerkowego Zagonu jest dopiero dziewiąta?", "answer": "Bo tak ukazała się drukiem — w 1936 roku, choć fabularnie dzieje się między Anią z wyspy a Anne's House of Dreams. W kolejności chronologicznej byłaby czwarta, ale my stosujemy kolejność wydania." },
+    { "question": "Czy Kroniki Avonlea trzeba czytać?", "answer": "To zbiory opowiadań osadzonych w Avonlea, w których Ania pojawia się epizodycznie. Można je czytać niezależnie od powieści — na liście umieszczamy je w miejscach wydania." }
+  ],
+  "relatedSeries": []
+}

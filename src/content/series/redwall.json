@@ -1,0 +1,37 @@
+{
+  "title": "Redwall",
+  "author": "Brian Jacques",
+  "authorSlug": "brian-jacques",
+  "genre": ["fantasy", "przygodowa"],
+  "description": "Kolejność czytania serii Redwall Briana Jacquesa. Wszystkie 22 powieści o zwierzęcych mieszkańcach opactwa Redwall, w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Redwall", "yearOriginal": 1986, "type": "powieść" },
+    { "order": 2, "title": "Mossflower", "yearOriginal": 1988, "type": "powieść" },
+    { "order": 3, "title": "Mattimeo", "yearOriginal": 1989, "type": "powieść" },
+    { "order": 4, "title": "Mariel of Redwall", "yearOriginal": 1991, "type": "powieść" },
+    { "order": 5, "title": "Salamandastron", "yearOriginal": 1992, "type": "powieść" },
+    { "order": 6, "title": "Martin the Warrior", "yearOriginal": 1993, "type": "powieść" },
+    { "order": 7, "title": "The Bellmaker", "yearOriginal": 1994, "type": "powieść" },
+    { "order": 8, "title": "Outcast of Redwall", "yearOriginal": 1995, "type": "powieść" },
+    { "order": 9, "title": "The Pearls of Lutra", "yearOriginal": 1996, "type": "powieść" },
+    { "order": 10, "title": "The Long Patrol", "yearOriginal": 1997, "type": "powieść" },
+    { "order": 11, "title": "Marlfox", "yearOriginal": 1999, "type": "powieść" },
+    { "order": 12, "title": "The Legend of Luke", "yearOriginal": 1999, "type": "powieść" },
+    { "order": 13, "title": "Lord Brocktree", "yearOriginal": 2000, "type": "powieść" },
+    { "order": 14, "title": "Taggerung", "yearOriginal": 2001, "type": "powieść" },
+    { "order": 15, "title": "Triss", "yearOriginal": 2002, "type": "powieść" },
+    { "order": 16, "title": "Loamhedge", "yearOriginal": 2003, "type": "powieść" },
+    { "order": 17, "title": "Rakkety Tam", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 18, "title": "High Rhulain", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 19, "title": "Eulalia!", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 20, "title": "Doomwyte", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 21, "title": "The Sable Quean", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 22, "title": "The Rogue Crew", "yearOriginal": 2011, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Redwall?", "answer": "W kolejności wydania, od Redwall (1986). Każda powieść to odrębna przygoda — postacie rzadko się powtarzają, łączy je świat opactwa i legendy bohaterów sprzed pokoleń." },
+    { "question": "Czy kolejność chronologiczna jest lepsza?", "answer": "Niektóre tomy to prequele — np. Martin the Warrior opowiada o bohaterze, którego legendę poznasz w Mossflowerze. Kolejność wydania zachowuje jednak napięcie odkrywania historii świata i jest zalecana przez wydawcę." },
+    { "question": "Czy seria jest ukończona?", "answer": "Tak — Brian Jacques zmarł w 2011 roku, a The Rogue Crew wydano pośmiertnie i zamyka 22-powieściową sagę." }
+  ],
+  "relatedSeries": []
+}

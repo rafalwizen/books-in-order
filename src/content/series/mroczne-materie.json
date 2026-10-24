@@ -1,0 +1,22 @@
+{
+  "title": "Mroczne materie",
+  "titleOriginal": "His Dark Materials",
+  "author": "Philip Pullman",
+  "authorSlug": "philip-pullman",
+  "genre": ["fantasy", "young-adult"],
+  "description": "Kolejność czytania trylogii Mroczne materie Philipa Pullmana. Wszystkie trzy tomy o Lyrze Belacqua i Willu Parrym oraz towarzyszące im nowele.",
+  "books": [
+    { "order": 1, "title": "Zorza polarna", "titleOriginal": "Northern Lights", "yearOriginal": 1995, "type": "powieść" },
+    { "order": 2, "title": "Magiczny nóż", "titleOriginal": "The Subtle Knife", "yearOriginal": 1997, "type": "powieść" },
+    { "order": 3, "title": "Bursztynowa luneta", "titleOriginal": "The Amber Spyglass", "yearOriginal": 2000, "type": "powieść" },
+    { "order": 4, "title": "Lyra's Oxford", "yearOriginal": 2003, "type": "powiązane" },
+    { "order": 5, "title": "Once Upon a Time in the North", "yearOriginal": 2008, "type": "powiązane" },
+    { "order": 6, "title": "Serpentine", "yearOriginal": 2020, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Mroczne materie?", "answer": "Trylogię czytaj w kolejności wydania: Zorza polarna, Magiczny nóż i Bursztynowa luneta. Fabuła jest jedną ciągłą historią o Lyrze i Willu — kolejność jest konieczna." },
+    { "question": "Co czytać po zakończeniu trylogii?", "answer": "Krótkie nowele Lyra's Oxford, Once Upon a Time in the North i Serpentine wracają do bohaterów po finale. Pełną prequelową trylogię Księga pyłu wydano jako osobny cykl." },
+    { "question": "Dlaczego pierwszy tom ma dwa tytuły?", "answer": "W Wielkiej Brytanii ukazał się jako Northern Lights, a w USA jako The Golden Compass. Polska edycja tłumaczy tytuł oryginalny — Zorza polarna." }
+  ],
+  "relatedSeries": []
+}

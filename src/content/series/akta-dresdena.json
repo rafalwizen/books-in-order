@@ -1,0 +1,34 @@
+{
+  "title": "Akta Dresdena",
+  "titleOriginal": "The Dresden Files",
+  "author": "Jim Butcher",
+  "authorSlug": "jim-butcher",
+  "genre": ["urban-fantasy", "fantasy"],
+  "description": "Kolejność czytania Akt Dresdena Jima Butchera. Wszystkie powieści o Harrym Dresdenie, jedynym czarodzieju-detektywie z Chicago, w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Storm Front", "yearOriginal": 2000, "type": "powieść" },
+    { "order": 2, "title": "Fool Moon", "yearOriginal": 2001, "type": "powieść" },
+    { "order": 3, "title": "Grave Peril", "yearOriginal": 2001, "type": "powieść" },
+    { "order": 4, "title": "Summer Knight", "yearOriginal": 2002, "type": "powieść" },
+    { "order": 5, "title": "Death Masks", "yearOriginal": 2003, "type": "powieść" },
+    { "order": 6, "title": "Blood Rites", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 7, "title": "Dead Beat", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 8, "title": "Proven Guilty", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 9, "title": "White Night", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 10, "title": "Small Favor", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 11, "title": "Turn Coat", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 12, "title": "Changes", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 13, "title": "Ghost Story", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 14, "title": "Cold Days", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 15, "title": "Skin Game", "yearOriginal": 2014, "type": "powieść" },
+    { "order": 16, "title": "Peace Talks", "yearOriginal": 2020, "type": "powieść" },
+    { "order": 17, "title": "Battle Ground", "yearOriginal": 2020, "type": "powieść" },
+    { "order": 18, "title": "Twelve Months", "yearOriginal": 2026, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Akta Dresdena?", "answer": "Bezwzględnie w kolejności wydania, od Storm Front (2000). Seria ma bardzo mocną ciągłość fabularną — wydarzenia z Changes (tom 12) diametralnie zmieniają sytuację bohatera, a Peace Talks i Battle Ground tworzą jedną, rozdzieloną na dwa tomy historię." },
+    { "question": "Czy Peace Talks i Battle Ground to jedna książka?", "answer": "Tak, objętościowo wyszły jako dwa tomy, ale powstały jako jedna powieść podzielona przez wydawcę. Czytaj je bezpośrednio po sobie." },
+    { "question": "Ile tomów będzie miały Akta Dresdena?", "answer": "Jim Butcher planuje łącznie 23-24 tomy oraz finałową trylogię zamykającą sagę (tzw. big apocalyptic trilogy). Ukazało się 18 powieści — najnowsza, Twelve Months, w styczniu 2026 roku." }
+  ],
+  "relatedSeries": []
+}

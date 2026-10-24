@@ -1,0 +1,24 @@
+{
+  "title": "Dzienniki Murderbota",
+  "titleOriginal": "The Murderbot Diaries",
+  "author": "Martha Wells",
+  "authorSlug": "martha-wells",
+  "genre": ["sci-fi"],
+  "description": "Kolejność czytania Dzienników Murderbota Marthy Wells. Wszystkie nowele i powieści o wyalienowanej jednostce SecUnit, która woli oglądać seriale niż chronić ludzi.",
+  "books": [
+    { "order": 1, "title": "All Systems Red", "yearOriginal": 2017, "type": "opowiadanie" },
+    { "order": 2, "title": "Artificial Condition", "yearOriginal": 2018, "type": "opowiadanie" },
+    { "order": 3, "title": "Rogue Protocol", "yearOriginal": 2018, "type": "opowiadanie" },
+    { "order": 4, "title": "Exit Strategy", "yearOriginal": 2018, "type": "opowiadanie" },
+    { "order": 5, "title": "Network Effect", "yearOriginal": 2020, "type": "powieść" },
+    { "order": 6, "title": "Fugitive Telemetry", "yearOriginal": 2021, "type": "opowiadanie" },
+    { "order": 7, "title": "System Collapse", "yearOriginal": 2023, "type": "powieść" },
+    { "order": 8, "title": "Platform Decay", "yearOriginal": 2026, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Dzienniki Murderbota?", "answer": "Koniecznie w kolejności wydania. Fabuła jest mocno ciągła — cztery pierwsze nowele z lat 2017-2018 tworzą jedną historię, którą zamyka Exit Strategy, a potem naprzemiennie wychodzą powieści i kolejne opowiadania." },
+    { "question": "Czym różnią się nowele od powieści w tej serii?", "answer": "Cztery pierwsze tomy oraz Fugitive Telemetry to krótkie formy (ok. 150 stron), a Network Effect, System Collapse i Platform Decay to pełnowymiarowe powieści. Wszystkie tworzą jedną ciągłą opowieść o tym samym bohaterze." },
+    { "question": "Dlaczego bohater nazywa się Murderbot?", "answer": "To autoprzydomek jednostki ochroniarskiej SecUnit, która potajemnie zhakowała swój moduł kontrolujący i uzyskała wolną wolę. Woli oglądać seriale sci-fi niż rozmawiać z ludźmi — i właśnie ten kontrast napędza humor całej serii." }
+  ],
+  "relatedSeries": []
+}

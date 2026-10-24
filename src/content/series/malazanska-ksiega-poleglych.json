@@ -1,0 +1,26 @@
+{
+  "title": "Malazańska Księga Poległych",
+  "titleOriginal": "Malazan Book of the Fallen",
+  "author": "Steven Erikson",
+  "authorSlug": "steven-erikson",
+  "genre": ["epic-fantasy", "fantasy"],
+  "description": "Kolejność czytania Malazańskiej Księgi Poległych Stevena Eriksona. Wszystkie 10 tomów epickiej sagi o imperium Malazan, od Ogrodów Księżyca po Okaleczonego boga.",
+  "books": [
+    { "order": 1, "title": "Ogrody Księżyca", "titleOriginal": "Gardens of the Moon", "yearOriginal": 1999, "type": "powieść" },
+    { "order": 2, "title": "Deadhouse Gates", "yearOriginal": 2000, "type": "powieść" },
+    { "order": 3, "title": "Wspomnienia lodu", "titleOriginal": "Memories of Ice", "yearOriginal": 2001, "type": "powieść" },
+    { "order": 4, "title": "House of Chains", "yearOriginal": 2002, "type": "powieść" },
+    { "order": 5, "title": "Midnight Tides", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 6, "title": "The Bonehunters", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 7, "title": "Reaper's Gale", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 8, "title": "Toll the Hounds", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 9, "title": "Dust of Dreams", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 10, "title": "The Crippled God", "yearOriginal": 2011, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Malazańską Księgę Poległych?", "answer": "W kolejności wydania, od Ogrodów Księżyca po Okaleczonego boga. Erikson celowo rzuca czytelnika na głęboką wodę — każdy tom wprowadza nowych bohaterów, a wątki łączą się dopiero w drugiej połowie sagi." },
+    { "question": "Czy Malazańska Księga Poległych jest trudna na start?", "answer": "Tak, Ogrody Księżyca uchodzą za jeden z najtrudniejszych początków w fantasy — akcja toczy się na kilku kontynentach i bez wyjaśniania podstaw świata. To zamierzone; wytrwaj, a od trzeciego tomu historia zaczyna się domykać." },
+    { "question": "Czy saga jest ukończona?", "answer": "Tak, główna dekada tomów została zamknięta w 2011 roku Okaleczonym bogiem. Świat Malazan kontynuują side-stories autorstwa Iana Camerona Esslemonta (współtwórcy świata) oraz dalsze cykle samego Eriksona." }
+  ],
+  "relatedSeries": []
+}

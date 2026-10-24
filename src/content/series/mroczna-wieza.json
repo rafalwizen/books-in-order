@@ -1,0 +1,25 @@
+{
+  "title": "Mroczna Wieża",
+  "titleOriginal": "The Dark Tower",
+  "author": "Stephen King",
+  "authorSlug": "stephen-king",
+  "genre": ["fantasy", "dark-fantasy"],
+  "description": "Kolejność czytania Mrocznej Wieży Stephena Kinga. Wszystkie powieści o Rolandzie z Gilead oraz nowela Małe siostry Elurii w porządku wydania, od 1982 roku.",
+  "books": [
+    { "order": 1, "title": "Roland", "titleOriginal": "The Gunslinger", "yearOriginal": 1982, "type": "powieść" },
+    { "order": 2, "title": "Powołanie Trójki", "titleOriginal": "The Drawing of the Three", "yearOriginal": 1987, "type": "powieść" },
+    { "order": 3, "title": "Ziemie jałowe", "titleOriginal": "The Waste Lands", "yearOriginal": 1991, "type": "powieść" },
+    { "order": 4, "title": "Czarnoksiężnik i kryształ", "titleOriginal": "Wizard and Glass", "yearOriginal": 1997, "type": "powieść" },
+    { "order": 5, "title": "Małe siostry Elurii", "titleOriginal": "The Little Sisters of Eluria", "yearOriginal": 1998, "type": "opowiadanie" },
+    { "order": 6, "title": "Wilki z Calla", "titleOriginal": "Wolves of the Calla", "yearOriginal": 2003, "type": "powieść" },
+    { "order": 7, "title": "Pieśń Susannah", "titleOriginal": "Song of Susannah", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 8, "title": "Mroczna Wieża", "titleOriginal": "The Dark Tower", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 9, "title": "Wiatr przez dziurę od klucza", "titleOriginal": "The Wind Through the Keyhole", "yearOriginal": 2012, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Mroczną Wieżę?", "answer": "W kolejności wydania, od Rolanda (1982) po Mroczną Wieżę (2004). Finałowy tom Mroczna Wieża (2004) zamyka wędrówkę Rolanda do Wieży — czytaj go zawsze jako ostatniego z głównej ósemki." },
+    { "question": "Kiedy czytać Wiatr przez dziurę od klucza?", "answer": "To tom 4,5 — fabularnie dzieje się między Czarnoksiężnikiem i kryształem a Wilkami z Calla, ale wyszedł dopiero w 2012 roku. Najlepiej przeczytać go po ukończeniu głównej serii." },
+    { "question": "Czy Małe siostry Elurii są obowiązkowe?", "answer": "To dłuższa nowela o Rolandzie sprzed wydarzeń z pierwszego tomu, wydana w antologii Legendy. Wzbogaca wizerunek rewolwerowca, ale nie jest konieczna do zrozumienia cyklu." }
+  ],
+  "relatedSeries": []
+}
