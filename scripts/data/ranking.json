@@ -1,0 +1,5571 @@
+{
+  "generatedAt": "2026-10-24T13:54:38.481Z",
+  "window": {
+    "from": "2025-10",
+    "to": "2026-09"
+  },
+  "items": [
+    {
+      "slug": "dungeon-crawler-carl",
+      "workingTitle": "Dungeon Crawler Carl",
+      "author": "Matt Dinniman",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Dungeon Crawler Carl"
+      },
+      "medianMonthlyViews": 246580,
+      "totalViews": 3264123,
+      "monthly": {
+        "2025-10": 107882,
+        "2025-11": 111117,
+        "2025-12": 131747,
+        "2026-01": 192477,
+        "2026-02": 199963,
+        "2026-03": 218323,
+        "2026-04": 274837,
+        "2026-05": 362890,
+        "2026-06": 352830,
+        "2026-07": 417750,
+        "2026-08": 471274,
+        "2026-09": 423033
+      }
+    },
+    {
+      "slug": "harry-potter",
+      "workingTitle": "Harry Potter",
+      "author": "J.K. Rowling",
+      "existingSlug": "harry-potter",
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Harry Potter"
+      },
+      "medianMonthlyViews": 197632,
+      "totalViews": 2444898,
+      "monthly": {
+        "2025-10": 235083,
+        "2025-11": 254829,
+        "2025-12": 259107,
+        "2026-01": 234938,
+        "2026-02": 184263,
+        "2026-03": 236113,
+        "2026-04": 196117,
+        "2026-05": 170734,
+        "2026-06": 139270,
+        "2026-07": 154128,
+        "2026-08": 181170,
+        "2026-09": 199146
+      }
+    },
+    {
+      "slug": "gra-o-tron",
+      "workingTitle": "Pieśń Lodu i Ognia",
+      "author": "George R.R. Martin",
+      "existingSlug": "gra-o-tron",
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "A Song of Ice and Fire"
+      },
+      "medianMonthlyViews": 146214,
+      "totalViews": 1925830,
+      "monthly": {
+        "2025-10": 147552,
+        "2025-11": 122965,
+        "2025-12": 126095,
+        "2026-01": 211965,
+        "2026-02": 273810,
+        "2026-03": 180314,
+        "2026-04": 121394,
+        "2026-05": 109600,
+        "2026-06": 144875,
+        "2026-07": 201958,
+        "2026-08": 178953,
+        "2026-09": 106349
+      }
+    },
+    {
+      "slug": "wladca-pierscieni",
+      "workingTitle": "Władca Pierścieni",
+      "author": "J.R.R. Tolkien",
+      "existingSlug": "wladca-pierscieni",
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Lord of the Rings"
+      },
+      "medianMonthlyViews": 124239,
+      "totalViews": 1565493,
+      "monthly": {
+        "2025-10": 134791,
+        "2025-11": 140339,
+        "2025-12": 157019,
+        "2026-01": 190110,
+        "2026-02": 126382,
+        "2026-03": 131873,
+        "2026-04": 122096,
+        "2026-05": 114920,
+        "2026-06": 108689,
+        "2026-07": 114039,
+        "2026-08": 117512,
+        "2026-09": 107723
+      }
+    },
+    {
+      "slug": "sad-cierni-i-roz",
+      "workingTitle": "Sąd cierni i róż",
+      "author": "Sarah J. Maas",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "A Court of Thorns and Roses"
+      },
+      "medianMonthlyViews": 104401,
+      "totalViews": 1327723,
+      "monthly": {
+        "2025-10": 106112,
+        "2025-11": 100199,
+        "2025-12": 98099,
+        "2026-01": 112640,
+        "2026-02": 90798,
+        "2026-03": 162686,
+        "2026-04": 105237,
+        "2026-05": 99597,
+        "2026-06": 96533,
+        "2026-07": 103564,
+        "2026-08": 134776,
+        "2026-09": 117482
+      }
+    },
+    {
+      "slug": "czwarte-skrzydlo",
+      "workingTitle": "Czwarte skrzydło",
+      "author": "Rebecca Yarros",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Fourth Wing"
+      },
+      "medianMonthlyViews": 86934,
+      "totalViews": 1026782,
+      "monthly": {
+        "2025-10": 89055,
+        "2025-11": 93605,
+        "2025-12": 82122,
+        "2026-01": 93707,
+        "2026-02": 81702,
+        "2026-03": 75233,
+        "2026-04": 68282,
+        "2026-05": 99784,
+        "2026-06": 79465,
+        "2026-07": 89959,
+        "2026-08": 89034,
+        "2026-09": 84834
+      }
+    },
+    {
+      "slug": "kolo-czasu",
+      "workingTitle": "Koło Czasu",
+      "author": "Robert Jordan",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Wheel of Time"
+      },
+      "medianMonthlyViews": 86183,
+      "totalViews": 1049480,
+      "monthly": {
+        "2025-10": 95449,
+        "2025-11": 92744,
+        "2025-12": 97989,
+        "2026-01": 109080,
+        "2026-02": 91309,
+        "2026-03": 94577,
+        "2026-04": 79304,
+        "2026-05": 81057,
+        "2026-06": 77990,
+        "2026-07": 79393,
+        "2026-08": 77816,
+        "2026-09": 72772
+      }
+    },
+    {
+      "slug": "opowiesci-z-narnii",
+      "workingTitle": "Opowieści z Narnii",
+      "author": "C.S. Lewis",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Chronicles of Narnia"
+      },
+      "medianMonthlyViews": 81539,
+      "totalViews": 1128007,
+      "monthly": {
+        "2025-10": 92401,
+        "2025-11": 108124,
+        "2025-12": 150867,
+        "2026-01": 114059,
+        "2026-02": 81432,
+        "2026-03": 81357,
+        "2026-04": 77930,
+        "2026-05": 81645,
+        "2026-06": 71593,
+        "2026-07": 76010,
+        "2026-08": 74322,
+        "2026-09": 118267
+      }
+    },
+    {
+      "slug": "zrodzony-z-mgly",
+      "workingTitle": "Zrodzony z mgły",
+      "author": "Brandon Sanderson",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Mistborn"
+      },
+      "medianMonthlyViews": 73150,
+      "totalViews": 940918,
+      "monthly": {
+        "2025-10": 68960,
+        "2025-11": 67412,
+        "2025-12": 75364,
+        "2026-01": 113829,
+        "2026-02": 101441,
+        "2026-03": 79871,
+        "2026-04": 70527,
+        "2026-05": 70352,
+        "2026-06": 70936,
+        "2026-07": 81738,
+        "2026-08": 76076,
+        "2026-09": 64412
+      }
+    },
+    {
+      "slug": "diuma",
+      "workingTitle": "Diuna",
+      "author": "Frank Herbert",
+      "existingSlug": "diuma",
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Dune (franchise)"
+      },
+      "medianMonthlyViews": 71376,
+      "totalViews": 1003726,
+      "monthly": {
+        "2025-10": 58536,
+        "2025-11": 60209,
+        "2025-12": 73569,
+        "2026-01": 80158,
+        "2026-02": 62020,
+        "2026-03": 187828,
+        "2026-04": 90043,
+        "2026-05": 69183,
+        "2026-06": 62499,
+        "2026-07": 101748,
+        "2026-08": 89667,
+        "2026-09": 68266
+      }
+    },
+    {
+      "slug": "archiwum-burzy",
+      "workingTitle": "Archiwum Burz",
+      "author": "Brandon Sanderson",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Stormlight Archive"
+      },
+      "medianMonthlyViews": 70181,
+      "totalViews": 868098,
+      "monthly": {
+        "2025-10": 71451,
+        "2025-11": 68911,
+        "2025-12": 76240,
+        "2026-01": 96586,
+        "2026-02": 86698,
+        "2026-03": 73243,
+        "2026-04": 64888,
+        "2026-05": 67096,
+        "2026-06": 63508,
+        "2026-07": 72364,
+        "2026-08": 67360,
+        "2026-09": 59753
+      }
+    },
+    {
+      "slug": "tron-ze-szkla",
+      "workingTitle": "Tron ze szkła",
+      "author": "Sarah J. Maas",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Throne of Glass"
+      },
+      "medianMonthlyViews": 69221,
+      "totalViews": 864767,
+      "monthly": {
+        "2025-10": 72534,
+        "2025-11": 68593,
+        "2025-12": 69346,
+        "2026-01": 75418,
+        "2026-02": 60380,
+        "2026-03": 90069,
+        "2026-04": 66705,
+        "2026-05": 77846,
+        "2026-06": 67659,
+        "2026-07": 69096,
+        "2026-08": 80229,
+        "2026-09": 66892
+      }
+    },
+    {
+      "slug": "autostopem-przez-galaktyke",
+      "workingTitle": "Autostopem przez Galaktykę",
+      "author": "Douglas Adams",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Hitchhiker's Guide to the Galaxy"
+      },
+      "medianMonthlyViews": 67778,
+      "totalViews": 816692,
+      "monthly": {
+        "2025-10": 80352,
+        "2025-11": 70966,
+        "2025-12": 79474,
+        "2026-01": 73487,
+        "2026-02": 61084,
+        "2026-03": 68844,
+        "2026-04": 67798,
+        "2026-05": 67758,
+        "2026-06": 63234,
+        "2026-07": 66663,
+        "2026-08": 61719,
+        "2026-09": 55313
+      }
+    },
+    {
+      "slug": "percy-jackson",
+      "workingTitle": "Percy Jackson",
+      "author": "Rick Riordan",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Percy Jackson & the Olympians"
+      },
+      "medianMonthlyViews": 62707,
+      "totalViews": 970679,
+      "monthly": {
+        "2025-10": 55835,
+        "2025-11": 65072,
+        "2025-12": 193173,
+        "2026-01": 182593,
+        "2026-02": 77829,
+        "2026-03": 60342,
+        "2026-04": 47708,
+        "2026-05": 48148,
+        "2026-06": 55720,
+        "2026-07": 70696,
+        "2026-08": 65559,
+        "2026-09": 48004
+      }
+    },
+    {
+      "slug": "ekspansja",
+      "workingTitle": "Ekspansja",
+      "author": "James S.A. Corey",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Expanse (novel series)"
+      },
+      "medianMonthlyViews": 62340,
+      "totalViews": 763933,
+      "monthly": {
+        "2025-10": 59235,
+        "2025-11": 59263,
+        "2025-12": 64583,
+        "2026-01": 73682,
+        "2026-02": 61214,
+        "2026-03": 71625,
+        "2026-04": 74459,
+        "2026-05": 66414,
+        "2026-06": 59954,
+        "2026-07": 63465,
+        "2026-08": 59669,
+        "2026-09": 50370
+      }
+    },
+    {
+      "slug": "dzienniki-murderbota",
+      "workingTitle": "Dzienniki Murderbota",
+      "author": "Martha Wells",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Murderbot Diaries"
+      },
+      "medianMonthlyViews": 53331,
+      "totalViews": 644949,
+      "monthly": {
+        "2025-10": 58037,
+        "2025-11": 51164,
+        "2025-12": 56995,
+        "2026-01": 55617,
+        "2026-02": 46588,
+        "2026-03": 51053,
+        "2026-04": 49683,
+        "2026-05": 68618,
+        "2026-06": 55399,
+        "2026-07": 55375,
+        "2026-08": 51286,
+        "2026-09": 45134
+      }
+    },
+    {
+      "slug": "ania-z-zielonego-wzgorza",
+      "workingTitle": "Ania z Zielonego Wzgórza",
+      "author": "Lucy Maud Montgomery",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Anne of Green Gables"
+      },
+      "medianMonthlyViews": 52429,
+      "totalViews": 660623,
+      "monthly": {
+        "2025-10": 58870,
+        "2025-11": 67024,
+        "2025-12": 49380,
+        "2026-01": 55810,
+        "2026-02": 47108,
+        "2026-03": 47095,
+        "2026-04": 44959,
+        "2026-05": 49282,
+        "2026-06": 51065,
+        "2026-07": 70835,
+        "2026-08": 65402,
+        "2026-09": 53793
+      }
+    },
+    {
+      "slug": "dziennik-cwaniaczka",
+      "workingTitle": "Dziennik cwaniaczka",
+      "author": "Jeff Kinney",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Diary of a Wimpy Kid"
+      },
+      "medianMonthlyViews": 48711,
+      "totalViews": 604594,
+      "monthly": {
+        "2025-10": 57747,
+        "2025-11": 60879,
+        "2025-12": 62550,
+        "2026-01": 53620,
+        "2026-02": 47595,
+        "2026-03": 52516,
+        "2026-04": 49827,
+        "2026-05": 44489,
+        "2026-06": 42577,
+        "2026-07": 44174,
+        "2026-08": 46878,
+        "2026-09": 41742
+      }
+    },
+    {
+      "slug": "herkules-poirot",
+      "workingTitle": "Herkules Poirot",
+      "author": "Agatha Christie",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Hercule Poirot"
+      },
+      "medianMonthlyViews": 45151,
+      "totalViews": 616349,
+      "monthly": {
+        "2025-10": 46080,
+        "2025-11": 43226,
+        "2025-12": 95571,
+        "2026-01": 74339,
+        "2026-02": 47136,
+        "2026-03": 44222,
+        "2026-04": 41523,
+        "2026-05": 41416,
+        "2026-06": 39004,
+        "2026-07": 43014,
+        "2026-08": 46360,
+        "2026-09": 54458
+      }
+    },
+    {
+      "slug": "mroczna-wieza",
+      "workingTitle": "Mroczna Wieża",
+      "author": "Stephen King",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Dark Tower (series)"
+      },
+      "medianMonthlyViews": 43632,
+      "totalViews": 635585,
+      "monthly": {
+        "2025-10": 64976,
+        "2025-11": 80667,
+        "2025-12": 93952,
+        "2026-01": 63778,
+        "2026-02": 43493,
+        "2026-03": 43771,
+        "2026-04": 37589,
+        "2026-05": 41266,
+        "2026-06": 41707,
+        "2026-07": 44404,
+        "2026-08": 42609,
+        "2026-09": 37373
+      }
+    },
+    {
+      "slug": "saga-forsyteow",
+      "workingTitle": "Saga rodu Forsyte'ów",
+      "author": "John Galsworthy",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Forsyte Saga"
+      },
+      "medianMonthlyViews": 43026,
+      "totalViews": 710997,
+      "monthly": {
+        "2025-10": 100375,
+        "2025-11": 103566,
+        "2025-12": 48954,
+        "2026-01": 37098,
+        "2026-02": 28508,
+        "2026-03": 143417,
+        "2026-04": 110472,
+        "2026-05": 52201,
+        "2026-06": 26922,
+        "2026-07": 25055,
+        "2026-08": 18652,
+        "2026-09": 15777
+      }
+    },
+    {
+      "slug": "malazanska-ksiega-poleglych",
+      "workingTitle": "Malazańska Księga Poległych",
+      "author": "Steven Erikson",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Malazan Book of the Fallen"
+      },
+      "medianMonthlyViews": 41723,
+      "totalViews": 501215,
+      "monthly": {
+        "2025-10": 41386,
+        "2025-11": 43954,
+        "2025-12": 46125,
+        "2026-01": 46924,
+        "2026-02": 46414,
+        "2026-03": 38373,
+        "2026-04": 38148,
+        "2026-05": 37832,
+        "2026-06": 40297,
+        "2026-07": 42060,
+        "2026-08": 43465,
+        "2026-09": 36237
+      }
+    },
+    {
+      "slug": "mroczne-materie",
+      "workingTitle": "Mroczne materie",
+      "author": "Philip Pullman",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "His Dark Materials"
+      },
+      "medianMonthlyViews": 40598,
+      "totalViews": 547420,
+      "monthly": {
+        "2025-10": 68591,
+        "2025-11": 62334,
+        "2025-12": 60012,
+        "2026-01": 54264,
+        "2026-02": 39661,
+        "2026-03": 41534,
+        "2026-04": 46490,
+        "2026-05": 36833,
+        "2026-06": 31933,
+        "2026-07": 37144,
+        "2026-08": 35958,
+        "2026-09": 32666
+      }
+    },
+    {
+      "slug": "akta-dresdena",
+      "workingTitle": "Akta Dresdena",
+      "author": "Jim Butcher",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Dresden Files"
+      },
+      "medianMonthlyViews": 40348,
+      "totalViews": 581337,
+      "monthly": {
+        "2025-10": 34651,
+        "2025-11": 34450,
+        "2025-12": 36711,
+        "2026-01": 64807,
+        "2026-02": 50397,
+        "2026-03": 44093,
+        "2026-04": 113268,
+        "2026-05": 48289,
+        "2026-06": 38982,
+        "2026-07": 41044,
+        "2026-08": 39652,
+        "2026-09": 34993
+      }
+    },
+    {
+      "slug": "kroniki-wampirow",
+      "workingTitle": "Kroniki wampirów",
+      "author": "Anne Rice",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Vampire Chronicles"
+      },
+      "medianMonthlyViews": 39091,
+      "totalViews": 543987,
+      "monthly": {
+        "2025-10": 93323,
+        "2025-11": 45312,
+        "2025-12": 52058,
+        "2026-01": 32375,
+        "2026-02": 24891,
+        "2026-03": 24893,
+        "2026-04": 25909,
+        "2026-05": 28830,
+        "2026-06": 61318,
+        "2026-07": 75669,
+        "2026-08": 46540,
+        "2026-09": 32869
+      }
+    },
+    {
+      "slug": "cykl-fundacji",
+      "workingTitle": "Cykl Fundacji",
+      "author": "Isaac Asimov",
+      "existingSlug": "cykl-fundacji",
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Foundation (novel series)"
+      },
+      "medianMonthlyViews": 37674,
+      "totalViews": 491344,
+      "monthly": {
+        "2025-10": 61130,
+        "2025-11": 51907,
+        "2025-12": 48898,
+        "2026-01": 47656,
+        "2026-02": 40669,
+        "2026-03": 44006,
+        "2026-04": 34580,
+        "2026-05": 31323,
+        "2026-06": 30603,
+        "2026-07": 34678,
+        "2026-08": 34423,
+        "2026-09": 31471
+      }
+    },
+    {
+      "slug": "pierwsze-prawo",
+      "workingTitle": "Pierwsze Prawo",
+      "author": "Joe Abercrombie",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The First Law"
+      },
+      "medianMonthlyViews": 35867,
+      "totalViews": 428056,
+      "monthly": {
+        "2025-10": 36456,
+        "2025-11": 38678,
+        "2025-12": 38493,
+        "2026-01": 40943,
+        "2026-02": 35277,
+        "2026-03": 35177,
+        "2026-04": 30569,
+        "2026-05": 32191,
+        "2026-06": 32035,
+        "2026-07": 38432,
+        "2026-08": 38294,
+        "2026-09": 31511
+      }
+    },
+    {
+      "slug": "conan",
+      "workingTitle": "Conan",
+      "author": "Robert E. Howard",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Conan the Barbarian"
+      },
+      "medianMonthlyViews": 33356,
+      "totalViews": 399244,
+      "monthly": {
+        "2025-10": 31458,
+        "2025-11": 33653,
+        "2025-12": 33621,
+        "2026-01": 37025,
+        "2026-02": 28100,
+        "2026-03": 36310,
+        "2026-04": 28153,
+        "2026-05": 39196,
+        "2026-06": 34723,
+        "2026-07": 33091,
+        "2026-08": 33038,
+        "2026-09": 30876
+      }
+    },
+    {
+      "slug": "cormoran-strike",
+      "workingTitle": "Cormoran Strike",
+      "author": "Robert Galbraith",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Cormoran Strike"
+      },
+      "medianMonthlyViews": 33032,
+      "totalViews": 412124,
+      "monthly": {
+        "2025-10": 47243,
+        "2025-11": 39300,
+        "2025-12": 38398,
+        "2026-01": 38939,
+        "2026-02": 29937,
+        "2026-03": 32949,
+        "2026-04": 28405,
+        "2026-05": 33192,
+        "2026-06": 29420,
+        "2026-07": 28766,
+        "2026-08": 33115,
+        "2026-09": 32460
+      }
+    },
+    {
+      "slug": "wojownicy",
+      "workingTitle": "Wojownicy",
+      "author": "Erin Hunter",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Warriors (novel series)"
+      },
+      "medianMonthlyViews": 32071,
+      "totalViews": 405363,
+      "monthly": {
+        "2025-10": 27590,
+        "2025-11": 29848,
+        "2025-12": 29336,
+        "2026-01": 30852,
+        "2026-02": 35350,
+        "2026-03": 37470,
+        "2026-04": 41654,
+        "2026-05": 28897,
+        "2026-06": 34820,
+        "2026-07": 33290,
+        "2026-08": 46081,
+        "2026-09": 30175
+      }
+    },
+    {
+      "slug": "mis-paddington",
+      "workingTitle": "Miś Paddington",
+      "author": "Michael Bond",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Paddington Bear"
+      },
+      "medianMonthlyViews": 31394,
+      "totalViews": 429564,
+      "monthly": {
+        "2025-10": 38630,
+        "2025-11": 51397,
+        "2025-12": 51978,
+        "2026-01": 38894,
+        "2026-02": 29516,
+        "2026-03": 30239,
+        "2026-04": 31778,
+        "2026-05": 30371,
+        "2026-06": 34215,
+        "2026-07": 30822,
+        "2026-08": 31009,
+        "2026-09": 30715
+      }
+    },
+    {
+      "slug": "tarzan",
+      "workingTitle": "Tarzan",
+      "author": "Edgar Rice Burroughs",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Tarzan"
+      },
+      "medianMonthlyViews": 30935,
+      "totalViews": 371439,
+      "monthly": {
+        "2025-10": 34316,
+        "2025-11": 34878,
+        "2025-12": 30879,
+        "2026-01": 34126,
+        "2026-02": 32390,
+        "2026-03": 30440,
+        "2026-04": 30990,
+        "2026-05": 30713,
+        "2026-06": 26687,
+        "2026-07": 28249,
+        "2026-08": 31427,
+        "2026-09": 26344
+      }
+    },
+    {
+      "slug": "problem-trzech-cial",
+      "workingTitle": "Trylogia Trzech Ciał",
+      "author": "Cixin Liu",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Remembrance of Earth's Past"
+      },
+      "medianMonthlyViews": 30818,
+      "totalViews": 368504,
+      "monthly": {
+        "2025-10": 28873,
+        "2025-11": 30668,
+        "2025-12": 30967,
+        "2026-01": 33011,
+        "2026-02": 32298,
+        "2026-03": 36668,
+        "2026-04": 36084,
+        "2026-05": 32277,
+        "2026-06": 26796,
+        "2026-07": 28625,
+        "2026-08": 27136,
+        "2026-09": 25101
+      }
+    },
+    {
+      "slug": "kultura",
+      "workingTitle": "Kultura",
+      "author": "Iain M. Banks",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Culture series"
+      },
+      "medianMonthlyViews": 30712,
+      "totalViews": 402373,
+      "monthly": {
+        "2025-10": 25645,
+        "2025-11": 57882,
+        "2025-12": 41460,
+        "2026-01": 30662,
+        "2026-02": 26880,
+        "2026-03": 30946,
+        "2026-04": 30761,
+        "2026-05": 27147,
+        "2026-06": 28633,
+        "2026-07": 37448,
+        "2026-08": 37447,
+        "2026-09": 27462
+      }
+    },
+    {
+      "slug": "pippi",
+      "workingTitle": "Pippi Postrzegalna",
+      "author": "Astrid Lindgren",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Pippi Longstocking"
+      },
+      "medianMonthlyViews": 27857,
+      "totalViews": 342501,
+      "monthly": {
+        "2025-10": 30035,
+        "2025-11": 30125,
+        "2025-12": 31428,
+        "2026-01": 31120,
+        "2026-02": 26151,
+        "2026-03": 27733,
+        "2026-04": 28007,
+        "2026-05": 27980,
+        "2026-06": 27706,
+        "2026-07": 27176,
+        "2026-08": 27312,
+        "2026-09": 27728
+      }
+    },
+    {
+      "slug": "zmierzch",
+      "workingTitle": "Zmierzch",
+      "author": "Stephenie Meyer",
+      "existingSlug": "zmierzch",
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Twilight (novel series)"
+      },
+      "medianMonthlyViews": 27499,
+      "totalViews": 356702,
+      "monthly": {
+        "2025-10": 48932,
+        "2025-11": 35616,
+        "2025-12": 28297,
+        "2026-01": 33314,
+        "2026-02": 26666,
+        "2026-03": 26736,
+        "2026-04": 25706,
+        "2026-05": 23941,
+        "2026-06": 22248,
+        "2026-07": 26529,
+        "2026-08": 30456,
+        "2026-09": 28261
+      }
+    },
+    {
+      "slug": "kingsbridge",
+      "workingTitle": "Kingsbridge",
+      "author": "Ken Follett",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Pillars of the Earth"
+      },
+      "medianMonthlyViews": 27098,
+      "totalViews": 337410,
+      "monthly": {
+        "2025-10": 30113,
+        "2025-11": 29019,
+        "2025-12": 36987,
+        "2026-01": 33036,
+        "2026-02": 25494,
+        "2026-03": 26186,
+        "2026-04": 25840,
+        "2026-05": 24392,
+        "2026-06": 24054,
+        "2026-07": 27048,
+        "2026-08": 28093,
+        "2026-09": 27148
+      }
+    },
+    {
+      "slug": "ziemiomorze",
+      "workingTitle": "Ziemiomorze",
+      "author": "Ursula K. Le Guin",
+      "existingSlug": "ziemiomorze",
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Earthsea"
+      },
+      "medianMonthlyViews": 27050,
+      "totalViews": 335348,
+      "monthly": {
+        "2025-10": 23955,
+        "2025-11": 26815,
+        "2025-12": 28775,
+        "2026-01": 29827,
+        "2026-02": 25577,
+        "2026-03": 31112,
+        "2026-04": 26983,
+        "2026-05": 27116,
+        "2026-06": 26423,
+        "2026-07": 28042,
+        "2026-08": 34488,
+        "2026-09": 26235
+      }
+    },
+    {
+      "slug": "kronika-krolobojcy",
+      "workingTitle": "Kronika Królobójcy",
+      "author": "Patrick Rothfuss",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Kingkiller Chronicle"
+      },
+      "medianMonthlyViews": 26008,
+      "totalViews": 315959,
+      "monthly": {
+        "2025-10": 33494,
+        "2025-11": 27286,
+        "2025-12": 26836,
+        "2026-01": 30198,
+        "2026-02": 28478,
+        "2026-03": 25179,
+        "2026-04": 28406,
+        "2026-05": 21077,
+        "2026-06": 23556,
+        "2026-07": 24808,
+        "2026-08": 25046,
+        "2026-09": 21595
+      }
+    },
+    {
+      "slug": "aubrey-maturin",
+      "workingTitle": "Aubrey i Maturin",
+      "author": "Patrick O'Brian",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Aubrey–Maturin series"
+      },
+      "medianMonthlyViews": 24930,
+      "totalViews": 296496,
+      "monthly": {
+        "2025-10": 25470,
+        "2025-11": 23507,
+        "2025-12": 25336,
+        "2026-01": 24524,
+        "2026-02": 22963,
+        "2026-03": 22740,
+        "2026-04": 22537,
+        "2026-05": 26375,
+        "2026-06": 27774,
+        "2026-07": 25891,
+        "2026-08": 25919,
+        "2026-09": 23460
+      }
+    },
+    {
+      "slug": "miss-marple",
+      "workingTitle": "Miss Marple",
+      "author": "Agatha Christie",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Miss Marple"
+      },
+      "medianMonthlyViews": 23342,
+      "totalViews": 297415,
+      "monthly": {
+        "2025-10": 25268,
+        "2025-11": 21050,
+        "2025-12": 24668,
+        "2026-01": 42395,
+        "2026-02": 34515,
+        "2026-03": 24014,
+        "2026-04": 23784,
+        "2026-05": 21588,
+        "2026-06": 19135,
+        "2026-07": 19493,
+        "2026-08": 18605,
+        "2026-09": 22900
+      }
+    },
+    {
+      "slug": "skrzydla-ognia",
+      "workingTitle": "Skrzydła ognia",
+      "author": "Tui T. Sutherland",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Wings of Fire (novel series)"
+      },
+      "medianMonthlyViews": 22218,
+      "totalViews": 274809,
+      "monthly": {
+        "2025-10": 23021,
+        "2025-11": 27566,
+        "2025-12": 26838,
+        "2026-01": 21543,
+        "2026-02": 21655,
+        "2026-03": 28103,
+        "2026-04": 22780,
+        "2026-05": 23300,
+        "2026-06": 20321,
+        "2026-07": 19836,
+        "2026-08": 19598,
+        "2026-09": 20248
+      }
+    },
+    {
+      "slug": "sharpe",
+      "workingTitle": "Sharpe",
+      "author": "Bernard Cornwell",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Sharpe (novel series)"
+      },
+      "medianMonthlyViews": 22123,
+      "totalViews": 270171,
+      "monthly": {
+        "2025-10": 26291,
+        "2025-11": 25067,
+        "2025-12": 24434,
+        "2026-01": 23978,
+        "2026-02": 19877,
+        "2026-03": 21541,
+        "2026-04": 22077,
+        "2026-05": 22168,
+        "2026-06": 23360,
+        "2026-07": 21640,
+        "2026-08": 20755,
+        "2026-09": 18983
+      }
+    },
+    {
+      "slug": "redwall",
+      "workingTitle": "Redwall",
+      "author": "Brian Jacques",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Redwall"
+      },
+      "medianMonthlyViews": 21734,
+      "totalViews": 280628,
+      "monthly": {
+        "2025-10": 22011,
+        "2025-11": 25877,
+        "2025-12": 21908,
+        "2026-01": 21137,
+        "2026-02": 20186,
+        "2026-03": 20827,
+        "2026-04": 28927,
+        "2026-05": 21429,
+        "2026-06": 20418,
+        "2026-07": 21560,
+        "2026-08": 26090,
+        "2026-09": 30258
+      }
+    },
+    {
+      "slug": "sherlock-holmes",
+      "workingTitle": "Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Canon of Sherlock Holmes"
+      },
+      "medianMonthlyViews": 21194,
+      "totalViews": 259119,
+      "monthly": {
+        "2025-10": 21453,
+        "2025-11": 21230,
+        "2025-12": 23075,
+        "2026-01": 27867,
+        "2026-02": 20657,
+        "2026-03": 29599,
+        "2026-04": 22201,
+        "2026-05": 21157,
+        "2026-06": 18298,
+        "2026-07": 20153,
+        "2026-08": 17609,
+        "2026-09": 15820
+      }
+    },
+    {
+      "slug": "hyperion",
+      "workingTitle": "Hyperion",
+      "author": "Dan Simmons",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Hyperion Cantos"
+      },
+      "medianMonthlyViews": 21136,
+      "totalViews": 263574,
+      "monthly": {
+        "2025-10": 17110,
+        "2025-11": 17068,
+        "2025-12": 21053,
+        "2026-01": 20984,
+        "2026-02": 26373,
+        "2026-03": 33415,
+        "2026-04": 20492,
+        "2026-05": 21248,
+        "2026-06": 21749,
+        "2026-07": 22281,
+        "2026-08": 21218,
+        "2026-09": 20583
+      }
+    },
+    {
+      "slug": "nancy-drew",
+      "workingTitle": "Nancy Drew",
+      "author": "Carolyn Keene",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Nancy Drew"
+      },
+      "medianMonthlyViews": 20076,
+      "totalViews": 255469,
+      "monthly": {
+        "2025-10": 23897,
+        "2025-11": 20506,
+        "2025-12": 23027,
+        "2026-01": 32545,
+        "2026-02": 17983,
+        "2026-03": 18027,
+        "2026-04": 18813,
+        "2026-05": 25382,
+        "2026-06": 17899,
+        "2026-07": 19821,
+        "2026-08": 20331,
+        "2026-09": 17238
+      }
+    },
+    {
+      "slug": "magic-tree-house",
+      "workingTitle": "Magic Tree House",
+      "author": "Mary Pope Osborne",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Magic Tree House"
+      },
+      "medianMonthlyViews": 19908,
+      "totalViews": 247426,
+      "monthly": {
+        "2025-10": 22703,
+        "2025-11": 21218,
+        "2025-12": 28972,
+        "2026-01": 20980,
+        "2026-02": 17004,
+        "2026-03": 23935,
+        "2026-04": 20230,
+        "2026-05": 18494,
+        "2026-06": 17725,
+        "2026-07": 19585,
+        "2026-08": 18158,
+        "2026-09": 18422
+      }
+    },
+    {
+      "slug": "millennium",
+      "workingTitle": "Millennium",
+      "author": "Stieg Larsson",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Millennium (novel series)"
+      },
+      "medianMonthlyViews": 19593,
+      "totalViews": 244145,
+      "monthly": {
+        "2025-10": 20721,
+        "2025-11": 20072,
+        "2025-12": 24685,
+        "2026-01": 23265,
+        "2026-02": 18925,
+        "2026-03": 19114,
+        "2026-04": 16949,
+        "2026-05": 17799,
+        "2026-06": 16538,
+        "2026-07": 17249,
+        "2026-08": 27252,
+        "2026-09": 21576
+      }
+    },
+    {
+      "slug": "chylka",
+      "workingTitle": "Joanna Chyłka",
+      "author": "Remigiusz Mróz",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "pl",
+        "article": "Remigiusz Mróz"
+      },
+      "medianMonthlyViews": 19369,
+      "totalViews": 236518,
+      "monthly": {
+        "2025-10": 19529,
+        "2025-11": 23946,
+        "2025-12": 19570,
+        "2026-01": 22282,
+        "2026-02": 24278,
+        "2026-03": 19394,
+        "2026-04": 19343,
+        "2026-05": 18503,
+        "2026-06": 17427,
+        "2026-07": 18416,
+        "2026-08": 17713,
+        "2026-09": 16117
+      }
+    },
+    {
+      "slug": "crescent-city",
+      "workingTitle": "Crescent City",
+      "author": "Sarah J. Maas",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Crescent City (novel series)"
+      },
+      "medianMonthlyViews": 18799,
+      "totalViews": 245827,
+      "monthly": {
+        "2025-10": 18096,
+        "2025-11": 17357,
+        "2025-12": 17475,
+        "2026-01": 19494,
+        "2026-02": 15233,
+        "2026-03": 28740,
+        "2026-04": 18744,
+        "2026-05": 18853,
+        "2026-06": 17041,
+        "2026-07": 19987,
+        "2026-08": 28560,
+        "2026-09": 26247
+      }
+    },
+    {
+      "slug": "wiezien-labiryntu",
+      "workingTitle": "Więzień labiryntu",
+      "author": "James Dashner",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Maze Runner"
+      },
+      "medianMonthlyViews": 18641,
+      "totalViews": 262889,
+      "monthly": {
+        "2025-10": 62707,
+        "2025-11": 26971,
+        "2025-12": 23523,
+        "2026-01": 22948,
+        "2026-02": 14309,
+        "2026-03": 22655,
+        "2026-04": 16796,
+        "2026-05": 20486,
+        "2026-06": 12028,
+        "2026-07": 12050,
+        "2026-08": 13451,
+        "2026-09": 14965
+      }
+    },
+    {
+      "slug": "amos-decker",
+      "workingTitle": "Amos Decker",
+      "author": "David Baldacci",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "David Baldacci"
+      },
+      "medianMonthlyViews": 18315,
+      "totalViews": 219235,
+      "monthly": {
+        "2025-10": 17642,
+        "2025-11": 18419,
+        "2025-12": 20522,
+        "2026-01": 18567,
+        "2026-02": 16174,
+        "2026-03": 16236,
+        "2026-04": 18133,
+        "2026-05": 18211,
+        "2026-06": 19943,
+        "2026-07": 19932,
+        "2026-08": 19479,
+        "2026-09": 15977
+      }
+    },
+    {
+      "slug": "will-robie",
+      "workingTitle": "Will Robie",
+      "author": "David Baldacci",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "David Baldacci"
+      },
+      "medianMonthlyViews": 18315,
+      "totalViews": 219235,
+      "monthly": {
+        "2025-10": 17642,
+        "2025-11": 18419,
+        "2025-12": 20522,
+        "2026-01": 18567,
+        "2026-02": 16174,
+        "2026-03": 16236,
+        "2026-04": 18133,
+        "2026-05": 18211,
+        "2026-06": 19943,
+        "2026-07": 19932,
+        "2026-08": 19479,
+        "2026-09": 15977
+      }
+    },
+    {
+      "slug": "czarna-kompania",
+      "workingTitle": "Czarna Kompania",
+      "author": "Glen Cook",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Black Company"
+      },
+      "medianMonthlyViews": 17283,
+      "totalViews": 205726,
+      "monthly": {
+        "2025-10": 20583,
+        "2025-11": 17810,
+        "2025-12": 19528,
+        "2026-01": 18389,
+        "2026-02": 14870,
+        "2026-03": 15833,
+        "2026-04": 15665,
+        "2026-05": 14421,
+        "2026-06": 16814,
+        "2026-07": 19648,
+        "2026-08": 17752,
+        "2026-09": 14413
+      }
+    },
+    {
+      "slug": "kapitan-majtas",
+      "workingTitle": "Kapitan Majtas",
+      "author": "Dav Pilkey",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Captain Underpants"
+      },
+      "medianMonthlyViews": 16974,
+      "totalViews": 210561,
+      "monthly": {
+        "2025-10": 21031,
+        "2025-11": 21257,
+        "2025-12": 18050,
+        "2026-01": 17228,
+        "2026-02": 15227,
+        "2026-03": 15914,
+        "2026-04": 18116,
+        "2026-05": 19412,
+        "2026-06": 15411,
+        "2026-07": 15670,
+        "2026-08": 16720,
+        "2026-09": 16525
+      }
+    },
+    {
+      "slug": "dog-man",
+      "workingTitle": "Dog Man",
+      "author": "Dav Pilkey",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Dog Man"
+      },
+      "medianMonthlyViews": 16350,
+      "totalViews": 204286,
+      "monthly": {
+        "2025-10": 20929,
+        "2025-11": 25629,
+        "2025-12": 23588,
+        "2026-01": 19860,
+        "2026-02": 16341,
+        "2026-03": 19945,
+        "2026-04": 16302,
+        "2026-05": 16358,
+        "2026-06": 13429,
+        "2026-07": 13363,
+        "2026-08": 15029,
+        "2026-09": 3513
+      }
+    },
+    {
+      "slug": "harry-bosch",
+      "workingTitle": "Harry Bosch",
+      "author": "Michael Connelly",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Harry Bosch"
+      },
+      "medianMonthlyViews": 15394,
+      "totalViews": 205630,
+      "monthly": {
+        "2025-10": 17513,
+        "2025-11": 14628,
+        "2025-12": 13369,
+        "2026-01": 15371,
+        "2026-02": 36127,
+        "2026-03": 19799,
+        "2026-04": 16454,
+        "2026-05": 14767,
+        "2026-06": 15419,
+        "2026-07": 15417,
+        "2026-08": 14501,
+        "2026-09": 12265
+      }
+    },
+    {
+      "slug": "bracia-hardy",
+      "workingTitle": "Bracia Hardy",
+      "author": "Franklin W. Dixon",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Hardy Boys"
+      },
+      "medianMonthlyViews": 15257,
+      "totalViews": 192475,
+      "monthly": {
+        "2025-10": 21608,
+        "2025-11": 17694,
+        "2025-12": 16411,
+        "2026-01": 19016,
+        "2026-02": 13498,
+        "2026-03": 15047,
+        "2026-04": 14567,
+        "2026-05": 14309,
+        "2026-06": 13769,
+        "2026-07": 15467,
+        "2026-08": 16198,
+        "2026-09": 14891
+      }
+    },
+    {
+      "slug": "kroniki-saskie",
+      "workingTitle": "Kroniki saskie",
+      "author": "Bernard Cornwell",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Saxon Stories"
+      },
+      "medianMonthlyViews": 14498,
+      "totalViews": 177455,
+      "monthly": {
+        "2025-10": 16433,
+        "2025-11": 17935,
+        "2025-12": 16299,
+        "2026-01": 17201,
+        "2026-02": 14604,
+        "2026-03": 13990,
+        "2026-04": 12965,
+        "2026-05": 12916,
+        "2026-06": 12757,
+        "2026-07": 14838,
+        "2026-08": 14391,
+        "2026-09": 13126
+      }
+    },
+    {
+      "slug": "cykl-dziedzictwa",
+      "workingTitle": "Cykl Dziedzictwa",
+      "author": "Christopher Paolini",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Inheritance Cycle"
+      },
+      "medianMonthlyViews": 14435,
+      "totalViews": 177055,
+      "monthly": {
+        "2025-10": 15014,
+        "2025-11": 16270,
+        "2025-12": 16792,
+        "2026-01": 17458,
+        "2026-02": 16459,
+        "2026-03": 14474,
+        "2026-04": 13246,
+        "2026-05": 13999,
+        "2026-06": 12303,
+        "2026-07": 14088,
+        "2026-08": 14396,
+        "2026-09": 12556
+      }
+    },
+    {
+      "slug": "poldark",
+      "workingTitle": "Poldark",
+      "author": "Winston Graham",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Poldark"
+      },
+      "medianMonthlyViews": 14179,
+      "totalViews": 226185,
+      "monthly": {
+        "2025-10": 47490,
+        "2025-11": 34594,
+        "2025-12": 18619,
+        "2026-01": 24479,
+        "2026-02": 14430,
+        "2026-03": 13068,
+        "2026-04": 13078,
+        "2026-05": 14972,
+        "2026-06": 13927,
+        "2026-07": 12693,
+        "2026-08": 9216,
+        "2026-09": 9619
+      }
+    },
+    {
+      "slug": "alex-rider",
+      "workingTitle": "Alex Rider",
+      "author": "Anthony Horowitz",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Alex Rider"
+      },
+      "medianMonthlyViews": 14050,
+      "totalViews": 163813,
+      "monthly": {
+        "2025-10": 15627,
+        "2025-11": 14515,
+        "2025-12": 14198,
+        "2026-01": 15938,
+        "2026-02": 13512,
+        "2026-03": 13901,
+        "2026-04": 15003,
+        "2026-05": 14312,
+        "2026-06": 13587,
+        "2026-07": 12846,
+        "2026-08": 12124,
+        "2026-09": 8250
+      }
+    },
+    {
+      "slug": "hornblower",
+      "workingTitle": "Horatio Hornblower",
+      "author": "C.S. Forester",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Horatio Hornblower"
+      },
+      "medianMonthlyViews": 13768,
+      "totalViews": 162194,
+      "monthly": {
+        "2025-10": 11885,
+        "2025-11": 12292,
+        "2025-12": 14246,
+        "2026-01": 14075,
+        "2026-02": 14044,
+        "2026-03": 14748,
+        "2026-04": 13331,
+        "2026-05": 14220,
+        "2026-06": 14407,
+        "2026-07": 13060,
+        "2026-08": 13491,
+        "2026-09": 12395
+      }
+    },
+    {
+      "slug": "wiedzmy-z-mayfair",
+      "workingTitle": "Wiedźmy z Mayfair",
+      "author": "Anne Rice",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Lives of the Mayfair Witches"
+      },
+      "medianMonthlyViews": 13648,
+      "totalViews": 198046,
+      "monthly": {
+        "2025-10": 23120,
+        "2025-11": 19056,
+        "2025-12": 41843,
+        "2026-01": 17546,
+        "2026-02": 10930,
+        "2026-03": 10239,
+        "2026-04": 9847,
+        "2026-05": 11817,
+        "2026-06": 13610,
+        "2026-07": 13743,
+        "2026-08": 13685,
+        "2026-09": 12610
+      }
+    },
+    {
+      "slug": "alex-cross",
+      "workingTitle": "Alex Cross",
+      "author": "James Patterson",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Alex Cross"
+      },
+      "medianMonthlyViews": 13225,
+      "totalViews": 248980,
+      "monthly": {
+        "2025-10": 12705,
+        "2025-11": 12694,
+        "2025-12": 12669,
+        "2026-01": 16953,
+        "2026-02": 59502,
+        "2026-03": 47974,
+        "2026-04": 20592,
+        "2026-05": 15125,
+        "2026-06": 12439,
+        "2026-07": 13407,
+        "2026-08": 11878,
+        "2026-09": 13042
+      }
+    },
+    {
+      "slug": "bohaterowie-olimpu",
+      "workingTitle": "Bohaterowie Olimpu",
+      "author": "Rick Riordan",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Heroes of Olympus"
+      },
+      "medianMonthlyViews": 12988,
+      "totalViews": 199659,
+      "monthly": {
+        "2025-10": 11808,
+        "2025-11": 13021,
+        "2025-12": 34059,
+        "2026-01": 38089,
+        "2026-02": 17153,
+        "2026-03": 12954,
+        "2026-04": 11354,
+        "2026-05": 10693,
+        "2026-06": 10938,
+        "2026-07": 14478,
+        "2026-08": 14402,
+        "2026-09": 10710
+      }
+    },
+    {
+      "slug": "jezdncy-smokow-z-pern",
+      "workingTitle": "Jeźdźcy smoków z Pern",
+      "author": "Anne McCaffrey",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Dragonriders of Pern"
+      },
+      "medianMonthlyViews": 12387,
+      "totalViews": 148192,
+      "monthly": {
+        "2025-10": 12401,
+        "2025-11": 12102,
+        "2025-12": 12431,
+        "2026-01": 12675,
+        "2026-02": 13872,
+        "2026-03": 12844,
+        "2026-04": 11885,
+        "2026-05": 11890,
+        "2026-06": 12372,
+        "2026-07": 12038,
+        "2026-08": 12888,
+        "2026-09": 10794
+      }
+    },
+    {
+      "slug": "geronimo-stilton",
+      "workingTitle": "Geronimo Stilton",
+      "author": "Geronimo Stilton",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Geronimo Stilton"
+      },
+      "medianMonthlyViews": 12236,
+      "totalViews": 145524,
+      "monthly": {
+        "2025-10": 13380,
+        "2025-11": 12724,
+        "2025-12": 12508,
+        "2026-01": 12763,
+        "2026-02": 10696,
+        "2026-03": 12136,
+        "2026-04": 11737,
+        "2026-05": 12109,
+        "2026-06": 11242,
+        "2026-07": 12335,
+        "2026-08": 12838,
+        "2026-09": 11056
+      }
+    },
+    {
+      "slug": "kroniki-prydainu",
+      "workingTitle": "Kroniki Prydainu",
+      "author": "Lloyd Alexander",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Chronicles of Prydain"
+      },
+      "medianMonthlyViews": 12071,
+      "totalViews": 145580,
+      "monthly": {
+        "2025-10": 12224,
+        "2025-11": 11917,
+        "2025-12": 13453,
+        "2026-01": 13247,
+        "2026-02": 12288,
+        "2026-03": 11750,
+        "2026-04": 10717,
+        "2026-05": 11743,
+        "2026-06": 11532,
+        "2026-07": 13223,
+        "2026-08": 12251,
+        "2026-09": 11235
+      }
+    },
+    {
+      "slug": "miecz-prawdy",
+      "workingTitle": "Miecz Prawdy",
+      "author": "Terry Goodkind",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Sword of Truth"
+      },
+      "medianMonthlyViews": 12015,
+      "totalViews": 147758,
+      "monthly": {
+        "2025-10": 13728,
+        "2025-11": 13372,
+        "2025-12": 14263,
+        "2026-01": 13572,
+        "2026-02": 12034,
+        "2026-03": 12358,
+        "2026-04": 11257,
+        "2026-05": 11996,
+        "2026-06": 11453,
+        "2026-07": 11222,
+        "2026-08": 10874,
+        "2026-09": 11629
+      }
+    },
+    {
+      "slug": "pamietniki-wampirow",
+      "workingTitle": "Pamiętniki wampirów",
+      "author": "L.J. Smith",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Vampire Diaries (novel series)"
+      },
+      "medianMonthlyViews": 11959,
+      "totalViews": 143377,
+      "monthly": {
+        "2025-10": 15024,
+        "2025-11": 13066,
+        "2025-12": 12198,
+        "2026-01": 12973,
+        "2026-02": 12194,
+        "2026-03": 12862,
+        "2026-04": 11724,
+        "2026-05": 11003,
+        "2026-06": 9719,
+        "2026-07": 10834,
+        "2026-08": 10748,
+        "2026-09": 11032
+      }
+    },
+    {
+      "slug": "harry-hole",
+      "workingTitle": "Harry Hole",
+      "author": "Jo Nesbø",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Harry Hole"
+      },
+      "medianMonthlyViews": 11425,
+      "totalViews": 264729,
+      "monthly": {
+        "2025-10": 5668,
+        "2025-11": 5689,
+        "2025-12": 7422,
+        "2026-01": 9320,
+        "2026-02": 8499,
+        "2026-03": 59756,
+        "2026-04": 92069,
+        "2026-05": 24290,
+        "2026-06": 14932,
+        "2026-07": 14234,
+        "2026-08": 12951,
+        "2026-09": 9899
+      }
+    },
+    {
+      "slug": "wydzial-q",
+      "workingTitle": "Wydział Q",
+      "author": "Jussi Adler-Olsen",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Department Q"
+      },
+      "medianMonthlyViews": 11203,
+      "totalViews": 178088,
+      "monthly": {
+        "2025-10": 26657,
+        "2025-11": 21636,
+        "2025-12": 21980,
+        "2026-01": 23531,
+        "2026-02": 12465,
+        "2026-03": 11279,
+        "2026-04": 11126,
+        "2026-05": 10068,
+        "2026-06": 9800,
+        "2026-07": 9814,
+        "2026-08": 10091,
+        "2026-09": 9641
+      }
+    },
+    {
+      "slug": "wiedzmin",
+      "workingTitle": "Wiedźmin",
+      "author": "Andrzej Sapkowski",
+      "existingSlug": "wiedzmin",
+      "status": "ok",
+      "resolved": {
+        "project": "pl",
+        "article": "Wiedźmin"
+      },
+      "medianMonthlyViews": 10938,
+      "totalViews": 165346,
+      "monthly": {
+        "2025-10": 17855,
+        "2025-11": 29806,
+        "2025-12": 18371,
+        "2026-01": 15723,
+        "2026-02": 11096,
+        "2026-03": 9700,
+        "2026-04": 10138,
+        "2026-05": 10386,
+        "2026-06": 10843,
+        "2026-07": 10146,
+        "2026-08": 11032,
+        "2026-09": 10250
+      }
+    },
+    {
+      "slug": "skulduggery-pleasant",
+      "workingTitle": "Skulduggery Pleasant",
+      "author": "Derek Landy",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Skulduggery Pleasant"
+      },
+      "medianMonthlyViews": 10852,
+      "totalViews": 129824,
+      "monthly": {
+        "2025-10": 11450,
+        "2025-11": 11552,
+        "2025-12": 11250,
+        "2026-01": 11071,
+        "2026-02": 9823,
+        "2026-03": 11481,
+        "2026-04": 11642,
+        "2026-05": 10082,
+        "2026-06": 9947,
+        "2026-07": 10633,
+        "2026-08": 10572,
+        "2026-09": 10321
+      }
+    },
+    {
+      "slug": "ojciec-brown",
+      "workingTitle": "Ojciec Brown",
+      "author": "G.K. Chesterton",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Father Brown"
+      },
+      "medianMonthlyViews": 10441,
+      "totalViews": 127265,
+      "monthly": {
+        "2025-10": 10378,
+        "2025-11": 9438,
+        "2025-12": 10556,
+        "2026-01": 14129,
+        "2026-02": 11748,
+        "2026-03": 10573,
+        "2026-04": 10250,
+        "2026-05": 10061,
+        "2026-06": 9165,
+        "2026-07": 10503,
+        "2026-08": 10778,
+        "2026-09": 9686
+      }
+    },
+    {
+      "slug": "jeeves",
+      "workingTitle": "Jeeves",
+      "author": "P.G. Wodehouse",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Jeeves"
+      },
+      "medianMonthlyViews": 10325,
+      "totalViews": 122214,
+      "monthly": {
+        "2025-10": 9338,
+        "2025-11": 10702,
+        "2025-12": 12606,
+        "2026-01": 10962,
+        "2026-02": 8705,
+        "2026-03": 8653,
+        "2026-04": 8472,
+        "2026-05": 11495,
+        "2026-06": 10460,
+        "2026-07": 9710,
+        "2026-08": 10922,
+        "2026-09": 10189
+      }
+    },
+    {
+      "slug": "kay-scarpetta",
+      "workingTitle": "Kay Scarpetta",
+      "author": "Patricia Cornwell",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Kay Scarpetta"
+      },
+      "medianMonthlyViews": 10293,
+      "totalViews": 307769,
+      "monthly": {
+        "2025-10": 5976,
+        "2025-11": 7201,
+        "2025-12": 5338,
+        "2026-01": 7285,
+        "2026-02": 17047,
+        "2026-03": 163486,
+        "2026-04": 41748,
+        "2026-05": 19485,
+        "2026-06": 12051,
+        "2026-07": 10944,
+        "2026-08": 9641,
+        "2026-09": 7567
+      }
+    },
+    {
+      "slug": "trylogia-marsjanska",
+      "workingTitle": "Trylogia marsjańska",
+      "author": "Kim Stanley Robinson",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Mars trilogy"
+      },
+      "medianMonthlyViews": 10075,
+      "totalViews": 121274,
+      "monthly": {
+        "2025-10": 10210,
+        "2025-11": 9542,
+        "2025-12": 9798,
+        "2026-01": 10445,
+        "2026-02": 10107,
+        "2026-03": 11202,
+        "2026-04": 11733,
+        "2026-05": 10521,
+        "2026-06": 9637,
+        "2026-07": 10042,
+        "2026-08": 9247,
+        "2026-09": 8790
+      }
+    },
+    {
+      "slug": "barsoom",
+      "workingTitle": "Barsoom",
+      "author": "Edgar Rice Burroughs",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Barsoom"
+      },
+      "medianMonthlyViews": 10025,
+      "totalViews": 120831,
+      "monthly": {
+        "2025-10": 10947,
+        "2025-11": 11178,
+        "2025-12": 10688,
+        "2026-01": 10479,
+        "2026-02": 8594,
+        "2026-03": 8886,
+        "2026-04": 8751,
+        "2026-05": 9571,
+        "2026-06": 9164,
+        "2026-07": 12524,
+        "2026-08": 11796,
+        "2026-09": 8253
+      }
+    },
+    {
+      "slug": "mickey-haller",
+      "workingTitle": "Mickey Haller",
+      "author": "Michael Connelly",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Mickey Haller"
+      },
+      "medianMonthlyViews": 10020,
+      "totalViews": 182231,
+      "monthly": {
+        "2025-10": 12380,
+        "2025-11": 9301,
+        "2025-12": 8459,
+        "2026-01": 9681,
+        "2026-02": 62048,
+        "2026-03": 22480,
+        "2026-04": 11693,
+        "2026-05": 10871,
+        "2026-06": 10358,
+        "2026-07": 8743,
+        "2026-08": 8276,
+        "2026-09": 7941
+      }
+    },
+    {
+      "slug": "zwiadowca",
+      "workingTitle": "Zwiadowca",
+      "author": "John Flanagan",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Ranger's Apprentice"
+      },
+      "medianMonthlyViews": 9846,
+      "totalViews": 125431,
+      "monthly": {
+        "2025-10": 10211,
+        "2025-11": 10147,
+        "2025-12": 9945,
+        "2026-01": 10906,
+        "2026-02": 9635,
+        "2026-03": 10411,
+        "2026-04": 17800,
+        "2026-05": 9747,
+        "2026-06": 8989,
+        "2026-07": 9519,
+        "2026-08": 9476,
+        "2026-09": 8645
+      }
+    },
+    {
+      "slug": "sookie-stackhouse",
+      "workingTitle": "Sookie Stackhouse",
+      "author": "Charlaine Harris",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Southern Vampire Mysteries"
+      },
+      "medianMonthlyViews": 9704,
+      "totalViews": 116228,
+      "monthly": {
+        "2025-10": 11105,
+        "2025-11": 9640,
+        "2025-12": 8890,
+        "2026-01": 9815,
+        "2026-02": 8673,
+        "2026-03": 9132,
+        "2026-04": 8015,
+        "2026-05": 8882,
+        "2026-06": 9767,
+        "2026-07": 10823,
+        "2026-08": 10468,
+        "2026-09": 11018
+      }
+    },
+    {
+      "slug": "mary-poppins",
+      "workingTitle": "Mary Poppins",
+      "author": "P.L. Travers",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Mary Poppins (book series)"
+      },
+      "medianMonthlyViews": 9185,
+      "totalViews": 129192,
+      "monthly": {
+        "2025-10": 9325,
+        "2025-11": 16005,
+        "2025-12": 18063,
+        "2026-01": 13040,
+        "2026-02": 9047,
+        "2026-03": 10138,
+        "2026-04": 9256,
+        "2026-05": 9113,
+        "2026-06": 8642,
+        "2026-07": 8635,
+        "2026-08": 9080,
+        "2026-09": 8848
+      }
+    },
+    {
+      "slug": "proby-apolona",
+      "workingTitle": "Próby Apollona",
+      "author": "Rick Riordan",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Trials of Apollo"
+      },
+      "medianMonthlyViews": 9082,
+      "totalViews": 128550,
+      "monthly": {
+        "2025-10": 8789,
+        "2025-11": 9527,
+        "2025-12": 20468,
+        "2026-01": 22001,
+        "2026-02": 11015,
+        "2026-03": 8698,
+        "2026-04": 7334,
+        "2026-05": 7478,
+        "2026-06": 7028,
+        "2026-07": 9374,
+        "2026-08": 9684,
+        "2026-09": 7154
+      }
+    },
+    {
+      "slug": "kraina-oz",
+      "workingTitle": "Kraina Oz",
+      "author": "L. Frank Baum",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Land of Oz"
+      },
+      "medianMonthlyViews": 8689,
+      "totalViews": 191282,
+      "monthly": {
+        "2025-10": 12773,
+        "2025-11": 59351,
+        "2025-12": 31571,
+        "2026-01": 22064,
+        "2026-02": 8873,
+        "2026-03": 9377,
+        "2026-04": 8490,
+        "2026-05": 7837,
+        "2026-06": 7555,
+        "2026-07": 8505,
+        "2026-08": 7670,
+        "2026-09": 7216
+      }
+    },
+    {
+      "slug": "inspektor-morse",
+      "workingTitle": "Inspektor Morse",
+      "author": "Colin Dexter",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Inspector Morse"
+      },
+      "medianMonthlyViews": 8301,
+      "totalViews": 100056,
+      "monthly": {
+        "2025-10": 7183,
+        "2025-11": 7564,
+        "2025-12": 6934,
+        "2026-01": 8871,
+        "2026-02": 8744,
+        "2026-03": 10899,
+        "2026-04": 7174,
+        "2026-05": 8244,
+        "2026-06": 8358,
+        "2026-07": 8570,
+        "2026-08": 9523,
+        "2026-09": 7992
+      }
+    },
+    {
+      "slug": "muminki",
+      "workingTitle": "Muminki",
+      "author": "Tove Jansson",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "pl",
+        "article": "Muminki"
+      },
+      "medianMonthlyViews": 8284,
+      "totalViews": 103896,
+      "monthly": {
+        "2025-10": 10020,
+        "2025-11": 10663,
+        "2025-12": 11380,
+        "2026-01": 9844,
+        "2026-02": 8489,
+        "2026-03": 8706,
+        "2026-04": 8078,
+        "2026-05": 7345,
+        "2026-06": 7335,
+        "2026-07": 7469,
+        "2026-08": 7413,
+        "2026-09": 7154
+      }
+    },
+    {
+      "slug": "biuro-nr-1",
+      "workingTitle": "Dam detektyw nr 1",
+      "author": "Alexander McCall Smith",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The No. 1 Ladies' Detective Agency"
+      },
+      "medianMonthlyViews": 8262,
+      "totalViews": 99863,
+      "monthly": {
+        "2025-10": 8328,
+        "2025-11": 7355,
+        "2025-12": 7630,
+        "2026-01": 8971,
+        "2026-02": 8072,
+        "2026-03": 8834,
+        "2026-04": 7815,
+        "2026-05": 8291,
+        "2026-06": 8233,
+        "2026-07": 9498,
+        "2026-08": 8897,
+        "2026-09": 7939
+      }
+    },
+    {
+      "slug": "kroniki-spiderwick",
+      "workingTitle": "Kroniki Spiderwick",
+      "author": "Holly Black",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Spiderwick Chronicles"
+      },
+      "medianMonthlyViews": 8223,
+      "totalViews": 99621,
+      "monthly": {
+        "2025-10": 10312,
+        "2025-11": 8368,
+        "2025-12": 7875,
+        "2026-01": 8754,
+        "2026-02": 7575,
+        "2026-03": 8996,
+        "2026-04": 8078,
+        "2026-05": 7656,
+        "2026-06": 6597,
+        "2026-07": 6614,
+        "2026-08": 9492,
+        "2026-09": 9304
+      }
+    },
+    {
+      "slug": "piecdziesiat-twarzy-greya",
+      "workingTitle": "Pięćdziesiąt twarzy Greya",
+      "author": "E.L. James",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Fifty Shades (novel series)"
+      },
+      "medianMonthlyViews": 8133,
+      "totalViews": 97370,
+      "monthly": {
+        "2025-10": 11074,
+        "2025-11": 9044,
+        "2025-12": 8178,
+        "2026-01": 8179,
+        "2026-02": 9212,
+        "2026-03": 9293,
+        "2026-04": 8088,
+        "2026-05": 7489,
+        "2026-06": 6195,
+        "2026-07": 6901,
+        "2026-08": 6910,
+        "2026-09": 6807
+      }
+    },
+    {
+      "slug": "39-clues",
+      "workingTitle": "39 Clues",
+      "author": "różni autorzy",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The 39 Clues"
+      },
+      "medianMonthlyViews": 8114,
+      "totalViews": 99272,
+      "monthly": {
+        "2025-10": 8804,
+        "2025-11": 8661,
+        "2025-12": 9400,
+        "2026-01": 10248,
+        "2026-02": 7836,
+        "2026-03": 8379,
+        "2026-04": 8145,
+        "2026-05": 8082,
+        "2026-06": 7197,
+        "2026-07": 7577,
+        "2026-08": 7700,
+        "2026-09": 7243
+      }
+    },
+    {
+      "slug": "dork-diaries",
+      "workingTitle": "Dork Diaries",
+      "author": "Rachel Renée Russell",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Dork Diaries"
+      },
+      "medianMonthlyViews": 7511,
+      "totalViews": 90827,
+      "monthly": {
+        "2025-10": 8642,
+        "2025-11": 9413,
+        "2025-12": 7674,
+        "2026-01": 7947,
+        "2026-02": 7348,
+        "2026-03": 8711,
+        "2026-04": 7102,
+        "2026-05": 9242,
+        "2026-06": 6002,
+        "2026-07": 5955,
+        "2026-08": 6674,
+        "2026-09": 6117
+      }
+    },
+    {
+      "slug": "locked-tomb",
+      "workingTitle": "The Locked Tomb",
+      "author": "Tamsyn Muir",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Locked Tomb"
+      },
+      "medianMonthlyViews": 7476,
+      "totalViews": 90117,
+      "monthly": {
+        "2025-10": 8184,
+        "2025-11": 6853,
+        "2025-12": 7540,
+        "2026-01": 8921,
+        "2026-02": 7773,
+        "2026-03": 7327,
+        "2026-04": 6823,
+        "2026-05": 7866,
+        "2026-06": 6822,
+        "2026-07": 7034,
+        "2026-08": 7563,
+        "2026-09": 7411
+      }
+    },
+    {
+      "slug": "sprawl",
+      "workingTitle": "Trylogia Sprawla",
+      "author": "William Gibson",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Sprawl trilogy"
+      },
+      "medianMonthlyViews": 7453,
+      "totalViews": 102636,
+      "monthly": {
+        "2025-10": 7178,
+        "2025-11": 7872,
+        "2025-12": 7728,
+        "2026-01": 8459,
+        "2026-02": 6234,
+        "2026-03": 6828,
+        "2026-04": 6443,
+        "2026-05": 6591,
+        "2026-06": 6810,
+        "2026-07": 16903,
+        "2026-08": 12226,
+        "2026-09": 9364
+      }
+    },
+    {
+      "slug": "belgariada",
+      "workingTitle": "Belgariada",
+      "author": "David Eddings",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Belgariad"
+      },
+      "medianMonthlyViews": 7441,
+      "totalViews": 90547,
+      "monthly": {
+        "2025-10": 7617,
+        "2025-11": 7246,
+        "2025-12": 7945,
+        "2026-01": 8994,
+        "2026-02": 6904,
+        "2026-03": 7746,
+        "2026-04": 6740,
+        "2026-05": 7080,
+        "2026-06": 7135,
+        "2026-07": 7924,
+        "2026-08": 7951,
+        "2026-09": 7265
+      }
+    },
+    {
+      "slug": "kroniki-amberu",
+      "workingTitle": "Kroniki Amberu",
+      "author": "Roger Zelazny",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Chronicles of Amber"
+      },
+      "medianMonthlyViews": 7330,
+      "totalViews": 89560,
+      "monthly": {
+        "2025-10": 7315,
+        "2025-11": 7069,
+        "2025-12": 7345,
+        "2026-01": 7521,
+        "2026-02": 6757,
+        "2026-03": 7695,
+        "2026-04": 7027,
+        "2026-05": 9230,
+        "2026-06": 6894,
+        "2026-07": 8012,
+        "2026-08": 7974,
+        "2026-09": 6721
+      }
+    },
+    {
+      "slug": "temeraire",
+      "workingTitle": "Temeraire",
+      "author": "Naomi Novik",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Temeraire (series)"
+      },
+      "medianMonthlyViews": 7292,
+      "totalViews": 89593,
+      "monthly": {
+        "2025-10": 6761,
+        "2025-11": 7081,
+        "2025-12": 7570,
+        "2026-01": 8357,
+        "2026-02": 9228,
+        "2026-03": 8106,
+        "2026-04": 6780,
+        "2026-05": 6627,
+        "2026-06": 6737,
+        "2026-07": 7502,
+        "2026-08": 7932,
+        "2026-09": 6912
+      }
+    },
+    {
+      "slug": "unwind",
+      "workingTitle": "Unwind",
+      "author": "Neal Shusterman",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Unwind (novel)"
+      },
+      "medianMonthlyViews": 7182,
+      "totalViews": 89983,
+      "monthly": {
+        "2025-10": 10958,
+        "2025-11": 7333,
+        "2025-12": 6528,
+        "2026-01": 9429,
+        "2026-02": 6156,
+        "2026-03": 7060,
+        "2026-04": 8161,
+        "2026-05": 7186,
+        "2026-06": 7177,
+        "2026-07": 6033,
+        "2026-08": 6693,
+        "2026-09": 7269
+      }
+    },
+    {
+      "slug": "malory-towers",
+      "workingTitle": "Malory Towers",
+      "author": "Enid Blyton",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Malory Towers"
+      },
+      "medianMonthlyViews": 7155,
+      "totalViews": 88462,
+      "monthly": {
+        "2025-10": 8152,
+        "2025-11": 8769,
+        "2025-12": 7297,
+        "2026-01": 7567,
+        "2026-02": 5700,
+        "2026-03": 7012,
+        "2026-04": 6437,
+        "2026-05": 11474,
+        "2026-06": 7878,
+        "2026-07": 6854,
+        "2026-08": 6243,
+        "2026-09": 5079
+      }
+    },
+    {
+      "slug": "wielki-nate",
+      "workingTitle": "Wielki Nate",
+      "author": "Lincoln Peirce",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Big Nate"
+      },
+      "medianMonthlyViews": 7041,
+      "totalViews": 85005,
+      "monthly": {
+        "2025-10": 5735,
+        "2025-11": 5603,
+        "2025-12": 7493,
+        "2026-01": 8708,
+        "2026-02": 7305,
+        "2026-03": 11188,
+        "2026-04": 9461,
+        "2026-05": 6776,
+        "2026-06": 8291,
+        "2026-07": 5166,
+        "2026-08": 4900,
+        "2026-09": 4379
+      }
+    },
+    {
+      "slug": "straznicy-gahool",
+      "workingTitle": "Strażnicy Ga'Hoole",
+      "author": "Kathryn Lasky",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Guardians of Ga'Hoole"
+      },
+      "medianMonthlyViews": 6893,
+      "totalViews": 92327,
+      "monthly": {
+        "2025-10": 12926,
+        "2025-11": 8330,
+        "2025-12": 8621,
+        "2026-01": 8750,
+        "2026-02": 6899,
+        "2026-03": 7313,
+        "2026-04": 6886,
+        "2026-05": 6517,
+        "2026-06": 5904,
+        "2026-07": 6570,
+        "2026-08": 6804,
+        "2026-09": 6807
+      }
+    },
+    {
+      "slug": "nero-wolfe",
+      "workingTitle": "Nero Wolfe",
+      "author": "Rex Stout",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Nero Wolfe"
+      },
+      "medianMonthlyViews": 6858,
+      "totalViews": 82921,
+      "monthly": {
+        "2025-10": 6867,
+        "2025-11": 6749,
+        "2025-12": 7224,
+        "2026-01": 8025,
+        "2026-02": 6216,
+        "2026-03": 7141,
+        "2026-04": 7273,
+        "2026-05": 6586,
+        "2026-06": 6634,
+        "2026-07": 6849,
+        "2026-08": 6468,
+        "2026-09": 6889
+      }
+    },
+    {
+      "slug": "lord-peter-wimsey",
+      "workingTitle": "Lord Peter Wimsey",
+      "author": "Dorothy L. Sayers",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Lord Peter Wimsey"
+      },
+      "medianMonthlyViews": 6852,
+      "totalViews": 82372,
+      "monthly": {
+        "2025-10": 6867,
+        "2025-11": 6102,
+        "2025-12": 7226,
+        "2026-01": 7925,
+        "2026-02": 5774,
+        "2026-03": 7905,
+        "2026-04": 6174,
+        "2026-05": 6393,
+        "2026-06": 6314,
+        "2026-07": 6837,
+        "2026-08": 7278,
+        "2026-09": 7577
+      }
+    },
+    {
+      "slug": "adam-dalgliesh",
+      "workingTitle": "Adam Dalgliesh",
+      "author": "P.D. James",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Adam Dalgliesh"
+      },
+      "medianMonthlyViews": 6811,
+      "totalViews": 83804,
+      "monthly": {
+        "2025-10": 8755,
+        "2025-11": 5624,
+        "2025-12": 5825,
+        "2026-01": 7393,
+        "2026-02": 8209,
+        "2026-03": 8488,
+        "2026-04": 6693,
+        "2026-05": 6436,
+        "2026-06": 5820,
+        "2026-07": 6385,
+        "2026-08": 7248,
+        "2026-09": 6928
+      }
+    },
+    {
+      "slug": "jack-reacher",
+      "workingTitle": "Jack Reacher",
+      "author": "Lee Child",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Jack Reacher (book series)"
+      },
+      "medianMonthlyViews": 6370,
+      "totalViews": 90071,
+      "monthly": {
+        "2025-10": 10345,
+        "2025-11": 12813,
+        "2025-12": 11203,
+        "2026-01": 8322,
+        "2026-02": 3624,
+        "2026-03": 4417,
+        "2026-04": 3587,
+        "2026-05": 3486,
+        "2026-06": 3028,
+        "2026-07": 3772,
+        "2026-08": 12343,
+        "2026-09": 13131
+      }
+    },
+    {
+      "slug": "maximum-ride",
+      "workingTitle": "Maximum Ride",
+      "author": "James Patterson",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Maximum Ride"
+      },
+      "medianMonthlyViews": 6277,
+      "totalViews": 75084,
+      "monthly": {
+        "2025-10": 6177,
+        "2025-11": 6185,
+        "2025-12": 5290,
+        "2026-01": 6327,
+        "2026-02": 6622,
+        "2026-03": 6428,
+        "2026-04": 6540,
+        "2026-05": 5335,
+        "2026-06": 4986,
+        "2026-07": 6227,
+        "2026-08": 6399,
+        "2026-09": 8568
+      }
+    },
+    {
+      "slug": "komedia-ludzka",
+      "workingTitle": "Komedia ludzka",
+      "author": "Honoré de Balzac",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "La Comédie humaine"
+      },
+      "medianMonthlyViews": 6243,
+      "totalViews": 73576,
+      "monthly": {
+        "2025-10": 5974,
+        "2025-11": 6310,
+        "2025-12": 6367,
+        "2026-01": 6304,
+        "2026-02": 5834,
+        "2026-03": 6217,
+        "2026-04": 6311,
+        "2026-05": 6392,
+        "2026-06": 5839,
+        "2026-07": 5964,
+        "2026-08": 6268,
+        "2026-09": 5796
+      }
+    },
+    {
+      "slug": "shannara",
+      "workingTitle": "Shannara",
+      "author": "Terry Brooks",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Shannara"
+      },
+      "medianMonthlyViews": 5912,
+      "totalViews": 71876,
+      "monthly": {
+        "2025-10": 5879,
+        "2025-11": 6493,
+        "2025-12": 6213,
+        "2026-01": 7685,
+        "2026-02": 6003,
+        "2026-03": 5788,
+        "2026-04": 5358,
+        "2026-05": 5652,
+        "2026-06": 5575,
+        "2026-07": 6189,
+        "2026-08": 5945,
+        "2026-09": 5096
+      }
+    },
+    {
+      "slug": "the-strain",
+      "workingTitle": "The Strain",
+      "author": "Guillermo del Toro",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Strain"
+      },
+      "medianMonthlyViews": 5877,
+      "totalViews": 84572,
+      "monthly": {
+        "2025-10": 11923,
+        "2025-11": 12862,
+        "2025-12": 7296,
+        "2026-01": 6952,
+        "2026-02": 6731,
+        "2026-03": 5643,
+        "2026-04": 5886,
+        "2026-05": 5868,
+        "2026-06": 5137,
+        "2026-07": 5386,
+        "2026-08": 5090,
+        "2026-09": 5798
+      }
+    },
+    {
+      "slug": "do-wszystkich-chlopow",
+      "workingTitle": "Do wszystkich chłopaków, których kochałam",
+      "author": "Jenny Han",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "To All the Boys I've Loved Before"
+      },
+      "medianMonthlyViews": 5868,
+      "totalViews": 88212,
+      "monthly": {
+        "2025-10": 10701,
+        "2025-11": 6458,
+        "2025-12": 5573,
+        "2026-01": 5975,
+        "2026-02": 5761,
+        "2026-03": 8578,
+        "2026-04": 18152,
+        "2026-05": 6624,
+        "2026-06": 4957,
+        "2026-07": 4948,
+        "2026-08": 5567,
+        "2026-09": 4918
+      }
+    },
+    {
+      "slug": "flashman",
+      "workingTitle": "Flashman",
+      "author": "George MacDonald Fraser",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Flashman Papers"
+      },
+      "medianMonthlyViews": 5695,
+      "totalViews": 70058,
+      "monthly": {
+        "2025-10": 5622,
+        "2025-11": 6097,
+        "2025-12": 6153,
+        "2026-01": 6123,
+        "2026-02": 5284,
+        "2026-03": 5736,
+        "2026-04": 5349,
+        "2026-05": 6280,
+        "2026-06": 5654,
+        "2026-07": 5651,
+        "2026-08": 5341,
+        "2026-09": 6768
+      }
+    },
+    {
+      "slug": "kroniki-kane",
+      "workingTitle": "Kroniki Kane",
+      "author": "Rick Riordan",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Kane Chronicles"
+      },
+      "medianMonthlyViews": 5640,
+      "totalViews": 77279,
+      "monthly": {
+        "2025-10": 4950,
+        "2025-11": 5766,
+        "2025-12": 9794,
+        "2026-01": 10052,
+        "2026-02": 5697,
+        "2026-03": 5284,
+        "2026-04": 4824,
+        "2026-05": 5551,
+        "2026-06": 4751,
+        "2026-07": 5725,
+        "2026-08": 5582,
+        "2026-09": 9303
+      }
+    },
+    {
+      "slug": "in-death",
+      "workingTitle": "In Death",
+      "author": "J.D. Robb",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "In Death"
+      },
+      "medianMonthlyViews": 5637,
+      "totalViews": 67573,
+      "monthly": {
+        "2025-10": 6585,
+        "2025-11": 6240,
+        "2025-12": 5857,
+        "2026-01": 6441,
+        "2026-02": 5918,
+        "2026-03": 5684,
+        "2026-04": 5149,
+        "2026-05": 5590,
+        "2026-06": 4886,
+        "2026-07": 5282,
+        "2026-08": 5006,
+        "2026-09": 4935
+      }
+    },
+    {
+      "slug": "mitch-rapp",
+      "workingTitle": "Mitch Rapp",
+      "author": "Vince Flynn",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Mitch Rapp"
+      },
+      "medianMonthlyViews": 5602,
+      "totalViews": 70230,
+      "monthly": {
+        "2025-10": 8078,
+        "2025-11": 6353,
+        "2025-12": 6408,
+        "2026-01": 7405,
+        "2026-02": 6932,
+        "2026-03": 5395,
+        "2026-04": 4382,
+        "2026-05": 5198,
+        "2026-06": 4682,
+        "2026-07": 5195,
+        "2026-08": 5809,
+        "2026-09": 4393
+      }
+    },
+    {
+      "slug": "odyseja-kosmiczna",
+      "workingTitle": "Odyseja kosmiczna",
+      "author": "Arthur C. Clarke",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Space Odyssey"
+      },
+      "medianMonthlyViews": 5469,
+      "totalViews": 65426,
+      "monthly": {
+        "2025-10": 5320,
+        "2025-11": 5287,
+        "2025-12": 5820,
+        "2026-01": 5590,
+        "2026-02": 4697,
+        "2026-03": 5414,
+        "2026-04": 6143,
+        "2026-05": 5387,
+        "2026-06": 4943,
+        "2026-07": 5524,
+        "2026-08": 5603,
+        "2026-09": 5698
+      }
+    },
+    {
+      "slug": "rougon-macquart",
+      "workingTitle": "Rougon-Macquart",
+      "author": "Émile Zola",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Les Rougon-Macquart"
+      },
+      "medianMonthlyViews": 5344,
+      "totalViews": 65599,
+      "monthly": {
+        "2025-10": 5341,
+        "2025-11": 5346,
+        "2025-12": 5866,
+        "2026-01": 5840,
+        "2026-02": 5064,
+        "2026-03": 5267,
+        "2026-04": 5211,
+        "2026-05": 5647,
+        "2026-06": 5404,
+        "2026-07": 5268,
+        "2026-08": 6041,
+        "2026-09": 5304
+      }
+    },
+    {
+      "slug": "krolowie-przekleci",
+      "workingTitle": "Królowie przeklęci",
+      "author": "Maurice Druon",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Accursed Kings"
+      },
+      "medianMonthlyViews": 5328,
+      "totalViews": 69306,
+      "monthly": {
+        "2025-10": 4969,
+        "2025-11": 5138,
+        "2025-12": 5056,
+        "2026-01": 6669,
+        "2026-02": 8256,
+        "2026-03": 7094,
+        "2026-04": 5273,
+        "2026-05": 4633,
+        "2026-06": 4700,
+        "2026-07": 5972,
+        "2026-08": 6163,
+        "2026-09": 5383
+      }
+    },
+    {
+      "slug": "dzieci-ziemi",
+      "workingTitle": "Dzieci Ziemi",
+      "author": "Jean M. Auel",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Earth's Children"
+      },
+      "medianMonthlyViews": 5304,
+      "totalViews": 64462,
+      "monthly": {
+        "2025-10": 5404,
+        "2025-11": 5304,
+        "2025-12": 5222,
+        "2026-01": 5711,
+        "2026-02": 4894,
+        "2026-03": 6146,
+        "2026-04": 5293,
+        "2026-05": 5303,
+        "2026-06": 5854,
+        "2026-07": 5451,
+        "2026-08": 5051,
+        "2026-09": 4829
+      }
+    },
+    {
+      "slug": "wojna-starego-czlowieka",
+      "workingTitle": "Wojna starego człowieka",
+      "author": "John Scalzi",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Old Man's War series"
+      },
+      "medianMonthlyViews": 5222,
+      "totalViews": 62073,
+      "monthly": {
+        "2025-10": 5917,
+        "2025-11": 5126,
+        "2025-12": 5358,
+        "2026-01": 5318,
+        "2026-02": 4204,
+        "2026-03": 4271,
+        "2026-04": 4726,
+        "2026-05": 4434,
+        "2026-06": 4625,
+        "2026-07": 6422,
+        "2026-08": 5718,
+        "2026-09": 5954
+      }
+    },
+    {
+      "slug": "dirk-pitt",
+      "workingTitle": "Dirk Pitt",
+      "author": "Clive Cussler",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Dirk Pitt"
+      },
+      "medianMonthlyViews": 5177,
+      "totalViews": 58553,
+      "monthly": {
+        "2025-10": 4208,
+        "2025-11": 3981,
+        "2025-12": 5277,
+        "2026-01": 5329,
+        "2026-02": 4624,
+        "2026-03": 5302,
+        "2026-04": 5138,
+        "2026-05": 5683,
+        "2026-06": 5216,
+        "2026-07": 5300,
+        "2026-08": 4708,
+        "2026-09": 3787
+      }
+    },
+    {
+      "slug": "saga-wojny-magow",
+      "workingTitle": "Saga Wojny Magów",
+      "author": "Raymond E. Feist",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Riftwar Saga"
+      },
+      "medianMonthlyViews": 4738,
+      "totalViews": 58179,
+      "monthly": {
+        "2025-10": 4165,
+        "2025-11": 4524,
+        "2025-12": 4188,
+        "2026-01": 4927,
+        "2026-02": 3820,
+        "2026-03": 5138,
+        "2026-04": 4518,
+        "2026-05": 5012,
+        "2026-06": 6075,
+        "2026-07": 5661,
+        "2026-08": 5602,
+        "2026-09": 4549
+      }
+    },
+    {
+      "slug": "cherub",
+      "workingTitle": "CHERUB",
+      "author": "Robert Muchamore",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "CHERUB"
+      },
+      "medianMonthlyViews": 4645,
+      "totalViews": 56295,
+      "monthly": {
+        "2025-10": 4976,
+        "2025-11": 4848,
+        "2025-12": 5058,
+        "2026-01": 5301,
+        "2026-02": 4335,
+        "2026-03": 4609,
+        "2026-04": 4385,
+        "2026-05": 4764,
+        "2026-06": 4551,
+        "2026-07": 4680,
+        "2026-08": 4601,
+        "2026-09": 4187
+      }
+    },
+    {
+      "slug": "magnus-chase",
+      "workingTitle": "Magnus Chase i bogowie Asgardu",
+      "author": "Rick Riordan",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Magnus Chase and the Gods of Asgard"
+      },
+      "medianMonthlyViews": 4638,
+      "totalViews": 60419,
+      "monthly": {
+        "2025-10": 4411,
+        "2025-11": 4739,
+        "2025-12": 7963,
+        "2026-01": 8472,
+        "2026-02": 4953,
+        "2026-03": 4236,
+        "2026-04": 3735,
+        "2026-05": 3908,
+        "2026-06": 3977,
+        "2026-07": 4584,
+        "2026-08": 4750,
+        "2026-09": 4691
+      }
+    },
+    {
+      "slug": "selekcja",
+      "workingTitle": "Selekcja",
+      "author": "Kiera Cass",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Selection"
+      },
+      "medianMonthlyViews": 4621,
+      "totalViews": 55369,
+      "monthly": {
+        "2025-10": 4410,
+        "2025-11": 4895,
+        "2025-12": 4283,
+        "2026-01": 5320,
+        "2026-02": 4672,
+        "2026-03": 4825,
+        "2026-04": 4641,
+        "2026-05": 4582,
+        "2026-06": 4702,
+        "2026-07": 4601,
+        "2026-08": 4219,
+        "2026-09": 4219
+      }
+    },
+    {
+      "slug": "anita-blake",
+      "workingTitle": "Anita Blake",
+      "author": "Laurell K. Hamilton",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Anita Blake: Vampire Hunter"
+      },
+      "medianMonthlyViews": 4619,
+      "totalViews": 55162,
+      "monthly": {
+        "2025-10": 4927,
+        "2025-11": 4606,
+        "2025-12": 5001,
+        "2026-01": 5229,
+        "2026-02": 4719,
+        "2026-03": 4893,
+        "2026-04": 4209,
+        "2026-05": 4631,
+        "2026-06": 4374,
+        "2026-07": 4394,
+        "2026-08": 4351,
+        "2026-09": 3828
+      }
+    },
+    {
+      "slug": "swiat-dysku",
+      "workingTitle": "Świat Dysku",
+      "author": "Terry Pratchett",
+      "existingSlug": "swiat-dysku",
+      "status": "ok",
+      "resolved": {
+        "project": "pl",
+        "article": "Świat Dysku"
+      },
+      "medianMonthlyViews": 4552,
+      "totalViews": 56353,
+      "monthly": {
+        "2025-10": 4715,
+        "2025-11": 5274,
+        "2025-12": 6112,
+        "2026-01": 5320,
+        "2026-02": 4552,
+        "2026-03": 4084,
+        "2026-04": 4638,
+        "2026-05": 4521,
+        "2026-06": 4209,
+        "2026-07": 4387,
+        "2026-08": 4551,
+        "2026-09": 3990
+      }
+    },
+    {
+      "slug": "sekretna-siodemka",
+      "workingTitle": "Sekretna siódemka",
+      "author": "Enid Blyton",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Secret Seven"
+      },
+      "medianMonthlyViews": 4551,
+      "totalViews": 54633,
+      "monthly": {
+        "2025-10": 4504,
+        "2025-11": 5144,
+        "2025-12": 4507,
+        "2026-01": 4800,
+        "2026-02": 4137,
+        "2026-03": 4807,
+        "2026-04": 4896,
+        "2026-05": 4258,
+        "2026-06": 4845,
+        "2026-07": 3941,
+        "2026-08": 4199,
+        "2026-09": 4595
+      }
+    },
+    {
+      "slug": "robert-langdon",
+      "workingTitle": "Robert Langdon",
+      "author": "Dan Brown",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Robert Langdon (book series)"
+      },
+      "medianMonthlyViews": 4550,
+      "totalViews": 66102,
+      "monthly": {
+        "2025-10": 10274,
+        "2025-11": 7288,
+        "2025-12": 7017,
+        "2026-01": 6835,
+        "2026-02": 4535,
+        "2026-03": 4431,
+        "2026-04": 4335,
+        "2026-05": 3939,
+        "2026-06": 3759,
+        "2026-07": 5298,
+        "2026-08": 4564,
+        "2026-09": 3827
+      }
+    },
+    {
+      "slug": "pan-samochodzik",
+      "workingTitle": "Pan Samochodzik",
+      "author": "Zbigniew Nienacki",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "pl",
+        "article": "Pan Samochodzik"
+      },
+      "medianMonthlyViews": 4533,
+      "totalViews": 57424,
+      "monthly": {
+        "2025-10": 5373,
+        "2025-11": 8024,
+        "2025-12": 4194,
+        "2026-01": 5109,
+        "2026-02": 4338,
+        "2026-03": 4473,
+        "2026-04": 4395,
+        "2026-05": 4831,
+        "2026-06": 4592,
+        "2026-07": 4738,
+        "2026-08": 4217,
+        "2026-09": 3140
+      }
+    },
+    {
+      "slug": "krystyna-corka-lavransa",
+      "workingTitle": "Krystyna, córka Lavransa",
+      "author": "Sigrid Undset",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Kristin Lavransdatter"
+      },
+      "medianMonthlyViews": 4513,
+      "totalViews": 56608,
+      "monthly": {
+        "2025-10": 4090,
+        "2025-11": 4398,
+        "2025-12": 5654,
+        "2026-01": 4746,
+        "2026-02": 4190,
+        "2026-03": 4280,
+        "2026-04": 4627,
+        "2026-05": 4769,
+        "2026-06": 4225,
+        "2026-07": 6472,
+        "2026-08": 4835,
+        "2026-09": 4322
+      }
+    },
+    {
+      "slug": "rebus",
+      "workingTitle": "Rebus",
+      "author": "Ian Rankin",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Inspector Rebus"
+      },
+      "medianMonthlyViews": 4256,
+      "totalViews": 51477,
+      "monthly": {
+        "2025-10": 5114,
+        "2025-11": 4512,
+        "2025-12": 4253,
+        "2026-01": 4935,
+        "2026-02": 3750,
+        "2026-03": 4004,
+        "2026-04": 3655,
+        "2026-05": 4064,
+        "2026-06": 4259,
+        "2026-07": 4078,
+        "2026-08": 4548,
+        "2026-09": 4305
+      }
+    },
+    {
+      "slug": "court-gentry",
+      "workingTitle": "Court Gentry",
+      "author": "Mark Greaney",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Gray Man (novel)"
+      },
+      "medianMonthlyViews": 4210,
+      "totalViews": 51118,
+      "monthly": {
+        "2025-10": 3608,
+        "2025-11": 3461,
+        "2025-12": 4114,
+        "2026-01": 4380,
+        "2026-02": 3799,
+        "2026-03": 4040,
+        "2026-04": 4306,
+        "2026-05": 5165,
+        "2026-06": 4618,
+        "2026-07": 4758,
+        "2026-08": 5025,
+        "2026-09": 3844
+      }
+    },
+    {
+      "slug": "charlie-parker",
+      "workingTitle": "Charlie Parker",
+      "author": "John Connolly",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "John Connolly (author)"
+      },
+      "medianMonthlyViews": 4084,
+      "totalViews": 51507,
+      "monthly": {
+        "2025-10": 3678,
+        "2025-11": 4102,
+        "2025-12": 3365,
+        "2026-01": 3776,
+        "2026-02": 3514,
+        "2026-03": 4065,
+        "2026-04": 3978,
+        "2026-05": 6241,
+        "2026-06": 5019,
+        "2026-07": 4589,
+        "2026-08": 4917,
+        "2026-09": 4263
+      }
+    },
+    {
+      "slug": "trylogia-stulecia",
+      "workingTitle": "Trylogia stulecia",
+      "author": "Ken Follett",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Fall of Giants"
+      },
+      "medianMonthlyViews": 3993,
+      "totalViews": 51832,
+      "monthly": {
+        "2025-10": 4860,
+        "2025-11": 4621,
+        "2025-12": 6059,
+        "2026-01": 5086,
+        "2026-02": 3807,
+        "2026-03": 3835,
+        "2026-04": 3964,
+        "2026-05": 3795,
+        "2026-06": 3608,
+        "2026-07": 3954,
+        "2026-08": 4222,
+        "2026-09": 4021
+      }
+    },
+    {
+      "slug": "horrid-henry",
+      "workingTitle": "Horrid Henry",
+      "author": "Francesca Simon",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Horrid Henry"
+      },
+      "medianMonthlyViews": 3671,
+      "totalViews": 45265,
+      "monthly": {
+        "2025-10": 4649,
+        "2025-11": 3626,
+        "2025-12": 3314,
+        "2026-01": 4154,
+        "2026-02": 3716,
+        "2026-03": 3990,
+        "2026-04": 3968,
+        "2026-05": 3764,
+        "2026-06": 3592,
+        "2026-07": 3556,
+        "2026-08": 3552,
+        "2026-09": 3384
+      }
+    },
+    {
+      "slug": "dzieci-z-bullerbyn",
+      "workingTitle": "Dzieci z Bullerbyn",
+      "author": "Astrid Lindgren",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "pl",
+        "article": "Dzieci z Bullerbyn"
+      },
+      "medianMonthlyViews": 3474,
+      "totalViews": 49939,
+      "monthly": {
+        "2025-10": 5088,
+        "2025-11": 5826,
+        "2025-12": 6411,
+        "2026-01": 5809,
+        "2026-02": 3494,
+        "2026-03": 3234,
+        "2026-04": 2946,
+        "2026-05": 3454,
+        "2026-06": 3135,
+        "2026-07": 2828,
+        "2026-08": 3042,
+        "2026-09": 4672
+      }
+    },
+    {
+      "slug": "dom-nocy",
+      "workingTitle": "Dom nocy",
+      "author": "P.C. Cast",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "House of Night"
+      },
+      "medianMonthlyViews": 3466,
+      "totalViews": 42747,
+      "monthly": {
+        "2025-10": 4008,
+        "2025-11": 3464,
+        "2025-12": 3584,
+        "2026-01": 4385,
+        "2026-02": 3342,
+        "2026-03": 3686,
+        "2026-04": 3421,
+        "2026-05": 3315,
+        "2026-06": 3176,
+        "2026-07": 3467,
+        "2026-08": 3621,
+        "2026-09": 3278
+      }
+    },
+    {
+      "slug": "stare-krolestwo",
+      "workingTitle": "Stare Królestwo",
+      "author": "Garth Nix",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Old Kingdom"
+      },
+      "medianMonthlyViews": 3229,
+      "totalViews": 39225,
+      "monthly": {
+        "2025-10": 2943,
+        "2025-11": 3332,
+        "2025-12": 3221,
+        "2026-01": 3610,
+        "2026-02": 2832,
+        "2026-03": 2860,
+        "2026-04": 3107,
+        "2026-05": 3237,
+        "2026-06": 3042,
+        "2026-07": 3282,
+        "2026-08": 3904,
+        "2026-09": 3855
+      }
+    },
+    {
+      "slug": "kurt-wallander",
+      "workingTitle": "Kurt Wallander",
+      "author": "Henning Mankell",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Kurt Wallander"
+      },
+      "medianMonthlyViews": 3206,
+      "totalViews": 39799,
+      "monthly": {
+        "2025-10": 3411,
+        "2025-11": 3074,
+        "2025-12": 3144,
+        "2026-01": 3981,
+        "2026-02": 2892,
+        "2026-03": 3043,
+        "2026-04": 3188,
+        "2026-05": 3113,
+        "2026-06": 3224,
+        "2026-07": 3244,
+        "2026-08": 4075,
+        "2026-09": 3410
+      }
+    },
+    {
+      "slug": "akademia-pana-kleksa",
+      "workingTitle": "Akademia pana Kleksa",
+      "author": "Jan Brzechwa",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "pl",
+        "article": "Akademia pana Kleksa"
+      },
+      "medianMonthlyViews": 3016,
+      "totalViews": 50769,
+      "monthly": {
+        "2025-10": 7014,
+        "2025-11": 10085,
+        "2025-12": 6869,
+        "2026-01": 5272,
+        "2026-02": 2756,
+        "2026-03": 2604,
+        "2026-04": 3275,
+        "2026-05": 2660,
+        "2026-06": 2355,
+        "2026-07": 2471,
+        "2026-08": 1834,
+        "2026-09": 3574
+      }
+    },
+    {
+      "slug": "kadfael",
+      "workingTitle": "Kadfael",
+      "author": "Ellis Peters",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Cadfael"
+      },
+      "medianMonthlyViews": 2990,
+      "totalViews": 36025,
+      "monthly": {
+        "2025-10": 2500,
+        "2025-11": 2823,
+        "2025-12": 2702,
+        "2026-01": 3503,
+        "2026-02": 3175,
+        "2026-03": 2918,
+        "2026-04": 2537,
+        "2026-05": 2930,
+        "2026-06": 3465,
+        "2026-07": 3176,
+        "2026-08": 3246,
+        "2026-09": 3050
+      }
+    },
+    {
+      "slug": "trylogia-sienkiewicza",
+      "workingTitle": "Trylogia",
+      "author": "Henryk Sienkiewicz",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "pl",
+        "article": "Trylogia Sienkiewicza"
+      },
+      "medianMonthlyViews": 2942,
+      "totalViews": 37930,
+      "monthly": {
+        "2025-10": 3764,
+        "2025-11": 4885,
+        "2025-12": 4444,
+        "2026-01": 3879,
+        "2026-02": 2707,
+        "2026-03": 2991,
+        "2026-04": 3006,
+        "2026-05": 2893,
+        "2026-06": 2137,
+        "2026-07": 2147,
+        "2026-08": 2411,
+        "2026-09": 2666
+      }
+    },
+    {
+      "slug": "trylogia-husycka",
+      "workingTitle": "Trylogia husycka",
+      "author": "Andrzej Sapkowski",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "pl",
+        "article": "Trylogia husycka"
+      },
+      "medianMonthlyViews": 2942,
+      "totalViews": 37899,
+      "monthly": {
+        "2025-10": 3319,
+        "2025-11": 4652,
+        "2025-12": 3790,
+        "2026-01": 3306,
+        "2026-02": 2897,
+        "2026-03": 2796,
+        "2026-04": 2705,
+        "2026-05": 2987,
+        "2026-06": 2595,
+        "2026-07": 2820,
+        "2026-08": 3174,
+        "2026-09": 2858
+      }
+    },
+    {
+      "slug": "jezycjada",
+      "workingTitle": "Jeżycjada",
+      "author": "Małgorzata Musierowicz",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "pl",
+        "article": "Jeżycjada"
+      },
+      "medianMonthlyViews": 2692,
+      "totalViews": 32418,
+      "monthly": {
+        "2025-10": 3042,
+        "2025-11": 2776,
+        "2025-12": 2822,
+        "2026-01": 2993,
+        "2026-02": 2705,
+        "2026-03": 3112,
+        "2026-04": 2667,
+        "2026-05": 2497,
+        "2026-06": 2679,
+        "2026-07": 2621,
+        "2026-08": 2387,
+        "2026-09": 2117
+      }
+    },
+    {
+      "slug": "spenser",
+      "workingTitle": "Spenser",
+      "author": "Robert B. Parker",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Spenser (character)"
+      },
+      "medianMonthlyViews": 2595,
+      "totalViews": 31714,
+      "monthly": {
+        "2025-10": 2834,
+        "2025-11": 2716,
+        "2025-12": 2683,
+        "2026-01": 3294,
+        "2026-02": 2522,
+        "2026-03": 2449,
+        "2026-04": 2359,
+        "2026-05": 2647,
+        "2026-06": 2371,
+        "2026-07": 2811,
+        "2026-08": 2543,
+        "2026-09": 2485
+      }
+    },
+    {
+      "slug": "stephanie-plum",
+      "workingTitle": "Stephanie Plum",
+      "author": "Janet Evanovich",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Stephanie Plum"
+      },
+      "medianMonthlyViews": 2365,
+      "totalViews": 27890,
+      "monthly": {
+        "2025-10": 2356,
+        "2025-11": 2439,
+        "2025-12": 2253,
+        "2026-01": 2558,
+        "2026-02": 2569,
+        "2026-03": 2756,
+        "2026-04": 1962,
+        "2026-05": 1974,
+        "2026-06": 1980,
+        "2026-07": 2373,
+        "2026-08": 2438,
+        "2026-09": 2232
+      }
+    },
+    {
+      "slug": "martin-beck",
+      "workingTitle": "Martin Beck",
+      "author": "Maj Sjöwall",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Martin Beck"
+      },
+      "medianMonthlyViews": 2326,
+      "totalViews": 28575,
+      "monthly": {
+        "2025-10": 2316,
+        "2025-11": 2122,
+        "2025-12": 2526,
+        "2026-01": 2604,
+        "2026-02": 2012,
+        "2026-03": 2243,
+        "2026-04": 1986,
+        "2026-05": 2336,
+        "2026-06": 2811,
+        "2026-07": 2470,
+        "2026-08": 2306,
+        "2026-09": 2843
+      }
+    },
+    {
+      "slug": "temperance-brennan",
+      "workingTitle": "Temperance Brennan",
+      "author": "Kathy Reichs",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Temperance Brennan"
+      },
+      "medianMonthlyViews": 2265,
+      "totalViews": 27701,
+      "monthly": {
+        "2025-10": 2396,
+        "2025-11": 2143,
+        "2025-12": 2096,
+        "2026-01": 2437,
+        "2026-02": 2737,
+        "2026-03": 2748,
+        "2026-04": 2068,
+        "2026-05": 2272,
+        "2026-06": 2013,
+        "2026-07": 2257,
+        "2026-08": 2457,
+        "2026-09": 2077
+      }
+    },
+    {
+      "slug": "hollows",
+      "workingTitle": "Hollows",
+      "author": "Kim Harrison",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Hollows (series)"
+      },
+      "medianMonthlyViews": 2259,
+      "totalViews": 27157,
+      "monthly": {
+        "2025-10": 2089,
+        "2025-11": 2267,
+        "2025-12": 1933,
+        "2026-01": 2406,
+        "2026-02": 1994,
+        "2026-03": 2265,
+        "2026-04": 2214,
+        "2026-05": 2261,
+        "2026-06": 2125,
+        "2026-07": 2818,
+        "2026-08": 2257,
+        "2026-09": 2528
+      }
+    },
+    {
+      "slug": "gabriel-allon",
+      "workingTitle": "Gabriel Allon",
+      "author": "Daniel Silva",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Gabriel Allon"
+      },
+      "medianMonthlyViews": 2210,
+      "totalViews": 28700,
+      "monthly": {
+        "2025-10": 2656,
+        "2025-11": 2147,
+        "2025-12": 2318,
+        "2026-01": 2184,
+        "2026-02": 1918,
+        "2026-03": 2236,
+        "2026-04": 1962,
+        "2026-05": 2177,
+        "2026-06": 2003,
+        "2026-07": 3320,
+        "2026-08": 3281,
+        "2026-09": 2498
+      }
+    },
+    {
+      "slug": "uglies",
+      "workingTitle": "Uglies",
+      "author": "Scott Westerfeld",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Uglies (novel series)"
+      },
+      "medianMonthlyViews": 2023,
+      "totalViews": 27483,
+      "monthly": {
+        "2025-10": 2817,
+        "2025-11": 3619,
+        "2025-12": 3121,
+        "2026-01": 2684,
+        "2026-02": 1809,
+        "2026-03": 1953,
+        "2026-04": 1961,
+        "2026-05": 2085,
+        "2026-06": 1645,
+        "2026-07": 1849,
+        "2026-08": 2274,
+        "2026-09": 1666
+      }
+    },
+    {
+      "slug": "teodor-szacki",
+      "workingTitle": "Teodor Szacki",
+      "author": "Zygmunt Miłoszewski",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "pl",
+        "article": "Zygmunt Miłoszewski"
+      },
+      "medianMonthlyViews": 1970,
+      "totalViews": 24044,
+      "monthly": {
+        "2025-10": 1926,
+        "2025-11": 1789,
+        "2025-12": 2014,
+        "2026-01": 2342,
+        "2026-02": 2024,
+        "2026-03": 1575,
+        "2026-04": 1746,
+        "2026-05": 1711,
+        "2026-06": 1809,
+        "2026-07": 2048,
+        "2026-08": 2661,
+        "2026-09": 2399
+      }
+    },
+    {
+      "slug": "pan-lodowego-ogrodu",
+      "workingTitle": "Pan Lodowego Ogrodu",
+      "author": "Jarosław Grzędowicz",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "pl",
+        "article": "Pan Lodowego Ogrodu"
+      },
+      "medianMonthlyViews": 1957,
+      "totalViews": 23901,
+      "monthly": {
+        "2025-10": 2268,
+        "2025-11": 2233,
+        "2025-12": 2280,
+        "2026-01": 2280,
+        "2026-02": 1944,
+        "2026-03": 1745,
+        "2026-04": 1735,
+        "2026-05": 1968,
+        "2026-06": 1637,
+        "2026-07": 1946,
+        "2026-08": 1829,
+        "2026-09": 2036
+      }
+    },
+    {
+      "slug": "bernie-gunther",
+      "workingTitle": "Bernie Gunther",
+      "author": "Philip Kerr",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Bernie Gunther"
+      },
+      "medianMonthlyViews": 1942,
+      "totalViews": 20769,
+      "monthly": {
+        "2025-10": 64,
+        "2025-11": 62,
+        "2025-12": 46,
+        "2026-01": 65,
+        "2026-02": 510,
+        "2026-03": 1608,
+        "2026-04": 2275,
+        "2026-05": 2644,
+        "2026-06": 2656,
+        "2026-07": 2822,
+        "2026-08": 3761,
+        "2026-09": 4256
+      }
+    },
+    {
+      "slug": "niewierni",
+      "workingTitle": "Niewierni",
+      "author": "Veronica Roth",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Divergent (book series)"
+      },
+      "medianMonthlyViews": 1935,
+      "totalViews": 24165,
+      "monthly": {
+        "2025-10": 2353,
+        "2025-11": 1956,
+        "2025-12": 1808,
+        "2026-01": 1778,
+        "2026-02": 1703,
+        "2026-03": 1919,
+        "2026-04": 3384,
+        "2026-05": 2126,
+        "2026-06": 2056,
+        "2026-07": 1520,
+        "2026-08": 1611,
+        "2026-09": 1951
+      }
+    },
+    {
+      "slug": "ringworld",
+      "workingTitle": "Ringworld",
+      "author": "Larry Niven",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Ringworld series"
+      },
+      "medianMonthlyViews": 1777,
+      "totalViews": 21870,
+      "monthly": {
+        "2025-10": 2101,
+        "2025-11": 1688,
+        "2025-12": 2111,
+        "2026-01": 1806,
+        "2026-02": 1644,
+        "2026-03": 1710,
+        "2026-04": 1748,
+        "2026-05": 1720,
+        "2026-06": 1885,
+        "2026-07": 1850,
+        "2026-08": 1987,
+        "2026-09": 1620
+      }
+    },
+    {
+      "slug": "cykl-skrytobojcy",
+      "workingTitle": "Cykl Skrytobójcy",
+      "author": "Robin Hobb",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Realm of the Elderlings"
+      },
+      "medianMonthlyViews": 1718,
+      "totalViews": 21079,
+      "monthly": {
+        "2025-10": 1248,
+        "2025-11": 1222,
+        "2025-12": 1372,
+        "2026-01": 2014,
+        "2026-02": 1895,
+        "2026-03": 1708,
+        "2026-04": 1648,
+        "2026-05": 1699,
+        "2026-06": 1727,
+        "2026-07": 2201,
+        "2026-08": 2376,
+        "2026-09": 1969
+      }
+    },
+    {
+      "slug": "cykl-robotyczny",
+      "workingTitle": "Cykl robotyczny",
+      "author": "Isaac Asimov",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Robot series (Asimov)"
+      },
+      "medianMonthlyViews": 1629,
+      "totalViews": 19291,
+      "monthly": {
+        "2025-10": 1968,
+        "2025-11": 1718,
+        "2025-12": 1627,
+        "2026-01": 1665,
+        "2026-02": 1523,
+        "2026-03": 1631,
+        "2026-04": 1670,
+        "2026-05": 1513,
+        "2026-06": 1279,
+        "2026-07": 1411,
+        "2026-08": 1538,
+        "2026-09": 1748
+      }
+    },
+    {
+      "slug": "dave-robicheaux",
+      "workingTitle": "Dave Robicheaux",
+      "author": "James Lee Burke",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Dave Robicheaux"
+      },
+      "medianMonthlyViews": 1579,
+      "totalViews": 18614,
+      "monthly": {
+        "2025-10": 1358,
+        "2025-11": 1382,
+        "2025-12": 1348,
+        "2026-01": 1671,
+        "2026-02": 1539,
+        "2026-03": 1657,
+        "2026-04": 1544,
+        "2026-05": 1613,
+        "2026-06": 1661,
+        "2026-07": 1639,
+        "2026-08": 1738,
+        "2026-09": 1464
+      }
+    },
+    {
+      "slug": "myron-bolitar",
+      "workingTitle": "Myron Bolitar",
+      "author": "Harlan Coben",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Myron Bolitar"
+      },
+      "medianMonthlyViews": 1290,
+      "totalViews": 26413,
+      "monthly": {
+        "2025-10": 1826,
+        "2025-11": 1347,
+        "2025-12": 926,
+        "2026-01": 6393,
+        "2026-02": 1601,
+        "2026-03": 1017,
+        "2026-04": 844,
+        "2026-05": 1061,
+        "2026-06": 5480,
+        "2026-07": 3966,
+        "2026-08": 1233,
+        "2026-09": 719
+      }
+    },
+    {
+      "slug": "slyna-piatka",
+      "workingTitle": "Słynna piątka",
+      "author": "Enid Blyton",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Famous Five (novel series)"
+      },
+      "medianMonthlyViews": 1027,
+      "totalViews": 12362,
+      "monthly": {
+        "2025-10": 1023,
+        "2025-11": 1093,
+        "2025-12": 1067,
+        "2026-01": 1030,
+        "2026-02": 895,
+        "2026-03": 976,
+        "2026-04": 1167,
+        "2026-05": 1042,
+        "2026-06": 975,
+        "2026-07": 975,
+        "2026-08": 1123,
+        "2026-09": 996
+      }
+    },
+    {
+      "slug": "logan-mcrae",
+      "workingTitle": "Logan McRae",
+      "author": "Stuart MacBride",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Logan McRae"
+      },
+      "medianMonthlyViews": 770,
+      "totalViews": 9549,
+      "monthly": {
+        "2025-10": 839,
+        "2025-11": 771,
+        "2025-12": 732,
+        "2026-01": 959,
+        "2026-02": 766,
+        "2026-03": 888,
+        "2026-04": 744,
+        "2026-05": 794,
+        "2026-06": 728,
+        "2026-07": 769,
+        "2026-08": 826,
+        "2026-09": 733
+      }
+    },
+    {
+      "slug": "wampirza-akademia",
+      "workingTitle": "Wampirza akademia",
+      "author": "Richelle Mead",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Vampire Academy (novel)"
+      },
+      "medianMonthlyViews": 764,
+      "totalViews": 9500,
+      "monthly": {
+        "2025-10": 925,
+        "2025-11": 768,
+        "2025-12": 759,
+        "2026-01": 881,
+        "2026-02": 652,
+        "2026-03": 817,
+        "2026-04": 749,
+        "2026-05": 748,
+        "2026-06": 797,
+        "2026-07": 903,
+        "2026-08": 755,
+        "2026-09": 746
+      }
+    },
+    {
+      "slug": "trzej-detektywi",
+      "workingTitle": "Trzej detektywi",
+      "author": "Robert Arthur",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Three Investigators"
+      },
+      "medianMonthlyViews": 623,
+      "totalViews": 7186,
+      "monthly": {
+        "2025-10": 817,
+        "2025-11": 642,
+        "2025-12": 681,
+        "2026-01": 718,
+        "2026-02": 604,
+        "2026-03": 674,
+        "2026-04": 641,
+        "2026-05": 566,
+        "2026-06": 455,
+        "2026-07": 463,
+        "2026-08": 474,
+        "2026-09": 451
+      }
+    },
+    {
+      "slug": "magiczne-drzewo",
+      "workingTitle": "Magiczne drzewo",
+      "author": "Andrzej Maleszka",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "pl",
+        "article": "Magiczne drzewo"
+      },
+      "medianMonthlyViews": 575,
+      "totalViews": 7315,
+      "monthly": {
+        "2025-10": 495,
+        "2025-11": 555,
+        "2025-12": 686,
+        "2026-01": 787,
+        "2026-02": 557,
+        "2026-03": 625,
+        "2026-04": 592,
+        "2026-05": 652,
+        "2026-06": 788,
+        "2026-07": 508,
+        "2026-08": 547,
+        "2026-09": 523
+      }
+    },
+    {
+      "slug": "elric",
+      "workingTitle": "Elric z Melniboné",
+      "author": "Michael Moorcock",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Elric"
+      },
+      "medianMonthlyViews": 547,
+      "totalViews": 6514,
+      "monthly": {
+        "2025-10": 607,
+        "2025-11": 554,
+        "2025-12": 647,
+        "2026-01": 630,
+        "2026-02": 479,
+        "2026-03": 476,
+        "2026-04": 520,
+        "2026-05": 545,
+        "2026-06": 473,
+        "2026-07": 548,
+        "2026-08": 580,
+        "2026-09": 455
+      }
+    },
+    {
+      "slug": "artemis-fowl",
+      "workingTitle": "Artemis Fowl",
+      "author": "Eoin Colfer",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Artemis Fowl (series)"
+      },
+      "medianMonthlyViews": 500,
+      "totalViews": 6478,
+      "monthly": {
+        "2025-10": 877,
+        "2025-11": 679,
+        "2025-12": 554,
+        "2026-01": 660,
+        "2026-02": 502,
+        "2026-03": 498,
+        "2026-04": 508,
+        "2026-05": 399,
+        "2026-06": 439,
+        "2026-07": 399,
+        "2026-08": 476,
+        "2026-09": 487
+      }
+    },
+    {
+      "slug": "cradle",
+      "workingTitle": "Cradle",
+      "author": "Will Wight",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Cradle"
+      },
+      "medianMonthlyViews": 481,
+      "totalViews": 5907,
+      "monthly": {
+        "2025-10": 625,
+        "2025-11": 610,
+        "2025-12": 515,
+        "2026-01": 531,
+        "2026-02": 473,
+        "2026-03": 493,
+        "2026-04": 443,
+        "2026-05": 415,
+        "2026-06": 437,
+        "2026-07": 488,
+        "2026-08": 461,
+        "2026-09": 416
+      }
+    },
+    {
+      "slug": "nocne-lowy",
+      "workingTitle": "Nocne łowy",
+      "author": "Jeaniene Frost",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Night Huntress"
+      },
+      "medianMonthlyViews": 437,
+      "totalViews": 5483,
+      "monthly": {
+        "2025-10": 457,
+        "2025-11": 498,
+        "2025-12": 422,
+        "2026-01": 543,
+        "2026-02": 403,
+        "2026-03": 422,
+        "2026-04": 432,
+        "2026-05": 495,
+        "2026-06": 442,
+        "2026-07": 527,
+        "2026-08": 424,
+        "2026-09": 418
+      }
+    },
+    {
+      "slug": "ijon-tichy",
+      "workingTitle": "Ijon Tichy",
+      "author": "Stanisław Lem",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "pl",
+        "article": "Ijon Tichy"
+      },
+      "medianMonthlyViews": 391,
+      "totalViews": 4742,
+      "monthly": {
+        "2025-10": 433,
+        "2025-11": 480,
+        "2025-12": 411,
+        "2026-01": 419,
+        "2026-02": 297,
+        "2026-03": 385,
+        "2026-04": 389,
+        "2026-05": 542,
+        "2026-06": 365,
+        "2026-07": 305,
+        "2026-08": 323,
+        "2026-09": 393
+      }
+    },
+    {
+      "slug": "to-lato",
+      "workingTitle": "The Summer I Turned Pretty",
+      "author": "Jenny Han",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Summer I Turned Pretty"
+      },
+      "medianMonthlyViews": 335,
+      "totalViews": 5192,
+      "monthly": {
+        "2025-10": 787,
+        "2025-11": 573,
+        "2025-12": 343,
+        "2026-01": 333,
+        "2026-02": 303,
+        "2026-03": 898,
+        "2026-04": 280,
+        "2026-05": 298,
+        "2026-06": 306,
+        "2026-07": 336,
+        "2026-08": 402,
+        "2026-09": 333
+      }
+    },
+    {
+      "slug": "bobiverse",
+      "workingTitle": "Bobiverse",
+      "author": "Dennis E. Taylor",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Bobiverse"
+      },
+      "medianMonthlyViews": 329,
+      "totalViews": 4460,
+      "monthly": {
+        "2025-10": 282,
+        "2025-11": 266,
+        "2025-12": 286,
+        "2026-01": 353,
+        "2026-02": 350,
+        "2026-03": 826,
+        "2026-04": 478,
+        "2026-05": 314,
+        "2026-06": 274,
+        "2026-07": 332,
+        "2026-08": 326,
+        "2026-09": 373
+      }
+    },
+    {
+      "slug": "darkover",
+      "workingTitle": "Darkover",
+      "author": "Marion Zimmer Bradley",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Darkover"
+      },
+      "medianMonthlyViews": 276,
+      "totalViews": 3299,
+      "monthly": {
+        "2025-10": 251,
+        "2025-11": 310,
+        "2025-12": 248,
+        "2026-01": 327,
+        "2026-02": 233,
+        "2026-03": 284,
+        "2026-04": 314,
+        "2026-05": 279,
+        "2026-06": 272,
+        "2026-07": 249,
+        "2026-08": 284,
+        "2026-09": 248
+      }
+    },
+    {
+      "slug": "zlamana-ziemia",
+      "workingTitle": "Złamana Ziemia",
+      "author": "N.K. Jemisin",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Broken Earth"
+      },
+      "medianMonthlyViews": 166,
+      "totalViews": 1979,
+      "monthly": {
+        "2025-10": 222,
+        "2025-11": 177,
+        "2025-12": 141,
+        "2026-01": 221,
+        "2026-02": 144,
+        "2026-03": 157,
+        "2026-04": 102,
+        "2026-05": 119,
+        "2026-06": 160,
+        "2026-07": 191,
+        "2026-08": 172,
+        "2026-09": 173
+      }
+    },
+    {
+      "slug": "guido-brunetti",
+      "workingTitle": "Guido Brunetti",
+      "author": "Donna Leon",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Guido Brunetti"
+      },
+      "medianMonthlyViews": 163,
+      "totalViews": 2055,
+      "monthly": {
+        "2025-10": 160,
+        "2025-11": 178,
+        "2025-12": 212,
+        "2026-01": 234,
+        "2026-02": 145,
+        "2026-03": 140,
+        "2026-04": 162,
+        "2026-05": 161,
+        "2026-06": 176,
+        "2026-07": 178,
+        "2026-08": 145,
+        "2026-09": 164
+      }
+    },
+    {
+      "slug": "bractwo-czarnego-sztandaru",
+      "workingTitle": "Bractwo Czarnego Sztandaru",
+      "author": "J.R. Ward",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Black Dagger Brotherhood"
+      },
+      "medianMonthlyViews": 151,
+      "totalViews": 2533,
+      "monthly": {
+        "2025-10": 391,
+        "2025-11": 323,
+        "2025-12": 387,
+        "2026-01": 480,
+        "2026-02": 241,
+        "2026-03": 60,
+        "2026-04": 51,
+        "2026-05": 56,
+        "2026-06": 57,
+        "2026-07": 50,
+        "2026-08": 42,
+        "2026-09": 395
+      }
+    },
+    {
+      "slug": "cykl-kosy",
+      "workingTitle": "Arc of a Scythe",
+      "author": "Neal Shusterman",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Arc of a Scythe"
+      },
+      "medianMonthlyViews": 137,
+      "totalViews": 1634,
+      "monthly": {
+        "2025-10": 112,
+        "2025-11": 149,
+        "2025-12": 95,
+        "2026-01": 171,
+        "2026-02": 129,
+        "2026-03": 126,
+        "2026-04": 156,
+        "2026-05": 130,
+        "2026-06": 134,
+        "2026-07": 147,
+        "2026-08": 145,
+        "2026-09": 140
+      }
+    },
+    {
+      "slug": "lucas-davenport",
+      "workingTitle": "Lucas Davenport",
+      "author": "John Sandford",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Lucas Davenport"
+      },
+      "medianMonthlyViews": 136,
+      "totalViews": 1891,
+      "monthly": {
+        "2025-10": 172,
+        "2025-11": 137,
+        "2025-12": 128,
+        "2026-01": 167,
+        "2026-02": 109,
+        "2026-03": 148,
+        "2026-04": 115,
+        "2026-05": 124,
+        "2026-06": 118,
+        "2026-07": 135,
+        "2026-08": 240,
+        "2026-09": 298
+      }
+    },
+    {
+      "slug": "lincoln-rhyme",
+      "workingTitle": "Lincoln Rhyme",
+      "author": "Jeffery Deaver",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Lincoln Rhyme"
+      },
+      "medianMonthlyViews": 134,
+      "totalViews": 1714,
+      "monthly": {
+        "2025-10": 162,
+        "2025-11": 139,
+        "2025-12": 133,
+        "2026-01": 213,
+        "2026-02": 145,
+        "2026-03": 172,
+        "2026-04": 129,
+        "2026-05": 132,
+        "2026-06": 113,
+        "2026-07": 134,
+        "2026-08": 127,
+        "2026-09": 115
+      }
+    },
+    {
+      "slug": "inspektor-lynley",
+      "workingTitle": "Inspektor Lynley",
+      "author": "Elizabeth George",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Inspector Lynley"
+      },
+      "medianMonthlyViews": 131,
+      "totalViews": 1743,
+      "monthly": {
+        "2025-10": 165,
+        "2025-11": 150,
+        "2025-12": 178,
+        "2026-01": 382,
+        "2026-02": 113,
+        "2026-03": 91,
+        "2026-04": 78,
+        "2026-05": 74,
+        "2026-06": 148,
+        "2026-07": 87,
+        "2026-08": 97,
+        "2026-09": 180
+      }
+    },
+    {
+      "slug": "ender",
+      "workingTitle": "Cykl Endera",
+      "author": "Orson Scott Card",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Ender's Game series"
+      },
+      "medianMonthlyViews": 117,
+      "totalViews": 1472,
+      "monthly": {
+        "2025-10": 111,
+        "2025-11": 146,
+        "2025-12": 123,
+        "2026-01": 185,
+        "2026-02": 101,
+        "2026-03": 125,
+        "2026-04": 145,
+        "2026-05": 106,
+        "2026-06": 126,
+        "2026-07": 100,
+        "2026-08": 94,
+        "2026-09": 110
+      }
+    },
+    {
+      "slug": "valdemar",
+      "workingTitle": "Valdemar",
+      "author": "Mercedes Lackey",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Valdemar"
+      },
+      "medianMonthlyViews": 110,
+      "totalViews": 1442,
+      "monthly": {
+        "2025-10": 136,
+        "2025-11": 117,
+        "2025-12": 156,
+        "2026-01": 165,
+        "2026-02": 101,
+        "2026-03": 107,
+        "2026-04": 106,
+        "2026-05": 142,
+        "2026-06": 110,
+        "2026-07": 87,
+        "2026-08": 110,
+        "2026-09": 105
+      }
+    },
+    {
+      "slug": "achaja",
+      "workingTitle": "Achaja",
+      "author": "Andrzej Ziemiański",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "pl",
+        "article": "Achaja"
+      },
+      "medianMonthlyViews": 94,
+      "totalViews": 1107,
+      "monthly": {
+        "2025-10": 108,
+        "2025-11": 88,
+        "2025-12": 118,
+        "2026-01": 109,
+        "2026-02": 75,
+        "2026-03": 103,
+        "2026-04": 73,
+        "2026-05": 77,
+        "2026-06": 70,
+        "2026-07": 100,
+        "2026-08": 80,
+        "2026-09": 106
+      }
+    },
+    {
+      "slug": "elvis-cole",
+      "workingTitle": "Elvis Cole",
+      "author": "Robert Crais",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Elvis Cole"
+      },
+      "medianMonthlyViews": 70,
+      "totalViews": 870,
+      "monthly": {
+        "2025-10": 65,
+        "2025-11": 66,
+        "2025-12": 41,
+        "2026-01": 124,
+        "2026-02": 68,
+        "2026-03": 81,
+        "2026-04": 47,
+        "2026-05": 72,
+        "2026-06": 63,
+        "2026-07": 76,
+        "2026-08": 75,
+        "2026-09": 92
+      }
+    },
+    {
+      "slug": "deltora-quest",
+      "workingTitle": "Deltora Quest",
+      "author": "Emily Rodda",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Deltora Quest"
+      },
+      "medianMonthlyViews": 69,
+      "totalViews": 856,
+      "monthly": {
+        "2025-10": 62,
+        "2025-11": 70,
+        "2025-12": 39,
+        "2026-01": 131,
+        "2026-02": 34,
+        "2026-03": 56,
+        "2026-04": 54,
+        "2026-05": 67,
+        "2026-06": 71,
+        "2026-07": 80,
+        "2026-08": 74,
+        "2026-09": 118
+      }
+    },
+    {
+      "slug": "inspektor-montalbano",
+      "workingTitle": "Inspektor Montalbano",
+      "author": "Andrea Camilleri",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Inspector Montalbano"
+      },
+      "medianMonthlyViews": 52,
+      "totalViews": 651,
+      "monthly": {
+        "2025-10": 69,
+        "2025-11": 51,
+        "2025-12": 31,
+        "2026-01": 87,
+        "2026-02": 61,
+        "2026-03": 52,
+        "2026-04": 59,
+        "2026-05": 61,
+        "2026-06": 36,
+        "2026-07": 47,
+        "2026-08": 46,
+        "2026-09": 51
+      }
+    },
+    {
+      "slug": "grishaverse",
+      "workingTitle": "Grishaverse",
+      "author": "Leigh Bardugo",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Grishaverse"
+      },
+      "medianMonthlyViews": 50,
+      "totalViews": 660,
+      "monthly": {
+        "2025-10": 51,
+        "2025-11": 68,
+        "2025-12": 57,
+        "2026-01": 116,
+        "2026-02": 56,
+        "2026-03": 47,
+        "2026-04": 49,
+        "2026-05": 38,
+        "2026-06": 46,
+        "2026-07": 34,
+        "2026-08": 46,
+        "2026-09": 52
+      }
+    },
+    {
+      "slug": "trylogia-bartimeusza",
+      "workingTitle": "Trylogia Bartimeusza",
+      "author": "Jonathan Stroud",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Bartimaeus Trilogy"
+      },
+      "medianMonthlyViews": 49,
+      "totalViews": 567,
+      "monthly": {
+        "2025-10": 52,
+        "2025-11": 57,
+        "2025-12": 28,
+        "2026-01": 41,
+        "2026-02": 32,
+        "2026-03": 36,
+        "2026-04": 49,
+        "2026-05": 38,
+        "2026-06": 50,
+        "2026-07": 49,
+        "2026-08": 59,
+        "2026-09": 76
+      }
+    },
+    {
+      "slug": "womens-murder-club",
+      "workingTitle": "Women's Murder Club",
+      "author": "James Patterson",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Women's Murder Club"
+      },
+      "medianMonthlyViews": 48,
+      "totalViews": 723,
+      "monthly": {
+        "2025-10": 46,
+        "2025-11": 45,
+        "2025-12": 41,
+        "2026-01": 150,
+        "2026-02": 72,
+        "2026-03": 59,
+        "2026-04": 47,
+        "2026-05": 48,
+        "2026-06": 46,
+        "2026-07": 39,
+        "2026-08": 70,
+        "2026-09": 60
+      }
+    },
+    {
+      "slug": "rzeki-londynu",
+      "workingTitle": "Rivers of London",
+      "author": "Ben Aaronovitch",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Rivers of London (novel series)"
+      },
+      "medianMonthlyViews": 37,
+      "totalViews": 436,
+      "monthly": {
+        "2025-10": 59,
+        "2025-11": 28,
+        "2025-12": 22,
+        "2026-01": 66,
+        "2026-02": 78,
+        "2026-03": 46,
+        "2026-04": 50,
+        "2026-05": 45,
+        "2026-06": 19,
+        "2026-07": 6,
+        "2026-08": 11,
+        "2026-09": 6
+      }
+    },
+    {
+      "slug": "outlander",
+      "workingTitle": "Outlander",
+      "author": "Diana Gabaldon",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Outlander (novel series)"
+      },
+      "medianMonthlyViews": 25,
+      "totalViews": 411,
+      "monthly": {
+        "2025-10": 33,
+        "2025-11": 24,
+        "2025-12": 26,
+        "2026-01": 115,
+        "2026-02": 41,
+        "2026-03": 59,
+        "2026-04": 13,
+        "2026-05": 21,
+        "2026-06": 11,
+        "2026-07": 31,
+        "2026-08": 13,
+        "2026-09": 24
+      }
+    },
+    {
+      "slug": "igrzyska-smierci",
+      "workingTitle": "Igrzyska Śmierci",
+      "author": "Suzanne Collins",
+      "existingSlug": "igrzyska-smierci",
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Hunger Games (novel series)"
+      },
+      "medianMonthlyViews": 9,
+      "totalViews": 267,
+      "monthly": {
+        "2025-10": 7,
+        "2025-11": 10,
+        "2025-12": 41,
+        "2026-01": 87,
+        "2026-02": 35,
+        "2026-03": 18,
+        "2026-04": 4,
+        "2026-05": 2,
+        "2026-06": 53,
+        "2026-07": 2,
+        "2026-08": 4,
+        "2026-09": 4
+      }
+    },
+    {
+      "slug": "illuminae",
+      "workingTitle": "The Illuminae Files",
+      "author": "Amie Kaufman",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Illuminae Files"
+      },
+      "medianMonthlyViews": 9,
+      "totalViews": 124,
+      "monthly": {
+        "2025-10": 11,
+        "2025-11": 10,
+        "2025-12": 3,
+        "2026-01": 6,
+        "2026-02": 4,
+        "2026-03": 4,
+        "2026-04": 16,
+        "2026-05": 5,
+        "2026-06": 13,
+        "2026-07": 7,
+        "2026-08": 24,
+        "2026-09": 21
+      }
+    },
+    {
+      "slug": "inspektor-banks",
+      "workingTitle": "Inspektor Banks",
+      "author": "Peter Robinson",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Inspector Banks"
+      },
+      "medianMonthlyViews": 8,
+      "totalViews": 139,
+      "monthly": {
+        "2025-10": 7,
+        "2025-11": 9,
+        "2025-12": 2,
+        "2026-01": 65,
+        "2026-02": 2,
+        "2026-03": 8,
+        "2026-04": 8,
+        "2026-05": 6,
+        "2026-06": 10,
+        "2026-07": 3,
+        "2026-08": 9,
+        "2026-09": 10
+      }
+    },
+    {
+      "slug": "southern-reach",
+      "workingTitle": "Southern Reach",
+      "author": "Jeff VanderMeer",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "The Southern Reach"
+      },
+      "medianMonthlyViews": 4,
+      "totalViews": 51,
+      "monthly": {
+        "2025-10": 3,
+        "2025-11": 7,
+        "2025-12": 9,
+        "2026-01": 5,
+        "2026-02": 4,
+        "2026-03": 3,
+        "2026-04": 3,
+        "2026-05": 7,
+        "2026-06": 4,
+        "2026-07": 2,
+        "2026-08": 1,
+        "2026-09": 3
+      }
+    },
+    {
+      "slug": "bridgerton",
+      "workingTitle": "Bridgerton",
+      "author": "Julia Quinn",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Bridgerton (book series)"
+      },
+      "medianMonthlyViews": 3,
+      "totalViews": 36,
+      "monthly": {
+        "2025-10": 4,
+        "2025-11": 5,
+        "2025-12": 0,
+        "2026-01": 1,
+        "2026-02": 3,
+        "2026-03": 1,
+        "2026-04": 3,
+        "2026-05": 6,
+        "2026-06": 6,
+        "2026-07": 2,
+        "2026-08": 3,
+        "2026-09": 2
+      }
+    },
+    {
+      "slug": "pirx",
+      "workingTitle": "Pirx",
+      "author": "Stanisław Lem",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "pl",
+        "article": "Pirx"
+      },
+      "medianMonthlyViews": 2,
+      "totalViews": 28,
+      "monthly": {
+        "2025-10": 1,
+        "2025-11": 3,
+        "2025-12": 1,
+        "2026-01": 4,
+        "2026-02": 1,
+        "2026-03": 2,
+        "2026-04": 1,
+        "2026-05": 5,
+        "2026-06": 3,
+        "2026-07": 2,
+        "2026-08": 1,
+        "2026-09": 4
+      }
+    },
+    {
+      "slug": "virgil-flowers",
+      "workingTitle": "Virgil Flowers",
+      "author": "John Sandford",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Virgil Flowers"
+      },
+      "medianMonthlyViews": 0,
+      "totalViews": 20,
+      "monthly": {
+        "2025-10": 0,
+        "2025-11": 0,
+        "2025-12": 0,
+        "2026-01": 0,
+        "2026-02": 0,
+        "2026-03": 0,
+        "2026-04": 0,
+        "2026-05": 1,
+        "2026-06": 2,
+        "2026-07": 6,
+        "2026-08": 9,
+        "2026-09": 2
+      }
+    },
+    {
+      "slug": "after",
+      "workingTitle": "After",
+      "author": "Anna Todd",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "After (novel series)"
+      },
+      "medianMonthlyViews": 0,
+      "totalViews": 1,
+      "monthly": {
+        "2025-10": 0,
+        "2025-11": 0,
+        "2025-12": 0,
+        "2026-01": 1,
+        "2026-02": 0,
+        "2026-03": 0,
+        "2026-04": 0,
+        "2026-05": 0,
+        "2026-06": 0,
+        "2026-07": 0,
+        "2026-08": 0,
+        "2026-09": 0
+      }
+    },
+    {
+      "slug": "crossfire",
+      "workingTitle": "Crossfire",
+      "author": "Sylvia Day",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Crossfire (novel series)"
+      },
+      "medianMonthlyViews": 0,
+      "totalViews": 1,
+      "monthly": {
+        "2025-10": 0,
+        "2025-11": 0,
+        "2025-12": 0,
+        "2026-01": 0,
+        "2026-02": 0,
+        "2026-03": 0,
+        "2026-04": 0,
+        "2026-05": 0,
+        "2026-06": 0,
+        "2026-07": 0,
+        "2026-08": 0,
+        "2026-09": 1
+      }
+    },
+    {
+      "slug": "jason-bourne",
+      "workingTitle": "Jason Bourne",
+      "author": "Robert Ludlum",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Jason Bourne (novel series)"
+      },
+      "medianMonthlyViews": 0,
+      "totalViews": 0,
+      "monthly": {
+        "2025-10": 0,
+        "2025-11": 0,
+        "2025-12": 0,
+        "2026-01": 0,
+        "2026-02": 0,
+        "2026-03": 0,
+        "2026-04": 0,
+        "2026-05": 0,
+        "2026-06": 0,
+        "2026-07": 0,
+        "2026-08": 0,
+        "2026-09": 0
+      }
+    },
+    {
+      "slug": "red-rising",
+      "workingTitle": "Red Rising",
+      "author": "Pierce Brown",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Red Rising (novel series)"
+      },
+      "medianMonthlyViews": 0,
+      "totalViews": 0,
+      "monthly": {
+        "2025-10": 0,
+        "2025-11": 0,
+        "2025-12": 0,
+        "2026-01": 0,
+        "2026-02": 0,
+        "2026-03": 0,
+        "2026-04": 0,
+        "2026-05": 0,
+        "2026-06": 0,
+        "2026-07": 0,
+        "2026-08": 0,
+        "2026-09": 0
+      }
+    },
+    {
+      "slug": "skyward",
+      "workingTitle": "Skyward",
+      "author": "Brandon Sanderson",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Skyward series"
+      },
+      "medianMonthlyViews": 0,
+      "totalViews": 0,
+      "monthly": {
+        "2025-10": 0,
+        "2025-11": 0,
+        "2025-12": 0,
+        "2026-01": 0,
+        "2026-02": 0,
+        "2026-03": 0,
+        "2026-04": 0,
+        "2026-05": 0,
+        "2026-06": 0,
+        "2026-07": 0,
+        "2026-08": 0,
+        "2026-09": 0
+      }
+    },
+    {
+      "slug": "upadli",
+      "workingTitle": "Upadli",
+      "author": "Lauren Kate",
+      "existingSlug": null,
+      "status": "ok",
+      "resolved": {
+        "project": "en",
+        "article": "Fallen (novel series)"
+      },
+      "medianMonthlyViews": 0,
+      "totalViews": 0,
+      "monthly": {
+        "2025-10": 0,
+        "2025-11": 0,
+        "2025-12": 0,
+        "2026-01": 0,
+        "2026-02": 0,
+        "2026-03": 0,
+        "2026-04": 0,
+        "2026-05": 0,
+        "2026-06": 0,
+        "2026-07": 0,
+        "2026-08": 0,
+        "2026-09": 0
+      }
+    }
+  ]
+}

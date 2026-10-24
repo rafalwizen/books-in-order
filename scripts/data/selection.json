@@ -1,0 +1,1014 @@
+{
+  "generatedAt": "2026-10-24T13:54:38.485Z",
+  "window": {
+    "from": "2025-10",
+    "to": "2026-09"
+  },
+  "selected": [
+    {
+      "rank": 1,
+      "slug": "dungeon-crawler-carl",
+      "workingTitle": "Dungeon Crawler Carl",
+      "author": "Matt Dinniman",
+      "medianMonthlyViews": 246580,
+      "source": "en.wikipedia/wiki/Dungeon Crawler Carl"
+    },
+    {
+      "rank": 2,
+      "slug": "sad-cierni-i-roz",
+      "workingTitle": "Sąd cierni i róż",
+      "author": "Sarah J. Maas",
+      "medianMonthlyViews": 104401,
+      "source": "en.wikipedia/wiki/A Court of Thorns and Roses"
+    },
+    {
+      "rank": 3,
+      "slug": "czwarte-skrzydlo",
+      "workingTitle": "Czwarte skrzydło",
+      "author": "Rebecca Yarros",
+      "medianMonthlyViews": 86934,
+      "source": "en.wikipedia/wiki/Fourth Wing"
+    },
+    {
+      "rank": 4,
+      "slug": "kolo-czasu",
+      "workingTitle": "Koło Czasu",
+      "author": "Robert Jordan",
+      "medianMonthlyViews": 86183,
+      "source": "en.wikipedia/wiki/The Wheel of Time"
+    },
+    {
+      "rank": 5,
+      "slug": "opowiesci-z-narnii",
+      "workingTitle": "Opowieści z Narnii",
+      "author": "C.S. Lewis",
+      "medianMonthlyViews": 81539,
+      "source": "en.wikipedia/wiki/The Chronicles of Narnia"
+    },
+    {
+      "rank": 6,
+      "slug": "zrodzony-z-mgly",
+      "workingTitle": "Zrodzony z mgły",
+      "author": "Brandon Sanderson",
+      "medianMonthlyViews": 73150,
+      "source": "en.wikipedia/wiki/Mistborn"
+    },
+    {
+      "rank": 7,
+      "slug": "archiwum-burzy",
+      "workingTitle": "Archiwum Burz",
+      "author": "Brandon Sanderson",
+      "medianMonthlyViews": 70181,
+      "source": "en.wikipedia/wiki/The Stormlight Archive"
+    },
+    {
+      "rank": 8,
+      "slug": "tron-ze-szkla",
+      "workingTitle": "Tron ze szkła",
+      "author": "Sarah J. Maas",
+      "medianMonthlyViews": 69221,
+      "source": "en.wikipedia/wiki/Throne of Glass"
+    },
+    {
+      "rank": 9,
+      "slug": "autostopem-przez-galaktyke",
+      "workingTitle": "Autostopem przez Galaktykę",
+      "author": "Douglas Adams",
+      "medianMonthlyViews": 67778,
+      "source": "en.wikipedia/wiki/The Hitchhiker's Guide to the Galaxy"
+    },
+    {
+      "rank": 10,
+      "slug": "percy-jackson",
+      "workingTitle": "Percy Jackson",
+      "author": "Rick Riordan",
+      "medianMonthlyViews": 62707,
+      "source": "en.wikipedia/wiki/Percy Jackson & the Olympians"
+    },
+    {
+      "rank": 11,
+      "slug": "ekspansja",
+      "workingTitle": "Ekspansja",
+      "author": "James S.A. Corey",
+      "medianMonthlyViews": 62340,
+      "source": "en.wikipedia/wiki/The Expanse (novel series)"
+    },
+    {
+      "rank": 12,
+      "slug": "dzienniki-murderbota",
+      "workingTitle": "Dzienniki Murderbota",
+      "author": "Martha Wells",
+      "medianMonthlyViews": 53331,
+      "source": "en.wikipedia/wiki/The Murderbot Diaries"
+    },
+    {
+      "rank": 13,
+      "slug": "ania-z-zielonego-wzgorza",
+      "workingTitle": "Ania z Zielonego Wzgórza",
+      "author": "Lucy Maud Montgomery",
+      "medianMonthlyViews": 52429,
+      "source": "en.wikipedia/wiki/Anne of Green Gables"
+    },
+    {
+      "rank": 14,
+      "slug": "dziennik-cwaniaczka",
+      "workingTitle": "Dziennik cwaniaczka",
+      "author": "Jeff Kinney",
+      "medianMonthlyViews": 48711,
+      "source": "en.wikipedia/wiki/Diary of a Wimpy Kid"
+    },
+    {
+      "rank": 15,
+      "slug": "herkules-poirot",
+      "workingTitle": "Herkules Poirot",
+      "author": "Agatha Christie",
+      "medianMonthlyViews": 45151,
+      "source": "en.wikipedia/wiki/Hercule Poirot"
+    },
+    {
+      "rank": 16,
+      "slug": "mroczna-wieza",
+      "workingTitle": "Mroczna Wieża",
+      "author": "Stephen King",
+      "medianMonthlyViews": 43632,
+      "source": "en.wikipedia/wiki/The Dark Tower (series)"
+    },
+    {
+      "rank": 17,
+      "slug": "saga-forsyteow",
+      "workingTitle": "Saga rodu Forsyte'ów",
+      "author": "John Galsworthy",
+      "medianMonthlyViews": 43026,
+      "source": "en.wikipedia/wiki/The Forsyte Saga"
+    },
+    {
+      "rank": 18,
+      "slug": "malazanska-ksiega-poleglych",
+      "workingTitle": "Malazańska Księga Poległych",
+      "author": "Steven Erikson",
+      "medianMonthlyViews": 41723,
+      "source": "en.wikipedia/wiki/Malazan Book of the Fallen"
+    },
+    {
+      "rank": 19,
+      "slug": "mroczne-materie",
+      "workingTitle": "Mroczne materie",
+      "author": "Philip Pullman",
+      "medianMonthlyViews": 40598,
+      "source": "en.wikipedia/wiki/His Dark Materials"
+    },
+    {
+      "rank": 20,
+      "slug": "akta-dresdena",
+      "workingTitle": "Akta Dresdena",
+      "author": "Jim Butcher",
+      "medianMonthlyViews": 40348,
+      "source": "en.wikipedia/wiki/The Dresden Files"
+    },
+    {
+      "rank": 21,
+      "slug": "kroniki-wampirow",
+      "workingTitle": "Kroniki wampirów",
+      "author": "Anne Rice",
+      "medianMonthlyViews": 39091,
+      "source": "en.wikipedia/wiki/The Vampire Chronicles"
+    },
+    {
+      "rank": 22,
+      "slug": "pierwsze-prawo",
+      "workingTitle": "Pierwsze Prawo",
+      "author": "Joe Abercrombie",
+      "medianMonthlyViews": 35867,
+      "source": "en.wikipedia/wiki/The First Law"
+    },
+    {
+      "rank": 23,
+      "slug": "conan",
+      "workingTitle": "Conan",
+      "author": "Robert E. Howard",
+      "medianMonthlyViews": 33356,
+      "source": "en.wikipedia/wiki/Conan the Barbarian"
+    },
+    {
+      "rank": 24,
+      "slug": "cormoran-strike",
+      "workingTitle": "Cormoran Strike",
+      "author": "Robert Galbraith",
+      "medianMonthlyViews": 33032,
+      "source": "en.wikipedia/wiki/Cormoran Strike"
+    },
+    {
+      "rank": 25,
+      "slug": "wojownicy",
+      "workingTitle": "Wojownicy",
+      "author": "Erin Hunter",
+      "medianMonthlyViews": 32071,
+      "source": "en.wikipedia/wiki/Warriors (novel series)"
+    },
+    {
+      "rank": 26,
+      "slug": "mis-paddington",
+      "workingTitle": "Miś Paddington",
+      "author": "Michael Bond",
+      "medianMonthlyViews": 31394,
+      "source": "en.wikipedia/wiki/Paddington Bear"
+    },
+    {
+      "rank": 27,
+      "slug": "tarzan",
+      "workingTitle": "Tarzan",
+      "author": "Edgar Rice Burroughs",
+      "medianMonthlyViews": 30935,
+      "source": "en.wikipedia/wiki/Tarzan"
+    },
+    {
+      "rank": 28,
+      "slug": "problem-trzech-cial",
+      "workingTitle": "Trylogia Trzech Ciał",
+      "author": "Cixin Liu",
+      "medianMonthlyViews": 30818,
+      "source": "en.wikipedia/wiki/Remembrance of Earth's Past"
+    },
+    {
+      "rank": 29,
+      "slug": "kultura",
+      "workingTitle": "Kultura",
+      "author": "Iain M. Banks",
+      "medianMonthlyViews": 30712,
+      "source": "en.wikipedia/wiki/Culture series"
+    },
+    {
+      "rank": 30,
+      "slug": "pippi",
+      "workingTitle": "Pippi Postrzegalna",
+      "author": "Astrid Lindgren",
+      "medianMonthlyViews": 27857,
+      "source": "en.wikipedia/wiki/Pippi Longstocking"
+    },
+    {
+      "rank": 31,
+      "slug": "kingsbridge",
+      "workingTitle": "Kingsbridge",
+      "author": "Ken Follett",
+      "medianMonthlyViews": 27098,
+      "source": "en.wikipedia/wiki/The Pillars of the Earth"
+    },
+    {
+      "rank": 32,
+      "slug": "kronika-krolobojcy",
+      "workingTitle": "Kronika Królobójcy",
+      "author": "Patrick Rothfuss",
+      "medianMonthlyViews": 26008,
+      "source": "en.wikipedia/wiki/The Kingkiller Chronicle"
+    },
+    {
+      "rank": 33,
+      "slug": "aubrey-maturin",
+      "workingTitle": "Aubrey i Maturin",
+      "author": "Patrick O'Brian",
+      "medianMonthlyViews": 24930,
+      "source": "en.wikipedia/wiki/Aubrey–Maturin series"
+    },
+    {
+      "rank": 34,
+      "slug": "miss-marple",
+      "workingTitle": "Miss Marple",
+      "author": "Agatha Christie",
+      "medianMonthlyViews": 23342,
+      "source": "en.wikipedia/wiki/Miss Marple"
+    },
+    {
+      "rank": 35,
+      "slug": "skrzydla-ognia",
+      "workingTitle": "Skrzydła ognia",
+      "author": "Tui T. Sutherland",
+      "medianMonthlyViews": 22218,
+      "source": "en.wikipedia/wiki/Wings of Fire (novel series)"
+    },
+    {
+      "rank": 36,
+      "slug": "sharpe",
+      "workingTitle": "Sharpe",
+      "author": "Bernard Cornwell",
+      "medianMonthlyViews": 22123,
+      "source": "en.wikipedia/wiki/Sharpe (novel series)"
+    },
+    {
+      "rank": 37,
+      "slug": "redwall",
+      "workingTitle": "Redwall",
+      "author": "Brian Jacques",
+      "medianMonthlyViews": 21734,
+      "source": "en.wikipedia/wiki/Redwall"
+    },
+    {
+      "rank": 38,
+      "slug": "sherlock-holmes",
+      "workingTitle": "Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "medianMonthlyViews": 21194,
+      "source": "en.wikipedia/wiki/Canon of Sherlock Holmes"
+    },
+    {
+      "rank": 39,
+      "slug": "hyperion",
+      "workingTitle": "Hyperion",
+      "author": "Dan Simmons",
+      "medianMonthlyViews": 21136,
+      "source": "en.wikipedia/wiki/Hyperion Cantos"
+    },
+    {
+      "rank": 40,
+      "slug": "nancy-drew",
+      "workingTitle": "Nancy Drew",
+      "author": "Carolyn Keene",
+      "medianMonthlyViews": 20076,
+      "source": "en.wikipedia/wiki/Nancy Drew"
+    },
+    {
+      "rank": 41,
+      "slug": "magic-tree-house",
+      "workingTitle": "Magic Tree House",
+      "author": "Mary Pope Osborne",
+      "medianMonthlyViews": 19908,
+      "source": "en.wikipedia/wiki/Magic Tree House"
+    },
+    {
+      "rank": 42,
+      "slug": "millennium",
+      "workingTitle": "Millennium",
+      "author": "Stieg Larsson",
+      "medianMonthlyViews": 19593,
+      "source": "en.wikipedia/wiki/Millennium (novel series)"
+    },
+    {
+      "rank": 43,
+      "slug": "chylka",
+      "workingTitle": "Joanna Chyłka",
+      "author": "Remigiusz Mróz",
+      "medianMonthlyViews": 19369,
+      "source": "pl.wikipedia/wiki/Remigiusz Mróz"
+    },
+    {
+      "rank": 44,
+      "slug": "crescent-city",
+      "workingTitle": "Crescent City",
+      "author": "Sarah J. Maas",
+      "medianMonthlyViews": 18799,
+      "source": "en.wikipedia/wiki/Crescent City (novel series)"
+    },
+    {
+      "rank": 45,
+      "slug": "wiezien-labiryntu",
+      "workingTitle": "Więzień labiryntu",
+      "author": "James Dashner",
+      "medianMonthlyViews": 18641,
+      "source": "en.wikipedia/wiki/The Maze Runner"
+    },
+    {
+      "rank": 46,
+      "slug": "amos-decker",
+      "workingTitle": "Amos Decker",
+      "author": "David Baldacci",
+      "medianMonthlyViews": 18315,
+      "source": "en.wikipedia/wiki/David Baldacci"
+    },
+    {
+      "rank": 47,
+      "slug": "will-robie",
+      "workingTitle": "Will Robie",
+      "author": "David Baldacci",
+      "medianMonthlyViews": 18315,
+      "source": "en.wikipedia/wiki/David Baldacci"
+    },
+    {
+      "rank": 48,
+      "slug": "czarna-kompania",
+      "workingTitle": "Czarna Kompania",
+      "author": "Glen Cook",
+      "medianMonthlyViews": 17283,
+      "source": "en.wikipedia/wiki/The Black Company"
+    },
+    {
+      "rank": 49,
+      "slug": "kapitan-majtas",
+      "workingTitle": "Kapitan Majtas",
+      "author": "Dav Pilkey",
+      "medianMonthlyViews": 16974,
+      "source": "en.wikipedia/wiki/Captain Underpants"
+    },
+    {
+      "rank": 50,
+      "slug": "dog-man",
+      "workingTitle": "Dog Man",
+      "author": "Dav Pilkey",
+      "medianMonthlyViews": 16350,
+      "source": "en.wikipedia/wiki/Dog Man"
+    },
+    {
+      "rank": 51,
+      "slug": "harry-bosch",
+      "workingTitle": "Harry Bosch",
+      "author": "Michael Connelly",
+      "medianMonthlyViews": 15394,
+      "source": "en.wikipedia/wiki/Harry Bosch"
+    },
+    {
+      "rank": 52,
+      "slug": "bracia-hardy",
+      "workingTitle": "Bracia Hardy",
+      "author": "Franklin W. Dixon",
+      "medianMonthlyViews": 15257,
+      "source": "en.wikipedia/wiki/The Hardy Boys"
+    },
+    {
+      "rank": 53,
+      "slug": "kroniki-saskie",
+      "workingTitle": "Kroniki saskie",
+      "author": "Bernard Cornwell",
+      "medianMonthlyViews": 14498,
+      "source": "en.wikipedia/wiki/The Saxon Stories"
+    },
+    {
+      "rank": 54,
+      "slug": "cykl-dziedzictwa",
+      "workingTitle": "Cykl Dziedzictwa",
+      "author": "Christopher Paolini",
+      "medianMonthlyViews": 14435,
+      "source": "en.wikipedia/wiki/The Inheritance Cycle"
+    },
+    {
+      "rank": 55,
+      "slug": "poldark",
+      "workingTitle": "Poldark",
+      "author": "Winston Graham",
+      "medianMonthlyViews": 14179,
+      "source": "en.wikipedia/wiki/Poldark"
+    },
+    {
+      "rank": 56,
+      "slug": "alex-rider",
+      "workingTitle": "Alex Rider",
+      "author": "Anthony Horowitz",
+      "medianMonthlyViews": 14050,
+      "source": "en.wikipedia/wiki/Alex Rider"
+    },
+    {
+      "rank": 57,
+      "slug": "hornblower",
+      "workingTitle": "Horatio Hornblower",
+      "author": "C.S. Forester",
+      "medianMonthlyViews": 13768,
+      "source": "en.wikipedia/wiki/Horatio Hornblower"
+    },
+    {
+      "rank": 58,
+      "slug": "wiedzmy-z-mayfair",
+      "workingTitle": "Wiedźmy z Mayfair",
+      "author": "Anne Rice",
+      "medianMonthlyViews": 13648,
+      "source": "en.wikipedia/wiki/Lives of the Mayfair Witches"
+    },
+    {
+      "rank": 59,
+      "slug": "alex-cross",
+      "workingTitle": "Alex Cross",
+      "author": "James Patterson",
+      "medianMonthlyViews": 13225,
+      "source": "en.wikipedia/wiki/Alex Cross"
+    },
+    {
+      "rank": 60,
+      "slug": "bohaterowie-olimpu",
+      "workingTitle": "Bohaterowie Olimpu",
+      "author": "Rick Riordan",
+      "medianMonthlyViews": 12988,
+      "source": "en.wikipedia/wiki/The Heroes of Olympus"
+    },
+    {
+      "rank": 61,
+      "slug": "jezdncy-smokow-z-pern",
+      "workingTitle": "Jeźdźcy smoków z Pern",
+      "author": "Anne McCaffrey",
+      "medianMonthlyViews": 12387,
+      "source": "en.wikipedia/wiki/Dragonriders of Pern"
+    },
+    {
+      "rank": 62,
+      "slug": "geronimo-stilton",
+      "workingTitle": "Geronimo Stilton",
+      "author": "Geronimo Stilton",
+      "medianMonthlyViews": 12236,
+      "source": "en.wikipedia/wiki/Geronimo Stilton"
+    },
+    {
+      "rank": 63,
+      "slug": "kroniki-prydainu",
+      "workingTitle": "Kroniki Prydainu",
+      "author": "Lloyd Alexander",
+      "medianMonthlyViews": 12071,
+      "source": "en.wikipedia/wiki/The Chronicles of Prydain"
+    },
+    {
+      "rank": 64,
+      "slug": "miecz-prawdy",
+      "workingTitle": "Miecz Prawdy",
+      "author": "Terry Goodkind",
+      "medianMonthlyViews": 12015,
+      "source": "en.wikipedia/wiki/The Sword of Truth"
+    },
+    {
+      "rank": 65,
+      "slug": "pamietniki-wampirow",
+      "workingTitle": "Pamiętniki wampirów",
+      "author": "L.J. Smith",
+      "medianMonthlyViews": 11959,
+      "source": "en.wikipedia/wiki/The Vampire Diaries (novel series)"
+    },
+    {
+      "rank": 66,
+      "slug": "harry-hole",
+      "workingTitle": "Harry Hole",
+      "author": "Jo Nesbø",
+      "medianMonthlyViews": 11425,
+      "source": "en.wikipedia/wiki/Harry Hole"
+    },
+    {
+      "rank": 67,
+      "slug": "wydzial-q",
+      "workingTitle": "Wydział Q",
+      "author": "Jussi Adler-Olsen",
+      "medianMonthlyViews": 11203,
+      "source": "en.wikipedia/wiki/Department Q"
+    },
+    {
+      "rank": 68,
+      "slug": "skulduggery-pleasant",
+      "workingTitle": "Skulduggery Pleasant",
+      "author": "Derek Landy",
+      "medianMonthlyViews": 10852,
+      "source": "en.wikipedia/wiki/Skulduggery Pleasant"
+    },
+    {
+      "rank": 69,
+      "slug": "ojciec-brown",
+      "workingTitle": "Ojciec Brown",
+      "author": "G.K. Chesterton",
+      "medianMonthlyViews": 10441,
+      "source": "en.wikipedia/wiki/Father Brown"
+    },
+    {
+      "rank": 70,
+      "slug": "jeeves",
+      "workingTitle": "Jeeves",
+      "author": "P.G. Wodehouse",
+      "medianMonthlyViews": 10325,
+      "source": "en.wikipedia/wiki/Jeeves"
+    },
+    {
+      "rank": 71,
+      "slug": "kay-scarpetta",
+      "workingTitle": "Kay Scarpetta",
+      "author": "Patricia Cornwell",
+      "medianMonthlyViews": 10293,
+      "source": "en.wikipedia/wiki/Kay Scarpetta"
+    },
+    {
+      "rank": 72,
+      "slug": "trylogia-marsjanska",
+      "workingTitle": "Trylogia marsjańska",
+      "author": "Kim Stanley Robinson",
+      "medianMonthlyViews": 10075,
+      "source": "en.wikipedia/wiki/Mars trilogy"
+    },
+    {
+      "rank": 73,
+      "slug": "barsoom",
+      "workingTitle": "Barsoom",
+      "author": "Edgar Rice Burroughs",
+      "medianMonthlyViews": 10025,
+      "source": "en.wikipedia/wiki/Barsoom"
+    },
+    {
+      "rank": 74,
+      "slug": "mickey-haller",
+      "workingTitle": "Mickey Haller",
+      "author": "Michael Connelly",
+      "medianMonthlyViews": 10020,
+      "source": "en.wikipedia/wiki/Mickey Haller"
+    },
+    {
+      "rank": 75,
+      "slug": "zwiadowca",
+      "workingTitle": "Zwiadowca",
+      "author": "John Flanagan",
+      "medianMonthlyViews": 9846,
+      "source": "en.wikipedia/wiki/Ranger's Apprentice"
+    },
+    {
+      "rank": 76,
+      "slug": "sookie-stackhouse",
+      "workingTitle": "Sookie Stackhouse",
+      "author": "Charlaine Harris",
+      "medianMonthlyViews": 9704,
+      "source": "en.wikipedia/wiki/The Southern Vampire Mysteries"
+    },
+    {
+      "rank": 77,
+      "slug": "mary-poppins",
+      "workingTitle": "Mary Poppins",
+      "author": "P.L. Travers",
+      "medianMonthlyViews": 9185,
+      "source": "en.wikipedia/wiki/Mary Poppins (book series)"
+    },
+    {
+      "rank": 78,
+      "slug": "proby-apolona",
+      "workingTitle": "Próby Apollona",
+      "author": "Rick Riordan",
+      "medianMonthlyViews": 9082,
+      "source": "en.wikipedia/wiki/The Trials of Apollo"
+    },
+    {
+      "rank": 79,
+      "slug": "kraina-oz",
+      "workingTitle": "Kraina Oz",
+      "author": "L. Frank Baum",
+      "medianMonthlyViews": 8689,
+      "source": "en.wikipedia/wiki/Land of Oz"
+    },
+    {
+      "rank": 80,
+      "slug": "inspektor-morse",
+      "workingTitle": "Inspektor Morse",
+      "author": "Colin Dexter",
+      "medianMonthlyViews": 8301,
+      "source": "en.wikipedia/wiki/Inspector Morse"
+    },
+    {
+      "rank": 81,
+      "slug": "muminki",
+      "workingTitle": "Muminki",
+      "author": "Tove Jansson",
+      "medianMonthlyViews": 8284,
+      "source": "pl.wikipedia/wiki/Muminki"
+    },
+    {
+      "rank": 82,
+      "slug": "biuro-nr-1",
+      "workingTitle": "Dam detektyw nr 1",
+      "author": "Alexander McCall Smith",
+      "medianMonthlyViews": 8262,
+      "source": "en.wikipedia/wiki/The No. 1 Ladies' Detective Agency"
+    },
+    {
+      "rank": 83,
+      "slug": "kroniki-spiderwick",
+      "workingTitle": "Kroniki Spiderwick",
+      "author": "Holly Black",
+      "medianMonthlyViews": 8223,
+      "source": "en.wikipedia/wiki/The Spiderwick Chronicles"
+    },
+    {
+      "rank": 84,
+      "slug": "piecdziesiat-twarzy-greya",
+      "workingTitle": "Pięćdziesiąt twarzy Greya",
+      "author": "E.L. James",
+      "medianMonthlyViews": 8133,
+      "source": "en.wikipedia/wiki/Fifty Shades (novel series)"
+    },
+    {
+      "rank": 85,
+      "slug": "39-clues",
+      "workingTitle": "39 Clues",
+      "author": "różni autorzy",
+      "medianMonthlyViews": 8114,
+      "source": "en.wikipedia/wiki/The 39 Clues"
+    },
+    {
+      "rank": 86,
+      "slug": "dork-diaries",
+      "workingTitle": "Dork Diaries",
+      "author": "Rachel Renée Russell",
+      "medianMonthlyViews": 7511,
+      "source": "en.wikipedia/wiki/Dork Diaries"
+    },
+    {
+      "rank": 87,
+      "slug": "locked-tomb",
+      "workingTitle": "The Locked Tomb",
+      "author": "Tamsyn Muir",
+      "medianMonthlyViews": 7476,
+      "source": "en.wikipedia/wiki/The Locked Tomb"
+    },
+    {
+      "rank": 88,
+      "slug": "sprawl",
+      "workingTitle": "Trylogia Sprawla",
+      "author": "William Gibson",
+      "medianMonthlyViews": 7453,
+      "source": "en.wikipedia/wiki/Sprawl trilogy"
+    },
+    {
+      "rank": 89,
+      "slug": "belgariada",
+      "workingTitle": "Belgariada",
+      "author": "David Eddings",
+      "medianMonthlyViews": 7441,
+      "source": "en.wikipedia/wiki/The Belgariad"
+    },
+    {
+      "rank": 90,
+      "slug": "kroniki-amberu",
+      "workingTitle": "Kroniki Amberu",
+      "author": "Roger Zelazny",
+      "medianMonthlyViews": 7330,
+      "source": "en.wikipedia/wiki/The Chronicles of Amber"
+    },
+    {
+      "rank": 91,
+      "slug": "temeraire",
+      "workingTitle": "Temeraire",
+      "author": "Naomi Novik",
+      "medianMonthlyViews": 7292,
+      "source": "en.wikipedia/wiki/Temeraire (series)"
+    },
+    {
+      "rank": 92,
+      "slug": "unwind",
+      "workingTitle": "Unwind",
+      "author": "Neal Shusterman",
+      "medianMonthlyViews": 7182,
+      "source": "en.wikipedia/wiki/Unwind (novel)"
+    },
+    {
+      "rank": 93,
+      "slug": "malory-towers",
+      "workingTitle": "Malory Towers",
+      "author": "Enid Blyton",
+      "medianMonthlyViews": 7155,
+      "source": "en.wikipedia/wiki/Malory Towers"
+    },
+    {
+      "rank": 94,
+      "slug": "wielki-nate",
+      "workingTitle": "Wielki Nate",
+      "author": "Lincoln Peirce",
+      "medianMonthlyViews": 7041,
+      "source": "en.wikipedia/wiki/Big Nate"
+    },
+    {
+      "rank": 95,
+      "slug": "straznicy-gahool",
+      "workingTitle": "Strażnicy Ga'Hoole",
+      "author": "Kathryn Lasky",
+      "medianMonthlyViews": 6893,
+      "source": "en.wikipedia/wiki/Guardians of Ga'Hoole"
+    },
+    {
+      "rank": 96,
+      "slug": "nero-wolfe",
+      "workingTitle": "Nero Wolfe",
+      "author": "Rex Stout",
+      "medianMonthlyViews": 6858,
+      "source": "en.wikipedia/wiki/Nero Wolfe"
+    },
+    {
+      "rank": 97,
+      "slug": "lord-peter-wimsey",
+      "workingTitle": "Lord Peter Wimsey",
+      "author": "Dorothy L. Sayers",
+      "medianMonthlyViews": 6852,
+      "source": "en.wikipedia/wiki/Lord Peter Wimsey"
+    },
+    {
+      "rank": 98,
+      "slug": "adam-dalgliesh",
+      "workingTitle": "Adam Dalgliesh",
+      "author": "P.D. James",
+      "medianMonthlyViews": 6811,
+      "source": "en.wikipedia/wiki/Adam Dalgliesh"
+    },
+    {
+      "rank": 99,
+      "slug": "jack-reacher",
+      "workingTitle": "Jack Reacher",
+      "author": "Lee Child",
+      "medianMonthlyViews": 6370,
+      "source": "en.wikipedia/wiki/Jack Reacher (book series)"
+    },
+    {
+      "rank": 100,
+      "slug": "maximum-ride",
+      "workingTitle": "Maximum Ride",
+      "author": "James Patterson",
+      "medianMonthlyViews": 6277,
+      "source": "en.wikipedia/wiki/Maximum Ride"
+    }
+  ],
+  "reserve": [
+    {
+      "rank": 101,
+      "slug": "komedia-ludzka",
+      "workingTitle": "Komedia ludzka",
+      "author": "Honoré de Balzac",
+      "medianMonthlyViews": 6243,
+      "source": "en.wikipedia/wiki/La Comédie humaine"
+    },
+    {
+      "rank": 102,
+      "slug": "shannara",
+      "workingTitle": "Shannara",
+      "author": "Terry Brooks",
+      "medianMonthlyViews": 5912,
+      "source": "en.wikipedia/wiki/Shannara"
+    },
+    {
+      "rank": 103,
+      "slug": "the-strain",
+      "workingTitle": "The Strain",
+      "author": "Guillermo del Toro",
+      "medianMonthlyViews": 5877,
+      "source": "en.wikipedia/wiki/The Strain"
+    },
+    {
+      "rank": 104,
+      "slug": "do-wszystkich-chlopow",
+      "workingTitle": "Do wszystkich chłopaków, których kochałam",
+      "author": "Jenny Han",
+      "medianMonthlyViews": 5868,
+      "source": "en.wikipedia/wiki/To All the Boys I've Loved Before"
+    },
+    {
+      "rank": 105,
+      "slug": "flashman",
+      "workingTitle": "Flashman",
+      "author": "George MacDonald Fraser",
+      "medianMonthlyViews": 5695,
+      "source": "en.wikipedia/wiki/The Flashman Papers"
+    },
+    {
+      "rank": 106,
+      "slug": "kroniki-kane",
+      "workingTitle": "Kroniki Kane",
+      "author": "Rick Riordan",
+      "medianMonthlyViews": 5640,
+      "source": "en.wikipedia/wiki/The Kane Chronicles"
+    },
+    {
+      "rank": 107,
+      "slug": "in-death",
+      "workingTitle": "In Death",
+      "author": "J.D. Robb",
+      "medianMonthlyViews": 5637,
+      "source": "en.wikipedia/wiki/In Death"
+    },
+    {
+      "rank": 108,
+      "slug": "mitch-rapp",
+      "workingTitle": "Mitch Rapp",
+      "author": "Vince Flynn",
+      "medianMonthlyViews": 5602,
+      "source": "en.wikipedia/wiki/Mitch Rapp"
+    },
+    {
+      "rank": 109,
+      "slug": "odyseja-kosmiczna",
+      "workingTitle": "Odyseja kosmiczna",
+      "author": "Arthur C. Clarke",
+      "medianMonthlyViews": 5469,
+      "source": "en.wikipedia/wiki/Space Odyssey"
+    },
+    {
+      "rank": 110,
+      "slug": "rougon-macquart",
+      "workingTitle": "Rougon-Macquart",
+      "author": "Émile Zola",
+      "medianMonthlyViews": 5344,
+      "source": "en.wikipedia/wiki/Les Rougon-Macquart"
+    },
+    {
+      "rank": 111,
+      "slug": "krolowie-przekleci",
+      "workingTitle": "Królowie przeklęci",
+      "author": "Maurice Druon",
+      "medianMonthlyViews": 5328,
+      "source": "en.wikipedia/wiki/The Accursed Kings"
+    },
+    {
+      "rank": 112,
+      "slug": "dzieci-ziemi",
+      "workingTitle": "Dzieci Ziemi",
+      "author": "Jean M. Auel",
+      "medianMonthlyViews": 5304,
+      "source": "en.wikipedia/wiki/Earth's Children"
+    },
+    {
+      "rank": 113,
+      "slug": "wojna-starego-czlowieka",
+      "workingTitle": "Wojna starego człowieka",
+      "author": "John Scalzi",
+      "medianMonthlyViews": 5222,
+      "source": "en.wikipedia/wiki/Old Man's War series"
+    },
+    {
+      "rank": 114,
+      "slug": "dirk-pitt",
+      "workingTitle": "Dirk Pitt",
+      "author": "Clive Cussler",
+      "medianMonthlyViews": 5177,
+      "source": "en.wikipedia/wiki/Dirk Pitt"
+    },
+    {
+      "rank": 115,
+      "slug": "saga-wojny-magow",
+      "workingTitle": "Saga Wojny Magów",
+      "author": "Raymond E. Feist",
+      "medianMonthlyViews": 4738,
+      "source": "en.wikipedia/wiki/The Riftwar Saga"
+    },
+    {
+      "rank": 116,
+      "slug": "cherub",
+      "workingTitle": "CHERUB",
+      "author": "Robert Muchamore",
+      "medianMonthlyViews": 4645,
+      "source": "en.wikipedia/wiki/CHERUB"
+    },
+    {
+      "rank": 117,
+      "slug": "magnus-chase",
+      "workingTitle": "Magnus Chase i bogowie Asgardu",
+      "author": "Rick Riordan",
+      "medianMonthlyViews": 4638,
+      "source": "en.wikipedia/wiki/Magnus Chase and the Gods of Asgard"
+    },
+    {
+      "rank": 118,
+      "slug": "selekcja",
+      "workingTitle": "Selekcja",
+      "author": "Kiera Cass",
+      "medianMonthlyViews": 4621,
+      "source": "en.wikipedia/wiki/The Selection"
+    },
+    {
+      "rank": 119,
+      "slug": "anita-blake",
+      "workingTitle": "Anita Blake",
+      "author": "Laurell K. Hamilton",
+      "medianMonthlyViews": 4619,
+      "source": "en.wikipedia/wiki/Anita Blake: Vampire Hunter"
+    },
+    {
+      "rank": 120,
+      "slug": "sekretna-siodemka",
+      "workingTitle": "Sekretna siódemka",
+      "author": "Enid Blyton",
+      "medianMonthlyViews": 4551,
+      "source": "en.wikipedia/wiki/The Secret Seven"
+    }
+  ],
+  "unresolved": [],
+  "skipped": [
+    {
+      "slug": "harry-potter",
+      "reason": "already exists on site"
+    },
+    {
+      "slug": "gra-o-tron",
+      "reason": "already exists on site"
+    },
+    {
+      "slug": "wladca-pierscieni",
+      "reason": "already exists on site"
+    },
+    {
+      "slug": "diuma",
+      "reason": "already exists on site"
+    },
+    {
+      "slug": "cykl-fundacji",
+      "reason": "already exists on site"
+    },
+    {
+      "slug": "zmierzch",
+      "reason": "already exists on site"
+    },
+    {
+      "slug": "ziemiomorze",
+      "reason": "already exists on site"
+    },
+    {
+      "slug": "wiedzmin",
+      "reason": "already exists on site"
+    },
+    {
+      "slug": "swiat-dysku",
+      "reason": "already exists on site"
+    },
+    {
+      "slug": "igrzyska-smierci",
+      "reason": "already exists on site"
+    }
+  ]
+}
