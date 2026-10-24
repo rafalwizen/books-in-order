@@ -9,7 +9,9 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "rank:series": "node scripts/rank-series.mjs",
+    "verify:series": "node scripts/verify-series.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.3",

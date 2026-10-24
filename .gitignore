@@ -3,6 +3,9 @@ dist/
 # generated types
 .astro/
 
+# data pipeline HTTP cache
+scripts/data/cache/
+
 # dependencies
 node_modules/
 

@@ -1,0 +1,76 @@
+{
+  "series": [
+    {
+      "slug": "swiat-dysku",
+      "title": "Świat Dysku",
+      "aliases": ["Discworld"],
+      "wiki": {
+        "project": "pl",
+        "article": "Świat Dysku",
+        "fallbacks": [{ "project": "en", "article": "Discworld" }]
+      }
+    },
+    {
+      "slug": "wiedzmin",
+      "title": "Wiedźmin",
+      "aliases": ["The Witcher"],
+      "wiki": {
+        "project": "pl",
+        "article": "Wiedźmin",
+        "fallbacks": [{ "project": "en", "article": "The Witcher" }]
+      }
+    },
+    {
+      "slug": "harry-potter",
+      "title": "Harry Potter",
+      "aliases": [],
+      "wiki": { "project": "en", "article": "Harry Potter" }
+    },
+    {
+      "slug": "wladca-pierscieni",
+      "title": "Władca Pierścieni",
+      "aliases": ["The Lord of the Rings"],
+      "wiki": { "project": "en", "article": "The Lord of the Rings" }
+    },
+    {
+      "slug": "gra-o-tron",
+      "title": "Pieśń Lodu i Ognia",
+      "aliases": ["A Song of Ice and Fire", "Game of Thrones"],
+      "wiki": { "project": "en", "article": "A Song of Ice and Fire" }
+    },
+    {
+      "slug": "diuma",
+      "title": "Diuna",
+      "aliases": ["Dune"],
+      "wiki": {
+        "project": "en",
+        "article": "Dune (franchise)",
+        "fallbacks": [{ "project": "en", "article": "Dune (novel)" }]
+      }
+    },
+    {
+      "slug": "cykl-fundacji",
+      "title": "Cykl Fundacji",
+      "aliases": ["Foundation series"],
+      "wiki": { "project": "en", "article": "Foundation series" }
+    },
+    {
+      "slug": "ziemiomorze",
+      "title": "Ziemiomorze",
+      "aliases": ["Earthsea"],
+      "wiki": { "project": "en", "article": "Earthsea" }
+    },
+    {
+      "slug": "igrzyska-smierci",
+      "title": "Igrzyska Śmierci",
+      "aliases": ["The Hunger Games"],
+      "wiki": { "project": "en", "article": "The Hunger Games (novel series)" }
+    },
+    {
+      "slug": "zmierzch",
+      "title": "Zmierzch",
+      "aliases": ["Twilight"],
+      "wiki": { "project": "en", "article": "Twilight (novel series)" }
+    }
+  ]
+}
