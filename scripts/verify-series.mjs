@@ -25,12 +25,13 @@ const TYPES = new Set(['powieść', 'opowiadanie', 'tom', 'powiązane']);
 // ---------- CLI ----------
 
 const argv = process.argv.slice(2);
-const opts = { slugs: null, baseline: false, skipWiki: false, refresh: false };
+const opts = { slugs: null, baseline: false, skipWiki: false, refresh: false, debugRows: null };
 for (let i = 0; i < argv.length; i++) {
   if (argv[i] === '--slugs') opts.slugs = argv[++i].split(',').map((s) => s.trim()).filter(Boolean);
   else if (argv[i] === '--baseline') opts.baseline = true;
   else if (argv[i] === '--skip-wiki') opts.skipWiki = true;
   else if (argv[i] === '--refresh') opts.refresh = true;
+  else if (argv[i] === '--debug-rows') opts.debugRows = argv[++i];
   else throw new Error(`Unknown argument: ${argv[i]}`);
 }
 
@@ -177,12 +178,16 @@ function jaccard(a, b) {
 function titleVariants(title) {
   const raw = String(title);
   const variants = [normalizeTitle(raw)];
-  // Subtitle/alternative part after a comma or " : " often differs between
-  // our data and Wikipedia ("The Hobbit, or There and Back Again").
+  // Subtitle/alternative part after a comma or colon often differs between
+  // our data and Wikipedia ("The Hobbit, or There and Back Again",
+  // "Diary of a Wimpy Kid: Rodrick Rules").
   const comma = raw.indexOf(',');
   if (comma > 2) variants.push(normalizeTitle(raw.slice(0, comma)));
   const colon = raw.indexOf(': ');
-  if (colon > 2) variants.push(normalizeTitle(raw.slice(0, colon)));
+  if (colon > 2) {
+    variants.push(normalizeTitle(raw.slice(0, colon)));
+    variants.push(normalizeTitle(raw.slice(colon + 2)));
+  }
   return variants.filter((v) => v.length > 0);
 }
 
@@ -215,13 +220,19 @@ function titleScore(aVariants, bVariants) {
 const WANTED_SECTION = /(publication|books?|novels?|series|bibliograph|chronolog|in order|stories|collected|omnibus|works|writing|wydani|powieśc|książk|tom(y|ów|u)?|cykl|publikac)/i;
 const UNWANTED_SECTION = /(television|\btv\b|film|movie|game|adaptat|character|cast|reception|award|media|comic|graphic|audio|lego|merchan|inne media)/i;
 
-function parseRowLine(line) {
-  if (!/^\||^#|^\*/.test(line)) return null;
+function parseChunk(chunkLines) {
+  // A logical table row (lines between |- separators) or a single list item.
+  // Strip <ref> tags first: ref names like "Morgan1984" would fake years.
+  const text = chunkLines
+    .join(' ')
+    .replace(/<ref[^>]*\/>/gi, '')
+    .replace(/<ref[^>]*>[\s\S]*?<\/ref>/gi, '');
   // Year is optional: Polish book lists often enumerate titles without years.
-  const years = [...line.matchAll(/\b(1[89]\d{2}|20[0-2]\d)\b/g)].map((m) => Number(m[1]));
+  const years = [...text.matchAll(/\b(1[89]\d{2}|20[0-2]\d)\b/g)].map((m) => Number(m[1]));
   const candidates = [];
-  for (const m of line.matchAll(/\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g)) candidates.push(m[1]);
-  for (const m of line.matchAll(/''([^']{3,90})''/g)) candidates.push(m[1]);
+  for (const m of text.matchAll(/\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g)) candidates.push(m[1]);
+  // Non-greedy italic span: titles may contain apostrophes ("Carl's Doomsday Scenario")
+  for (const m of text.matchAll(/''(.+?)''/g)) candidates.push(m[1]);
   const title = candidates
     .map((t) => t.trim())
     // skip interwiki/namespace prefixes (File:, wikt:, en:...), keep titles
@@ -246,21 +257,44 @@ function extractPublicationRows(wikitext) {
   const rowsAll = new Map();
   const rowsWanted = new Map();
   let wanted = false;
+  // Collect logical rows: table rows (lines between |- / |} separators,
+  // including leading "!" header cells) and standalone list items (#, *).
+  let block = [];
+  const flush = () => {
+    if (block.length === 0) return;
+    const row = parseChunk(block);
+    block = [];
+    if (!row) return;
+    const key = normalizeTitle(row.title).join(' ');
+    if (!key) return;
+    for (const map of wanted ? [rowsAll, rowsWanted] : [rowsAll]) {
+      map.set(key, betterRow(map.get(key), row));
+    }
+  };
   for (const rawLine of wikitext.split('\n')) {
     const line = rawLine.trim();
     const heading = /^(={2,6})\s*(.+?)\s*\1$/.exec(line);
     if (heading) {
+      flush();
       wanted = WANTED_SECTION.test(heading[2]) && !UNWANTED_SECTION.test(heading[2]);
       continue;
     }
-    const row = parseRowLine(line);
-    if (!row) continue;
-    const key = normalizeTitle(row.title).join(' ');
-    if (!key) continue;
-    for (const map of wanted ? [rowsAll, rowsWanted] : [rowsAll]) {
-      map.set(key, betterRow(map.get(key), row));
+    if (/^\|-|^\|\}/.test(line)) {
+      flush(); // new table row / table end
+      continue;
+    }
+    if (/^[#*]/.test(line)) {
+      // each list item is its own logical row
+      flush();
+      block.push(line);
+    } else if (/^[!|]/.test(line)) {
+      // table cells accumulate (title cell + year cell on following lines)
+      block.push(line);
+    } else {
+      flush();
     }
   }
+  flush();
   // Merge both pools; rows from publication sections override whole-article
   // duplicates (their years come from the actual publication table).
   const merged = new Map([...rowsAll, ...rowsWanted]);
@@ -354,6 +388,26 @@ async function crossCheckWiki(slug, data) {
     issues,
     rowDetails,
   };
+}
+
+// ---------- Debug helper ----------
+// Print extracted Wikipedia rows for one slug and exit.
+// Usage: node scripts/verify-series.mjs --debug-rows <slug>
+if (opts.debugRows) {
+  const mapping = wikiMappings.get(opts.debugRows);
+  if (!mapping) {
+    console.error(`no mapping for ${opts.debugRows}`);
+    process.exit(1);
+  }
+  const { project, article } = mapping.attempts[0];
+  const wikitext = await getWikitext(project, article, { refresh: opts.refresh });
+  const { rows, sectionKeys } = extractPublicationRows(wikitext ?? '');
+  console.log(`article: ${project}:${article}, rows: ${rows.length}`);
+  for (const r of rows.slice(0, 60)) {
+    const inSection = sectionKeys.has(normalizeTitle(r.title).join(' ')) ? '[S]' : '   ';
+    console.log(`  ${inSection} ${r.title} | ${r.year}`);
+  }
+  process.exit(0);
 }
 
 // ---------- Run over selected files ----------
