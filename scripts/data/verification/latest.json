@@ -1,0 +1,724 @@
+{
+  "generatedAt": "2026-10-24T13:46:08.704Z",
+  "rows": [
+    {
+      "slug": "swiat-dysku",
+      "local": "OK",
+      "errors": [],
+      "warnings": [],
+      "wiki": {
+        "verdict": "partial",
+        "ratio": 0.975609756097561,
+        "article": "pl:Świat Dysku",
+        "issues": [
+          "no Wikipedia match for \"Eric\"",
+          "year differs for \"Łups!\": ours 2005, wiki 2002",
+          "wiki rows not in our list (may be novellas/companions): Kolor magii; Blask fantastyczny; Czarodzicielstwo; Eryk (powieść); Ciekawe czasy; Ostatni kontynent; Ostatni bohater; Kosiarz; Muzyka duszy; Wiedźmikołaj"
+        ],
+        "rowDetails": [
+          {
+            "json": "Kolor magii",
+            "wiki": "The Colour of Magic",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Blask fantastyczny",
+            "wiki": "The Light Fantastic",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Równoumagicznienie",
+            "wiki": "Equal Rites",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Mort",
+            "wiki": "Mort",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Czarodzicielstwo",
+            "wiki": "Sourcery",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Trzy wiedźmy",
+            "wiki": "Wyrd Sisters",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Piramidy",
+            "wiki": "Pyramids",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Straż! Straż!",
+            "wiki": "Guards! Guards!",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Faust Eryk",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Ruchome obrazki",
+            "wiki": "Moving Pictures",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Kosiarz",
+            "wiki": "Reaper Man",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Wyprawa czarownic",
+            "wiki": "Witches Abroad",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Pomniejsze bóstwa",
+            "wiki": "Pomniejsze bóstwa",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Panowie i damy",
+            "wiki": "Lords and Ladies",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Zbrojni",
+            "wiki": "Men at Arms",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Muzyka duszy",
+            "wiki": "Soul Music",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Ciekawe czasy",
+            "wiki": "Interesting Times",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Maskarada",
+            "wiki": "Maskerade",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Na glinianych nogach",
+            "wiki": "Feet of Clay",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Wiedźmikołaj",
+            "wiki": "Hogfather",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Bogowie, honor, Ankh-Morpork",
+            "wiki": "Jingo",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Ostatni kontynent",
+            "wiki": "The Last Continent",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Carpe Jugulum",
+            "wiki": "Carpe Jugulum",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Piąty Elefant",
+            "wiki": "The Fifth Elephant",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Prawda",
+            "wiki": "The Truth",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Złodziej czasu",
+            "wiki": "Thief of Time",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Ostatni bohater",
+            "wiki": "The Last Hero",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Zadziwiający Maurycy i jego edukowane gryzonie",
+            "wiki": "The Amazing Maurice and his Educated Rodents",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Straż nocna",
+            "wiki": "Night Watch",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Wolni Ciut Ludzie",
+            "wiki": "The Wee Free Men",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Potworny regiment",
+            "wiki": "Potworny regiment",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Kapelusz pełen nieba",
+            "wiki": "A Hat Full of Sky",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Piekło pocztowe",
+            "wiki": "Going Postal",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Łups!",
+            "wiki": "Łups: Perspektywa historyczna",
+            "matched": true,
+            "delta": 3
+          },
+          {
+            "json": "Zimistrz",
+            "wiki": "Wintersmith",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Świat finansjery",
+            "wiki": "Making Money",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Niewidoczni akademicy",
+            "wiki": "Niewidoczni akademicy",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "W północ się odzieję",
+            "wiki": "I Shall Wear Midnight",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Niuch",
+            "wiki": "Snuff",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Para w ruch",
+            "wiki": "Raising Steam",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Pasterska korona",
+            "wiki": "Pasterska korona",
+            "matched": true,
+            "delta": null
+          }
+        ]
+      }
+    },
+    {
+      "slug": "wiedzmin",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "yearOriginal decreases at order 2 (1993 -> 1992) — confirm intentional (chronology vs publication order)"
+      ],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "pl:Wiedźmin",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): Andrzej Sapkowski; Wiedźmin (zbiór opowiadań) (1990); Coś się kończy, coś się zaczyna (zbiór opowiadań) (2000); Rozdroże kruków (2024); Droga, z której się nie wraca; Mniejsze zło (opowiadanie); Granica możliwości; Zdrada; Klątwa kruków (2018); Córka płomienia"
+        ],
+        "rowDetails": [
+          {
+            "json": "Ostatnie życzenie",
+            "wiki": "Ostatnie życzenie (zbiór opowiadań)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Miecz przeznaczenia",
+            "wiki": "Miecz przeznaczenia (zbiór opowiadań)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Krew elfów",
+            "wiki": "Krew elfów",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Czas pogardy",
+            "wiki": "Czas pogardy",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Chrzest ognia",
+            "wiki": "Chrzest ognia",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Wieża Jaskółki",
+            "wiki": "Wieża Jaskółki",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Pani Jeziora",
+            "wiki": "Pani Jeziora (powieść)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Sezon burz",
+            "wiki": "Sezon burz",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "harry-potter",
+      "local": "OK",
+      "errors": [],
+      "warnings": [],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Harry Potter",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): Harry Potter (2000); J. K. Rowling; Thomas Taylor (artist); Fantasy literature; Bloomsbury Publishing (2017); hardback; Audiobook; E-book; The Worst Witch; Mary Poppins (book series)"
+        ],
+        "rowDetails": [
+          {
+            "json": "Harry Potter i Kamień Filozoficzny",
+            "wiki": "Harry Potter and the Philosopher's Stone",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Harry Potter i Komnata Tajemnic",
+            "wiki": "Harry Potter and the Chamber of Secrets",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Harry Potter i Więzień Azkabanu",
+            "wiki": "Harry Potter and the Prisoner of Azkaban",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Harry Potter i Czara Ognia",
+            "wiki": "Harry Potter and the Goblet of Fire",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Harry Potter i Zakon Feniksa",
+            "wiki": "Harry Potter and the Order of the Phoenix",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Harry Potter i Książę Półkrwi",
+            "wiki": "Harry Potter and the Half-Blood Prince",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Harry Potter i Insygnia Śmierci",
+            "wiki": "Harry Potter and the Deathly Hallows",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "wladca-pierscieni",
+      "local": "OK",
+      "errors": [],
+      "warnings": [],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:The Lord of the Rings",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): The Lord of the Rings; Pauline Baynes (1968); J. R. R. Tolkien; High fantasy; Adventure novel; Middle-earth; Allen & Unwin; The Adventures of Tom Bombadil; Box Office Mojo (2004); Christopher Tolkien (1988)"
+        ],
+        "rowDetails": [
+          {
+            "json": "Hobbit, czyli tam i z powrotem",
+            "wiki": "The Hobbit",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Drużyna Pierścienia",
+            "wiki": "The Fellowship of the Ring",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Dwie Wieże",
+            "wiki": "The Two Towers",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Powrót Króla",
+            "wiki": "The Return of the King",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "gra-o-tron",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "filename \"gra-o-tron\" differs from slugify(title) \"piesn-lodu-i-ognia\" (allowed when slug follows the popular Polish name)"
+      ],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:A Song of Ice and Fire",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): A Song of Ice and Fire; The Winds of Winter; A Dream of Spring; George R. R. Martin; High fantasy (2013); Bantam Books; Voyager Books; paperback; Forthcoming; Ice and Fire"
+        ],
+        "rowDetails": [
+          {
+            "json": "Gra o Tron",
+            "wiki": "A Game of Thrones",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Starcie królów",
+            "wiki": "A Clash of Kings",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Nawałnica mieczy",
+            "wiki": "A Storm of Swords",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Uczta dla wron",
+            "wiki": "A Feast for Crows",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Taniec ze smokami",
+            "wiki": "A Dance with Dragons",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "diuma",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "filename \"diuma\" differs from slugify(title) \"diuna\" (allowed when slug follows the popular Polish name)"
+      ],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Dune (franchise)",
+        "issues": [
+          "year differs for \"Diuna\": ours 1965, wiki 1999",
+          "wiki rows not in our list (may be novellas/companions): Dune. (2020); Frank Herbert; The Illustrated Dune (1978); The Dune Encyclopedia (1984); The Making of Dune (1984); The Dune Storybook (1984); The Road to Dune (short story) (1985); Brian Herbert; #Brian Herbert and Kevin J. Anderson; #Short stories"
+        ],
+        "rowDetails": [
+          {
+            "json": "Diuna",
+            "wiki": "[[Dune: House Atreides]]",
+            "matched": true,
+            "delta": 34
+          },
+          {
+            "json": "Mesjasz Diuny",
+            "wiki": "Dune Messiah",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Dzieci Diuny",
+            "wiki": "Children of Dune",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Bóg Imperator Diuny",
+            "wiki": "God Emperor of Dune",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Heretycy Diuny",
+            "wiki": "Heretics of Dune",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Kapitularz Diuną",
+            "wiki": "Chapterhouse: Dune",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "cykl-fundacji",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "yearOriginal decreases at order 3 (1993 -> 1951) — confirm intentional (chronology vs publication order)"
+      ],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Foundation series",
+        "issues": [
+          "year differs for \"Fundacja\": ours 1951, wiki 1942",
+          "year differs for \"Fundacja i Imperium\": ours 1952, wiki 1945",
+          "year differs for \"Druga Fundacja\": ours 1953, wiki 1949",
+          "wiki rows not in our list (may be novellas/companions): Isaac Asimov; Other authors; Foundation's Fear (1997); Foundation and Chaos (1998); Foundation's Triumph (1999); Science fiction; Analog Science Fiction and Fact; Hugo Award (1941); Hugo Award for Best Novel; The End of Eternity"
+        ],
+        "rowDetails": [
+          {
+            "json": "Preludium Fundacji",
+            "wiki": "Prelude to Foundation",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Narodziny Fundacji",
+            "wiki": "Forward the Foundation",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Fundacja",
+            "wiki": "Foundation (Asimov novel)",
+            "matched": true,
+            "delta": 9
+          },
+          {
+            "json": "Fundacja i Imperium",
+            "wiki": "Foundation and Empire",
+            "matched": true,
+            "delta": 7
+          },
+          {
+            "json": "Druga Fundacja",
+            "wiki": "Second Foundation",
+            "matched": true,
+            "delta": 4
+          },
+          {
+            "json": "Ostatnie Fundacje",
+            "wiki": "Foundation's Edge",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Fundacja i Ziemia",
+            "wiki": "Foundation and Earth",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "ziemiomorze",
+      "local": "OK",
+      "errors": [],
+      "warnings": [],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Earthsea",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): The Books of Earthsea: The Complete Illustrated Edition; Ursula K. Le Guin; Anne Yvonne Gilbert; Fantasy literature; Atheneum Books; hardcover; Taoism (2010); Epigraph (literature); The Word of Unbinding (1964); The Rule of Names (1964)"
+        ],
+        "rowDetails": [
+          {
+            "json": "Czarnoksiężnik z Archipelagu",
+            "wiki": "A Wizard of Earthsea",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Grobowce Atuanu",
+            "wiki": "The Tombs of Atuan",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Najdalszy brzeg",
+            "wiki": "The Farthest Shore",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tehanu",
+            "wiki": "Tehanu",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Opowieści z Ziemiomorza",
+            "wiki": "Tales from Earthsea",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Na innych wiatrach",
+            "wiki": "The Other Wind",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "igrzyska-smierci",
+      "local": "OK",
+      "errors": [],
+      "warnings": [],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:The Hunger Games (novel series)",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): The Ballad of Songbirds and Snakes (2020); Sunrise on the Reaping (2025); Suzanne Collins; Tim O'Brien (illustrator); Dystopian fiction; Science fiction; Drama; Horror film; Action (fiction); Scholastic Corporation"
+        ],
+        "rowDetails": [
+          {
+            "json": "Igrzyska Śmierci",
+            "wiki": "The Hunger Games (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "W Pierścieniu Ognia",
+            "wiki": "Catching Fire",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Kosogłos",
+            "wiki": "Mockingjay",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "zmierzch",
+      "local": "OK",
+      "errors": [],
+      "warnings": [],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Twilight (novel series)",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): Life and Death: Twilight Reimagined (2015); Midnight Sun (Meyer novel) (2020); Stephenie Meyer; Fantasy romance; Little, Brown and Company; Bella Swan; Edward Cullen; Jacob Black; The Host (2013 film) (2013); BBC News"
+        ],
+        "rowDetails": [
+          {
+            "json": "Zmierzch",
+            "wiki": "Twilight (Meyer novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Księżyc w nowiu",
+            "wiki": "New Moon (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Zaćmienie",
+            "wiki": "Eclipse (Meyer novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Przed świtem",
+            "wiki": "Breaking Dawn",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    }
+  ]
+}
