@@ -337,7 +337,7 @@
     }
   },
   {
-    "slug": "jezdncy-smokow-z-pern",
+    "slug": "jezdzcy-smokow-z-pern",
     "workingTitle": "Jeźdźcy smoków z Pern",
     "author": "Anne McCaffrey",
     "wiki": {
@@ -468,7 +468,7 @@
     "author": "James Dashner",
     "wiki": {
       "project": "en",
-      "article": "The Maze Runner",
+      "article": "The Maze Runner (novel series)",
       "fallbacks": [
         {
           "project": "en",
@@ -552,7 +552,7 @@
     "author": "Anthony Horowitz",
     "wiki": {
       "project": "en",
-      "article": "Alex Rider"
+      "article": "Alex Rider (book series)"
     }
   },
   {
@@ -570,7 +570,7 @@
     "author": "Derek Landy",
     "wiki": {
       "project": "en",
-      "article": "Skulduggery Pleasant"
+      "article": "Skulduggery Pleasant (novel series)"
     }
   },
   {
@@ -621,7 +621,7 @@
     "author": "Dav Pilkey",
     "wiki": {
       "project": "en",
-      "article": "Dog Man"
+      "article": "Dav Pilkey"
     }
   },
   {
@@ -711,7 +711,7 @@
     "author": "Carolyn Keene",
     "wiki": {
       "project": "en",
-      "article": "Nancy Drew"
+      "article": "Nancy Drew Mystery Stories"
     }
   },
   {
