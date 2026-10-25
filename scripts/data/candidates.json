@@ -765,7 +765,7 @@
     "author": "L. Frank Baum",
     "wiki": {
       "project": "en",
-      "article": "Land of Oz"
+      "article": "List of Oz books"
     }
   },
   {
@@ -1886,8 +1886,8 @@
     "workingTitle": "Do wszystkich chłopaków, których kochałam",
     "author": "Jenny Han",
     "wiki": {
-      "project": "en",
-      "article": "To All the Boys I've Loved Before (novel series)",
+      "project": "pl",
+      "article": "Do wszystkich chłopców, których kochałam",
       "fallbacks": [
         {
           "project": "en",
