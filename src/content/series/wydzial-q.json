@@ -1,0 +1,26 @@
+{
+  "title": "Wydział Q",
+  "titleOriginal": "Department Q",
+  "author": "Jussi Adler-Olsen",
+  "authorSlug": "jussi-adler-olsen",
+  "genre": ["kryminal", "thriller"],
+  "description": "Kolejność czytania Wydziału Q Jussiego Adlera-Olsena. Wszystkie powieści o inspektorze Carlu Mørcku i jego współpracownikach z Kopenhagi, w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "The Keeper of Lost Causes", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 2, "title": "The Absent One", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 3, "title": "A Conspiracy of Faith", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 4, "title": "Dziennik 64", "titleOriginal": "The Purity of Vengeance", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 5, "title": "The Marco Effect", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 6, "title": "The Hanging Girl", "yearOriginal": 2014, "type": "powieść" },
+    { "order": 7, "title": "The Scarred Woman", "yearOriginal": 2016, "type": "powieść" },
+    { "order": 8, "title": "Victim 2117", "yearOriginal": 2019, "type": "powieść" },
+    { "order": 9, "title": "The Shadow Murders", "yearOriginal": 2021, "type": "powieść" },
+    { "order": 10, "title": "Locked In", "yearOriginal": 2023, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Wydział Q?", "answer": "Od The Keeper of Lost Causes (2007) i dalej w kolejności wydania. Relacje Mørcka z Assadem i Rose rozwijają się z tomu na tom, a finałowe tomy splatają wątki z całej serii." },
+    { "question": "Dlaczego tom czwarty nazywa się Dziennik 64?", "answer": "To polski tytuł oryginała Journal 64 — tak seria przyjęła się w Polsce także dzięki filmom. W innych językach tom nosi tytuł The Purity of Vengeance." },
+    { "question": "Czy Locked In kończy serię?", "answer": "Wydawca zapowiada Locked In jako finał przygód Wydziału Q, choć seria okazała się tak popularna, że nie można wykluczyć powrotu Mørcka. Dziesięć tomów tworzy obecnie kompletny cykl." }
+  ],
+  "relatedSeries": []
+}

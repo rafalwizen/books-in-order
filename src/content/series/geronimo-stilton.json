@@ -1,0 +1,35 @@
+{
+  "title": "Geronimo Stilton",
+  "author": "Elisabetta Dami",
+  "authorSlug": "elisabetta-dami",
+  "genre": ["komedia", "przygodowa"],
+  "description": "Kolejność czytania klasycznej serii Geronimo Stilton. Pierwsze 20 tomów przygód mysiego wydawcy z Nowego Jorku w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Zaginiony skarb Szmaragdowego Oka", "titleOriginal": "Lost Treasure of the Emerald Eye", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 2, "title": "The Curse of the Cheese Pyramid", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 3, "title": "Cat and Mouse in a Haunted House", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 4, "title": "I'm Too Fond of My Fur!", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 5, "title": "Four Mice Deep in the Jungle", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 6, "title": "Paws Off, Cheddarface!", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 7, "title": "Red Pizzas for a Blue Count", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 8, "title": "Attack of the Bandit Cats", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 9, "title": "A Fabumouse Vacation for Geronimo", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 10, "title": "It's Halloween, You 'Fraidy Mouse!", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 11, "title": "Merry Christmas, Geronimo!", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 12, "title": "The Phantom of the Subway", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 13, "title": "The Temple of the Ruby of Fire", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 14, "title": "The Mona Mousa Code", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 15, "title": "A Cheese-Colored Camper", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 16, "title": "Watch Your Whiskers, Stilton!", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 17, "title": "Shipwreck on the Pirate Islands", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 18, "title": "My Name Is Stilton, Geronimo Stilton", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 19, "title": "Surf's Up, Geronimo!", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 20, "title": "The Wild, Wild West", "yearOriginal": 2005, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Geronimo Stiltona?", "answer": "Po numerach serii — przygody są odcinkowe, więc kolejność nie jest kluczowa, ale pierwsze dwadzieścia tomów wprowadza całą galerię bohaterów: Tea, Trap, Benjamin i Creepella." },
+    { "question": "Kto naprawdę pisze tę serię?", "answer": "Autorką scenariuszy jest Elisabetta Dami, choć książki podpisane są imieniem bohatera. Seria powstała we Włoszech i doczekała się ponad stu tomów oraz spin-offów." },
+    { "question": "Ile tomów ma Geronimo Stilton?", "answer": "Ponad sto w głównej serii, a poza nią cykle specjalne, biografie i książki o siostrzeńcu. Prezentujemy klasyczną pierwszą dwudziestkę — solidne wejście w świat Stiltona." }
+  ],
+  "relatedSeries": []
+}

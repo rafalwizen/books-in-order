@@ -1,0 +1,29 @@
+{
+  "title": "Alex Rider",
+  "author": "Anthony Horowitz",
+  "authorSlug": "anthony-horowitz",
+  "genre": ["thriller", "young-adult"],
+  "description": "Kolejność czytania serii Alex Rider Anthony'ego Horowitza. Wszystkie powieści o nastoletnim szpiegu, od Stormbreakera po Nightshade Revenge, w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Stormbreaker", "yearOriginal": 2000, "type": "powieść" },
+    { "order": 2, "title": "Point Blanc", "yearOriginal": 2001, "type": "powieść" },
+    { "order": 3, "title": "Skeleton Key", "yearOriginal": 2002, "type": "powieść" },
+    { "order": 4, "title": "Eagle Strike", "yearOriginal": 2003, "type": "powieść" },
+    { "order": 5, "title": "Scorpia", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 6, "title": "Ark Angel", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 7, "title": "Snakehead", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 8, "title": "Crocodile Tears", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 9, "title": "Scorpia Rising", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 10, "title": "Never Say Die", "yearOriginal": 2017, "type": "powieść" },
+    { "order": 11, "title": "Nightshade", "yearOriginal": 2020, "type": "powieść" },
+    { "order": 12, "title": "Nightshade Revenge", "yearOriginal": 2023, "type": "powieść" },
+    { "order": 13, "title": "Russian Roulette", "yearOriginal": 2013, "type": "powiązane" },
+    { "order": 14, "title": "Secret Weapon", "yearOriginal": 2019, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Alexa Ridera?", "answer": "Od Stormbreakera (2000) i dalej w kolejności wydania — wiek i doświadczenie Alexa rosną z tomu na tom, a finały Scorpia Rising i Never Say Die mocno bazują na wcześniejszych wydarzeniach." },
+    { "question": "Co to są Russian Roulette i Secret Weapon?", "answer": "Russian Roulette to prequel o płatnym zabójcy Yassenie Gregorovichu, a Secret Weapon zbiór opowiadań rozgrywających się między głównymi tomami. Czytaj je po Scorpia Rising — jako uzupełnienie." },
+    { "question": "Czy seria jest ukończona?", "answer": "Nie — po Nightshade Revenge (2023) Horowitz zapowiada kolejne tomy, a Alex dorasta w stronę dorosłego szpiega. Nowe przygody wciąż powstają." }
+  ],
+  "relatedSeries": []
+}

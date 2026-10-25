@@ -1,0 +1,27 @@
+{
+  "title": "Poldark",
+  "author": "Winston Graham",
+  "authorSlug": "winston-graham",
+  "genre": ["historyczna", "romans"],
+  "description": "Kolejność czytania serii Poldark Winstona Grahama. Wszystkie 12 powieści o Rossie Poldarku i Demelzie, od 1945 po 2002 rok, w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Ross Poldark", "yearOriginal": 1945, "type": "powieść" },
+    { "order": 2, "title": "Demelza", "yearOriginal": 1946, "type": "powieść" },
+    { "order": 3, "title": "Jeremy Poldark", "yearOriginal": 1950, "type": "powieść" },
+    { "order": 4, "title": "Warleggan", "yearOriginal": 1953, "type": "powieść" },
+    { "order": 5, "title": "The Black Moon", "yearOriginal": 1973, "type": "powieść" },
+    { "order": 6, "title": "The Four Swans", "yearOriginal": 1976, "type": "powieść" },
+    { "order": 7, "title": "The Angry Tide", "yearOriginal": 1977, "type": "powieść" },
+    { "order": 8, "title": "The Stranger from the Sea", "yearOriginal": 1981, "type": "powieść" },
+    { "order": 9, "title": "The Miller's Dance", "yearOriginal": 1982, "type": "powieść" },
+    { "order": 10, "title": "The Loving Cup", "yearOriginal": 1984, "type": "powieść" },
+    { "order": 11, "title": "The Twisted Sword", "yearOriginal": 1990, "type": "powieść" },
+    { "order": 12, "title": "Bella Poldark", "yearOriginal": 2002, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Poldarka?", "answer": "Od tomu Ross Poldark (1945) i dalej w kolejności wydania. Saga obejmuje dwa pokolenia rodziny — po tomie siódmym akcja przeskakuje o dziesięć lat, a bohaterami zostają też dzieci Rossa i Demelzy." },
+    { "question": "Dlaczego między tomami 4 i 5 jest dwudziestoletnia przerwa?", "answer": "Graham przerwał sagę w 1953 roku i wrócił do niej po dwudziestu latach — w 1973 roku ukazało się The Black Moon, a popularność odnowionej serii utrwalił potem serial BBC. Tom piąty podejmuje wątki dokładnie tam, gdzie skończył się Warleggan." },
+    { "question": "Czy serial pokrywa się z książkami?", "answer": "Serial BBC z lat 2015-2019 adaptuje po dwie książki na sezon. Książki są bogatsze w wątki Kornwalii z przełomu XVIII i XIX wieku i mają inny, spokojniejszy rytm." }
+  ],
+  "relatedSeries": []
+}

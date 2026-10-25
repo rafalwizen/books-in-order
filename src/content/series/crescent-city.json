@@ -1,0 +1,18 @@
+{
+  "title": "Crescent City",
+  "author": "Sarah J. Maas",
+  "authorSlug": "sarah-j-maas",
+  "genre": ["fantasy", "romans"],
+  "description": "Kolejność czytania serii Crescent City Sarah J. Maas. Wszystkie tomy urban fantasy o half-fae Bryce Quinlan w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Dom Ziemi i Krwi", "titleOriginal": "House of Earth and Blood", "yearOriginal": 2020, "type": "powieść" },
+    { "order": 2, "title": "Dom Nieba i Oddechu", "titleOriginal": "House of Sky and Breath", "yearOriginal": 2022, "type": "powieść" },
+    { "order": 3, "title": "Dom Płomienia i Cienia", "titleOriginal": "House of Flame and Shadow", "yearOriginal": 2024, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Crescent City?", "answer": "Od Domu Ziemi i Krwi (2020) — kolejność wydania jest obowiązkowa, bo każdy tom kończy się dużym zwrotem, a finał tomu trzeciego łączy się z innymi światami autorki." },
+    { "question": "Ile tomów będzie miała seria?", "answer": "Sarah J. Maas zapowiada, że Crescent City będzie trylogią główną z możliwymi spin-offami. Trzy wydane tomy tworzą zamkniętą historię Bryce i Hunta." },
+    { "question": "Czy trzeba znać Tron ze szkła i Sad cierni i róż?", "answer": "Nie, Crescent City to samodzielna seria. Fani pozostałych światów Maas wyłapią jednak easter eggi — zwłaszcza w Domu Płomienia i Cienia." }
+  ],
+  "relatedSeries": []
+}

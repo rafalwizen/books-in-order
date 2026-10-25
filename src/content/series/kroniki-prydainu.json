@@ -1,0 +1,22 @@
+{
+  "title": "Kroniki Pydainu",
+  "titleOriginal": "The Chronicles of Prydain",
+  "author": "Lloyd Alexander",
+  "authorSlug": "lloyd-alexander",
+  "genre": ["fantasy", "przygodowa"],
+  "description": "Kolejność czytania Kronik Pydainu Lloyda Alexandra. Pięć powieści o Taranie i księżniczce Eilonwy oraz zbiór opowiadań The Foundling, w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Księga Trzech", "titleOriginal": "The Book of Three", "yearOriginal": 1964, "type": "powieść" },
+    { "order": 2, "title": "Czarny Kocioł", "titleOriginal": "The Black Cauldron", "yearOriginal": 1965, "type": "powieść" },
+    { "order": 3, "title": "Zamek Llyr", "titleOriginal": "The Castle of Llyr", "yearOriginal": 1966, "type": "powieść" },
+    { "order": 4, "title": "Taran Wędrowiec", "titleOriginal": "Taran Wanderer", "yearOriginal": 1967, "type": "powieść" },
+    { "order": 5, "title": "Najwyższy Król", "titleOriginal": "The High King", "yearOriginal": 1968, "type": "powieść" },
+    { "order": 6, "title": "The Foundling and Other Tales of Prydain", "yearOriginal": 1973, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Kroniki Pydainu?", "answer": "Od Księgi Trzech (1964) — pięć tomów tworzy jedną, rosnącą w siłę historię walki z Arawnem. Kolejność wydania jest jedyną sensowną, a finałowy Najwyższy Król zdobył Nagrodę Newbery'ego." },
+    { "question": "Co to jest The Foundling?", "answer": "Zbiór krótkich opowiadań o dzieciństwie bohaterów i historii Pydainu, wydany po zakończeniu piątki. To smaczek dla fanów — czytaj go po finale." },
+    { "question": "Czy film Disneya jest wierny książkom?", "answer": "Film Taran i magiczny kocioł (1985) luźno opiera się na dwóch pierwszych tomach i znacznie uprościł fabułę. Książkowa saga jest pełniejsza — z całym arkiem Tarana od chłopca-poganiacza do dorosłości." }
+  ],
+  "relatedSeries": []
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Ojciec Brown",
+  "titleOriginal": "Father Brown",
+  "author": "G.K. Chesterton",
+  "authorSlug": "gk-chesterton",
+  "genre": ["kryminal", "klasyka"],
+  "description": "Kolejność czytania opowiadań o ojcu Brownie G.K. Chestertona. Wszystkie pięć zbiorów krótkich śledztw niepozornego księdza-detektywa, w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Niewinność ojca Browna", "titleOriginal": "The Innocence of Father Brown", "yearOriginal": 1911, "type": "opowiadanie" },
+    { "order": 2, "title": "Mądrość ojca Browna", "titleOriginal": "The Wisdom of Father Brown", "yearOriginal": 1914, "type": "opowiadanie" },
+    { "order": 3, "title": "The Incredulity of Father Brown", "yearOriginal": 1926, "type": "opowiadanie" },
+    { "order": 4, "title": "Tajemnica ojca Browna", "titleOriginal": "The Secret of Father Brown", "yearOriginal": 1927, "type": "opowiadanie" },
+    { "order": 5, "title": "The Scandal of Father Brown", "yearOriginal": 1935, "type": "opowiadanie" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać ojca Browna?", "answer": "Kolejność zbiorów nie ma większego znaczenia — to samodzielne opowiadania. Prezentujemy je w porządku wydania, od Niewinności ojca Browna (1911), która wprowadza słynny pojedynek z Flambeau." },
+    { "question": "Ile opowiadań napisał Chesterton?", "answer": "Pięć zbiorów zawiera łącznie 51 opowiadań. Po śmierci autora dołączano do wydań jeszcze kilka tekstów rozproszonych, ale kanon to właśnie te pięć tomów." },
+    { "question": "Czym ojciec Brown różni się od Sherlocka Holmesa?", "answer": "Zamiast laboratoryjnej dedukcji opartej na fizycznych śladach ojciec Brown używa znajomości ludzkiej natury i empatii — rozumie zbrodniarza, bo zna mroczne zakątki własnej duszy. To odwrotność metody Holmesa." }
+  ],
+  "relatedSeries": []
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Czarna Kompania",
+  "titleOriginal": "The Black Company",
+  "author": "Glen Cook",
+  "authorSlug": "glen-cook",
+  "genre": ["dark-fantasy", "fantasy"],
+  "description": "Kolejność czytania Czarnej Kompanii Glena Cooka. Wszystkie powieści o najemniczym oddziale z Kalekhanu oraz tomy powiązane, w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Czarna Kompania", "titleOriginal": "The Black Company", "yearOriginal": 1984, "type": "powieść" },
+    { "order": 2, "title": "Shadows Linger", "yearOriginal": 1984, "type": "powieść" },
+    { "order": 3, "title": "The White Rose", "yearOriginal": 1985, "type": "powieść" },
+    { "order": 4, "title": "Shadow Games", "yearOriginal": 1989, "type": "powieść" },
+    { "order": 5, "title": "Dreams of Steel", "yearOriginal": 1990, "type": "powieść" },
+    { "order": 6, "title": "Bleak Seasons", "yearOriginal": 1996, "type": "powieść" },
+    { "order": 7, "title": "She Is the Darkness", "yearOriginal": 1997, "type": "powieść" },
+    { "order": 8, "title": "Water Sleeps", "yearOriginal": 1999, "type": "powieść" },
+    { "order": 9, "title": "Soldiers Live", "yearOriginal": 2000, "type": "powieść" },
+    { "order": 10, "title": "The Silver Spike", "yearOriginal": 1989, "type": "powiązane" },
+    { "order": 11, "title": "Port of Shadows", "yearOriginal": 2018, "type": "powiązane" },
+    { "order": 12, "title": "Lies Weeping", "yearOriginal": 2025, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Czarną Kompanię?", "answer": "Główne powieści czytaj w kolejności wydania, od Czarnej Kompanii (1984) po Soldiers Live (2000) — to zamknięta, dziewięciotomowa kronika roty spisana przez jej dziejopisów. Tom The Silver Spike to spin-off osadzony między tomami 3 i 4." },
+    { "question": "Kiedy czytać Port of Shadows i nowsze tomy?", "answer": "Port of Shadows (2018) wraca do wydarzeń między pierwszym a drugim tomem, a otwarta w 2025 roku nowa seria (Lies Weeping) kontynuuje losy Kompanii. To pozycje dla fanów — wystarczy znać główną dziewiątkę." },
+    { "question": "Dlaczego seria jest uważana za wzór dark fantasy?", "answer": "Cook pokazuje wojnę oczami zwykłych najemników: brud, zmęczenie i morale ważą więcej niż magia, a Kapitan i Kot Laleczka to wciąż ten sam oddział mimo upływu lat. To wzorzec dla całego podgatunku mrocznych kronik najemnych rot." }
+  ],
+  "relatedSeries": []
+}

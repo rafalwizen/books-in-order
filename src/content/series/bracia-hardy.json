@@ -1,0 +1,36 @@
+{
+  "title": "Bracia Hardy",
+  "titleOriginal": "The Hardy Boys",
+  "author": "Franklin W. Dixon",
+  "authorSlug": "franklin-w-dixon",
+  "genre": ["kryminal", "przygodowa"],
+  "description": "Kolejność czytania klasycznej serii Braci Hardy. Pierwsze 20 tomów przygód Franka i Joe z lat 1927-1943 w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "The Tower Treasure", "yearOriginal": 1927, "type": "powieść" },
+    { "order": 2, "title": "The House on the Cliff", "yearOriginal": 1927, "type": "powieść" },
+    { "order": 3, "title": "The Secret of the Old Mill", "yearOriginal": 1927, "type": "powieść" },
+    { "order": 4, "title": "The Missing Chums", "yearOriginal": 1928, "type": "powieść" },
+    { "order": 5, "title": "Hunting for Hidden Gold", "yearOriginal": 1928, "type": "powieść" },
+    { "order": 6, "title": "The Shore Road Mystery", "yearOriginal": 1928, "type": "powieść" },
+    { "order": 7, "title": "The Secret of the Caves", "yearOriginal": 1929, "type": "powieść" },
+    { "order": 8, "title": "The Mystery of Cabin Island", "yearOriginal": 1929, "type": "powieść" },
+    { "order": 9, "title": "The Great Airport Mystery", "yearOriginal": 1930, "type": "powieść" },
+    { "order": 10, "title": "What Happened at Midnight", "yearOriginal": 1931, "type": "powieść" },
+    { "order": 11, "title": "While the Clock Ticked", "yearOriginal": 1932, "type": "powieść" },
+    { "order": 12, "title": "Footprints Under the Window", "yearOriginal": 1933, "type": "powieść" },
+    { "order": 13, "title": "The Mark on the Door", "yearOriginal": 1934, "type": "powieść" },
+    { "order": 14, "title": "The Hidden Harbor Mystery", "yearOriginal": 1935, "type": "powieść" },
+    { "order": 15, "title": "The Sinister Signpost", "yearOriginal": 1936, "type": "powieść" },
+    { "order": 16, "title": "A Figure in Hiding", "yearOriginal": 1937, "type": "powieść" },
+    { "order": 17, "title": "The Secret Warning", "yearOriginal": 1938, "type": "powieść" },
+    { "order": 18, "title": "The Twisted Claw", "yearOriginal": 1939, "type": "powieść" },
+    { "order": 19, "title": "The Disappearing Floor", "yearOriginal": 1940, "type": "powieść" },
+    { "order": 20, "title": "The Mystery of the Flying Express", "yearOriginal": 1941, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Braci Hardy?", "answer": "W porządku numeracji, od The Tower Treasure (1927). Każdy tom to odrębna sprawa, więc formalnie można zaczynać od dowolnego — ale pierwsze dwadzieścia tomów buduje klasyczny klimat serii." },
+    { "question": "Kto naprawdę napisał Braci Hardy?", "answer": "Franklin W. Dixon to pseudonim wydawniczy — książki pisał zespół autorów, z których najważniejszy był Leslie McFarlane, autor większości wczesnych tomów uważanych za najlepsze." },
+    { "question": "Dlaczego lista kończy się na tomie 20?", "answer": "Seria liczy łącznie 190 tomów, wydanych od 1927 roku po dziś dzień. Prezentujemy klasyczne, oryginalne wydania pierwszej dwudziestki — złotą erę serii w klimacie lat 20. i 30." }
+  ],
+  "relatedSeries": []
+}

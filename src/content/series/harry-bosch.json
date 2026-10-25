@@ -1,0 +1,41 @@
+{
+  "title": "Harry Bosch",
+  "author": "Michael Connelly",
+  "authorSlug": "michael-connelly",
+  "genre": ["kryminal", "thriller"],
+  "description": "Kolejność czytania serii o Harrym Boschu Michaela Connelly'ego. Wszystkie powieści z detektywem z wydziału zabójstw LAPD, łącznie z tomami z Renée Ballard, w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Czarne echo", "titleOriginal": "The Black Echo", "yearOriginal": 1992, "type": "powieść" },
+    { "order": 2, "title": "Czarny lód", "titleOriginal": "The Black Ice", "yearOriginal": 1993, "type": "powieść" },
+    { "order": 3, "title": "The Concrete Blonde", "yearOriginal": 1994, "type": "powieść" },
+    { "order": 4, "title": "Ostatni kojot", "titleOriginal": "The Last Coyote", "yearOriginal": 1995, "type": "powieść" },
+    { "order": 5, "title": "Trunk Music", "yearOriginal": 1997, "type": "powieść" },
+    { "order": 6, "title": "Angels Flight", "yearOriginal": 1999, "type": "powieść" },
+    { "order": 7, "title": "A Darkness More Than Night", "yearOriginal": 2001, "type": "powieść" },
+    { "order": 8, "title": "City of Bones", "yearOriginal": 2002, "type": "powieść" },
+    { "order": 9, "title": "Lost Light", "yearOriginal": 2003, "type": "powieść" },
+    { "order": 10, "title": "The Narrows", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 11, "title": "The Closers", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 12, "title": "Echo Park", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 13, "title": "The Overlook", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 14, "title": "Nine Dragons", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 15, "title": "The Drop", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 16, "title": "The Black Box", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 17, "title": "The Burning Room", "yearOriginal": 2014, "type": "powieść" },
+    { "order": 18, "title": "The Crossing", "yearOriginal": 2015, "type": "powieść" },
+    { "order": 19, "title": "The Wrong Side of Goodbye", "yearOriginal": 2016, "type": "powieść" },
+    { "order": 20, "title": "Two Kinds of Truth", "yearOriginal": 2017, "type": "powieść" },
+    { "order": 21, "title": "Dark Sacred Night", "yearOriginal": 2018, "type": "powieść" },
+    { "order": 22, "title": "The Night Fire", "yearOriginal": 2019, "type": "powieść" },
+    { "order": 23, "title": "The Dark Hours", "yearOriginal": 2021, "type": "powieść" },
+    { "order": 24, "title": "Desert Star", "yearOriginal": 2022, "type": "powieść" },
+    { "order": 25, "title": "The Waiting", "yearOriginal": 2024, "type": "powieść" },
+    { "order": 26, "title": "The Hollow", "yearOriginal": 2026, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Harry'ego Boscha?", "answer": "Od Czarnego echa (1992) i dalej w kolejności wydania. Życie Boscha — praca w LAPD, emerytura, powroty i współpraca z Renée Ballard — układa się w jedną, ciągłą historię, więc pomijanie tomów psuje nawiązania." },
+    { "question": "Które tomy to współpraca z Renée Ballard?", "answer": "Od tomu Dark Sacred Night (2018) seria współdzieli bohaterów z cyklem Ballard: Dark Sacred Night, The Night Fire, The Dark Hours, Desert Star, The Waiting i The Hollow to śledztwa Boscha i Ballard razem." },
+    { "question": "Czy czytać też Mickey'ego Hallera?", "answer": "Warto — adwokat Lincoln Lawyer pojawia się w życiu Boscha kilkukrotnie, a tom The Crossing opiera się właśnie na ich współpracy. To jednak osobny cykl, który można czytać niezależnie." }
+  ],
+  "relatedSeries": []
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Hornblower",
+  "author": "C.S. Forester",
+  "authorSlug": "cs-forester",
+  "genre": ["przygodowa", "historyczna"],
+  "description": "Kolejność czytania cyklu o Horatio Hornblowerze C.S. Forestera. Wszystkie ukończone powieści morskie z czasów wojen napoleońskich w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "The Happy Return", "yearOriginal": 1937, "type": "powieść" },
+    { "order": 2, "title": "A Ship of the Line", "yearOriginal": 1938, "type": "powieść" },
+    { "order": 3, "title": "Flying Colours", "yearOriginal": 1938, "type": "powieść" },
+    { "order": 4, "title": "Commodore Hornblower", "yearOriginal": 1945, "type": "powieść" },
+    { "order": 5, "title": "Lord Hornblower", "yearOriginal": 1946, "type": "powieść" },
+    { "order": 6, "title": "Mr. Midshipman Hornblower", "yearOriginal": 1950, "type": "powieść" },
+    { "order": 7, "title": "Lieutenant Hornblower", "yearOriginal": 1952, "type": "powieść" },
+    { "order": 8, "title": "Hornblower and the Atropos", "yearOriginal": 1953, "type": "powieść" },
+    { "order": 9, "title": "Admiral Hornblower in the West Indies", "yearOriginal": 1958, "type": "powieść" },
+    { "order": 10, "title": "Hornblower and the Hotspur", "yearOriginal": 1962, "type": "powieść" },
+    { "order": 11, "title": "Hornblower and the Crisis", "yearOriginal": 1967, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Hornblowera?", "answer": "Prezentujemy kolejność wydania — od The Happy Return (1937). Forester pisał sagę nielinearnie: najpierw środek kariery bohatera, potem młodość i początki. Wielu czytelników woli jednak zaczynać od Mr. Midshipman Hornblower, czyli chronologicznego początku." },
+    { "question": "Czy Hornblower and the Crisis jest ostatnim tomem?", "answer": "To pośmiertnie wydany, niedokończony rękopis z 1967 roku, uzupełniony krótką nowelą. Traktujemy go jako dodatek — właściwa saga to dziesięć ukończonych powieści." },
+    { "question": "Co czytać po Hornblowerze?", "answer": "Naturalnym następcą jest cykl o Aubreyu i Maturinie Patricka O'Briana — młodszy o pokolenie i słynny z głębszej psychologii postaci. Obie sagi razem tworzą kanon powieści morskich." }
+  ],
+  "relatedSeries": []
+}

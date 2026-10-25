@@ -1,0 +1,22 @@
+{
+  "title": "Bohaterowie Olimpu",
+  "titleOriginal": "The Heroes of Olympus",
+  "author": "Rick Riordan",
+  "authorSlug": "rick-riordan",
+  "genre": ["fantasy", "young-adult"],
+  "description": "Kolejność czytania serii Bohaterowie Olimpu Ricka Riordana. Wszystkie 5 tomów o siedmiu półkrwiach oraz zbiór opowiadań The Demigod Diaries, w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Zaginiony bohater", "titleOriginal": "The Lost Hero", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 2, "title": "Syn Neptuna", "titleOriginal": "The Son of Neptune", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 3, "title": "Znak Ateny", "titleOriginal": "The Mark of Athena", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 4, "title": "Dom Hadesa", "titleOriginal": "The House of Hades", "yearOriginal": 2013, "type": "powieść" },
+    { "order": 5, "title": "Krew Olimpu", "titleOriginal": "The Blood of Olympus", "yearOriginal": 2014, "type": "powieść" },
+    { "order": 6, "title": "The Demigod Diaries", "yearOriginal": 2012, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Bohaterów Olimpu?", "answer": "Od Zaginionego bohatera (2010) — pięć tomów tworzy jedną zamkniętą historię wojny z Gają. Seria jest kontynuacją Percy'ego Jacksona, więc najpierw poznaj piątkę tomów o Percym." },
+    { "question": "Czy trzeba znać Percy'ego Jacksona?", "answer": "Zdecydowanie tak — Bohaterowie Olimpu czerpie pełnymi garściami z wątków, przysięg i relacji z pierwszej serii. Bez niej połowa zwrotów akcji straci moc." },
+    { "question": "Co czytać po finale serii?", "answer": "Naturalna kolejność wydawnicza to seria Próby Apollona, w której Percy i spółka występują w tle. Warto sięgnąć też po The Demigod Diaries — opowiadania rozgrywające się między tomami." }
+  ],
+  "relatedSeries": []
+}

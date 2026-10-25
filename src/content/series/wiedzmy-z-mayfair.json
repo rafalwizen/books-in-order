@@ -1,0 +1,19 @@
+{
+  "title": "Czarownice z Mayfair",
+  "titleOriginal": "Lives of the Mayfair Witches",
+  "author": "Anne Rice",
+  "authorSlug": "anne-rice",
+  "genre": ["dark-fantasy", "horror"],
+  "description": "Kolejność czytania trylogii Czarownice z Mayfair Anne Rice. Wszystkie trzy powieści o rodzie czarownic z Nowego Orleanu, w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Godzina czarownic", "titleOriginal": "The Witching Hour", "yearOriginal": 1990, "type": "powieść" },
+    { "order": 2, "title": "Lasher", "yearOriginal": 1993, "type": "powieść" },
+    { "order": 3, "title": "Taltos", "yearOriginal": 1994, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Czarownice z Mayfair?", "answer": "Od Godziny czarownic (1990) — kolejność wydania jest konieczna. Trylogia opowiada jedną, wielopokoleniową historię rodu od jego początków po rozwiązanie mistycznej więzi z Lasherem." },
+    { "question": "Czy trylogia łączy się z Kronikami wampirów?", "answer": "Tak — tomy Merrick, Folwark Blackwood i Blood Canticle z Kronik wampirów splatają oba światy. Czytaj je po zakończeniu obu trylogii." },
+    { "question": "Czy istnieje serialowa adaptacja?", "answer": "Tak, AMC wyprodukowało serial Mayfair Witches (od 2023) z Alexandrą Daddario w roli Rowan. Serial luźno opiera się na trylogii i zmienia część wątków." }
+  ],
+  "relatedSeries": []
+}

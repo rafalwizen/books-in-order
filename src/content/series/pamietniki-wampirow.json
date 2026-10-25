@@ -1,0 +1,26 @@
+{
+  "title": "Pamiętniki wampirów",
+  "titleOriginal": "The Vampire Diaries",
+  "author": "L.J. Smith",
+  "authorSlug": "lj-smith",
+  "genre": ["dark-fantasy", "young-adult"],
+  "description": "Kolejność czytania Pamiętników wampirów L.J. Smith. Oryginalna czwórka, trylogia The Return i The Hunters, w porządku wydania od 1991 roku.",
+  "books": [
+    { "order": 1, "title": "Przebudzenie", "titleOriginal": "The Awakening", "yearOriginal": 1991, "type": "powieść" },
+    { "order": 2, "title": "The Struggle", "yearOriginal": 1991, "type": "powieść" },
+    { "order": 3, "title": "The Fury", "yearOriginal": 1991, "type": "powieść" },
+    { "order": 4, "title": "Dark Reunion", "yearOriginal": 1992, "type": "powieść" },
+    { "order": 5, "title": "The Return: Nightfall", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 6, "title": "The Return: Shadow Souls", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 7, "title": "The Return: Midnight", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 8, "title": "The Hunters: Phantom", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 9, "title": "The Hunters: Moonsong", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 10, "title": "The Hunters: Destiny Rising", "yearOriginal": 2012, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Pamiętniki wampirów?", "answer": "Od Przebudzenia (1991) — kolejność wydania jest obowiązkowa, bo każdy tom kończy się cliffhangerem, a po siedemnastoletniej przerwie seria wróciła w 2009 roku trylogią The Return." },
+    { "question": "Kto napisał The Hunters?", "answer": "Po Midnight wydawca zatrudnił anonimowego autora do kontynuacji — trylogia The Hunters i późniejsza The Salvation powstały już bez L.J. Smith. Formalnie należą do kanonu serii." },
+    { "question": "Co ze Stefan's Diaries?", "answer": "To sześć tomów poświęconych przeszłości Stefana i Damona, pisanych przez płatnych autorów na fali popularności serialu. Stanowią osobny, luźno powiązany cykl." }
+  ],
+  "relatedSeries": []
+}

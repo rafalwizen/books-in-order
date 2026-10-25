@@ -1,0 +1,33 @@
+{
+  "title": "Jeźdźcy smoków z Pern",
+  "titleOriginal": "Dragonriders of Pern",
+  "author": "Anne McCaffrey",
+  "authorSlug": "anne-mccaffrey",
+  "genre": ["fantasy", "sci-fi"],
+  "description": "Kolejność czytania sagi o Pern Anne McCaffrey. Klasyczne powieści z lat 1968-2001, w tym trylogia Dragonriders i Cykl Arfisty, w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Dragonflight", "yearOriginal": 1968, "type": "powieść" },
+    { "order": 2, "title": "Dragonquest", "yearOriginal": 1971, "type": "powieść" },
+    { "order": 3, "title": "Dragonsong", "yearOriginal": 1976, "type": "powieść" },
+    { "order": 4, "title": "Dragonsinger", "yearOriginal": 1977, "type": "powieść" },
+    { "order": 5, "title": "The White Dragon", "yearOriginal": 1978, "type": "powieść" },
+    { "order": 6, "title": "Dragondrums", "yearOriginal": 1979, "type": "powieść" },
+    { "order": 7, "title": "Moreta: Dragonlady of Pern", "yearOriginal": 1983, "type": "powieść" },
+    { "order": 8, "title": "Nerilka's Story", "yearOriginal": 1986, "type": "powieść" },
+    { "order": 9, "title": "Dragonsdawn", "yearOriginal": 1988, "type": "powieść" },
+    { "order": 10, "title": "The Renegades of Pern", "yearOriginal": 1989, "type": "powieść" },
+    { "order": 11, "title": "All the Weyrs of Pern", "yearOriginal": 1991, "type": "powieść" },
+    { "order": 12, "title": "The Dolphins of Pern", "yearOriginal": 1994, "type": "powieść" },
+    { "order": 13, "title": "Dragonseye", "yearOriginal": 1996, "type": "powieść" },
+    { "order": 14, "title": "The Masterharper of Pern", "yearOriginal": 1998, "type": "powieść" },
+    { "order": 15, "title": "The Skies of Pern", "yearOriginal": 2001, "type": "powieść" },
+    { "order": 16, "title": "The Chronicles of Pern: First Fall", "yearOriginal": 1993, "type": "powiązane" },
+    { "order": 17, "title": "A Gift of Dragons", "yearOriginal": 2002, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Jeźdźców smoków z Pern?", "answer": "Najlepiej w kolejności wydania — od Dragonflight (1968). Alternatywą jest kolejność chronologii świata (z Dragonsdawn jako początkiem), ale pierwsze wydanie oryginalnej trylogii wciąż jest najlepszym wejściem w sagę." },
+    { "question": "Co to jest Cykl Arfisty?", "answer": "To trzy tomy o Menolly (Dragonsong, Dragonsinger, Dragondrums) osadzone równolegle do wydarzeń Dragonquest i The White Dragon. Wpisujemy je w kolejności wydania, ale tworzą własną, zamkniętą historię." },
+    { "question": "Czy czytać książki Todda McCaffreya?", "answer": "Od 2003 roku sagę kontynuował syn autorki, Todd, a później Gigi McCaffrey. Nasza lista obejmuje klasykę spisaną wyłącznie przez Anne McCaffrey — późniejsze tomy czytaj po jej ukończeniu." }
+  ],
+  "relatedSeries": []
+}

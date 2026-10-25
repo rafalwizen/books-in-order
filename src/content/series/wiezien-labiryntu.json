@@ -1,0 +1,23 @@
+{
+  "title": "Więzień labiryntu",
+  "titleOriginal": "The Maze Runner",
+  "author": "James Dashner",
+  "authorSlug": "james-dashner",
+  "genre": ["sci-fi", "dystopia"],
+  "description": "Kolejność czytania serii Więzień labiryntu Jamesa Dashnera. Trylogia główna, prequele i spin-off The Maze Cutter w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Więzień labiryntu", "titleOriginal": "The Maze Runner", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 2, "title": "Próby ognia", "titleOriginal": "The Scorch Trials", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 3, "title": "Lek na śmierć", "titleOriginal": "The Death Cure", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 4, "title": "The Kill Order", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 5, "title": "The Fever Code", "yearOriginal": 2016, "type": "powieść" },
+    { "order": 6, "title": "The Maze Cutter", "yearOriginal": 2022, "type": "powieść" },
+    { "order": 7, "title": "The Godhead Complex", "yearOriginal": 2023, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Więźnia labiryntu?", "answer": "Zacznij od trylogii głównej: Więzień labiryntu, Próby ognia i Lek na śmierć. Następnie prequele — The Kill Order i The Fever Code — a na końcu spin-off The Maze Cutter, który przenosi akcję wiele lat po finale." },
+    { "question": "Czy The Kill Order i The Fever Code są ważne?", "answer": "To prequele: The Kill Order opowiada o wybuchu zarazy, a The Fever Code o dzieciństwie Thomasa i Teresy. Nie są konieczne do zrozumienia trylogii, ale odpowiadają na większość pytań o WCKD i labirynt." },
+    { "question": "Czy istnieje trzeci tom The Maze Cutter?", "answer": "Finałowy, trzeci tom trylogii Maze Cutter został zapowiedziany przez wydawcę, ale jego premiera była kilkukrotnie przesuwana. Gdy się ukaże, dodamy go do listy." }
+  ],
+  "relatedSeries": []
+}

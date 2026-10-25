@@ -1,0 +1,23 @@
+{
+  "title": "Millennium",
+  "author": "Stieg Larsson",
+  "authorSlug": "stieg-larsson",
+  "genre": ["kryminal", "thriller"],
+  "description": "Kolejność czytania serii Millennium. Wszystkie tomy o Lisbeth Salander i Mikaelu Blomkvistie — trylogia Stiega Larssona i kontynuacje, w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Mężczyźni, którzy nienawidzą kobiet", "titleOriginal": "The Girl with the Dragon Tattoo", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 2, "title": "Dziewczyna, która igrała z ogniem", "titleOriginal": "The Girl Who Played with Fire", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 3, "title": "Zamek z piasku, który runął", "titleOriginal": "The Girl Who Kicked the Hornets' Nest", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 4, "title": "To, co nas nie zabija", "titleOriginal": "The Girl in the Spider's Web", "yearOriginal": 2015, "type": "powieść" },
+    { "order": 5, "title": "The Girl Who Takes an Eye for an Eye", "yearOriginal": 2017, "type": "powieść" },
+    { "order": 6, "title": "The Girl Who Lived Twice", "yearOriginal": 2019, "type": "powieść" },
+    { "order": 7, "title": "The Girl in the Eagle's Talons", "yearOriginal": 2022, "type": "powieść" },
+    { "order": 8, "title": "The Girl with Ice in her Veins", "yearOriginal": 2024, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Millennium?", "answer": "Od Mężczyzn, którzy nienawidzą kobiet (2005) i dalej w kolejności wydania. Trylogia Larssona tworzy jedną, zamkniętą historię — tom czwarty i kolejne to kontynuacje innych autorów." },
+    { "question": "Kto pisze serię po śmierci Larssona?", "answer": "Stieg Larsson zmarł w 2004 roku, przed publikacją trylogii. Tomy 4-6 napisał David Lagercrantz, a od tomu 7 serię prowadzi Karin Smirnoff — wszystkie za zgodą spadkobierców." },
+    { "question": "Czy kontynuacje są warte lektury?", "answer": "Odbiór jest mieszany, ale najnowsze tomy wracają do mocnej postaci Lisbeth. Jeśli kochasz trylogię, warto dać szansę To, co nas nie zabija — filmowe zakończenie wątków z Zameczka." }
+  ],
+  "relatedSeries": []
+}
