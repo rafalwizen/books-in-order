@@ -1,58 +1,3738 @@
 {
-  "generatedAt": "2026-10-24T19:49:25.309Z",
+  "generatedAt": "2026-10-25T13:44:18.245Z",
   "rows": [
     {
-      "slug": "alex-rider",
+      "slug": "39-clues",
       "local": "OK",
       "errors": [],
       "warnings": [
-        "yearOriginal decreases at order 13 (2023 -> 2013) — confirm intentional (chronology vs publication order)"
+        "yearOriginal decreases at order 12 (2011 -> 2010) — confirm intentional (chronology vs publication order)",
+        "filename \"39-clues\" differs from slugify(title) \"39-wskazowek\" (allowed when slug follows the popular Polish name)"
       ],
-      "wiki": null
+      "wiki": {
+        "verdict": "false",
+        "ratio": 0.09090909090909091,
+        "article": "en:The 39 Clues",
+        "issues": [
+          "no Wikipedia match for \"One False Note\"",
+          "no Wikipedia match for \"The Sword Thief\"",
+          "no Wikipedia match for \"Beyond the Grave\"",
+          "no Wikipedia match for \"The Black Circle\"",
+          "no Wikipedia match for \"In Too Deep\"",
+          "no Wikipedia match for \"The Viper's Nest\"",
+          "no Wikipedia match for \"The Emperor's Code\"",
+          "no Wikipedia match for \"Storm Warning\"",
+          "no Wikipedia match for \"Into the Gauntlet\"",
+          "no Wikipedia match for \"Vespers Rising\"",
+          "wiki rows not in our list (may be novellas/companions): Peter Lerangis (2012); Roland Smith (2012); Linda Sue Park (2012); David Baldacci (2013); Jude Watson (2013); Jeff Hirsch (2014); C. Alexander London (2015); Jenny Goebel (2016); Sarwat Chadda (2016); Infinity Ring"
+        ],
+        "rowDetails": [
+          {
+            "json": "The Maze of Bones",
+            "wiki": "The Maze of Bones",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "One False Note",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "The Sword Thief",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Beyond the Grave",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "The Black Circle",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "In Too Deep",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "The Viper's Nest",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "The Emperor's Code",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Storm Warning",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Into the Gauntlet",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Vespers Rising",
+            "wiki": null,
+            "matched": false
+          }
+        ]
+      }
     },
     {
-      "slug": "bohaterowie-olimpu",
+      "slug": "adam-dalgliesh",
       "local": "OK",
       "errors": [],
       "warnings": [
-        "yearOriginal decreases at order 6 (2014 -> 2012) — confirm intentional (chronology vs publication order)"
+        "yearOriginal decreases at order 15 (2008 -> 1972) — confirm intentional (chronology vs publication order)"
       ],
-      "wiki": null
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Adam Dalgliesh",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): Roy Marsden; Martin Shaw; Robin Ellis; Philip Franks; Bertie Carvel; An Unsuitable Job for a Woman (novel) (1972); The Skull Beneath the Skin (1982); John Vine (1983); Mel Martin (1985); Penny Downie (1988)"
+        ],
+        "rowDetails": [
+          {
+            "json": "Cover Her Face",
+            "wiki": "Cover Her Face",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "A Mind to Murder",
+            "wiki": "A Mind to Murder",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Unnatural Causes",
+            "wiki": "Unnatural Causes (detective novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Shroud for a Nightingale",
+            "wiki": "Shroud for a Nightingale",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Black Tower",
+            "wiki": "The Black Tower (James novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Death of an Expert Witness",
+            "wiki": "Death of an Expert Witness",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "A Taste for Death",
+            "wiki": "A Taste for Death (P. D. James novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Devices and Desires",
+            "wiki": "Devices and Desires",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Original Sin",
+            "wiki": "Original Sin (James novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "A Certain Justice",
+            "wiki": "A Certain Justice",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Death in Holy Orders",
+            "wiki": "Death in Holy Orders",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Murder Room",
+            "wiki": "The Murder Room",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Lighthouse",
+            "wiki": "The Lighthouse (James novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Private Patient",
+            "wiki": "The Private Patient",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
     },
     {
-      "slug": "kapitan-majtas",
+      "slug": "barsoom",
       "local": "OK",
       "errors": [],
       "warnings": [],
-      "wiki": null
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Barsoom",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): Edgar Rice Burroughs (1912); Skeleton Men of Jupiter (1943); John Carter (character) (1866); Ulysses Paxton (2023); Dejah Thoris; Tars Tarkas; Ras Thavas; Llane of Gathol; 'Sith; 'Reptiles"
+        ],
+        "rowDetails": [
+          {
+            "json": "Księżniczka Marsa",
+            "wiki": "A Princess of Mars",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Gods of Mars",
+            "wiki": "The Gods of Mars",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Warlord of Mars",
+            "wiki": "The Warlord of Mars",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Thuvia, Maid of Mars",
+            "wiki": "Thuvia, Maid of Mars",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Chessmen of Mars",
+            "wiki": "The Chessmen of Mars",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Master Mind of Mars",
+            "wiki": "The Master Mind of Mars",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "A Fighting Man of Mars",
+            "wiki": "A Fighting Man of Mars",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Swords of Mars",
+            "wiki": "Swords of Mars",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Synthetic Men of Mars",
+            "wiki": "Synthetic Men of Mars",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Llana of Gathol",
+            "wiki": "Llana of Gathol",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "John Carter of Mars",
+            "wiki": "John Carter of Mars (collection)",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
     },
     {
-      "slug": "kroniki-saskie",
+      "slug": "belgariada",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "more than 5 powiązane entries"
+      ],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:The Belgariad",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): The Belgariad; David Eddings (1982); Leigh Eddings; High fantasy (1982)"
+        ],
+        "rowDetails": [
+          {
+            "json": "Pawn of Prophecy",
+            "wiki": "Pawn of Prophecy",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Queen of Sorcery",
+            "wiki": "Queen of Sorcery",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Magician's Gambit",
+            "wiki": "Magician's Gambit",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Castle of Wizardry",
+            "wiki": "Castle of Wizardry",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Enchanters' End Game",
+            "wiki": "Enchanters' End Game",
+            "matched": true,
+            "delta": null
+          }
+        ]
+      }
+    },
+    {
+      "slug": "biuro-nr-1",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "filename \"biuro-nr-1\" differs from slugify(title) \"damskie-biuro-detektywistyczne\" (allowed when slug follows the popular Polish name)"
+      ],
+      "wiki": {
+        "verdict": "partial",
+        "ratio": 0.7777777777777778,
+        "article": "en:The No. 1 Ladies' Detective Agency",
+        "issues": [
+          "no Wikipedia match for \"The Woman Who Walked in Sunshine\"",
+          "no Wikipedia match for \"Precious and Grace\"",
+          "no Wikipedia match for \"The House of Unexpected Sisters\"",
+          "no Wikipedia match for \"The Colours of All the Cattle\"",
+          "no Wikipedia match for \"To the Land of Long Lost Friends\"",
+          "no Wikipedia match for \"How to Raise an Elephant\"",
+          "wiki rows not in our list (may be novellas/companions): Alexander McCall Smith; private investigator; Setswana; Tlokweng; 'Mr. Obed Ramotswe; 'Charlie; Robert Moffat (missionary); 'Mma Silvia Potokwane; 'Note Mokoti; 'Motholeli"
+        ],
+        "rowDetails": [
+          {
+            "json": "The No. 1 Ladies' Detective Agency",
+            "wiki": "The No. 1 Ladies' Detective Agency (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tears of the Giraffe",
+            "wiki": "Tears of the Giraffe",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Morality for Beautiful Girls",
+            "wiki": "Morality for Beautiful Girls",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Kalahari Typing School for Men",
+            "wiki": "The Kalahari Typing School for Men",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Full Cupboard of Life",
+            "wiki": "The Full Cupboard of Life",
+            "matched": true,
+            "delta": 1
+          },
+          {
+            "json": "The Company of Cheerful Ladies",
+            "wiki": "In The Company of Cheerful Ladies",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Blue Shoes and Happiness",
+            "wiki": "Blue Shoes and Happiness",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Good Husband of Zebra Drive",
+            "wiki": "The Good Husband of Zebra Drive",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Miracle at Speedy Motors",
+            "wiki": "The Miracle at Speedy Motors",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tea Time for the Traditionally Built",
+            "wiki": "Tea Time for the Traditionally Built",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Double Comfort Safari Club",
+            "wiki": "The Double Comfort Safari Club",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Saturday Big Tent Wedding Party",
+            "wiki": "The Saturday Big Tent Wedding Party",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Limpopo Academy of Private Detection",
+            "wiki": "The Limpopo Academy of Private Detection",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Minor Adjustment Beauty Salon",
+            "wiki": "The Minor Adjustment Beauty Salon",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Handsome Man's De Luxe Café",
+            "wiki": "The Handsome Man's De Luxe Café",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Woman Who Walked in Sunshine",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Precious and Grace",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "The House of Unexpected Sisters",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "The Colours of All the Cattle",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "To the Land of Long Lost Friends",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "How to Raise an Elephant",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "The Joy and Light Bus Company",
+            "wiki": "The Joy and Light Bus Company",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "A Song of Comfortable Chairs",
+            "wiki": "A Song of Comfortable Chairs",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "From a Far and Lovely Country",
+            "wiki": "From a Far and Lovely Country",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Great Hippopotamus Hotel",
+            "wiki": "The Great Hippopotamus Hotel",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "In the Time of Five Pumpkins",
+            "wiki": "In the Time of Five Pumpkins",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Big Cats Dance Party",
+            "wiki": "The Big Cats Dance Party",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "do-wszystkich-chlopow",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "filename \"do-wszystkich-chlopow\" differs from slugify(title) \"do-wszystkich-chlopcow-ktorych-kochalam\" (allowed when slug follows the popular Polish name)"
+      ],
+      "wiki": {
+        "verdict": "no-table",
+        "issues": [
+          "could not parse a publication list from pl:Do wszystkich chłopców, których kochałam (1 rows)"
+        ]
+      }
+    },
+    {
+      "slug": "dork-diaries",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "filename \"dork-diaries\" differs from slugify(title) \"dziennik-nikki\" (allowed when slug follows the popular Polish name)"
+      ],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Dork Diaries",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): Rachel Renée Russell (2009); Locker Hero (2016); Middle School Mayhem (2017); Masters of Mischief (2019); The Misadventures of Max Crumbly"
+        ],
+        "rowDetails": [
+          {
+            "json": "Tales from a Not-So-Fabulous Life",
+            "wiki": "Tales from a Not-So-Fabulous Life",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tales from a Not-So-Popular Party Girl",
+            "wiki": "Tales from a Not-So-Popular Party Girl",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tales from a Not-So-Talented Pop Star",
+            "wiki": "Tales from a Not-So-Talented Pop Star",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tales from a Not-So-Graceful Ice Princess",
+            "wiki": "Tales from a Not-So-Graceful Ice Princess",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tales from a Not-So-Smart Miss Know-It-All",
+            "wiki": "Tales from a Not-So-Smart Miss Know-it-All",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tales from a Not-So-Happy Heartbreaker",
+            "wiki": "Tales from a Not-So-Happy Heartbreaker",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tales from a Not-So-Glam TV Star",
+            "wiki": "Tales from a Not-So-Glam TV Star",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tales from a Not-So-Happily Ever After",
+            "wiki": "Tales from a Not-So-Happily Ever After",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tales from a Not-So-Dorky Drama Queen",
+            "wiki": "Tales from a Not-So-Dorky Drama Queen",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tales from a Not-So-Perfect Pet Sitter",
+            "wiki": "Tales from a Not-So-Perfect Pet Sitter",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tales from a Not-So-Friendly Frenemy",
+            "wiki": "Tales from a Not-So-Friendly Frenemy",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tales from a Not-So-Secret Crush Catastrophe",
+            "wiki": "Tales from a Not-So-Secret Crush Catastrophe",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tales from a Not-So-Happy Birthday",
+            "wiki": "Tales from a Not-So-Happy Birthday",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tales from a Not-So-Best Friend Forever",
+            "wiki": "Tales from a Not-So-Best-Friend Forever",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tales from a Not-So-Posh Paris Adventure",
+            "wiki": "Tales from a Not-So-Posh Paris Adventure",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tales from a Not-So-Bratty Little Sister",
+            "wiki": "Tales from a Not-So-Bratty Little Sister",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "flashman",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "filename \"flashman\" differs from slugify(title) \"the-flashman-papers\" (allowed when slug follows the popular Polish name)"
+      ],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:The Flashman Papers",
+        "issues": [
+          "year differs for \"Flashman\": ours 1969, wiki 1839",
+          "year differs for \"Royal Flash\": ours 1970, wiki 1842",
+          "year differs for \"Flash for Freedom!\": ours 1971, wiki 1848",
+          "year differs for \"Flashman at the Charge\": ours 1973, wiki 1854",
+          "year differs for \"Flashman in the Great Game\": ours 1975, wiki 1856",
+          "year differs for \"Flashman's Lady\": ours 1977, wiki 1842",
+          "year differs for \"Flashman and the Redskins\": ours 1982, wiki 1849",
+          "year differs for \"Flashman and the Dragon\": ours 1985, wiki 1860",
+          "year differs for \"Flashman and the Mountain of Light\": ours 1990, wiki 1845",
+          "year differs for \"Flashman and the Angel of the Lord\": ours 1994, wiki 1858",
+          "year differs for \"Flashman and the Tiger\": ours 1999, wiki 1878",
+          "year differs for \"Flashman on the March\": ours 2005, wiki 1867",
+          "wiki rows not in our list (may be novellas/companions): News World Communications (1998); Pan Books (1974); HarperCollins (1991); Vanity Fair (British magazine) (2006); Infobase Publishing (2009); The Contemporary Review (2003)"
+        ],
+        "rowDetails": [
+          {
+            "json": "Flashman",
+            "wiki": "Flashman (novel)",
+            "matched": true,
+            "delta": 130
+          },
+          {
+            "json": "Royal Flash",
+            "wiki": "Royal Flash",
+            "matched": true,
+            "delta": 128
+          },
+          {
+            "json": "Flash for Freedom!",
+            "wiki": "Flash for Freedom!",
+            "matched": true,
+            "delta": 123
+          },
+          {
+            "json": "Flashman at the Charge",
+            "wiki": "Flashman at the Charge",
+            "matched": true,
+            "delta": 119
+          },
+          {
+            "json": "Flashman in the Great Game",
+            "wiki": "Flashman in the Great Game",
+            "matched": true,
+            "delta": 119
+          },
+          {
+            "json": "Flashman's Lady",
+            "wiki": "Flashman's Lady",
+            "matched": true,
+            "delta": 135
+          },
+          {
+            "json": "Flashman and the Redskins",
+            "wiki": "Flashman and the Redskins",
+            "matched": true,
+            "delta": 133
+          },
+          {
+            "json": "Flashman and the Dragon",
+            "wiki": "Flashman and the Dragon",
+            "matched": true,
+            "delta": 125
+          },
+          {
+            "json": "Flashman and the Mountain of Light",
+            "wiki": "Flashman and the Mountain of Light",
+            "matched": true,
+            "delta": 145
+          },
+          {
+            "json": "Flashman and the Angel of the Lord",
+            "wiki": "Flashman and the Angel of the Lord",
+            "matched": true,
+            "delta": 136
+          },
+          {
+            "json": "Flashman and the Tiger",
+            "wiki": "Flashman and the Tiger",
+            "matched": true,
+            "delta": 121
+          },
+          {
+            "json": "Flashman on the March",
+            "wiki": "Flashman on the March",
+            "matched": true,
+            "delta": 138
+          }
+        ]
+      }
+    },
+    {
+      "slug": "in-death",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "unusual book count: 63"
+      ],
+      "wiki": {
+        "verdict": "partial",
+        "ratio": 0.8253968253968254,
+        "article": "en:In Death",
+        "issues": [
+          "no Wikipedia match for \"Immortal in Death\"",
+          "no Wikipedia match for \"Ceremony in Death\"",
+          "no Wikipedia match for \"Vengeance in Death\"",
+          "no Wikipedia match for \"Holiday in Death\"",
+          "no Wikipedia match for \"Witness in Death\"",
+          "no Wikipedia match for \"Betrayal in Death\"",
+          "no Wikipedia match for \"Seduction in Death\"",
+          "no Wikipedia match for \"Survivor in Death\"",
+          "no Wikipedia match for \"Creation in Death\"",
+          "no Wikipedia match for \"Leverage in Death\"",
+          "no Wikipedia match for \"Golden in Death\"",
+          "wiki rows not in our list (may be novellas/companions): SIG 210 (1980); Ruger P90; Roarke (In Death); strangulation; blunt trauma; Walking stick; drug overdose; hanging; wrists; Jumper (suicide)"
+        ],
+        "rowDetails": [
+          {
+            "json": "Naked in Death",
+            "wiki": "Naked in Death",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Glory in Death",
+            "wiki": "Glory in Death",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Immortal in Death",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Rapture in Death",
+            "wiki": "Rapture in Death",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Ceremony in Death",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Vengeance in Death",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Holiday in Death",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Conspiracy in Death",
+            "wiki": "Conspiracy in Death",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Loyalty in Death",
+            "wiki": "Loyalty in Death",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Witness in Death",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Judgment in Death",
+            "wiki": "Judgment in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Betrayal in Death",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Seduction in Death",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Reunion in Death",
+            "wiki": "Reunion in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Purity in Death",
+            "wiki": "Purity in Death",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Portrait in Death",
+            "wiki": "Portrait in Death",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Imitation in Death",
+            "wiki": "Imitation in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Divided in Death",
+            "wiki": "Divided in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Visions in Death",
+            "wiki": "Visions in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Survivor in Death",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Origin in Death",
+            "wiki": "Origin in Death",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Memory in Death",
+            "wiki": "Memory in Death (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Born in Death",
+            "wiki": "Born in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Innocent in Death",
+            "wiki": "Innocent in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Creation in Death",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Strangers in Death",
+            "wiki": "Strangers in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Salvation in Death",
+            "wiki": "Salvation in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Promises in Death",
+            "wiki": "Promises in Death",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Kindred in Death",
+            "wiki": "Kindred in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Fantasy in Death",
+            "wiki": "Fantasy in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Indulgence in Death",
+            "wiki": "Indulgence in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Treachery in Death",
+            "wiki": "Treachery in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "New York to Dallas",
+            "wiki": "New York to Dallas",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Celebrity in Death",
+            "wiki": "Celebrity in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Delusion in Death",
+            "wiki": "Delusion in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Calculated in Death",
+            "wiki": "Calculated in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Thankless in Death",
+            "wiki": "Thankless in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Concealed in Death",
+            "wiki": "Concealed in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Festive in Death",
+            "wiki": "Festive in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Obsession in Death",
+            "wiki": "Obsession in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Devoted in Death",
+            "wiki": "Devoted in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Brotherhood in Death",
+            "wiki": "Brotherhood in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Apprentice in Death",
+            "wiki": "Apprentice in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Echoes in Death",
+            "wiki": "Echoes in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Secrets in Death",
+            "wiki": "Secrets in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Dark in Death",
+            "wiki": "Dark in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Leverage in Death",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Connections in Death",
+            "wiki": "Connections in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Vendetta in Death",
+            "wiki": "Vendetta in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Golden in Death",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Shadows in Death",
+            "wiki": "Shadows in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Faithless in Death",
+            "wiki": "Faithless in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Forgotten in Death",
+            "wiki": "Forgotten in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Abandoned in Death",
+            "wiki": "Abandoned in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Desperation in Death",
+            "wiki": "Desperation in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Encore in Death",
+            "wiki": "Encore in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Payback in Death",
+            "wiki": "Payback in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Random in Death",
+            "wiki": "Random in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Passions in Death",
+            "wiki": "Passions in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Bonded in Death",
+            "wiki": "Bonded in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Framed in Death",
+            "wiki": "Framed in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Stolen in Death",
+            "wiki": "Stolen in Death",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Fury in Death",
+            "wiki": "Fury in Death",
+            "matched": true,
+            "delta": null
+          }
+        ]
+      }
+    },
+    {
+      "slug": "inspektor-morse",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "yearOriginal decreases at order 14 (1999 -> 1993) — confirm intentional (chronology vs publication order)"
+      ],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Inspector Morse",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): Detective; St John's College, Oxford; Endeavouring to Crack the Morse Code (Inspector Morse) (2006); The Complete Inspector Morse: From the Original Novels to the TV Series (2006); Colin Dexter (1998); The Oxford of Inspector Morse: Films Locations History (2004); Inspector Morse on Location. (2007); The Oxford of Inspector Morse (2012); The Making of Inspector Morse (1995)"
+        ],
+        "rowDetails": [
+          {
+            "json": "Ostatni autobus do Woodstock",
+            "wiki": "Last Bus to Woodstock",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Last Seen Wearing",
+            "wiki": "Last Seen Wearing (Dexter novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Silent World of Nicholas Quinn",
+            "wiki": "The Silent World of Nicholas Quinn",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Service of All the Dead",
+            "wiki": "Service of All the Dead",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Dead of Jericho",
+            "wiki": "The Dead of Jericho",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Riddle of the Third Mile",
+            "wiki": "The Riddle of the Third Mile",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Secret of Annexe 3",
+            "wiki": "The Secret of Annexe 3",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Wench Is Dead",
+            "wiki": "The Wench is Dead",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Jewel That Was Ours",
+            "wiki": "The Jewel That Was Ours",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Way Through the Woods",
+            "wiki": "The Way Through the Woods",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Daughters of Cain",
+            "wiki": "The Daughters of Cain",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Death Is Now My Neighbour",
+            "wiki": "Death Is Now My Neighbour",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Remorseful Day",
+            "wiki": "The Remorseful Day",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "jack-reacher",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "yearOriginal decreases at order 32 (2026 -> 2017) — confirm intentional (chronology vs publication order)"
+      ],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Jack Reacher (book series)",
+        "issues": [
+          "year differs for \"The Enemy\": ours 2004, wiki 1990",
+          "year differs for \"The Affair\": ours 2011, wiki 1997",
+          "year differs for \"Night School\": ours 2016, wiki 1996",
+          "year differs for \"The Sentinel\": ours 2020, wiki 1846",
+          "year differs for \"The Secret\": ours 2023, wiki 1992",
+          "wiki rows not in our list (may be novellas/companions): Point of view (literature); Stephen King; Joseph Finder; Second Son (1974); High Heat (1977); Deep Down (1986); Small Wars (1989); You Shook Me All Night Long (1989); James Penney's New Identity (1999); Guy Walks into a Bar... (2009)"
+        ],
+        "rowDetails": [
+          {
+            "json": "Killing Floor",
+            "wiki": "Killing Floor (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Die Trying",
+            "wiki": "Die Trying (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tripwire",
+            "wiki": "Tripwire (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Visitor",
+            "wiki": "The Visitor (Child novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Echo Burning",
+            "wiki": "Echo Burning",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Without Fail",
+            "wiki": "Without Fail",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Persuader",
+            "wiki": "Persuader (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Enemy",
+            "wiki": "The Enemy",
+            "matched": true,
+            "delta": 14
+          },
+          {
+            "json": "One Shot",
+            "wiki": "One Shot (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Hard Way",
+            "wiki": "The Hard Way (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Bad Luck and Trouble",
+            "wiki": "Bad Luck and Trouble",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Nothing to Lose",
+            "wiki": "Nothing to Lose (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Gone Tomorrow",
+            "wiki": "Gone Tomorrow",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "61 Hours",
+            "wiki": "61 Hours",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Worth Dying For",
+            "wiki": "Worth Dying For (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Affair",
+            "wiki": "The Affair",
+            "matched": true,
+            "delta": 14
+          },
+          {
+            "json": "A Wanted Man",
+            "wiki": "A Wanted Man",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Never Go Back",
+            "wiki": "Never Go Back (Lee Child novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Personal",
+            "wiki": "Personal (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Make Me",
+            "wiki": "Make Me (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Night School",
+            "wiki": "Night School",
+            "matched": true,
+            "delta": 20
+          },
+          {
+            "json": "The Midnight Line",
+            "wiki": "The Midnight Line",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Past Tense",
+            "wiki": "Past Tense (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Blue Moon",
+            "wiki": "Blue Moon (Child novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Sentinel",
+            "wiki": "The Sentinel (Child novel)",
+            "matched": true,
+            "delta": 174
+          },
+          {
+            "json": "Better Off Dead",
+            "wiki": "Better Off Dead",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "No Plan B",
+            "wiki": "No Plan B",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Secret",
+            "wiki": "The Secret",
+            "matched": true,
+            "delta": 31
+          },
+          {
+            "json": "In Too Deep",
+            "wiki": "In Too Deep",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Exit Strategy",
+            "wiki": "Exit Strategy",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Chain Reaction",
+            "wiki": "Chain Reaction",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "kay-scarpetta",
       "local": "OK",
       "errors": [],
       "warnings": [],
-      "wiki": null
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Kay Scarpetta",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): Cruel & Unusual (1993); List of fictional medical examiners"
+        ],
+        "rowDetails": [
+          {
+            "json": "Postmortem",
+            "wiki": "Postmortem (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Body of Evidence",
+            "wiki": "Body of Evidence (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "All That Remains",
+            "wiki": "All That Remains (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Cruel and Unusual",
+            "wiki": "Cruel and Unusual (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Body Farm",
+            "wiki": "The Body Farm (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "From Potter's Field",
+            "wiki": "From Potter's Field (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Cause of Death",
+            "wiki": "Cause of Death (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Unnatural Exposure",
+            "wiki": "Unnatural Exposure (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Point of Origin",
+            "wiki": "Point of Origin (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Black Notice",
+            "wiki": "Black Notice",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Last Precinct",
+            "wiki": "The Last Precinct (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Blow Fly",
+            "wiki": "Blow Fly (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Trace",
+            "wiki": "Trace (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Predator",
+            "wiki": "Predator (Cornwell novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Book of the Dead",
+            "wiki": "Book of the Dead (Cornwell novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Scarpetta",
+            "wiki": "Scarpetta (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Scarpetta Factor",
+            "wiki": "The Scarpetta Factor",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Port Mortuary",
+            "wiki": "Port Mortuary (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Red Mist",
+            "wiki": "Red Mist (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Bone Bed",
+            "wiki": "The Bone Bed",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Dust",
+            "wiki": "Dust (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Flesh and Blood",
+            "wiki": "Flesh and Blood (Cornwell novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Depraved Heart",
+            "wiki": "Depraved Heart (Cornwell novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Chaos",
+            "wiki": "Chaos (Cornwell novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Autopsy",
+            "wiki": "Autopsy (Cornwell novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Livid",
+            "wiki": "Livid (Cornwell novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Unnatural Death",
+            "wiki": "Unnatural Death (Cornwell novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Identity Unknown",
+            "wiki": "Identity Unknown (Cornwell novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Sharp Force",
+            "wiki": "Sharp Force (Cornwell novel)",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
     },
     {
-      "slug": "poldark",
+      "slug": "komedia-ludzka",
       "local": "OK",
       "errors": [],
       "warnings": [],
-      "wiki": null
+      "wiki": {
+        "verdict": "partial",
+        "ratio": 0.75,
+        "article": "en:La Comédie humaine",
+        "issues": [
+          "no Wikipedia match for \"Le Père Goriot\"",
+          "no Wikipedia match for \"Histoire de la grandeur et de la décadence de César Birotteau\"",
+          "year differs for \"Blaski i nędze kurtyzan\": ours 1838, wiki 1847",
+          "no Wikipedia match for \"La Cousine Bette\"",
+          "wiki rows not in our list (may be novellas/companions): La Maison du chat-qui-pelote (1830); Le Bal de Sceaux (1830); La Bourse (1832); La Vendetta (Balzac) (1830); Madame Firmiani (1832); Une double famille (1830); La Paix du ménage (1830); La Fausse Maîtresse (1842); Étude de femme (1830); Another Study of a Woman (1842)"
+        ],
+        "rowDetails": [
+          {
+            "json": "Szuanie",
+            "wiki": "Les Chouans",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Gobseck",
+            "wiki": "Gobseck",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Skóra z onagera",
+            "wiki": "La Peau de chagrin",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Eugenia Grandet",
+            "wiki": "Eugénie Grandet",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Ojciec Goriot",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Lilia w dolinie",
+            "wiki": "Le Lys dans la vallée",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Stracone złudzenia",
+            "wiki": "Illusions perdues",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Historia wielkości i upadku Cezara Birotteau",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Blaski i nędze kurtyzan",
+            "wiki": "Splendeurs et misères des courtisanes",
+            "matched": true,
+            "delta": 9
+          },
+          {
+            "json": "Pułkownik Chabert",
+            "wiki": "Le Colonel Chabert (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Kuzynka Bietka",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Kuzyn Pons",
+            "wiki": "Cousin Pons",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
     },
     {
-      "slug": "skulduggery-pleasant",
+      "slug": "kraina-oz",
       "local": "OK",
       "errors": [],
       "warnings": [],
-      "wiki": null
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:List of Oz books",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): 'The original; Dorothy Gale; Tip (Oz); Australia; Munchkin; Betsy Bobbin; Cap'n Bill (1914); Prince Inga of Pingaree; Princess Ozma; Tin Woodman"
+        ],
+        "rowDetails": [
+          {
+            "json": "Czarnoksiężnik z Krainy Oz",
+            "wiki": "The Wonderful Wizard of Oz",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Marvelous Land of Oz",
+            "wiki": "The Marvelous Land of Oz",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Ozma of Oz",
+            "wiki": "Ozma of Oz",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Dorothy and the Wizard in Oz",
+            "wiki": "Dorothy and the Wizard in Oz",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Road to Oz",
+            "wiki": "The Road to Oz",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Emerald City of Oz",
+            "wiki": "The Emerald City of Oz",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Patchwork Girl of Oz",
+            "wiki": "The Patchwork Girl of Oz",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tik-Tok of Oz",
+            "wiki": "Tik-Tok of Oz",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Scarecrow of Oz",
+            "wiki": "The Scarecrow of Oz",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Rinkitink in Oz",
+            "wiki": "Rinkitink in Oz",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Lost Princess of Oz",
+            "wiki": "The Lost Princess of Oz",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Tin Woodman of Oz",
+            "wiki": "The Tin Woodman of Oz",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Magic of Oz",
+            "wiki": "The Magic of Oz",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Glinda of Oz",
+            "wiki": "Glinda of Oz",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
     },
     {
-      "slug": "nancy-drew",
+      "slug": "kroniki-amberu",
       "local": "OK",
       "errors": [],
       "warnings": [],
-      "wiki": null
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:The Chronicles of Amber",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): The Chronicles of Amber (1970); Roger Zelazny (1970); Amberzine (2005); Amber Short Stories#The Salesman's Tale (1994); Amber Short Stories#Blue Horse, Dancing Mountains (1995); Amber Short Stories#The Shroudling and the Guisel (1994); Amber Short Stories#Coming to a Cord (1995); Amber Short Stories#Hall of Mirrors (1996); The Dawn of Amber (2002); Chaos and Amber (2003)"
+        ],
+        "rowDetails": [
+          {
+            "json": "Dziewięciu książąt Amber",
+            "wiki": "Nine Princes in Amber",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Karabiny Avalonu",
+            "wiki": "The Guns of Avalon",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Znak Jednorożca",
+            "wiki": "Sign of the Unicorn",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Ręka Oberona",
+            "wiki": "The Hand of Oberon",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Dwory Chaosu",
+            "wiki": "The Courts of Chaos",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Trumps of Doom",
+            "wiki": "Trumps of Doom",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Blood of Amber",
+            "wiki": "Blood of Amber",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Sign of Chaos",
+            "wiki": "Sign of Chaos",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Knight of Shadows",
+            "wiki": "Knight of Shadows",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Prince of Chaos",
+            "wiki": "Prince of Chaos",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "kroniki-kane",
+      "local": "OK",
+      "errors": [],
+      "warnings": [],
+      "wiki": {
+        "verdict": "no-table",
+        "issues": [
+          "could not parse a publication list from en:The Kane Chronicles (1 rows)"
+        ]
+      }
+    },
+    {
+      "slug": "kroniki-spiderwick",
+      "local": "OK",
+      "errors": [],
+      "warnings": [],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:The Spiderwick Chronicles",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): The Nixie's Song (2007); A Giant Problem (2008); The Wyrm King (2009); Holly Black; Tony DiTerlizzi; Simon & Schuster; The Spiderwick Chronicles (2003); Beyond the Spiderwick Chronicles (2007); 'Jared Evan Grace; identical twin"
+        ],
+        "rowDetails": [
+          {
+            "json": "The Field Guide",
+            "wiki": "The Field Guide",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Seeing Stone",
+            "wiki": "The Seeing Stone",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Lucinda's Secret",
+            "wiki": "Lucinda's Secret",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Ironwood Tree",
+            "wiki": "The Ironwood Tree",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Wrath of Mulgarath",
+            "wiki": "The Wrath of Mulgarath",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "locked-tomb",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "filename \"locked-tomb\" differs from slugify(title) \"the-locked-tomb\" (allowed when slug follows the popular Polish name)"
+      ],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:The Locked Tomb",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): Alecto the Ninth; Tamsyn Muir (2019)"
+        ],
+        "rowDetails": [
+          {
+            "json": "Gideon the Ninth",
+            "wiki": "Gideon the Ninth",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Harrow the Ninth",
+            "wiki": "Harrow the Ninth",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Nona the Ninth",
+            "wiki": "Nona the Ninth",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "lord-peter-wimsey",
+      "local": "OK",
+      "errors": [],
+      "warnings": [],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Lord Peter Wimsey",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): Notes on the Collecting of Incunabula; Vade mecum; Battle of Britain (1940); The Attenbury Emeralds (2010); List of fictional Oxford colleges#Other works; Thrones, Dominations (1998); Lord Peter Views the Body (1928); Hangman's Holiday (1933); In the Teeth of the Evidence (1939); Striding Folly (1972)"
+        ],
+        "rowDetails": [
+          {
+            "json": "Czyj trup?",
+            "wiki": "Whose Body?",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Clouds of Witness",
+            "wiki": "Clouds of Witness",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Unnatural Death",
+            "wiki": "Unnatural Death (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Unpleasantness at the Bellona Club",
+            "wiki": "The Unpleasantness at the Bellona Club",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Strong Poison",
+            "wiki": "Strong Poison",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Five Red Herrings",
+            "wiki": "The Five Red Herrings",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Have His Carcase",
+            "wiki": "Have His Carcase",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Murder Must Advertise",
+            "wiki": "Murder Must Advertise",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Nine Tailors",
+            "wiki": "The Nine Tailors",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Gaudy Night",
+            "wiki": "Gaudy Night",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Busman's Honeymoon",
+            "wiki": "Busman's Honeymoon",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "malory-towers",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "more than 5 powiązane entries"
+      ],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Malory Towers",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): 'Darrell Rivers; 'Gwendoline Mary Lacey; 'Alicia Johns; 'Sally Hope; 'Mary-Lou Linnet; 'Katherine; 'Emily Lake; 'Violet; 'Jean MacDonald; 'Irene Edwards"
+        ],
+        "rowDetails": [
+          {
+            "json": "First Term at Malory Towers",
+            "wiki": "First Term at Malory Towers",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Second Form at Malory Towers",
+            "wiki": "The Second Form at Malory Towers",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Third Year at Malory Towers",
+            "wiki": "Third Year at Malory Towers",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Upper Fourth at Malory Towers",
+            "wiki": "Upper Fourth at Malory Towers",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "In the Fifth at Malory Towers",
+            "wiki": "In the Fifth at Malory Towers",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Last Term at Malory Towers",
+            "wiki": "Last Term at Malory Towers",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "mary-poppins",
+      "local": "OK",
+      "errors": [],
+      "warnings": [],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Mary Poppins (book series)",
+        "issues": [
+          "year differs for \"Mary Poppins otwiera drzwi\": ours 1943, wiki 1934",
+          "wiki rows not in our list (may be novellas/companions): P. L. Travers (1934); St Paul's Cathedral (1964); William the Conqueror (1964); 'Annie (1964); Ed Wynn (1964); Meryl Streep (2004); 'Fred Twigley; Angela Lansbury; Noah's Ark; Neleus"
+        ],
+        "rowDetails": [
+          {
+            "json": "Mary Poppins",
+            "wiki": "#Mary Poppins, published 1934",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Mary Poppins wraca",
+            "wiki": "Mary Poppins Comes Back",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Mary Poppins otwiera drzwi",
+            "wiki": "Mary Poppins Opens the Door",
+            "matched": true,
+            "delta": 9
+          },
+          {
+            "json": "Mary Poppins w parku",
+            "wiki": "Mary Poppins in the Park",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Mary Poppins from A to Z",
+            "wiki": "Mary Poppins from A to Z",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Mary Poppins in the Kitchen",
+            "wiki": "Mary Poppins in the Kitchen",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Mary Poppins in Cherry Tree Lane",
+            "wiki": "Mary Poppins in Cherry Tree Lane",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Mary Poppins and the House Next Door",
+            "wiki": "Mary Poppins and the House Next Door",
+            "matched": true,
+            "delta": null
+          }
+        ]
+      }
+    },
+    {
+      "slug": "maximum-ride",
+      "local": "OK",
+      "errors": [],
+      "warnings": [],
+      "wiki": {
+        "verdict": "partial",
+        "ratio": 0.7777777777777778,
+        "article": "en:Maximum Ride",
+        "issues": [
+          "year differs for \"Maximum Ride: Saving the World and Other Extreme Sports\": ours 2007, wiki 2005",
+          "no Wikipedia match for \"Max\"",
+          "no Wikipedia match for \"Nevermore\"",
+          "wiki rows not in our list (may be novellas/companions): Bird; Maximum Ride: School's Out Forever; Psychometry (paranormal); 'The Gasman,; 'Angel; Cairn Terrier (1939); 'The School; 'Jeb Batchelder; Maximum Ride: Saving the World and Other Extreme Sports; 'Maya,"
+        ],
+        "rowDetails": [
+          {
+            "json": "Maximum Ride: The Angel Experiment",
+            "wiki": "Maximum Ride: The Angel Experiment",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Maximum Ride: School's Out Forever",
+            "wiki": "Maximum Ride: The Angel Experiment",
+            "matched": true,
+            "delta": 1
+          },
+          {
+            "json": "Maximum Ride: Saving the World and Other Extreme Sports",
+            "wiki": "Maximum Ride: The Angel Experiment",
+            "matched": true,
+            "delta": 2
+          },
+          {
+            "json": "The Final Warning",
+            "wiki": "Maximum Ride: The Final Warning",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Max",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Fang",
+            "wiki": "'Fang",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Angel",
+            "wiki": "[[Angel: A Maximum Ride Novel|Angel]]",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Nevermore",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Maximum Ride Forever",
+            "wiki": "Maximum Ride Forever",
+            "matched": true,
+            "delta": null
+          }
+        ]
+      }
+    },
+    {
+      "slug": "mickey-haller",
+      "local": "OK",
+      "errors": [],
+      "warnings": [],
+      "wiki": {
+        "verdict": "partial",
+        "ratio": 0.875,
+        "article": "en:Mickey Haller",
+        "issues": [
+          "no Wikipedia match for \"The Proving Ground\"",
+          "wiki rows not in our list (may be novellas/companions): Harry Bosch; 2025 in literature (2025); Echo Park (2006); Nine Dragons (2009); The Crossing (2015); The Wrong Side of Goodbye (2016); Two Kinds of Truth (2017); The Night Fire (2019); The Dark End of the Street (2010); 'Film"
+        ],
+        "rowDetails": [
+          {
+            "json": "Adwokat z Lincoln",
+            "wiki": "The Lincoln Lawyer",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Brass Verdict",
+            "wiki": "The Brass Verdict",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Reversal",
+            "wiki": "The Reversal",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Fifth Witness",
+            "wiki": "The Fifth Witness",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Gods of Guilt",
+            "wiki": "The Gods of Guilt",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Law of Innocence",
+            "wiki": "The Law of Innocence",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Resurrection Walk",
+            "wiki": "Resurrection Walk",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Proving Ground",
+            "wiki": null,
+            "matched": false
+          }
+        ]
+      }
+    },
+    {
+      "slug": "mitch-rapp",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "yearOriginal decreases at order 26 (2026 -> 1997) — confirm intentional (chronology vs publication order)"
+      ],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Mitch Rapp",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): Vince Flynn; Term Limits (novel) (1997)"
+        ],
+        "rowDetails": [
+          {
+            "json": "Transfer of Power",
+            "wiki": "Transfer of Power",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Third Option",
+            "wiki": "The Third Option",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Separation of Power",
+            "wiki": "Separation of Power",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Executive Power",
+            "wiki": "Executive Power",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Memorial Day",
+            "wiki": "Memorial Day (2004 novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Consent to Kill",
+            "wiki": "Consent to Kill",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Act of Treason",
+            "wiki": "Act of Treason",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Protect and Defend",
+            "wiki": "Protect and Defend",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Extreme Measures",
+            "wiki": "Extreme Measures (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Pursuit of Honor",
+            "wiki": "Pursuit of Honor (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "American Assassin",
+            "wiki": "American Assassin",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Kill Shot",
+            "wiki": "Kill Shot",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Last Man",
+            "wiki": "The Last Man",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Survivor",
+            "wiki": "The Survivor (Mills novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Order to Kill",
+            "wiki": "Order to Kill",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Enemy of the State",
+            "wiki": "Enemy of the State",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Red War",
+            "wiki": "Red War",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Lethal Agent",
+            "wiki": "Lethal Agent",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Total Power",
+            "wiki": "Total Power",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Enemy at the Gates",
+            "wiki": "Enemy at the Gates",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Oath of Loyalty",
+            "wiki": "Oath of Loyalty",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Code Red",
+            "wiki": "Code Red",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Capture or Kill",
+            "wiki": "Capture or Kill",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Denied Access",
+            "wiki": "Denied Access",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Double Tap",
+            "wiki": "Double Tap",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "muminki",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "yearOriginal decreases at order 10 (1970 -> 1952) — confirm intentional (chronology vs publication order)"
+      ],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "pl:Muminki",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): Ryjek (Muminki); Włóczykij; Buka (Muminki); Narzeczone lwa, czyli więzy pokrewieństwa; Co było potem? Książka o Mimbli, Muminku i Małej Mi (1952); 1960 w literaturze (1960); 1977 w literaturze (1977); 1980 w literaturze (1980); Muminek; Mamusia Muminka"
+        ],
+        "rowDetails": [
+          {
+            "json": "Małe trolle i duża powódź",
+            "wiki": "Małe trolle i duża powódź",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Kometa nad Doliną Muminków",
+            "wiki": "Kometa nad Doliną Muminków (powieść)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "W Dolinie Muminków",
+            "wiki": "W Dolinie Muminków",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Pamiętniki Tatusia Muminka",
+            "wiki": "Pamiętniki Tatusia Muminka",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Lato Muminków",
+            "wiki": "Lato Muminków (powieść)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Zima Muminków",
+            "wiki": "Zima Muminków",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Opowiadania z Doliny Muminków",
+            "wiki": "Opowiadania z Doliny Muminków",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tatuś Muminka i morze",
+            "wiki": "Tatuś Muminka i morze",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Dolina Muminków w listopadzie",
+            "wiki": "Dolina Muminków w listopadzie",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "nero-wolfe",
+      "local": "OK",
+      "errors": [],
+      "warnings": [],
+      "wiki": {
+        "verdict": "partial",
+        "ratio": 0.7878787878787878,
+        "article": "en:Nero Wolfe",
+        "issues": [
+          "year differs for \"Fer-de-Lance\": ours 1934, wiki 1941",
+          "no Wikipedia match for \"The League of Frightened Men\"",
+          "no Wikipedia match for \"Plot It Yourself\"",
+          "no Wikipedia match for \"The Final Deduction\"",
+          "no Wikipedia match for \"The Mother Hunt\"",
+          "no Wikipedia match for \"The Doorbell Rang\"",
+          "no Wikipedia match for \"The Father Hunt\"",
+          "no Wikipedia match for \"A Family Affair\"",
+          "wiki rows not in our list (may be novellas/companions): Nero Wolfe (2001 TV series) (2001); Before I Die (short story); Man Alive (short story); Stan Hunt (1949); The American Magazine (1938); {{sortname|The|Native's Return|nolink=1}}; African Genesis; {{sortname|The|Treasure of Our Tongue|nolink=1}}; {{sortname|A|Right to Die}}; Fourth of July Picnic"
+        ],
+        "rowDetails": [
+          {
+            "json": "Fer-de-Lance",
+            "wiki": "Fer-de-Lance (novel)",
+            "matched": true,
+            "delta": 7
+          },
+          {
+            "json": "The League of Frightened Men",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "The Rubber Band",
+            "wiki": "The Rubber Band",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Red Box",
+            "wiki": "The Red Box",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Too Many Cooks",
+            "wiki": "Too Many Cooks (novel)",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Some Buried Caesar",
+            "wiki": "Some Buried Caesar",
+            "matched": true,
+            "delta": 1
+          },
+          {
+            "json": "Over My Dead Body",
+            "wiki": "Over My Dead Body (novel)",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Where There's a Will",
+            "wiki": "Where There's a Will (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Silent Speaker",
+            "wiki": "The Silent Speaker",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Too Many Women",
+            "wiki": "Too Many Women (novel)",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "And Be a Villain",
+            "wiki": "And Be a Villain",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "The Second Confession",
+            "wiki": "The Second Confession",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "In the Best Families",
+            "wiki": "In the Best Families",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Murder by the Book",
+            "wiki": "Murder by the Book",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Prisoner's Base",
+            "wiki": "Prisoner's Base",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Golden Spiders",
+            "wiki": "The Golden Spiders",
+            "matched": true,
+            "delta": 1
+          },
+          {
+            "json": "The Black Mountain",
+            "wiki": "The Black Mountain (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Before Midnight",
+            "wiki": "Before Midnight (novel)",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Might as Well Be Dead",
+            "wiki": "Might as Well Be Dead",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "If Death Ever Slept",
+            "wiki": "If Death Ever Slept",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Champagne for One",
+            "wiki": "Champagne for One",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Plot It Yourself",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Too Many Clients",
+            "wiki": "Too Many Clients",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Final Deduction",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Gambit",
+            "wiki": "Gambit (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Mother Hunt",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "A Right to Die",
+            "wiki": "A Right to Die",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Doorbell Rang",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Death of a Doxy",
+            "wiki": "Death of a Doxy",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "The Father Hunt",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Death of a Dude",
+            "wiki": "Death of a Dude",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Please Pass the Guilt",
+            "wiki": "Please Pass the Guilt",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "A Family Affair",
+            "wiki": null,
+            "matched": false
+          }
+        ]
+      }
+    },
+    {
+      "slug": "odyseja-kosmiczna",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "yearOriginal decreases at order 5 (1996 -> 1972) — confirm intentional (chronology vs publication order)"
+      ],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Space Odyssey",
+        "issues": [
+          "year differs for \"Odyseja kosmiczna 2001\": ours 1968, wiki 2001",
+          "year differs for \"2010: Odyseja druga\": ours 1982, wiki 2010",
+          "wiki rows not in our list (may be novellas/companions): Arthur C. Clarke; Stanley Kubrick; 2001: A Space Odyssey (2001); Metro-Goldwyn-Mayer; Hawk Films (1968); Warner Bros. Pictures; 2010: Odyssey Two (2010); 2010: The Year We Make Contact#Comic book (2010); 2010: The Year We Make Contact (2010); 2010: The Year We Make Contact #Video games (2010)"
+        ],
+        "rowDetails": [
+          {
+            "json": "Odyseja kosmiczna 2001",
+            "wiki": "2001: A Space Odyssey (comics)#Monthly_series",
+            "matched": true,
+            "delta": 33
+          },
+          {
+            "json": "2010: Odyseja druga",
+            "wiki": "2010: The Text Adventure Game",
+            "matched": true,
+            "delta": 28
+          },
+          {
+            "json": "2061: Odyseja trzecia",
+            "wiki": "2061: Odyssey Three",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "3001: Ostatnia odyseja",
+            "wiki": "3001: The Final Odyssey",
+            "matched": true,
+            "delta": 1
+          }
+        ]
+      }
+    },
+    {
+      "slug": "piecdziesiat-twarzy-greya",
+      "local": "OK",
+      "errors": [],
+      "warnings": [],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Fifty Shades (novel series)",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): [[Grey: Fifty Shades of Grey as Told by Christian|Grey]] (2015); [[Darker: Fifty Shades Darker as Told by Christian|Darker]] (2017); [[Freed: Fifty Shades Freed as Told by Christian|Freed]] (2021); 'Christian Grey; commissioning editor; 'Elena Lincoln; 'Elliot Grey; 'Mia Grey; 'Katherine; 'Jack Hyde"
+        ],
+        "rowDetails": [
+          {
+            "json": "Pięćdziesiąt twarzy Greya",
+            "wiki": "Fifty Shades of Grey",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Fifty Shades Darker",
+            "wiki": "Fifty Shades Darker",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Fifty Shades Freed",
+            "wiki": "Fifty Shades Freed",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "proby-apolona",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "filename \"proby-apolona\" differs from slugify(title) \"proby-apollona\" (allowed when slug follows the popular Polish name)"
+      ],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:The Trials of Apollo",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): Rick Riordan (2016); Lester Papadopoulos; Meg McCaffrey; List of Camp Half-Blood characters#Peaches; Will Solace; Nico di Angelo; Leo Valdez; List of Camp Half-Blood characters#Calypso; Grover Underwood; Piper McLean"
+        ],
+        "rowDetails": [
+          {
+            "json": "The Hidden Oracle",
+            "wiki": "The Hidden Oracle",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Dark Prophecy",
+            "wiki": "The Dark Prophecy",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Burning Maze",
+            "wiki": "The Burning Maze",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Tyrant's Tomb",
+            "wiki": "The Tyrant's Tomb",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Tower of Nero",
+            "wiki": "The Tower of Nero",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rougon-macquart",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "filename \"rougon-macquart\" differs from slugify(title) \"cykl-rougon-macquart\" (allowed when slug follows the popular Polish name)"
+      ],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Les Rougon-Macquart",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): Prosper Lucas; Bourgeoisie#France and French-speaking countries; The Rougon-Macquart"
+        ],
+        "rowDetails": [
+          {
+            "json": "Fortuna Rougonów",
+            "wiki": "La Fortune des Rougon",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "La Curée",
+            "wiki": "La Curée",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Brzuch Paryża",
+            "wiki": "Le Ventre de Paris",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Podbój Plassans",
+            "wiki": "La Conquête de Plassans",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Grzech księdza Mouret",
+            "wiki": "La Faute de l'Abbé Mouret",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Jego Ekscelencja Eugeniusz Rougon",
+            "wiki": "Son Excellence Eugène Rougon",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "L'Assommoir",
+            "wiki": "L'Assommoir",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Une page d'amour",
+            "wiki": "Une page d'amour",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Nana",
+            "wiki": "Nana (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Pot-Bouille",
+            "wiki": "Pot-Bouille",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Au Bonheur des Dames",
+            "wiki": "Au Bonheur des Dames",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Radość życia",
+            "wiki": "La joie de vivre",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Germinal",
+            "wiki": "Germinal (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Dzieło",
+            "wiki": "L'Œuvre",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Ziemia",
+            "wiki": "La Terre",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Marzenie",
+            "wiki": "Le Rêve (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Bestia ludzka",
+            "wiki": "La Bête humaine",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Pieniądz",
+            "wiki": "L'Argent",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Klęska",
+            "wiki": "La Débâcle",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Doktor Pascal",
+            "wiki": "Le Docteur Pascal",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "shannara",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "yearOriginal decreases at order 24 (2020 -> 1996) — confirm intentional (chronology vs publication order)"
+      ],
+      "wiki": {
+        "verdict": "partial",
+        "ratio": 0.9565217391304348,
+        "article": "en:Shannara",
+        "issues": [
+          "no Wikipedia match for \"The Stiehl Axe\"",
+          "wiki rows not in our list (may be novellas/companions): Jerle Shannara; Galaphile (2025); 'The Druids; 'The Warlock Lord; 'King of the Silver River; Frank Herbert; Terry Brooks; antagonist; protagonist; Shannara creatures#Gnomes"
+        ],
+        "rowDetails": [
+          {
+            "json": "Miecz Shannary",
+            "wiki": "The Sword of Shannara",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Elfstones of Shannara",
+            "wiki": "The Elfstones of Shannara",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Wishsong of Shannara",
+            "wiki": "The Wishsong of Shannara",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Scions of Shannara",
+            "wiki": "The Scions of Shannara",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Druid of Shannara",
+            "wiki": "The Druid of Shannara",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Elf Queen of Shannara",
+            "wiki": "The Elf Queen of Shannara",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Talismans of Shannara",
+            "wiki": "The Talismans of Shannara",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Ilse Witch",
+            "wiki": "Ilse Witch",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Antrax",
+            "wiki": "Antrax",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Morgawr",
+            "wiki": "Morgawr (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Jarka Ruus",
+            "wiki": "Jarka Ruus",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tanequil",
+            "wiki": "Tanequil",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Straken",
+            "wiki": "Straken",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Wards of Faerie",
+            "wiki": "Wards of Faerie",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Bloodfire Quest",
+            "wiki": "Bloodfire Quest",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Witch Wraith",
+            "wiki": "Witch Wraith",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The High Druid's Blade",
+            "wiki": "The High Druid's Blade",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Darkling Child",
+            "wiki": "The Darkling Child",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Sorcerer's Daughter",
+            "wiki": "The Sorcerer's Daughter",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Black Elfstone",
+            "wiki": "The Black Elfstone",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Skaar Invasion",
+            "wiki": "The Skaar Invasion",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Stiehl Axe",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "The Last Druid",
+            "wiki": "The Last Druid",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sookie-stackhouse",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "yearOriginal decreases at order 14 (2013 -> 2009) — confirm intentional (chronology vs publication order)"
+      ],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:The Southern Vampire Mysteries",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): Charlaine Harris (2001); Ace Hardcover (2013); The Sookie Stackhouse Companion (2011); A Touch of Dead#Fairy Dust (2004); Night's Edge (anthology) (2004); A Touch of Dead#One Word Answer (2004); My Big Fat Supernatural Wedding (anthology) (2006); A Touch of Dead#Dracula Night (2007); A Touch of Dead#Gift Wrap (2008); A Touch of Dead#Lucky (2008)"
+        ],
+        "rowDetails": [
+          {
+            "json": "Martwa do zmierzchu",
+            "wiki": "Dead Until Dark",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Martwa w Dallas",
+            "wiki": "Living Dead in Dallas",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Club Dead",
+            "wiki": "Club Dead",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Dead to the World",
+            "wiki": "Dead to the World (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Dead as a Doornail",
+            "wiki": "Dead as a Doornail",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Definitely Dead",
+            "wiki": "Definitely Dead",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "All Together Dead",
+            "wiki": "All Together Dead",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "From Dead to Worse",
+            "wiki": "From Dead to Worse",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Dead and Gone",
+            "wiki": "Dead and Gone (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Dead in the Family",
+            "wiki": "Dead in the Family",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Dead Reckoning",
+            "wiki": "Dead Reckoning (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Deadlocked",
+            "wiki": "Deadlocked (novel)",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Dead Ever After",
+            "wiki": "Dead Ever After (novel)",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sprawl",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "yearOriginal decreases at order 4 (1988 -> 1986) — confirm intentional (chronology vs publication order)"
+      ],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Sprawl trilogy",
+        "issues": [],
+        "rowDetails": [
+          {
+            "json": "Neuromancer",
+            "wiki": "Neuromancer",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Graf Zero",
+            "wiki": "Count Zero",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Mona Lisa Overdrive",
+            "wiki": "Mona Lisa Overdrive",
+            "matched": true,
+            "delta": 1
+          }
+        ]
+      }
+    },
+    {
+      "slug": "straznicy-gahool",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "yearOriginal decreases at order 17 (2013 -> 2010) — confirm intentional (chronology vs publication order)",
+        "filename \"straznicy-gahool\" differs from slugify(title) \"straznicy-gahoole\" (allowed when slug follows the popular Polish name)"
+      ],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Guardians of Ga'Hoole",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): Kathryn Lasky (2003); The Rise of a Legend (2013); A Guide Book to the Great Tree (2007); Lost Tales of Ga'Hoole (2010); Lone Wolf (2011); Shadow Wolf (2011); Watch Wolf (2012); Frost Wolf (2012); Spirit Wolf (2013); Star Wolf (2014)"
+        ],
+        "rowDetails": [
+          {
+            "json": "The Capture",
+            "wiki": "The Capture",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Journey",
+            "wiki": "The Journey",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Rescue",
+            "wiki": "The Rescue",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Siege",
+            "wiki": "The Siege",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Shattering",
+            "wiki": "The Shattering",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Burning",
+            "wiki": "The Burning",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Hatchling",
+            "wiki": "The Hatchling",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Outcast",
+            "wiki": "The Outcast",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The First Collier",
+            "wiki": "The First Collier",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Coming of Hoole",
+            "wiki": "The Coming of Hoole",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "To Be a King",
+            "wiki": "To Be a King",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The Golden Tree",
+            "wiki": "The Golden Tree",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The River of Wind",
+            "wiki": "The River of Wind",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Exile",
+            "wiki": "Exile",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "The War of the Ember",
+            "wiki": "The War of the Ember",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "temeraire",
+      "local": "OK",
+      "errors": [],
+      "warnings": [],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Temeraire (series)",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): Naomi Novik; Del Rey Books; Harper Voyager; Audiobook; E-book; Royal Navy; 'Arthur Hammond:; 'Admiral Jane Roland:; 'Admiral Lenton:; 'Captain Berkley:"
+        ],
+        "rowDetails": [
+          {
+            "json": "Jego Królewskiej Mości Smok",
+            "wiki": "His Majesty's Dragon",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Throne of Jade",
+            "wiki": "Throne of Jade",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Black Powder War",
+            "wiki": "Black Powder War",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Empire of Ivory",
+            "wiki": "Empire of Ivory",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Victory of Eagles",
+            "wiki": "Victory of Eagles",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Tongues of Serpents",
+            "wiki": "Tongues of Serpents",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Crucible of Gold",
+            "wiki": "Crucible of Gold",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Blood of Tyrants",
+            "wiki": "Blood of Tyrants",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "League of Dragons",
+            "wiki": "League of Dragons",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "the-strain",
+      "local": "OK",
+      "errors": [],
+      "warnings": [],
+      "wiki": {
+        "verdict": "no-table",
+        "issues": [
+          "could not parse a publication list from en:The Strain (2 rows)"
+        ]
+      }
+    },
+    {
+      "slug": "trylogia-marsjanska",
+      "local": "OK",
+      "errors": [],
+      "warnings": [],
+      "wiki": {
+        "verdict": "false",
+        "ratio": 0.3333333333333333,
+        "article": "en:Mars trilogy",
+        "issues": [
+          "no Wikipedia match for \"Red Mars\"",
+          "no Wikipedia match for \"Green Mars\"",
+          "wiki rows not in our list (may be novellas/companions): Kim Stanley Robinson (1992); Hugo Award for Best Novel (1993); Don Dixon (artist) (1999); Universe (anthology series) (1982); Asimov's Science Fiction (1985); Vinland the Dream; The Journal of Areological Studies; Science in the Capital; BSFA Award (1992); Colonization of Mars"
+        ],
+        "rowDetails": [
+          {
+            "json": "Czerwony Mars",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Zielony Mars",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "Błękitny Mars",
+            "wiki": "Blue Mars",
+            "matched": true,
+            "delta": 1
+          }
+        ]
+      }
+    },
+    {
+      "slug": "unwind",
+      "local": "OK",
+      "errors": [],
+      "warnings": [],
+      "wiki": {
+        "verdict": "false",
+        "ratio": 0.25,
+        "article": "en:Unwind (novel)",
+        "issues": [
+          "no Wikipedia match for \"UnWholly\"",
+          "no Wikipedia match for \"UnSouled\"",
+          "no Wikipedia match for \"UnDivided\"",
+          "wiki rows not in our list (may be novellas/companions): Neal Shusterman (2007); 'Connor Lassiter; 'Risa Ward; 'Levi \"Lev\" Jedediah Calder; temporal lobe; United States Navy; 'Roland Taggart; 'Hayden Upchurch; 'Sonia; 'Emby"
+        ],
+        "rowDetails": [
+          {
+            "json": "Unwind",
+            "wiki": "Unwind",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "UnWholly",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "UnSouled",
+            "wiki": null,
+            "matched": false
+          },
+          {
+            "json": "UnDivided",
+            "wiki": null,
+            "matched": false
+          }
+        ]
+      }
+    },
+    {
+      "slug": "wielki-nate",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "filename \"wielki-nate\" differs from slugify(title) \"big-nate\" (allowed when slug follows the popular Polish name)"
+      ],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Big Nate",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): Lincoln Peirce (2026); cartoonist; musician (2005); 'Ellen Wright; electric guitar; musical keyboard (1994); 'Spitsy; Big Nate: In a Class by Himself (2010); Big Nate Boredom Buster: Super Scribbles, Cool Comix, and Lots of Laughs (2011); Big Nate Fun Blaster: Cheezy Doodles, Crazy Comix and Loads of Laughs (2012)"
+        ],
+        "rowDetails": [
+          {
+            "json": "Big Nate: In a Class by Himself",
+            "wiki": "Big Nate: Strikes Again",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Big Nate: Strikes Again",
+            "wiki": "Big Nate: Strikes Again",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Big Nate: On a Roll",
+            "wiki": "Big Nate: On a Roll",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Big Nate: Goes for Broke",
+            "wiki": "Big Nate: Goes for Broke",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Big Nate: Flips Out",
+            "wiki": "Big Nate: Flips Out",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Big Nate: In the Zone",
+            "wiki": "Big Nate: In the Zone",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Big Nate: Lives It Up",
+            "wiki": "Big Nate: Lives It Up",
+            "matched": true,
+            "delta": 0
+          },
+          {
+            "json": "Big Nate: Blasts Off",
+            "wiki": "Big Nate: Blasts Off",
+            "matched": true,
+            "delta": 0
+          }
+        ]
+      }
+    },
+    {
+      "slug": "zwiadowca",
+      "local": "OK",
+      "errors": [],
+      "warnings": [
+        "more than 5 powiązane entries"
+      ],
+      "wiki": {
+        "verdict": "verified",
+        "ratio": 1,
+        "article": "en:Ranger's Apprentice",
+        "issues": [
+          "wiki rows not in our list (may be novellas/companions): Ranger's Apprentice (2011); The Royal Ranger; John Flanagan (author); Random House; Philomel Books; Yearling Books; Editora Fundamento; e-book; The Battle of Hackham Heath; 'Will Treaty"
+        ],
+        "rowDetails": [
+          {
+            "json": "Ruiny Gorlanu",
+            "wiki": "The Ruins of Gorlan",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "The Burning Bridge",
+            "wiki": "The Burning Bridge",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "The Icebound Land",
+            "wiki": "The Icebound Land",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Oakleaf Bearers",
+            "wiki": "Oakleaf Bearers",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "The Sorcerer in the North",
+            "wiki": "The Sorcerer in the North",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "The Siege of Macindaw",
+            "wiki": "The Siege of Macindaw",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Erak's Ransom",
+            "wiki": "Erak's Ransom",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "The Kings of Clonmel",
+            "wiki": "The Kings of Clonmel",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "Halt's Peril",
+            "wiki": "Halt's Peril",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "The Emperor of Nihon-Ja",
+            "wiki": "The Emperor of Nihon-Ja",
+            "matched": true,
+            "delta": null
+          },
+          {
+            "json": "The Lost Stories",
+            "wiki": "The Lost Stories",
+            "matched": true,
+            "delta": null
+          }
+        ]
+      }
     }
   ]
 }
