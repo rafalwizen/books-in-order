@@ -1,0 +1,24 @@
+{
+  "title": "Temeraire",
+  "author": "Naomi Novik",
+  "authorSlug": "naomi-novik",
+  "genre": ["fantasy", "historyczna", "przygodowa"],
+  "description": "Kolejność czytania serii Temeraire Naomi Novik. Dziewięć powieści o smoczym korpusie Royal Navy w czasach wojen napoleońskich, od Jego Królewskiej Mości smoka po League of Dragons.",
+  "books": [
+    { "order": 1, "title": "Jego Królewskiej Mości Smok", "titleOriginal": "His Majesty's Dragon", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 2, "title": "Throne of Jade", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 3, "title": "Black Powder War", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 4, "title": "Empire of Ivory", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 5, "title": "Victory of Eagles", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 6, "title": "Tongues of Serpents", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 7, "title": "Crucible of Gold", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 8, "title": "Blood of Tyrants", "yearOriginal": 2013, "type": "powieść" },
+    { "order": 9, "title": "League of Dragons", "yearOriginal": 2016, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Temeraire?", "answer": "Od pierwszego tomu i dalej po kolei — wojna napoleońska biegnie przez całą serię, a relacja kapitana Lawrence'a ze smokiem buduje się z tomu na tom. Kolejność wydania pokrywa się z chronologią wydarzeń." },
+    { "question": "Czym różni się ta seria od innych smoczych cykli?", "answer": "To fantasy historyczne: świat różni się od naszego tylko tym, że smoki istnieją i służą w armiach. Novik prowadzi bohaterów przez Chiny, Afrykę i Amerykę, trzymając się realnych wydarzeń lat 1805-1815." },
+    { "question": "Czy seria jest zakończona?", "answer": "Tak, dziewiąty tom League of Dragons zamyka całą historię w 2016 roku. Novik napisała potem osobne powieści — Uprooted i Spinning Silver — niezwiązane z tym światem." }
+  ],
+  "relatedSeries": []
+}

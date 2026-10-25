@@ -1,0 +1,28 @@
+{
+  "title": "Belgariada",
+  "titleOriginal": "The Belgariad",
+  "author": "David Eddings",
+  "authorSlug": "david-eddings",
+  "genre": ["fantasy", "high-fantasy"],
+  "description": "Kolejność czytania Belgariady Davida Eddingsa. Pięć tomów o Garionie i polowaniu na Kulę, plus kontynuacja Malloreon i dwa tomy o Belgarathie i Polgarze.",
+  "books": [
+    { "order": 1, "title": "Pawn of Prophecy", "yearOriginal": 1982, "type": "powieść" },
+    { "order": 2, "title": "Queen of Sorcery", "yearOriginal": 1982, "type": "powieść" },
+    { "order": 3, "title": "Magician's Gambit", "yearOriginal": 1983, "type": "powieść" },
+    { "order": 4, "title": "Castle of Wizardry", "yearOriginal": 1984, "type": "powieść" },
+    { "order": 5, "title": "Enchanters' End Game", "yearOriginal": 1984, "type": "powieść" },
+    { "order": 6, "title": "Guardians of the West", "yearOriginal": 1987, "type": "powiązane" },
+    { "order": 7, "title": "King of the Murgos", "yearOriginal": 1988, "type": "powiązane" },
+    { "order": 8, "title": "Demon Lord of Karanda", "yearOriginal": 1988, "type": "powiązane" },
+    { "order": 9, "title": "Sorceress of Darshiva", "yearOriginal": 1989, "type": "powiązane" },
+    { "order": 10, "title": "The Seeress of Kell", "yearOriginal": 1991, "type": "powiązane" },
+    { "order": 11, "title": "Belgarath the Sorcerer", "yearOriginal": 1995, "type": "powiązane" },
+    { "order": 12, "title": "Polgara the Sorceress", "yearOriginal": 1997, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Belgariadę?", "answer": "Od tomu Pawn of Prophecy i dalej po numerach — pięć tomów tworzy jedną zamkniętą opowieść, podzieloną wydawniczo na krótkie części, czytaną jak jedna długa powieść." },
+    { "question": "Czym jest Malloreon?", "answer": "Bezpośrednia pięciotomowa kontynuacja, zaczynająca się kilka lat po finale Belgariady i wracająca do większości bohaterów. Czyta się ją zawsze po całości Belgariady — a pętla fabularna obu serii domyka się dopiero w The Seeress of Kell." },
+    { "question": "Czy Belgarath i Polgara to kolejne ciągi dalsze?", "answer": "Nie — to dwie obszerne powieści-prequele spisane jako pamiętniki tytułowych czarodziejów. Czyta się je na samym końcu, bo opowiadają historię świata sprzed wydarzeń obu serii." }
+  ],
+  "relatedSeries": []
+}

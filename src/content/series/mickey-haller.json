@@ -1,0 +1,23 @@
+{
+  "title": "Mickey Haller",
+  "author": "Michael Connelly",
+  "authorSlug": "michael-connelly",
+  "genre": ["kryminal", "thriller"],
+  "description": "Kolejność czytania serii Mickey Haller Michaela Connellya. Osiem powieści o adwokacie pracującym z bagażnika lincolna — od Adwokata z Lincoln po The Proving Ground.",
+  "books": [
+    { "order": 1, "title": "Adwokat z Lincoln", "titleOriginal": "The Lincoln Lawyer", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 2, "title": "The Brass Verdict", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 3, "title": "The Reversal", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 4, "title": "The Fifth Witness", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 5, "title": "The Gods of Guilt", "yearOriginal": 2013, "type": "powieść" },
+    { "order": 6, "title": "The Law of Innocence", "yearOriginal": 2020, "type": "powieść" },
+    { "order": 7, "title": "Resurrection Walk", "yearOriginal": 2023, "type": "powieść" },
+    { "order": 8, "title": "The Proving Ground", "yearOriginal": 2025, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Mickeya Hallera?", "answer": "Od tomu Adwokat z Lincoln (2005) i dalej w porządku wydania. Haller dojrzewa z tomu na tom, a stały element serii — były klient, o którego winę adwokat wciąż wątpi — domyka się dopiero w późnych częściach." },
+    { "question": "Jak seria łączy się z Harrym Boschem?", "answer": "Mickey Haller to przyrodni brat Harry'ego Boscha, bohatera głównej serii Connellya. Bosch pojawia się w kilku tomach jako śledczy Hallera — najwięcej w The Brass Verdict, The Reversal i Resurrection Walk. Żadną z serii nie trzeba jednak znać wcześniej." },
+    { "question": "Czy serial Adwokat z Lincoln pokrywa się z książkami?", "answer": "Serial Netflixa adaptuje luźno pierwsze tomy i wymyśla własne wątki. Trzon — przestępstwa, za które klient może nie być winny — pochodzi wprost z powieści." }
+  ],
+  "relatedSeries": []
+}

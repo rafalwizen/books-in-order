@@ -1,0 +1,20 @@
+{
+  "title": "Trylogia marsjańska",
+  "titleOriginal": "Mars trilogy",
+  "author": "Kim Stanley Robinson",
+  "authorSlug": "kim-stanley-robinson",
+  "genre": ["sci-fi"],
+  "description": "Kolejność czytania trylogii marsjańskiej Kima Stanleya Robinsona. Trzy powieści o kolonizacji i terraformowaniu Marsa — Czerwony, Zielony i Błękitny Mars — w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Czerwony Mars", "titleOriginal": "Red Mars", "yearOriginal": 1992, "type": "powieść" },
+    { "order": 2, "title": "Zielony Mars", "titleOriginal": "Green Mars", "yearOriginal": 1993, "type": "powieść" },
+    { "order": 3, "title": "Błękitny Mars", "titleOriginal": "Blue Mars", "yearOriginal": 1996, "type": "powieść" },
+    { "order": 4, "title": "The Martians", "yearOriginal": 1999, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać trylogię marsjańską?", "answer": "Dokładnie po kolei: Czerwony Mars, Zielony Mars, Błękitny Mars. Każdy tom obejmuje kolejne dekady historii Marsa i kontynuuje te same wątki polityczne i naukowe — cofanie się nie ma sensu." },
+    { "question": "Czym jest The Martians?", "answer": "To towarzyszący zbiór opowiadań, wierszy i dokumentów z uniwersum trylogii wydany w 1999 roku. Nie jest czwartym tomem — czyta się go po Błękitnym Marsie, jako dodatek." },
+    { "question": "Czy trylogia jest zakończona?", "answer": "Tak, Błękitny Mars zamyka całą sagę. Robinson kontynuował jednak podobną tematykę w trylogii Science in the Capital, a wątki marsjańskie wracają okazjonalnie w jego późniejszych powieściach." }
+  ],
+  "relatedSeries": []
+}

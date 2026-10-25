@@ -1,0 +1,23 @@
+{
+  "title": "Mary Poppins",
+  "author": "P.L. Travers",
+  "authorSlug": "pl-travers",
+  "genre": ["klasyka", "fantasy", "przygodowa"],
+  "description": "Kolejność czytania serii Mary Poppins P.L. Travers. Osiem książek o niani z Cherry Tree Lane, od pierwszego tomu (1934) po ostatni z 1988 roku, w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Mary Poppins", "yearOriginal": 1934, "type": "powieść" },
+    { "order": 2, "title": "Mary Poppins wraca", "titleOriginal": "Mary Poppins Comes Back", "yearOriginal": 1935, "type": "powieść" },
+    { "order": 3, "title": "Mary Poppins otwiera drzwi", "titleOriginal": "Mary Poppins Opens the Door", "yearOriginal": 1943, "type": "powieść" },
+    { "order": 4, "title": "Mary Poppins w parku", "titleOriginal": "Mary Poppins in the Park", "yearOriginal": 1952, "type": "powieść" },
+    { "order": 5, "title": "Mary Poppins from A to Z", "yearOriginal": 1962, "type": "powieść" },
+    { "order": 6, "title": "Mary Poppins in the Kitchen", "yearOriginal": 1975, "type": "powieść" },
+    { "order": 7, "title": "Mary Poppins in Cherry Tree Lane", "yearOriginal": 1982, "type": "powieść" },
+    { "order": 8, "title": "Mary Poppins and the House Next Door", "yearOriginal": 1988, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Mary Poppins?", "answer": "Od pierwszego tomu z 1934 roku i dalej w kolejności wydania. Dzieci rodziny Banksów rosną z tomu na tom, a Mary Poppins pojawia się i znów odlatuje — to rytm całej serii." },
+    { "question": "Czym są tomy od A do Z i in the Kitchen?", "answer": "To książki towarzyszące: Mary Poppins from A to Z to alfabetyczny przewodnik po świecie serii, a Mary Poppins in the Kitchen powstał jako książka kucharska z przepisami pani Cook. Czyta się je okazjonalnie, po głównych tomach." },
+    { "question": "Czy książki są jak film Disneya?", "answer": "Tylko z grubsza. Film z 1964 roku czerpie głównie z pierwszego tomu, a książkowa Mary Poppins jest bardziej wyniosła i tajemnicza niż filmowa Julie Andrews. Travers opierała się przy tym na mitologii celtyckiej, co w filmie ledwie widać." }
+  ],
+  "relatedSeries": []
+}

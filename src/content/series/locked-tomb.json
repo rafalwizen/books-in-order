@@ -1,0 +1,18 @@
+{
+  "title": "The Locked Tomb",
+  "author": "Tamsyn Muir",
+  "authorSlug": "tamsyn-muir",
+  "genre": ["sci-fi", "dark-fantasy"],
+  "description": "Kolejność czytania trylogii The Locked Tomb Tamsyn Muir. Nekromanci w kosmosie: Gideon, Harrow i Nona — trzy wydane tomy z zapowiedzianą czwartą częścią.",
+  "books": [
+    { "order": 1, "title": "Gideon the Ninth", "yearOriginal": 2019, "type": "powieść" },
+    { "order": 2, "title": "Harrow the Ninth", "yearOriginal": 2020, "type": "powieść" },
+    { "order": 3, "title": "Nona the Ninth", "yearOriginal": 2022, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać The Locked Tomb?", "answer": "Dokładnie po kolei: Gideon, Harrow, Nona. Każdy tom zmienia bohatera i narratora, a każdy kolejny reinterpretuje poprzedni — czytanie poza kolejnością psuje największe zwroty serii." },
+    { "question": "Gdzie jest czwarty tom?", "answer": "Alecto the Ninth jest zapowiedziany jako finał serii, ale nie ma jeszcze ustalonej daty premiery. Zgodnie ze stanem na 2025 rok seria liczy trzy wydane powieści." },
+    { "question": "Czym właściwie jest ta seria?", "answer": "Nekromancją przeniesioną w kosmos: w dalekiej przyszłości dziewięć domów nekromantów walczy o władzę nad układami gwiezdnymi. Muir łączy przy tym fantastykę naukową z konwencją gotyckiego kryminału z zamkniętym kręgiem podejrzanych." }
+  ],
+  "relatedSeries": []
+}

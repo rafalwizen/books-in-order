@@ -1,0 +1,34 @@
+{
+  "title": "Strażnicy Ga'Hoole",
+  "titleOriginal": "Guardians of Ga'Hoole",
+  "author": "Kathryn Lasky",
+  "authorSlug": "kathryn-lasky",
+  "genre": ["fantasy", "young-adult", "przygodowa"],
+  "description": "Kolejność czytania serii Strażnicy Ga'Hoole Kathryn Lasky. Piętnaście tomów sowiej sagi o Sorenie, Gylfie i strażnikach Wielkiego Drzewa, plus prequel The Rise of a Legend.",
+  "books": [
+    { "order": 1, "title": "The Capture", "yearOriginal": 2003, "type": "powieść" },
+    { "order": 2, "title": "The Journey", "yearOriginal": 2003, "type": "powieść" },
+    { "order": 3, "title": "The Rescue", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 4, "title": "The Siege", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 5, "title": "The Shattering", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 6, "title": "The Burning", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 7, "title": "The Hatchling", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 8, "title": "The Outcast", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 9, "title": "The First Collier", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 10, "title": "The Coming of Hoole", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 11, "title": "To Be a King", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 12, "title": "The Golden Tree", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 13, "title": "The River of Wind", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 14, "title": "Exile", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 15, "title": "The War of the Ember", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 16, "title": "The Rise of a Legend", "yearOriginal": 2013, "type": "powiązane" },
+    { "order": 17, "title": "Lost Tales of Ga'Hoole", "yearOriginal": 2010, "type": "powiązane" },
+    { "order": 18, "title": "A Guide Book to the Great Tree", "yearOriginal": 2007, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Strażników Ga'Hoole?", "answer": "Od tomu The Capture i dalej po numerach. Seria biegnie ciągłą fabułą — od ucieczki Sorena ze St. Aggie's po wojnę o święty ogień — a trzy łuki fabularne (1-6, 7-11, 12-15) przechodzą jeden w drugi." },
+    { "question": "Czym jest The Rise of a Legend?", "answer": "Prequel z 2013 roku o młodości Ezylryba, jednego z najstarszych strażników. Czyta się go po głównej piętnastce — zdradza korzenie wątków, które w serii właściwej są tylko wspominane." },
+    { "question": "Czy są inne serie z tego świata?", "answer": "Tak — spin-offy Wolves of the Beyond i Bears of the Ice rozgrywają się w tym samym świecie, każdy z własną numeracją zaczynającą się od pierwszego tomu. Nie są potrzebne do zrozumienia głównej sagi." }
+  ],
+  "relatedSeries": []
+}

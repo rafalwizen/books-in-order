@@ -1,0 +1,21 @@
+{
+  "title": "Odyseja kosmiczna",
+  "titleOriginal": "Space Odyssey",
+  "author": "Arthur C. Clarke",
+  "authorSlug": "arthur-c-clarke",
+  "genre": ["sci-fi", "klasyka"],
+  "description": "Kolejność czytania tetralogii Odyseja kosmiczna Arthura C. Clarke'a. Cztery powieści od Odysei kosmicznej 2001 po 3001: Ostatnią odyseję, w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Odyseja kosmiczna 2001", "titleOriginal": "2001: A Space Odyssey", "yearOriginal": 1968, "type": "powieść" },
+    { "order": 2, "title": "2010: Odyseja druga", "titleOriginal": "2010: Odyssey Two", "yearOriginal": 1982, "type": "powieść" },
+    { "order": 3, "title": "2061: Odyseja trzecia", "titleOriginal": "2061: Odyssey Three", "yearOriginal": 1987, "type": "powieść" },
+    { "order": 4, "title": "3001: Ostatnia odyseja", "titleOriginal": "3001: The Final Odyssey", "yearOriginal": 1996, "type": "powieść" },
+    { "order": 5, "title": "The Lost Worlds of 2001", "yearOriginal": 1972, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Odyseję kosmiczną?", "answer": "Po kolei: 2001, 2010, 2061, 3001. Kolejne tomy przeskakują o dekady i stulecia, ale każdy kontynuuje wątki monolitów, Davida Bowmana i HAL-a." },
+    { "question": "Czemu książka i film z 1968 roku różnią się szczegółami?", "answer": "Powstawały równolegle — Clarke pisał powieść na podstawie własnego opowiadania, a Kubrick filmował we współpracy z nim. Wersje książkowa i filmowa to równoległe wizje tej samej historii." },
+    { "question": "Czy kolejne tomy są spójne?", "answer": "Clarke sam przyznawał, że każda kontynuacja unieważnia część ustaleń poprzedniej — radził traktować tomy jako warianty tej samej przyszłości. Czyta się je po kolei, ale nie trzeba śledzić ciągłości jak w sagach fabularnych." }
+  ],
+  "relatedSeries": []
+}

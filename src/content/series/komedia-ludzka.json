@@ -1,0 +1,28 @@
+{
+  "title": "Komedia ludzka",
+  "titleOriginal": "La Comédie humaine",
+  "author": "Honoré de Balzac",
+  "authorSlug": "honore-de-balzac",
+  "genre": ["klasyka", "historyczna"],
+  "description": "Kolejność czytania Komedii ludzkiej Balzaca. Dwanaście najważniejszych powieści cyklu — od Szuanów po Kuzyna Ponsa — w porządku wydania, z przewodnikiem po całym korpusie.",
+  "books": [
+    { "order": 1, "title": "Szuanie", "titleOriginal": "Les Chouans", "yearOriginal": 1829, "type": "powieść" },
+    { "order": 2, "title": "Gobseck", "titleOriginal": "Gobseck", "yearOriginal": 1830, "type": "powieść" },
+    { "order": 3, "title": "Skóra z onagera", "titleOriginal": "La Peau de chagrin", "yearOriginal": 1831, "type": "powieść" },
+    { "order": 4, "title": "Eugenia Grandet", "titleOriginal": "Eugénie Grandet", "yearOriginal": 1834, "type": "powieść" },
+    { "order": 5, "title": "Ojciec Goriot", "titleOriginal": "Le Père Goriot", "yearOriginal": 1835, "type": "powieść" },
+    { "order": 6, "title": "Lilia w dolinie", "titleOriginal": "Le Lys dans la vallée", "yearOriginal": 1836, "type": "powieść" },
+    { "order": 7, "title": "Stracone złudzenia", "titleOriginal": "Illusions perdues", "yearOriginal": 1837, "type": "powieść" },
+    { "order": 8, "title": "Historia wielkości i upadku Cezara Birotteau", "titleOriginal": "Histoire de la grandeur et de la décadence de César Birotteau", "yearOriginal": 1837, "type": "powieść" },
+    { "order": 9, "title": "Blaski i nędze kurtyzan", "titleOriginal": "Splendeurs et misères des courtisanes", "yearOriginal": 1838, "type": "powieść" },
+    { "order": 10, "title": "Pułkownik Chabert", "titleOriginal": "Le Colonel Chabert", "yearOriginal": 1844, "type": "powieść" },
+    { "order": 11, "title": "Kuzynka Bietka", "titleOriginal": "La Cousine Bette", "yearOriginal": 1846, "type": "powieść" },
+    { "order": 12, "title": "Kuzyn Pons", "titleOriginal": "Le Cousin Pons", "yearOriginal": 1847, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Komedię ludzką?", "answer": "Cały cykl liczy około dziewięćdziesięciu utworów bez jednej obowiązującej kolejności. Podajemy dwanaście najważniejszych powieści w porządku wydania — bohaterowie wracają z książki do książki, więc czytanie po kolei daje najwięcej." },
+    { "question": "Od czego zacząć, jeśli nie całą serią?", "answer": "Klasyczna droga to Ojciec Goriot — tam po raz pierwszy spotykamy Rastignaca i poznajemy mechanizm paryskich ambicji. Alternatywnie Eugenia Grandet jako najkrótsze i najbardziej samodzielne wejście w świat Balzaka." },
+    { "question": "Czym jest Stracone złudzenia w tym zestawieniu?", "answer": "To kilkutomowa epopeja uznawana za szczyt cyklu — Balzac pisał ją w latach 1837-1843, a tabela podaje rok pierwszej części. Bez niej i Blasków i nędzy kurtyzan wątek Luciena de Rubempré traci połowę smaku, dlatego stoją obok siebie." }
+  ],
+  "relatedSeries": []
+}

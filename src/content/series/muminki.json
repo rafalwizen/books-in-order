@@ -1,0 +1,26 @@
+{
+  "title": "Muminki",
+  "titleOriginal": "The Moomins",
+  "author": "Tove Jansson",
+  "authorSlug": "tove-jansson",
+  "genre": ["klasyka", "fantasy", "przygodowa"],
+  "description": "Kolejność czytania serii o Muminkach Tove Jansson. Dziewięć książek od Małych trolli i wielkiej powodzi po Dolinę Muminków w listopadzie, w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Małe trolle i duża powódź", "titleOriginal": "The Moomins and the Great Flood", "yearOriginal": 1945, "type": "powieść" },
+    { "order": 2, "title": "Kometa nad Doliną Muminków", "titleOriginal": "Comet in Moominland", "yearOriginal": 1946, "type": "powieść" },
+    { "order": 3, "title": "W Dolinie Muminków", "titleOriginal": "Finn Family Moomintroll", "yearOriginal": 1948, "type": "powieść" },
+    { "order": 4, "title": "Pamiętniki Tatusia Muminka", "titleOriginal": "The Exploits of Moominpappa", "yearOriginal": 1950, "type": "powieść" },
+    { "order": 5, "title": "Lato Muminków", "titleOriginal": "Moominsummer Madness", "yearOriginal": 1954, "type": "powieść" },
+    { "order": 6, "title": "Zima Muminków", "titleOriginal": "Moominland Midwinter", "yearOriginal": 1957, "type": "powieść" },
+    { "order": 7, "title": "Opowiadania z Doliny Muminków", "titleOriginal": "Tales from Moominvalley", "yearOriginal": 1962, "type": "opowiadanie" },
+    { "order": 8, "title": "Tatuś Muminka i morze", "titleOriginal": "Moominpappa at Sea", "yearOriginal": 1965, "type": "powieść" },
+    { "order": 9, "title": "Dolina Muminków w listopadzie", "titleOriginal": "Moominland in November", "yearOriginal": 1970, "type": "powieść" },
+    { "order": 10, "title": "Co było potem? Książka o Mimbli, Muminku i Małej Mi", "titleOriginal": "The Book about Moomin, Mymble and Little My", "yearOriginal": 1952, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Muminki?", "answer": "Od Małych trolli i wielkiej powodzi lub od W Dolinie Muminków i dalej w kolejności wydania. Tomy łączą bohaterowie i miejsca, a nie ciągła fabuła — każda książka działa samodzielnie." },
+    { "question": "Od którego tomu zacząć dziecko?", "answer": "Najczęściej poleca się Kometa nad Doliną Muminków albo W Dolinie Muminków — to klasyczne przygody. Późniejsze tomy, Tatuś Muminka i morze oraz Dolina Muminków w listopadzie, są melancholijne i bardziej dorosłe." },
+    { "question": "Czy Co było potem? jest częścią serii?", "answer": "To książka obrazkowa z 1952 roku — pierwsza z tekstowo-obrazkowych historii Jansson. Traktujemy ją jako dodatek: piękną, ale przeznaczoną do wspólnego czytania z najmłodszymi." }
+  ],
+  "relatedSeries": []
+}

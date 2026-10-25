@@ -1,0 +1,31 @@
+{
+  "title": "Adam Dalgliesh",
+  "author": "P.D. James",
+  "authorSlug": "pd-james",
+  "genre": ["kryminal", "thriller"],
+  "description": "Kolejność czytania serii Adam Dalgliesh P.D. James. Czternaście powieści o poecie i komendancie policji kryminalnej, od Cover Her Face (1962) po The Private Patient (2008).",
+  "books": [
+    { "order": 1, "title": "Cover Her Face", "yearOriginal": 1962, "type": "powieść" },
+    { "order": 2, "title": "A Mind to Murder", "yearOriginal": 1963, "type": "powieść" },
+    { "order": 3, "title": "Unnatural Causes", "yearOriginal": 1967, "type": "powieść" },
+    { "order": 4, "title": "Shroud for a Nightingale", "yearOriginal": 1971, "type": "powieść" },
+    { "order": 5, "title": "The Black Tower", "yearOriginal": 1975, "type": "powieść" },
+    { "order": 6, "title": "Death of an Expert Witness", "yearOriginal": 1977, "type": "powieść" },
+    { "order": 7, "title": "A Taste for Death", "yearOriginal": 1986, "type": "powieść" },
+    { "order": 8, "title": "Devices and Desires", "yearOriginal": 1989, "type": "powieść" },
+    { "order": 9, "title": "Original Sin", "yearOriginal": 1994, "type": "powieść" },
+    { "order": 10, "title": "A Certain Justice", "yearOriginal": 1997, "type": "powieść" },
+    { "order": 11, "title": "Death in Holy Orders", "yearOriginal": 2001, "type": "powieść" },
+    { "order": 12, "title": "The Murder Room", "yearOriginal": 2003, "type": "powieść" },
+    { "order": 13, "title": "The Lighthouse", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 14, "title": "The Private Patient", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 15, "title": "An Unsuitable Job for a Woman", "yearOriginal": 1972, "type": "powiązane" },
+    { "order": 16, "title": "The Skull Beneath the Skin", "yearOriginal": 1982, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Adama Dalgliesha?", "answer": "Od powieści Cover Her Face i dalej w porządku wydania. Każda sprawa jest zamknięta, ale James przez czterdzieści lat powoli rozbudowuje karierę i życie prywatne Dalgliesha — od inspektora po komendanta." },
+    { "question": "Czym są dwa tomy powiązane?", "answer": "An Unsuitable Job for a Woman i The Skull Beneath the Skin to dwie powieści o detektyw Cordelii Gray — jedynej innej bohaterce cyklu kryminalnego James. Dalgliesh pojawia się w nich tylko epizodycznie." },
+    { "question": "Które tomy uchodzą za najlepsze?", "answer": "Najczęściej wymienia się A Taste for Death, Devices and Desires i finałową The Private Patient — to tam James najpełniej łączy kryminał z powieścią psychologiczną." }
+  ],
+  "relatedSeries": []
+}

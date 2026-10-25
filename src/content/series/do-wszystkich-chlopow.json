@@ -1,0 +1,19 @@
+{
+  "title": "Do wszystkich chłopców, których kochałam",
+  "titleOriginal": "To All the Boys I've Loved Before",
+  "author": "Jenny Han",
+  "authorSlug": "jenny-han",
+  "genre": ["romans", "young-adult"],
+  "description": "Kolejność czytania trylogii Do wszystkich chłopców, których kochałam Jenny Han. Trzy powieści o Larze Jean i listach, które poszły w świat — w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Do wszystkich chłopców, których kochałam", "titleOriginal": "To All the Boys I've Loved Before", "yearOriginal": 2014, "type": "powieść" },
+    { "order": 2, "title": "P.S. Wciąż cię kocham", "titleOriginal": "P.S. I Still Love You", "yearOriginal": 2015, "type": "powieść" },
+    { "order": 3, "title": "Zawsze i na zawsze, Lara Jean", "titleOriginal": "Always and Forever, Lara Jean", "yearOriginal": 2017, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Do wszystkich chłopców?", "answer": "Po kolei, od pierwszego tomu. Trylogia prowadzi Larę Jean przez trzy lata szkoły, a każdy finał ustawia nową sytuację — zwłaszcza wątek Petera i Johna Ambrose'a McClarena." },
+    { "question": "Czy filmy Netflixa odpowiadają książkom?", "answer": "Z grubsza: pierwsze dwa filmy adaptują pierwsze dwa tomy, trzeci — Always and Forever — kończy sagę. Największa różnica to postać Johna Ambrose'a, którą filmy przeniosły w inne miejsce fabuły." },
+    { "question": "Jest coś po trzecim tomie?", "answer": "Z książek — nic, trylogia jest domknięta. Powstał za to serial XO, Kitty o młodszej siostrze, ale to samodzielna historia telewizyjna, nie kontynuacja powieści." }
+  ],
+  "relatedSeries": []
+}

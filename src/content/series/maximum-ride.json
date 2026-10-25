@@ -1,0 +1,26 @@
+{
+  "title": "Maximum Ride",
+  "author": "James Patterson",
+  "authorSlug": "james-patterson",
+  "genre": ["young-adult", "sci-fi", "fantasy"],
+  "description": "Kolejność czytania serii Maximum Ride Jamesa Pattersona. Dziewięć powieści o uciekinierach z laboratorium — dzieciach z ptasimi genami — oraz dwa tomy nowej generacji.",
+  "books": [
+    { "order": 1, "title": "Maximum Ride: The Angel Experiment", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 2, "title": "Maximum Ride: School's Out Forever", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 3, "title": "Maximum Ride: Saving the World and Other Extreme Sports", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 4, "title": "The Final Warning", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 5, "title": "Max", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 6, "title": "Fang", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 7, "title": "Angel", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 8, "title": "Nevermore", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 9, "title": "Maximum Ride Forever", "yearOriginal": 2015, "type": "powieść" },
+    { "order": 10, "title": "Hawk", "yearOriginal": 2020, "type": "powiązane" },
+    { "order": 11, "title": "City of the Dead", "yearOriginal": 2022, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Maximum Ride?", "answer": "Od tomu The Angel Experiment i dalej po numerach. Trzy pierwsze powieści tworzą zamkniętą historię ucieczki ze Szkoły — reszta serii rozwija ją o kolejne zagrożenia i domyka się dopiero w Nevermore i Maximum Ride Forever." },
+    { "question": "Czym są Hawk i City of the Dead?", "answer": "Spin-off Maximum Ride: Next Generation — główną bohaterką jest Hawk, córka Max. Seria liczy dwa tomy i czyta się ją po zakończeniu oryginalnej dziewiątki." },
+    { "question": "Czy Patterson napisał to sam?", "answer": "Nie do końca — Maximum Ride powstawała podobnie jak większość serii Pattersona, we współpracy z innymi autorami, a pierwsze trzy tomy są luźno oparte na jego starszych książkach dla dorosłych: When the Wind Blows i The Lake House." }
+  ],
+  "relatedSeries": []
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Kroniki Kane",
+  "titleOriginal": "The Kane Chronicles",
+  "author": "Rick Riordan",
+  "authorSlug": "rick-riordan",
+  "genre": ["fantasy", "young-adult", "przygodowa"],
+  "description": "Kolejność czytania Kronik Kane Ricka Riordana. Trylogia o rodzeństwie Kane'ów i egipskich bogach przebudzonych w Nowym Jorku, od The Red Pyramid po The Serpent's Shadow.",
+  "books": [
+    { "order": 1, "title": "The Red Pyramid", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 2, "title": "The Throne of Fire", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 3, "title": "The Serpent's Shadow", "yearOriginal": 2012, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Kroniki Kane?", "answer": "Od The Red Pyramid i dalej po numerach — trylogia opowiada jedną historię o przebudzeniu Apophisa i domyka się w The Serpent's Shadow." },
+    { "question": "Czy seria łączy się z Percym Jacksonem?", "answer": "Dzieli z nim współczesny świat, ale bogowie egipscy działają w osobnym układzie — serię można czytać zupełnie niezależnie. Riordan połączył oba światy tylko w krótkich opowiadaniach z tomu Demigods and Magicians." },
+    { "question": "Co czytać po zakończeniu trylogii?", "answer": "Zbiór Brooklyn House Magician's Manual oraz wspomniane Demigods and Magicians — trzy opowiadania crossoverowe z Percym i Annabeth. To już jednak dodatki, nie pełnoprawna kontynuacja." }
+  ],
+  "relatedSeries": []
+}

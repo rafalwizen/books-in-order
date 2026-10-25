@@ -1,0 +1,22 @@
+{
+  "title": "Pięćdziesiąt twarzy Greya",
+  "titleOriginal": "Fifty Shades",
+  "author": "E.L. James",
+  "authorSlug": "el-james",
+  "genre": ["romans"],
+  "description": "Kolejność czytania serii Pięćdziesiąt twarzy Greya E.L. James. Trylogia o Anastasii i Christianie oraz trzy tomy opowiadające te same wydarzenia z jego perspektywy.",
+  "books": [
+    { "order": 1, "title": "Pięćdziesiąt twarzy Greya", "titleOriginal": "Fifty Shades of Grey", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 2, "title": "Fifty Shades Darker", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 3, "title": "Fifty Shades Freed", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 4, "title": "Grey: Fifty Shades of Grey as Told by Christian", "yearOriginal": 2015, "type": "powiązane" },
+    { "order": 5, "title": "Darker: Fifty Shades Darker as Told by Christian", "yearOriginal": 2017, "type": "powiązane" },
+    { "order": 6, "title": "Freed: Fifty Shades Freed as Told by Christian", "yearOriginal": 2021, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Pięćdziesiąt twarzy Greya?", "answer": "Najpierw trylogia po kolei: Fifty Shades of Grey, Darker i Freed. Dopiero po niej trzy tomy z perspektywy Christiana — przerabiają te same wydarzenia, więc czytane wcześniej zdradzałyby zwroty akcji." },
+    { "question": "Czy tomy Grey, Darker i Freed to nowe części?", "answer": "Nie — to te same trzy powieści opowiedziane pierwszoosobowo przez Christiana. Dodają jego myśli i kilka nowych scen, ale nie przesuwają fabuły naprzód." },
+    { "question": "Skąd w ogóle wzięła się ta seria?", "answer": "Z fanfiction do Zmierzchu — James publikowała początkowo historię Edwarda i Belli pod tytułem Master of the Universe, a po przeróbce bohaterów wydała ją jako oryginalną trylogię. Reszta jest historią wydawniczą." }
+  ],
+  "relatedSeries": []
+}

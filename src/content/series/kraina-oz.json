@@ -1,0 +1,30 @@
+{
+  "title": "Kraina Oz",
+  "titleOriginal": "The Oz Books",
+  "author": "L. Frank Baum",
+  "authorSlug": "l-frank-baum",
+  "genre": ["fantasy", "przygodowa", "klasyka"],
+  "description": "Kolejność czytania cyklu Kraina Oz L. Franka Bauma. Wszystkich czternaście oryginalnych powieści — od Czarnoksiężnika z Krainy Oz po Glindę z Oz — w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Czarnoksiężnik z Krainy Oz", "titleOriginal": "The Wonderful Wizard of Oz", "yearOriginal": 1900, "type": "powieść" },
+    { "order": 2, "title": "The Marvelous Land of Oz", "yearOriginal": 1904, "type": "powieść" },
+    { "order": 3, "title": "Ozma of Oz", "yearOriginal": 1907, "type": "powieść" },
+    { "order": 4, "title": "Dorothy and the Wizard in Oz", "yearOriginal": 1908, "type": "powieść" },
+    { "order": 5, "title": "The Road to Oz", "yearOriginal": 1909, "type": "powieść" },
+    { "order": 6, "title": "The Emerald City of Oz", "yearOriginal": 1910, "type": "powieść" },
+    { "order": 7, "title": "The Patchwork Girl of Oz", "yearOriginal": 1913, "type": "powieść" },
+    { "order": 8, "title": "Tik-Tok of Oz", "yearOriginal": 1914, "type": "powieść" },
+    { "order": 9, "title": "The Scarecrow of Oz", "yearOriginal": 1915, "type": "powieść" },
+    { "order": 10, "title": "Rinkitink in Oz", "yearOriginal": 1916, "type": "powieść" },
+    { "order": 11, "title": "The Lost Princess of Oz", "yearOriginal": 1917, "type": "powieść" },
+    { "order": 12, "title": "The Tin Woodman of Oz", "yearOriginal": 1918, "type": "powieść" },
+    { "order": 13, "title": "The Magic of Oz", "yearOriginal": 1919, "type": "powieść" },
+    { "order": 14, "title": "Glinda of Oz", "yearOriginal": 1920, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Krainę Oz?", "answer": "Od Czarnoksiężnika z Krainy Oz i dalej w kolejności wydania. Pierwsze tomy skupiają się na Dorothy, a bohaterowie i wątki przenoszą się z książki na książkę — kolejność wydania pokrywa się tu z wewnętrzną chronologią." },
+    { "question": "Dlaczego lista kończy się na Glindzie z Oz?", "answer": "To wszystkie powieści napisane przez samego Bauma. Po jego śmierci serię kontynuowała Ruth Plumly Thompson i inni autorzy — oficjalny kanon liczy czterdzieści książek, ale te czternaście tworzą zamknięty, autorski cykl." },
+    { "question": "Które tomy są najsłynniejsze?", "answer": "Pierwszy, oczywiście, oraz Ozma of Oz i The Emerald City of Oz. Część późniejszych tomów powstawała bardziej z zobowiązania wobec czytelników niż z woli autora — Baum dwukrotnie próbował zakończyć serię i za każdym razem wracał." }
+  ],
+  "relatedSeries": []
+}

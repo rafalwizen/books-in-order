@@ -1,0 +1,18 @@
+{
+  "title": "The Strain",
+  "author": "Guillermo del Toro i Chuck Hogan",
+  "authorSlug": "guillermo-del-toro-i-chuck-hogan",
+  "genre": ["horror", "thriller"],
+  "description": "Kolejność czytania trylogii The Strain Guillermo del Toro i Chucka Hogana. Wampirza epidemia w Nowym Jorku — The Strain, The Fall i The Night Eternal.",
+  "books": [
+    { "order": 1, "title": "The Strain", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 2, "title": "The Fall", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 3, "title": "The Night Eternal", "yearOriginal": 2011, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać The Strain?", "answer": "Po kolei: The Strain, The Fall, The Night Eternal. To jedna historia podzielona na trzy tomy — epidemia, wojna i finałowy przewrót — więc zaczyna się zawsze od tomu pierwszego." },
+    { "question": "Czy to wampirzy horror czy thriller epidemiologiczny?", "answer": "Oba naraz. Fabuła toczy się jak śledztwo epidemiologiczne, ale źródłem zarazy jest starożytny wampir — krew, miasto i mechanika zarażania grają tu pierwsze skrzypce." },
+    { "question": "Czym różni się serial od książek?", "answer": "Serial FX z lat 2014-2017 adaptuje te same trzy tomy w trzech sezonach, ale przerysowuje rolę epidemiologa Ephraima Goodweathera i dopisuje własne zakończenie. Książki są krótsze, mroczniejsze i bardziej spójne." }
+  ],
+  "relatedSeries": []
+}

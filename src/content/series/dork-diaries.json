@@ -1,0 +1,32 @@
+{
+  "title": "Dziennik Nikki",
+  "titleOriginal": "Dork Diaries",
+  "author": "Rachel Renée Russell",
+  "authorSlug": "rachel-renee-russell",
+  "genre": ["komedia", "young-adult"],
+  "description": "Kolejność czytania serii Dziennik Nikki Rachel Renée Russell. Szesnaście tomów dziennika nastoletniej Nikki Maxwell — po angielsku Dork Diaries — w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Tales from a Not-So-Fabulous Life", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 2, "title": "Tales from a Not-So-Popular Party Girl", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 3, "title": "Tales from a Not-So-Talented Pop Star", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 4, "title": "Tales from a Not-So-Graceful Ice Princess", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 5, "title": "Tales from a Not-So-Smart Miss Know-It-All", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 6, "title": "Tales from a Not-So-Happy Heartbreaker", "yearOriginal": 2013, "type": "powieść" },
+    { "order": 7, "title": "Tales from a Not-So-Glam TV Star", "yearOriginal": 2014, "type": "powieść" },
+    { "order": 8, "title": "Tales from a Not-So-Happily Ever After", "yearOriginal": 2014, "type": "powieść" },
+    { "order": 9, "title": "Tales from a Not-So-Dorky Drama Queen", "yearOriginal": 2015, "type": "powieść" },
+    { "order": 10, "title": "Tales from a Not-So-Perfect Pet Sitter", "yearOriginal": 2015, "type": "powieść" },
+    { "order": 11, "title": "Tales from a Not-So-Friendly Frenemy", "yearOriginal": 2016, "type": "powieść" },
+    { "order": 12, "title": "Tales from a Not-So-Secret Crush Catastrophe", "yearOriginal": 2018, "type": "powieść" },
+    { "order": 13, "title": "Tales from a Not-So-Happy Birthday", "yearOriginal": 2019, "type": "powieść" },
+    { "order": 14, "title": "Tales from a Not-So-Best Friend Forever", "yearOriginal": 2019, "type": "powieść" },
+    { "order": 15, "title": "Tales from a Not-So-Posh Paris Adventure", "yearOriginal": 2023, "type": "powieść" },
+    { "order": 16, "title": "Tales from a Not-So-Bratty Little Sister", "yearOriginal": 2024, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Dziennik Nikki?", "answer": "Od pierwszego tomu i dalej po numerach — przyjaźnie, sympatie i rywalizacja z Mackenzie budują się z tomu na tom, mimo że każdy stanowi zamkniętą przygodę." },
+    { "question": "Dlaczego tytuły są po angielsku?", "answer": "Seria znana jest w Polsce głównie jako Dziennik Nikki, ale poszczególne tomy wychodziły u nas z własną numeracją, która nie pokrywa się z amerykańską. Podajemy oryginalne tytuły i kolejność wydania." },
+    { "question": "Czy seria jest zakończona?", "answer": "Tom szesnasty z 2024 roku jest najnowszym. Russell pisze też spin-off o Maxie Crumblym — to niezależna seria, którą czyta się osobno." }
+  ],
+  "relatedSeries": []
+}

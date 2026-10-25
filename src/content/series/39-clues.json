@@ -1,0 +1,28 @@
+{
+  "title": "39 wskazówek",
+  "titleOriginal": "The 39 Clues",
+  "author": "Różni autorzy",
+  "authorSlug": "rozni-autorzy",
+  "genre": ["przygodowa", "young-adult", "thriller"],
+  "description": "Kolejność czytania serii 39 wskazówek. Jedenaście tomów pierwszego cyklu o walce rodów Cahillów o składniki serum — pisanych przez różnych autorów według pomysłu Ricka Riordana.",
+  "books": [
+    { "order": 1, "title": "The Maze of Bones", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 2, "title": "One False Note", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 3, "title": "The Sword Thief", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 4, "title": "Beyond the Grave", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 5, "title": "The Black Circle", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 6, "title": "In Too Deep", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 7, "title": "The Viper's Nest", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 8, "title": "The Emperor's Code", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 9, "title": "Storm Warning", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 10, "title": "Into the Gauntlet", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 11, "title": "Vespers Rising", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 12, "title": "The Black Book of Buried Secrets", "yearOriginal": 2010, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać 39 wskazówek?", "answer": "Od tomu The Maze of Bones i dalej po numerach — to jedna ciągła wyścigowa fabuła o rodzeństwie Amy i Danie, a każdy tom kończy się wyrwą w akcji." },
+    { "question": "Czemu autor zmienia się z tomu na tom?", "answer": "Seria powstała jako projekt zbiorowy: świat i pierwszy tom stworzył Rick Riordan, a kolejne pisali m.in. Gordon Korman, Jude Watson i Peter Lerangis według wspólnej biblii świata. Spoistość fabuły jest zachowana." },
+    { "question": "Co czytać po jedenastym tomie?", "answer": "Historia Amy i Dana kończy się w Into the Gauntlet, a Vespers Rising otwiera kolejne cykle — Cahills vs. Vespers, Unstoppable i Doublecross. To osobne serie, każda z numeracją zaczynającą się od jedynki." }
+  ],
+  "relatedSeries": []
+}

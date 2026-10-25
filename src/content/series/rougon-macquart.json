@@ -1,0 +1,36 @@
+{
+  "title": "Cykl Rougon-Macquart",
+  "titleOriginal": "Les Rougon-Macquart",
+  "author": "Émile Zola",
+  "authorSlug": "emile-zola",
+  "genre": ["klasyka", "historyczna"],
+  "description": "Kolejność czytania cyklu Rougon-Macquart Émile'a Zoli. Wszystkie dwadzieścia powieści o dwóch gałęziach jednej rodziny za drugiego cesarstwa, od Fortuny Rougonów po Doktora Pascala.",
+  "books": [
+    { "order": 1, "title": "Fortuna Rougonów", "titleOriginal": "La Fortune des Rougon", "yearOriginal": 1871, "type": "powieść" },
+    { "order": 2, "title": "La Curée", "yearOriginal": 1872, "type": "powieść" },
+    { "order": 3, "title": "Brzuch Paryża", "titleOriginal": "Le Ventre de Paris", "yearOriginal": 1873, "type": "powieść" },
+    { "order": 4, "title": "Podbój Plassans", "titleOriginal": "La Conquête de Plassans", "yearOriginal": 1874, "type": "powieść" },
+    { "order": 5, "title": "Grzech księdza Mouret", "titleOriginal": "La Faute de l'abbé Mouret", "yearOriginal": 1875, "type": "powieść" },
+    { "order": 6, "title": "Jego Ekscelencja Eugeniusz Rougon", "titleOriginal": "Son Excellence Eugène Rougon", "yearOriginal": 1876, "type": "powieść" },
+    { "order": 7, "title": "L'Assommoir", "yearOriginal": 1877, "type": "powieść" },
+    { "order": 8, "title": "Une page d'amour", "yearOriginal": 1878, "type": "powieść" },
+    { "order": 9, "title": "Nana", "yearOriginal": 1880, "type": "powieść" },
+    { "order": 10, "title": "Pot-Bouille", "yearOriginal": 1882, "type": "powieść" },
+    { "order": 11, "title": "Au Bonheur des Dames", "yearOriginal": 1883, "type": "powieść" },
+    { "order": 12, "title": "Radość życia", "titleOriginal": "La Joie de vivre", "yearOriginal": 1884, "type": "powieść" },
+    { "order": 13, "title": "Germinal", "yearOriginal": 1885, "type": "powieść" },
+    { "order": 14, "title": "Dzieło", "titleOriginal": "L'Œuvre", "yearOriginal": 1886, "type": "powieść" },
+    { "order": 15, "title": "Ziemia", "titleOriginal": "La Terre", "yearOriginal": 1887, "type": "powieść" },
+    { "order": 16, "title": "Marzenie", "titleOriginal": "Le Rêve", "yearOriginal": 1888, "type": "powieść" },
+    { "order": 17, "title": "Bestia ludzka", "titleOriginal": "La Bête humaine", "yearOriginal": 1890, "type": "powieść" },
+    { "order": 18, "title": "Pieniądz", "titleOriginal": "L'Argent", "yearOriginal": 1891, "type": "powieść" },
+    { "order": 19, "title": "Klęska", "titleOriginal": "La Débâcle", "yearOriginal": 1892, "type": "powieść" },
+    { "order": 20, "title": "Doktor Pascal", "titleOriginal": "Le Docteur Pascal", "yearOriginal": 1893, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Rougon-Macquartów?", "answer": "W kolejności wydania — tak zaplanował to sam Zola, a finałowy Doktor Pascal podsumowuje cały cykl i genealogię rodu. Każda powieść jest samodzielna, ale rodzina Rougonów i Macquartów przewija się przez całość." },
+    { "question": "Od czego zacząć, jeśli nie całością?", "answer": "Najczęściej poleca się Germinal albo Nana — to najsłynniejsze powieści cyklu i w pełni samodzielne. Kolejność ma znaczenie dopiero przy wątkach rodzinnych, które domykają się w Klęsce i Doktorze Pascalu." },
+    { "question": "Dlaczego część tytułów jest po francusku?", "answer": "Niektóre powieści nie doczekały się jednej ustalonej polskiej wersji tytułu, więc podajemy oryginał. Kanoniczne polskie tytuły — jak Fortuna Rougonów czy Bestia ludzka — zostawiamy w polskiej formie." }
+  ],
+  "relatedSeries": []
+}

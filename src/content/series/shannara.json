@@ -1,0 +1,40 @@
+{
+  "title": "Shannara",
+  "author": "Terry Brooks",
+  "authorSlug": "terry-brooks",
+  "genre": ["high-fantasy", "epic-fantasy"],
+  "description": "Kolejność czytania sagi Shannara Terry'ego Brooksa. Dwadzieścia trzy powieści głównej linii — od Miecza Shannary po The Last Druid — w porządku wydania, plus prequele.",
+  "books": [
+    { "order": 1, "title": "Miecz Shannary", "titleOriginal": "The Sword of Shannara", "yearOriginal": 1977, "type": "powieść" },
+    { "order": 2, "title": "The Elfstones of Shannara", "yearOriginal": 1982, "type": "powieść" },
+    { "order": 3, "title": "The Wishsong of Shannara", "yearOriginal": 1985, "type": "powieść" },
+    { "order": 4, "title": "The Scions of Shannara", "yearOriginal": 1990, "type": "powieść" },
+    { "order": 5, "title": "The Druid of Shannara", "yearOriginal": 1991, "type": "powieść" },
+    { "order": 6, "title": "The Elf Queen of Shannara", "yearOriginal": 1992, "type": "powieść" },
+    { "order": 7, "title": "The Talismans of Shannara", "yearOriginal": 1993, "type": "powieść" },
+    { "order": 8, "title": "Ilse Witch", "yearOriginal": 2000, "type": "powieść" },
+    { "order": 9, "title": "Antrax", "yearOriginal": 2001, "type": "powieść" },
+    { "order": 10, "title": "Morgawr", "yearOriginal": 2002, "type": "powieść" },
+    { "order": 11, "title": "Jarka Ruus", "yearOriginal": 2003, "type": "powieść" },
+    { "order": 12, "title": "Tanequil", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 13, "title": "Straken", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 14, "title": "Wards of Faerie", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 15, "title": "Bloodfire Quest", "yearOriginal": 2013, "type": "powieść" },
+    { "order": 16, "title": "Witch Wraith", "yearOriginal": 2013, "type": "powieść" },
+    { "order": 17, "title": "The High Druid's Blade", "yearOriginal": 2014, "type": "powieść" },
+    { "order": 18, "title": "The Darkling Child", "yearOriginal": 2015, "type": "powieść" },
+    { "order": 19, "title": "The Sorcerer's Daughter", "yearOriginal": 2016, "type": "powieść" },
+    { "order": 20, "title": "The Black Elfstone", "yearOriginal": 2017, "type": "powieść" },
+    { "order": 21, "title": "The Skaar Invasion", "yearOriginal": 2018, "type": "powieść" },
+    { "order": 22, "title": "The Stiehl Axe", "yearOriginal": 2019, "type": "powieść" },
+    { "order": 23, "title": "The Last Druid", "yearOriginal": 2020, "type": "powieść" },
+    { "order": 24, "title": "First King of Shannara", "yearOriginal": 1996, "type": "powiązane" },
+    { "order": 25, "title": "Galaphile", "yearOriginal": 2025, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Shannarę?", "answer": "Po kolei wydawniczo: oryginalna trylogia, potem Dziedzictwo, Podróż Jerle Shannary, Wysoki Druid, Mroczne dziedzictwo, Obrońcy i finałowy Upadek Shannary. Każdy cykl opowiada własne pokolenie rodziny Ohmsfordów, ale świat i wątki przechodzą przez całość." },
+    { "question": "A czytać chronologicznie?", "answer": "Chronologia zaczyna się od trylogii Słowo i Pustka, osadzonej w naszym świecie, a następnie Genesis of Shannara i Legends of Shannara spinają oba światy. To dodatkowych osiem książek — czytelnikom zaczynającym od Shannary wystarczy główna linia." },
+    { "question": "Czym są First King of Shannara i Galaphile?", "answer": "Prequele: First King (1996) opowiada o wojnie z Broną sprzed wydarzeń Miecza, a Galaphile (2025) sięga jeszcze dalej, do założycieli zakonu druidów. Oba czyta się po głównej linii, jako dopełnienie." }
+  ],
+  "relatedSeries": []
+}

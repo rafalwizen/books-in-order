@@ -1,0 +1,23 @@
+{
+  "title": "Big Nate",
+  "author": "Lincoln Peirce",
+  "authorSlug": "lincoln-peirce",
+  "genre": ["komedia", "young-adult"],
+  "description": "Kolejność czytania serii Big Nate Lincolna Peirce'a. Osiem powieści o nieznośnym Nathanielu Wrighcie — rekordziście szkolnych szlabanów — w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Big Nate: In a Class by Himself", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 2, "title": "Big Nate: Strikes Again", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 3, "title": "Big Nate: On a Roll", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 4, "title": "Big Nate: Goes for Broke", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 5, "title": "Big Nate: Flips Out", "yearOriginal": 2013, "type": "powieść" },
+    { "order": 6, "title": "Big Nate: In the Zone", "yearOriginal": 2014, "type": "powieść" },
+    { "order": 7, "title": "Big Nate: Lives It Up", "yearOriginal": 2015, "type": "powieść" },
+    { "order": 8, "title": "Big Nate: Blasts Off", "yearOriginal": 2016, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Big Nate?", "answer": "Od tomu In a Class by Himself i dalej po numerach. Każda powieść to osobna przygoda, ale relacje Nate'a z Teddym, Ginny i panem Galvinem budują się od tomu do tomu." },
+    { "question": "Czym powieści różnią się od komiksów Big Nate?", "answer": "Peirce tworzył najpierw paski komiksowe, a powieści — z rozdziałami ilustrowanymi w tym samym stylu — mają pełną fabułę. Poza nimi istnieją tylko zeszyty z zabawami i gra." },
+    { "question": "Dla kogo jest ta seria?", "answer": "Głównie dla czytelników od siedmiu do dwunastu lat — to lektura z gatunku dziennika niezdarów, jak Dziennik Nikki czy Diary of a Wimpy Kid." }
+  ],
+  "relatedSeries": []
+}

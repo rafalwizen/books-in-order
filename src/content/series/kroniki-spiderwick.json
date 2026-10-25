@@ -1,0 +1,24 @@
+{
+  "title": "Kroniki Spiderwick",
+  "titleOriginal": "The Spiderwick Chronicles",
+  "author": "Tony DiTerlizzi i Holly Black",
+  "authorSlug": "tony-diterlizzi-i-holly-black",
+  "genre": ["fantasy", "przygodowa", "young-adult"],
+  "description": "Kolejność czytania Kronik Spiderwick Tony'ego DiTerlizziego i Holly Black. Pięć krótkich tomów o rodzeństwie Grace i widmowym świecie z Księgi Arthura Spiderwicka, plus kontynuacja Beyond.",
+  "books": [
+    { "order": 1, "title": "The Field Guide", "yearOriginal": 2003, "type": "powieść" },
+    { "order": 2, "title": "The Seeing Stone", "yearOriginal": 2003, "type": "powieść" },
+    { "order": 3, "title": "Lucinda's Secret", "yearOriginal": 2003, "type": "powieść" },
+    { "order": 4, "title": "The Ironwood Tree", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 5, "title": "The Wrath of Mulgarath", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 6, "title": "The Nixie's Song", "yearOriginal": 2007, "type": "powiązane" },
+    { "order": 7, "title": "A Giant Problem", "yearOriginal": 2008, "type": "powiązane" },
+    { "order": 8, "title": "The Wyrm King", "yearOriginal": 2009, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Kroniki Spiderwick?", "answer": "Od tomu The Field Guide — pięć tomów głównej serii tworzy jedną, krótką historię i czyta się je bez przerwy, jak jedną powieść podzieloną na części." },
+    { "question": "Czym jest Beyond the Spiderwick Chronicles?", "answer": "To trzytomowa kontynuacja z nowymi bohaterami — Nicholasem i Laurą Vargas — ale w tym samym świecie i z udziałem postaci z pierwotnej piątki. Czyta się ją po zakończeniu głównej serii." },
+    { "question": "Czy znać książki przed serialem?", "answer": "Serial z 2024 roku mocno przerabia fabułę książek. Piątka DiTerlizziego i Black to zaledwie kilkaset stron — czyta się ją w jeden wieczór, więc warto zacząć od źródła." }
+  ],
+  "relatedSeries": []
+}

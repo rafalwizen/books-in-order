@@ -1,0 +1,29 @@
+{
+  "title": "Inspektor Morse",
+  "author": "Colin Dexter",
+  "authorSlug": "colin-dexter",
+  "genre": ["kryminal", "klasyka"],
+  "description": "Kolejność czytania serii Inspektor Morse Colina Dextera. Trzynaście powieści o oksfordzkim kryminalistyku i Lewisie, od Ostatniego autobusu do Woodstock po The Remorseful Day.",
+  "books": [
+    { "order": 1, "title": "Ostatni autobus do Woodstock", "titleOriginal": "Last Bus to Woodstock", "yearOriginal": 1975, "type": "powieść" },
+    { "order": 2, "title": "Last Seen Wearing", "yearOriginal": 1976, "type": "powieść" },
+    { "order": 3, "title": "The Silent World of Nicholas Quinn", "yearOriginal": 1977, "type": "powieść" },
+    { "order": 4, "title": "Service of All the Dead", "yearOriginal": 1979, "type": "powieść" },
+    { "order": 5, "title": "The Dead of Jericho", "yearOriginal": 1981, "type": "powieść" },
+    { "order": 6, "title": "The Riddle of the Third Mile", "yearOriginal": 1983, "type": "powieść" },
+    { "order": 7, "title": "The Secret of Annexe 3", "yearOriginal": 1986, "type": "powieść" },
+    { "order": 8, "title": "The Wench Is Dead", "yearOriginal": 1989, "type": "powieść" },
+    { "order": 9, "title": "The Jewel That Was Ours", "yearOriginal": 1991, "type": "powieść" },
+    { "order": 10, "title": "The Way Through the Woods", "yearOriginal": 1992, "type": "powieść" },
+    { "order": 11, "title": "The Daughters of Cain", "yearOriginal": 1994, "type": "powieść" },
+    { "order": 12, "title": "Death Is Now My Neighbour", "yearOriginal": 1996, "type": "powieść" },
+    { "order": 13, "title": "The Remorseful Day", "yearOriginal": 1999, "type": "powieść" },
+    { "order": 14, "title": "Morse's Greatest Mystery", "yearOriginal": 1993, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Inspektora Morse'a?", "answer": "Od Ostatniego autobusu do Woodstock (1975) i dalej w porządku wydania. Każda sprawa jest zamknięta, ale prywatne życie Morse'a — samotność, opery, piwo — buduje się z tomu na tom aż po gorzki finał." },
+    { "question": "Czym jest Morse's Greatest Mystery?", "answer": "To zbiór opowiadań o Morse'ie i Lewisie z 1993 roku. Sprawdza się jako dodatek po kilku powieściach, choć dwa opowiadania działają jak zwiastuny późniejszych tomów." },
+    { "question": "Czy warto znać powieści przed serialem?", "answer": "Tak — serial z Johnem Thawem jest wierniejszy książkom niż większość adaptacji, ale powstawał w innej kolejności. Książki dają znacznie więcej z zagadek krzyżówek, którymi Dexter słynął." }
+  ],
+  "relatedSeries": []
+}

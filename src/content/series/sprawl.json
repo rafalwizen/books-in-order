@@ -1,0 +1,20 @@
+{
+  "title": "Sprawl",
+  "titleOriginal": "Sprawl trilogy",
+  "author": "William Gibson",
+  "authorSlug": "william-gibson",
+  "genre": ["sci-fi", "klasyka"],
+  "description": "Kolejność czytania trylogii Sprawl Williama Gibsona. Neuromancer, Graf Zero i Mona Lisa Overdrive — fundamenty cyberpunku, za które Gibson dostał nagrody Hugo i Nebula.",
+  "books": [
+    { "order": 1, "title": "Neuromancer", "yearOriginal": 1984, "type": "powieść" },
+    { "order": 2, "title": "Graf Zero", "titleOriginal": "Count Zero", "yearOriginal": 1986, "type": "powieść" },
+    { "order": 3, "title": "Mona Lisa Overdrive", "yearOriginal": 1988, "type": "powieść" },
+    { "order": 4, "title": "Burning Chrome", "yearOriginal": 1986, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać trylogię Sprawl?", "answer": "Od Neuromancera i dalej po kolei. Wątki i postacie przechodzą z tomu na tom, a finał Mona Lisa Overdrive domyka wszystkie trzy główne linie fabularne." },
+    { "question": "Czym jest Burning Chrome?", "answer": "Zbiór opowiadań Gibsona z 1986 roku, w tym Johnny Mnemonic i tytułowe Burning Chrome. To właśnie tam narodził się świat trylogii — czyta się go po Neuromancerze albo przed nim." },
+    { "question": "Czy to najlepsze Gibson na start?", "answer": "Neuromancer to klasyk, ale trudny w odbiorze — Gibson zaczyna in medias res i niczego nie tłumaczy. Jeśli klimat okaże się zbyt gęsty, można zacząć od Graf Zero, który bywa nazywany najbardziej przystępnym tomem trylogii." }
+  ],
+  "relatedSeries": []
+}

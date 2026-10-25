@@ -1,0 +1,20 @@
+{
+  "title": "Unwind",
+  "author": "Neal Shusterman",
+  "authorSlug": "neal-shusterman",
+  "genre": ["dystopia", "young-adult", "sci-fi"],
+  "description": "Kolejność czytania serii Unwind Neala Shustermana. Cztery powieści o świecie, w którym nastolatków można rozebrać na organy — od Unwind po UnDivided, plus zbiór UnBound.",
+  "books": [
+    { "order": 1, "title": "Unwind", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 2, "title": "UnWholly", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 3, "title": "UnSouled", "yearOriginal": 2013, "type": "powieść" },
+    { "order": 4, "title": "UnDivided", "yearOriginal": 2014, "type": "powieść" },
+    { "order": 5, "title": "UnBound", "yearOriginal": 2015, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Unwind?", "answer": "Od tomu pierwszego i dalej po numerach. Pozornie luźne wątki Connora, Risy i Leva splatają się w jedną wojnę o zniesienie procedury rozbierania — każdy tom kończy się mocnym zwrotem." },
+    { "question": "Czym jest UnBound?", "answer": "Zbiór opowiadań z 2015 roku, który domyka losy bohaterów po finale UnDivided i dodaje historie poboczne. Czyta się go na samym końcu." },
+    { "question": "Czy to seria dla dorosłych?", "answer": "Formalnie young adult, ale tematy — traktowanie ciał jako towaru, polityczne kompromisy w sprawie życia — bywają cięższe niż w wielu powieściach dla dorosłych." }
+  ],
+  "relatedSeries": []
+}

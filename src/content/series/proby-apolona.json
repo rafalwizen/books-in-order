@@ -1,0 +1,21 @@
+{
+  "title": "Próby Apollona",
+  "titleOriginal": "The Trials of Apollo",
+  "author": "Rick Riordan",
+  "authorSlug": "rick-riordan",
+  "genre": ["fantasy", "przygodowa", "young-adult"],
+  "description": "Kolejność czytania serii Próby Apollona Ricka Riordana. Pięć powieści o bogu zesłanym na ziemię w ciele nastolatka, od The Hidden Oracle po The Tower of Nero.",
+  "books": [
+    { "order": 1, "title": "The Hidden Oracle", "yearOriginal": 2016, "type": "powieść" },
+    { "order": 2, "title": "The Dark Prophecy", "yearOriginal": 2017, "type": "powieść" },
+    { "order": 3, "title": "The Burning Maze", "yearOriginal": 2018, "type": "powieść" },
+    { "order": 4, "title": "The Tyrant's Tomb", "yearOriginal": 2019, "type": "powieść" },
+    { "order": 5, "title": "The Tower of Nero", "yearOriginal": 2020, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Próby Apollona?", "answer": "Od tomu The Hidden Oracle i dalej po numerach — pięć tomów tworzy jedną ciągłą historię walki Apollona o odzyskanie boskości. Finał w The Tower of Nero domyka też wątki całej sagi o obozie Half-Blood." },
+    { "question": "Czy trzeba znać Percy'ego Jacksona?", "answer": "Zdecydowanie pomaga. Seria bezpośrednio kontynuuje wątki Herosów Olimpu — szczególnie losy Leo, Calypso i Reyny — więc najlepiej czytać ją po zakończeniu tamtych dwóch serii." },
+    { "question": "Czy to ostatnia seria z tego świata?", "answer": "Pod względem chronologii klasycznego obozu Half-Blood tak — The Tower of Nero zamyka wielką sagę rozpoczętą przez Percy'ego Jacksona. Riordan poprowadził później osobne serie o kulturach nordyckiej i Majów." }
+  ],
+  "relatedSeries": []
+}

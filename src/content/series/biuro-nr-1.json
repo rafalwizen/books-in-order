@@ -1,0 +1,43 @@
+{
+  "title": "Damskie biuro detektywistyczne",
+  "titleOriginal": "The No. 1 Ladies' Detective Agency",
+  "author": "Alexander McCall Smith",
+  "authorSlug": "alexander-mccall-smith",
+  "genre": ["kryminal", "komedia"],
+  "description": "Kolejność czytania serii Damskie biuro detektywistyczne Alexandra McCalla Smitha. Wszystkie 27 powieści o Precious Ramotswe z Botswany, od 1998 po 2026 rok, w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "The No. 1 Ladies' Detective Agency", "yearOriginal": 1998, "type": "powieść" },
+    { "order": 2, "title": "Tears of the Giraffe", "yearOriginal": 2000, "type": "powieść" },
+    { "order": 3, "title": "Morality for Beautiful Girls", "yearOriginal": 2001, "type": "powieść" },
+    { "order": 4, "title": "The Kalahari Typing School for Men", "yearOriginal": 2002, "type": "powieść" },
+    { "order": 5, "title": "The Full Cupboard of Life", "yearOriginal": 2003, "type": "powieść" },
+    { "order": 6, "title": "The Company of Cheerful Ladies", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 7, "title": "Blue Shoes and Happiness", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 8, "title": "The Good Husband of Zebra Drive", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 9, "title": "The Miracle at Speedy Motors", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 10, "title": "Tea Time for the Traditionally Built", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 11, "title": "The Double Comfort Safari Club", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 12, "title": "The Saturday Big Tent Wedding Party", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 13, "title": "The Limpopo Academy of Private Detection", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 14, "title": "The Minor Adjustment Beauty Salon", "yearOriginal": 2013, "type": "powieść" },
+    { "order": 15, "title": "The Handsome Man's De Luxe Café", "yearOriginal": 2014, "type": "powieść" },
+    { "order": 16, "title": "The Woman Who Walked in Sunshine", "yearOriginal": 2015, "type": "powieść" },
+    { "order": 17, "title": "Precious and Grace", "yearOriginal": 2016, "type": "powieść" },
+    { "order": 18, "title": "The House of Unexpected Sisters", "yearOriginal": 2017, "type": "powieść" },
+    { "order": 19, "title": "The Colours of All the Cattle", "yearOriginal": 2018, "type": "powieść" },
+    { "order": 20, "title": "To the Land of Long Lost Friends", "yearOriginal": 2019, "type": "powieść" },
+    { "order": 21, "title": "How to Raise an Elephant", "yearOriginal": 2020, "type": "powieść" },
+    { "order": 22, "title": "The Joy and Light Bus Company", "yearOriginal": 2021, "type": "powieść" },
+    { "order": 23, "title": "A Song of Comfortable Chairs", "yearOriginal": 2022, "type": "powieść" },
+    { "order": 24, "title": "From a Far and Lovely Country", "yearOriginal": 2023, "type": "powieść" },
+    { "order": 25, "title": "The Great Hippopotamus Hotel", "yearOriginal": 2024, "type": "powieść" },
+    { "order": 26, "title": "In the Time of Five Pumpkins", "yearOriginal": 2025, "type": "powieść" },
+    { "order": 27, "title": "The Big Cats Dance Party", "yearOriginal": 2026, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Damskie biuro detektywistyczne?", "answer": "Od pierwszego tomu z 1998 roku i dalej po kolei. Sprawy klientów zamykają się w pojedynczych tomach, ale życie Ramotswe, J.B.M. Matekoni i pani Makutsi rozwija się konsekwentnie przez całą serię." },
+    { "question": "Czy seria jest zakończona?", "answer": "Nie — Smith pisze ją nieprzerwanie od 1998 roku i wydaje zwykle jedną lub dwie powieści rocznie. W 2026 roku ukazał się tom dwudziesty siódmy, The Big Cats Dance Party." },
+    { "question": "Czy to kryminały sensu stricto?", "answer": "Raczej ciepłe powieści obyczajowe z zagadkami. Detektywistyczne sprawy służą tu przede wszystkim jako pretekst do portretów Botswany i jej mieszkańców — dlatego serię czytają też osoby omijające kryminały." }
+  ],
+  "relatedSeries": []
+}
