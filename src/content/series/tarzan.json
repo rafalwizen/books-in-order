@@ -36,5 +36,5 @@
     { "question": "Dlaczego Tarzan at the Earth's Core wygląda inaczej?", "answer": "To crossover z cyklem Pellucidar — Tarzan trafia do pustej w środku Ziemi. Fabularnie należy do obu serii, ale czyta się go jak zwykły tom przygód Tarzana." },
     { "question": "Co z Tarzan: The Lost Adventure?", "answer": "To ostatni, niedokończony rękopis Burroughsa, uzupełniony i wydany w 1995 roku przez Joe R. Lansdale'a. Traktujemy go jako dodatek — do głównej serii wystarczą 24 książki autora." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["barsoom"]
 }

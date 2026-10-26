@@ -22,5 +22,5 @@
     { "question": "Od którego tomu zacząć?", "answer": "Najczęściej polecany jest The Player of Games — przystępny i świetnie pokazuje mechanikę Kultury. Consider Phlebas jest bardziej szorstki, ale jako pierwszy wydany tom najpełniej wprowadza w świat." },
     { "question": "Czy seria jest ukończona?", "answer": "Iain M. Banks zmarł w 2013 roku, niedługo po The Hydrogen Sonata. Cykl zamyka dziesięć książek i nie będzie kontynuowany — Banks zapowiadał co najmniej jeszcze jedną powieść o Kulturze, której nie zdążył napisać." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["hyperion", "cykl-fundacji", "dzienniki-murderbota"]
 }

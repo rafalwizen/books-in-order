@@ -21,5 +21,5 @@
     { "question": "Z czego składa się cała saga?", "answer": "Z trzech trylogii: Saga Forsytów (1906-1921), Nowa komedia Forsytów (1924-1928) i Końiec rozdziału (1931-1933). Razem dziewięć powieści, spisanych w porządku wydania na naszej liście." },
     { "question": "Czy można czytać tylko pierwszą trylogię?", "answer": "Tak — trylogia z Majątkiem, W szachu i Do wynajęcia tworzy zamkniętą całość i to ona stała się podstawą słynnego serialu BBC z 1967 roku. Dalsze sześć powieści kontynuuje losy dzieci bohaterów." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["komedia-ludzka", "rougon-macquart"]
 }

@@ -23,5 +23,5 @@
     { "question": "Czym są tomy od 2009 roku?", "answer": "Kontynuacja Pameli Cox, spisana pół wieku później. Śledzi Felicity, młodszą siostrę Darrell, przez jej własne lata w Malory Towers — czyta się ją po oryginalnej szóstce." },
     { "question": "Czy serię czyta się dziś dobrze?", "answer": "Tak, choć to szkolna proza z lat czterdziestych: dormitoria, lacrosse i wzorzec brytyjskiego internatu. Nowsze wydania łagodzą część języka epoki, ale klimat pozostaje autentyczny." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["ania-z-zielonego-wzgorza"]
 }

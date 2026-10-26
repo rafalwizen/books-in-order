@@ -17,5 +17,5 @@
     { "question": "Czy trzeba znać Percy'ego Jacksona?", "answer": "Zdecydowanie pomaga. Seria bezpośrednio kontynuuje wątki Herosów Olimpu — szczególnie losy Leo, Calypso i Reyny — więc najlepiej czytać ją po zakończeniu tamtych dwóch serii." },
     { "question": "Czy to ostatnia seria z tego świata?", "answer": "Pod względem chronologii klasycznego obozu Half-Blood tak — The Tower of Nero zamyka wielką sagę rozpoczętą przez Percy'ego Jacksona. Riordan poprowadził później osobne serie o kulturach nordyckiej i Majów." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["percy-jackson", "bohaterowie-olimpu", "kroniki-kane"]
 }

@@ -19,5 +19,5 @@
     { "question": "Kolejność wydania czy chronologiczna?", "answer": "To najsłynniejszy spór o Narnię. Wydawcy od numeru 58. nakładu stosują kolejność chronologiczną (najpierw Siostrzeńca czarodzieja), ale C.S. Lewis sam sugerował, że kolejność wydania jest lepsza dla nowych czytelników. Na tej stronie stosujemy kolejność wydania." },
     { "question": "Ile książek liczy cykl Narnia?", "answer": "Siedem powieści wydanych w latach 1950–1956. Cykl jest ukończony, a wszystkie tomy łączą postacie i wątek Aslana oraz dzieci z rodziny Pevensie." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["wladca-pierscieni", "mroczne-materie"]
 }

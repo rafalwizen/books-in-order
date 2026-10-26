@@ -18,5 +18,5 @@
     { "question": "Ile książek liczy seria Harry Potter?", "answer": "Główna seria składa się z 7 książek, od Kamienia Filozoficznego po Insygnia Śmierci. Ponadto istnieją książki dodatkowe jak Fantastyczne Zwierzęta czy Przeklęte Dziecko." },
     { "question": "Czy trzeba czytać Harry Potter po kolei?", "answer": "Tak, książki budują się na sobie i muszą być czytane w kolejności wydania. Każdy tom nawiązuje do wydarzeń z poprzednich." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["percy-jackson", "mroczne-materie", "igrzyska-smierci"]
 }

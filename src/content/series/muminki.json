@@ -22,5 +22,5 @@
     { "question": "Od którego tomu zacząć dziecko?", "answer": "Najczęściej poleca się Kometa nad Doliną Muminków albo W Dolinie Muminków — to klasyczne przygody. Późniejsze tomy, Tatuś Muminka i morze oraz Dolina Muminków w listopadzie, są melancholijne i bardziej dorosłe." },
     { "question": "Czy Co było potem? jest częścią serii?", "answer": "To książka obrazkowa z 1952 roku — pierwsza z tekstowo-obrazkowych historii Jansson. Traktujemy ją jako dodatek: piękną, ale przeznaczoną do wspólnego czytania z najmłodszymi." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["mary-poppins", "pippi", "ania-z-zielonego-wzgorza"]
 }

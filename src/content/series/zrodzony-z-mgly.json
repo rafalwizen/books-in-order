@@ -20,5 +20,5 @@
     { "question": "Czy Zrodzony z mgły jest ukończony?", "answer": "Era pierwsza i druga są zakończone. Sanderson zapowiedział trzecią erę serii, która ma być osadzona we współczesności świata Scadrial — cykl jest więc wciąż otwarty." },
     { "question": "Czytać Secret History między tomami?", "answer": "Novela Secret History rozgrywa się równolegle z trylogią, ale została wydana z dużym opóźnieniem. Czytaj ją dopiero po trzecim tomie — inaczej zdradzi kluczowe zwroty akcji ery pierwszej." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["archiwum-burzy"]
 }

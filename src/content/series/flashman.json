@@ -23,5 +23,5 @@
     { "question": "Czym jest Flashman and the Tiger?", "answer": "To zbiór trzech dłuższych opowiadań z 1999 roku, rozpisanych na okresy brakujące w powieściach. Czyta się go po Angel of the Lord, bo domyka wątki z tamtego tomu." },
     { "question": "Czy to książki historyczne czy komedia?", "answer": "Obie rzeczy naraz. Fraser osadza przygody Flashmana w skrupulatnie zbadanych wydarzeniach — od powstania sipajów po wojnę secesyjną — a całość spina czarna komedia narracji łajdaka zadufanego w sobie." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["sharpe", "hornblower", "jeeves"]
 }

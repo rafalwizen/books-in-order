@@ -16,5 +16,5 @@
     { "question": "Dlaczego lata wydania są takie wczesne?", "answer": "Podajemy oryginalne chińskie premiery (2006, 2008, 2010). Na Zachód trylogia trafiła w tłumaczeniu Kena Liua dopiero w 2014 roku, a po polsku w 2017 roku." },
     { "question": "Czy Ball Lightning trzeba czytać?", "answer": "To wcześniejsza, samodzielna powieść Liu Cixina osadzona w tym samym uniwersum — pojawia się w niej doktor Ding, ale historię trylogii znać nie trzeba. Traktujemy ją jako lekturę dodatkową." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["ekspansja", "odyseja-kosmiczna"]
 }

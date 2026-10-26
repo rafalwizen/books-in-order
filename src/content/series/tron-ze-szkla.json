@@ -20,5 +20,5 @@
     { "question": "Czy Wieża świtu można pominąć?", "answer": "Nie warto. Wieża świtu (2017) opowiada o Chaolu i Yrene równolegle do wydarzeń z Imperium burz, a jej wątki wracają w finale sagi, Królestwie popiołów." },
     { "question": "Ile tomów ma seria Tron ze szkła?", "answer": "Siedem powieści oraz zbiór nowel Ostrze zabójczyni — razem 8 książek. Saga została zakończona w 2018 roku tomem Królestwo popiołów." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["sad-cierni-i-roz", "crescent-city", "czwarte-skrzydlo"]
 }

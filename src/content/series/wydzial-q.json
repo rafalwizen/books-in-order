@@ -22,5 +22,5 @@
     { "question": "Dlaczego tom czwarty nazywa się Dziennik 64?", "answer": "To polski tytuł oryginała Journal 64 — tak seria przyjęła się w Polsce także dzięki filmom. W innych językach tom nosi tytuł The Purity of Vengeance." },
     { "question": "Czy Locked In kończy serię?", "answer": "Wydawca zapowiada Locked In jako finał przygód Wydziału Q, choć seria okazała się tak popularna, że nie można wykluczyć powrotu Mørcka. Dziesięć tomów tworzy obecnie kompletny cykl." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["harry-hole", "millennium"]
 }

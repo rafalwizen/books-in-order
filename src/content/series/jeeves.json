@@ -25,5 +25,5 @@
     { "question": "Od czego zacząć?", "answer": "Najczęściej polecane wejścia to Right Ho, Jeeves albo The Code of the Woosters — obie powieści mają pełnię humoru Wodehouse'a i klasyczne intrygi z ciotkami, plotkami o zaręczynach i srebrnymi czajnikami." },
     { "question": "Ile książek o Jeevesie napisał Wodehouse?", "answer": "Powieści i zbiorów o Jeevesie jest kilkanaście, w tym opowiadania z lat 1915-1930 zebrane w pierwszych trzech tomach. Nasza lista obejmuje pełny kanon wydany za życia autora." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["swiat-dysku", "flashman"]
 }

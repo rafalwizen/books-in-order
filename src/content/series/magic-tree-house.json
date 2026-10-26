@@ -39,5 +39,5 @@
     { "question": "Co czytać po 28. tomie?", "answer": "Seria kontynuowana jest jako Merlin Missions, z numeracją od 29 (Christmas in Camelot, 2001). To te same bohaterowie, ale dłuższe tomy dla starszych dzieci — czytaj je dalej po numerach." },
     { "question": "Kto naprawdę napisał te książki?", "answer": "Mary Pope Osborne jest autorką całej serii; przy części tomów i spin-offów pomagali jej mąż Will Osborne i siostra Natalie Pope Boyce (głównie przy książkach faktograficznych Fact Trackers)." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["geronimo-stilton", "nancy-drew"]
 }

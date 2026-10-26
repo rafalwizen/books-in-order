@@ -25,5 +25,5 @@
     { "question": "Co to są Russian Roulette i Secret Weapon?", "answer": "Russian Roulette to prequel o płatnym zabójcy Yassenie Gregorovichu, a Secret Weapon zbiór opowiadań rozgrywających się między głównymi tomami. Czytaj je po Scorpia Rising — jako uzupełnienie." },
     { "question": "Czy seria jest ukończona?", "answer": "Nie — po Nightshade Revenge (2023) Horowitz zapowiada kolejne tomy, a Alex dorasta w stronę dorosłego szpiega. Nowe przygody wciąż powstają." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["zwiadowca", "39-clues"]
 }

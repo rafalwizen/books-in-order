@@ -16,5 +16,5 @@
     { "question": "Czym jest The Martians?", "answer": "To towarzyszący zbiór opowiadań, wierszy i dokumentów z uniwersum trylogii wydany w 1999 roku. Nie jest czwartym tomem — czyta się go po Błękitnym Marsie, jako dodatek." },
     { "question": "Czy trylogia jest zakończona?", "answer": "Tak, Błękitny Mars zamyka całą sagę. Robinson kontynuował jednak podobną tematykę w trylogii Science in the Capital, a wątki marsjańskie wracają okazjonalnie w jego późniejszych powieściach." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["ekspansja"]
 }

@@ -40,5 +40,5 @@
     { "question": "Czy Blow Fly można pominąć?", "answer": "Nie warto. Od dwunastego tomu Cornwell zmienia narrację na trzecioosobową i mnoży punkty widzenia, co część czytelników odbiera jako przegięcie — ale to właśnie tam wracają najważniejsze wątki z pierwszych jedenastu tomów." },
     { "question": "Ile tomów ma seria i czy jest zakończona?", "answer": "Seria liczy 29 powieści i wciąż powstaje — Sharp Force ukazało się w 2025 roku. Przerwa między Chaosem (2016) a Autopsją (2021) była najdłuższa w historii cyklu." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["adam-dalgliesh", "harry-hole", "in-death"]
 }

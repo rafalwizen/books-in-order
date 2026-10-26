@@ -19,5 +19,5 @@
     { "question": "Czy seria Percy Jackson jest ukończona?", "answer": "Główna pentalogia (2005–2009) jest zakończona, ale Rick Riordan wrócił do bohatera i wydaje nowe tomy: The Chalice of the Gods (2023) i Wrath of the Triple Goddess (2025). Historię świata kontynuują też serie Bohaterowie Olimpu i Próby Apollona." },
     { "question": "Co czytać po Percy Jacksonu?", "answer": "Naturalną kontynuacją jest pięciotomowa seria Bohaterowie Olimpu, w której Percy występuje obok nowych bohaterów. Kolejne w kolejności wydania są Próby Apollona." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["bohaterowie-olimpu", "kroniki-kane", "proby-apolona", "harry-potter"]
 }

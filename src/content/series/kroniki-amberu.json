@@ -22,5 +22,5 @@
     { "question": "Czy trzeba czytać cykl Merlina?", "answer": "Nie, piątka o Corwinie ma zamknięte zakończenie. Cykl Merlina jednak rozwija wątki rodzinne Amberu i tłumaczy wiele zagadek pierwszego cyklu — większość czytelników czyta całą dziesiątkę." },
     { "question": "A co z prequelami Betancourta?", "answer": "Cykl The Dawn of Amber Johna Gregory'ego Betancourta powstał bez udziału Zelaznego na podstawie umowy z jego majątkiem. Wśród fanów bywa pomijany — oficjalna dziesiątka Zelaznego to komplet." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["mroczna-wieza", "ziemiomorze"]
 }

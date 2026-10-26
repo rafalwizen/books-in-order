@@ -25,5 +25,5 @@
     { "question": "Dlaczego Paddington Here and Now wyszedł tak późno?", "answer": "Michael Bond napisał go w 2008 roku, w 50. rocznicę pierwszej książki. To ostatnia pełna powieść o Paddingtonie — autor zmarł w 2017 roku." },
     { "question": "Czy filmy o Paddingtonie pokrywają się z książkami?", "answer": "Tylko luźno — filmy z 2014 i 2017 roku czerpią z klimatu i motywów książek (marmolada, twarde spojrzenie), ale opowiadają własne historie. Książkowe przygody są przy tym łagodniejsze i epizodyczne." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["pippi", "geronimo-stilton"]
 }

@@ -27,5 +27,5 @@
     { "question": "Czy zbiory opowiadań są potrzebne?", "answer": "Nie są obowiązkowe. A Touch of Dead zbiera siedem opowiadań o Sookie publikowanych w antologiach, a After Dead to encyklopedyczny epilog dalszych losów bohaterów — oba czyta się po dwunastym tomie lub po zakończeniu serii." },
     { "question": "Ile seria ma wspólnego z Czystą krwią?", "answer": "Serial HBO Czysta krew adaptuje luźno powieści — pierwsze sezony idą za książkami, później scenarzyści odchodzą coraz dalej. Książkowa Sookie jest inna niż serialowa, a finał serii znacząco się różni." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["akta-dresdena", "zmierzch"]
 }

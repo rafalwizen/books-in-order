@@ -31,5 +31,5 @@
     { "question": "Dlaczego lista obejmuje tylko 20 tomów?", "answer": "Seria liczy łącznie 175 książek pisanych przez wielu autorów pod pseudonimem Carolyn Keene. Prezentujemy klasyczne, pierwotne 20 tomów z lat 1930-1943 — czyli złotą erę serii spisaną w dużej mierze przez Mildred Wirt Benson." },
     { "question": "Czy Nancy Drew trzeba czytać po angielsku?", "answer": "Klasyczna seria nie doczekała się pełnego polskiego przekładu — czytelnicy sięgają po oryginały lub nowsze wznowienia. Po polsku dostępne są głównie nowsze podserie, jak Girl Detective." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["magic-tree-house", "bracia-hardy", "biuro-nr-1"]
 }

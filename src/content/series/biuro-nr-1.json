@@ -39,5 +39,5 @@
     { "question": "Czy seria jest zakończona?", "answer": "Nie — Smith pisze ją nieprzerwanie od 1998 roku i wydaje zwykle jedną lub dwie powieści rocznie. W 2026 roku ukazał się tom dwudziesty siódmy, The Big Cats Dance Party." },
     { "question": "Czy to kryminały sensu stricto?", "answer": "Raczej ciepłe powieści obyczajowe z zagadkami. Detektywistyczne sprawy służą tu przede wszystkim jako pretekst do portretów Botswany i jej mieszkańców — dlatego serię czytają też osoby omijające kryminały." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["miss-marple", "nancy-drew"]
 }

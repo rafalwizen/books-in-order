@@ -23,5 +23,5 @@
     { "question": "Dlaczego między tomami 4 i 5 jest dwudziestoletnia przerwa?", "answer": "Graham przerwał sagę w 1953 roku i wrócił do niej po dwudziestu latach — w 1973 roku ukazało się The Black Moon, a popularność odnowionej serii utrwalił potem serial BBC. Tom piąty podejmuje wątki dokładnie tam, gdzie skończył się Warleggan." },
     { "question": "Czy serial pokrywa się z książkami?", "answer": "Serial BBC z lat 2015-2019 adaptuje po dwie książki na sezon. Książki są bogatsze w wątki Kornwalii z przełomu XVIII i XIX wieku i mają inny, spokojniejszy rytm." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["kingsbridge"]
 }

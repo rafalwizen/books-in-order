@@ -18,5 +18,5 @@
     { "question": "Co to jest The Foundling?", "answer": "Zbiór krótkich opowiadań o dzieciństwie bohaterów i historii Pydainu, wydany po zakończeniu piątki. To smaczek dla fanów — czytaj go po finale." },
     { "question": "Czy film Disneya jest wierny książkom?", "answer": "Film Taran i magiczny kocioł (1985) luźno opiera się na dwóch pierwszych tomach i znacznie uprościł fabułę. Książkowa saga jest pełniejsza — z całym arkiem Tarana od chłopca-poganiacza do dorosłości." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["redwall", "zwiadowca", "kraina-oz", "kroniki-spiderwick"]
 }

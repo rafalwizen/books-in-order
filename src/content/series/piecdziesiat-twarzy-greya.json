@@ -18,5 +18,5 @@
     { "question": "Czy tomy Grey, Darker i Freed to nowe części?", "answer": "Nie — to te same trzy powieści opowiedziane pierwszoosobowo przez Christiana. Dodają jego myśli i kilka nowych scen, ale nie przesuwają fabuły naprzód." },
     { "question": "Skąd w ogóle wzięła się ta seria?", "answer": "Z fanfiction do Zmierzchu — James publikowała początkowo historię Edwarda i Belli pod tytułem Master of the Universe, a po przeróbce bohaterów wydała ją jako oryginalną trylogię. Reszta jest historią wydawniczą." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["zmierzch", "do-wszystkich-chlopow"]
 }

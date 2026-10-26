@@ -25,5 +25,5 @@
     { "question": "Czym jest Morse's Greatest Mystery?", "answer": "To zbiór opowiadań o Morse'ie i Lewisie z 1993 roku. Sprawdza się jako dodatek po kilku powieściach, choć dwa opowiadania działają jak zwiastuny późniejszych tomów." },
     { "question": "Czy warto znać powieści przed serialem?", "answer": "Tak — serial z Johnem Thawem jest wierniejszy książkom niż większość adaptacji, ale powstawał w innej kolejności. Książki dają znacznie więcej z zagadek krzyżówek, którymi Dexter słynął." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["miss-marple", "adam-dalgliesh"]
 }

@@ -18,5 +18,5 @@
     { "question": "W jakiej kolejności czytać Cykl Fundacji?", "answer": "Istnieją dwa podejścia: chronologiczne (od Preludium Fundacji) lub wg daty wydania (od Fundacji). Wg wydania pozwala lepiej docenić ewolycję stylu Asimova." },
     { "question": "Ile książek liczy Cykl Fundacji?", "answer": "Główny cykl liczy 7 powieści. Dodatkowo istnieją powieści powiązane z serią Robotów, które dzieją się w tym samym uniwersum." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["diuma", "kultura"]
 }

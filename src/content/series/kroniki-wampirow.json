@@ -25,5 +25,5 @@
     { "question": "Które tomy łączą się z czarownicami z Mayfair?", "answer": "Merrick, Folwark Blackwood i Blood Canticle to formalnie części Kronik wampirów, ale splatają się z trylogią Czarownice z Mayfair. Warto znać tamtą serię, choć nie jest konieczna." },
     { "question": "Czy Pandora i Vittorio należą do serii?", "answer": "To powieści z cyklu New Tales of the Vampires — samodzielne historie w tym samym świecie. Główne Kroniki wampirów to 13 powieści z naszej listy." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["wiedzmy-z-mayfair", "the-strain", "pamietniki-wampirow"]
 }

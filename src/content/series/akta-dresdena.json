@@ -30,5 +30,5 @@
     { "question": "Czy Peace Talks i Battle Ground to jedna książka?", "answer": "Tak, objętościowo wyszły jako dwa tomy, ale powstały jako jedna powieść podzielona przez wydawcę. Czytaj je bezpośrednio po sobie." },
     { "question": "Ile tomów będzie miały Akta Dresdena?", "answer": "Jim Butcher planuje łącznie 23-24 tomy oraz finałową trylogię zamykającą sagę (tzw. big apocalyptic trilogy). Ukazało się 18 powieści — najnowsza, Twelve Months, w styczniu 2026 roku." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["sookie-stackhouse", "skulduggery-pleasant"]
 }

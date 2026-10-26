@@ -26,5 +26,5 @@
     { "question": "Dlaczego lista kończy się na Glindzie z Oz?", "answer": "To wszystkie powieści napisane przez samego Bauma. Po jego śmierci serię kontynuowała Ruth Plumly Thompson i inni autorzy — oficjalny kanon liczy czterdzieści książek, ale te czternaście tworzą zamknięty, autorski cykl." },
     { "question": "Które tomy są najsłynniejsze?", "answer": "Pierwszy, oczywiście, oraz Ozma of Oz i The Emerald City of Oz. Część późniejszych tomów powstawała bardziej z zobowiązania wobec czytelników niż z woli autora — Baum dwukrotnie próbował zakończyć serię i za każdym razem wracał." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["kroniki-prydainu", "mary-poppins", "kroniki-spiderwick"]
 }

@@ -22,5 +22,5 @@
     { "question": "Czy Ekspansja jest ukończona?", "answer": "Tak, główny cykl dziewięciu powieści został zakończony w 2021 roku tomem Leviathan Falls. Autorzy zapowiedzieli kolejne powieści osadzone w tym samym wszechświecie po czasach głównej serii." },
     { "question": "Czy novelę i opowiadania trzeba czytać?", "answer": "Główna fabuła mieszści się w dziewięciu powieściach. Nowele, m.in. The Churn i Strange Dogs, pogłębiają wątki drugoplanowych bohaterów i można je czytać po właściwych tomach serii." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["diuma", "hyperion", "trylogia-marsjanska", "problem-trzech-cial"]
 }

@@ -15,5 +15,5 @@
     { "question": "Ile książek o Pippi napisała Astrid Lindgren?", "answer": "Trzy pełne tomy przygód oraz kilkanaście krótszych opowiadań i książeczek obrazkowych. Klasyczny kanon to właśnie trylogia z lat 1945-1948." },
     { "question": "Czy Pippi ma kontynuacje lub adaptacje?", "answer": "Tak — historie Pippi doczekały się filmów, seriali animowanych i sztuk teatralnych. Literacką podstawą jest jednak zawsze trylogia książkowa z lat 40." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["muminki", "mis-paddington"]
 }

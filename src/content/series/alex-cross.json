@@ -44,5 +44,5 @@
     { "question": "Dlaczego Alex Cross's Trial jest osobno?", "answer": "To powieść towarzysząca osadzona w 1906 roku, opowiadająca o przodku rodziny Crossów. Nie jest śledztwem Alexa i czyta się ją dowolnie w trakcie serii." },
     { "question": "Które tomy zostały sfilmowane?", "answer": "Along Came a Spider i Kiss the Girls (z Morganem Freemanem) oraz Alex Cross (2012) z Tylerem Perrym. Seria książkowa jest znacznie dłuższa niż adaptacje." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["amos-decker", "maximum-ride", "mitch-rapp"]
 }

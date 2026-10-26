@@ -14,5 +14,5 @@
     { "question": "Gdzie jest czwarty tom?", "answer": "Alecto the Ninth jest zapowiedziany jako finał serii, ale nie ma jeszcze ustalonej daty premiery. Zgodnie ze stanem na 2025 rok seria liczy trzy wydane powieści." },
     { "question": "Czym właściwie jest ta seria?", "answer": "Nekromancją przeniesioną w kosmos: w dalekiej przyszłości dziewięć domów nekromantów walczy o władzę nad układami gwiezdnymi. Muir łączy przy tym fantastykę naukową z konwencją gotyckiego kryminału z zamkniętym kręgiem podejrzanych." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["dzienniki-murderbota"]
 }

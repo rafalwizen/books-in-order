@@ -19,5 +19,5 @@
     { "question": "Jak seria łączy się z Harrym Boschem?", "answer": "Mickey Haller to przyrodni brat Harry'ego Boscha, bohatera głównej serii Connellya. Bosch pojawia się w kilku tomach jako śledczy Hallera — najwięcej w The Brass Verdict, The Reversal i Resurrection Walk. Żadną z serii nie trzeba jednak znać wcześniej." },
     { "question": "Czy serial Adwokat z Lincoln pokrywa się z książkami?", "answer": "Serial Netflixa adaptuje luźno pierwsze tomy i wymyśla własne wątki. Trzon — przestępstwa, za które klient może nie być winny — pochodzi wprost z powieści." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["harry-bosch", "cormoran-strike"]
 }

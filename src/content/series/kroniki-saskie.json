@@ -25,5 +25,5 @@
     { "question": "Czy serię kończy tom War Lord?", "answer": "Tak, trzynasty tom zamyka losy Uhtreda z Bebbanburga w 2020 roku. Cornwell ogłosił, że główna seria jest zakończona — ewentualne kolejne tomy dotyczyłyby innych bohaterów." },
     { "question": "Czy serial Ostatnie królestwo pokrywa się z książkami?", "answer": "Luźno — pierwsze sezony adaptują kolejne tomy, ale finałowe sezony wychodzą poza książki. Książkowy Uhtred jest starszy, gwałtowniejszy i bogatszy wewnętrznie niż serialowy." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["sharpe"]
 }

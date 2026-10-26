@@ -20,5 +20,5 @@
     { "question": "Czy można pominąć opowiadania i zacząć od Krwi elfów?", "answer": "Nie zalecane. Opowiadania wprowadzają postacie, świat i motywy, które są kluczowe dla zrozumienia głównej sagi. Bez nich wiele wątków będzie niejasnych." },
     { "question": "Czy Wiedźmin jest ukończony?", "answer": "Tak, główna saga jest ukończona. Sezon burz z 2013 roku to dodatkowa powieść osadzona między opowiadaniami, ale nie jest wymagana do zrozumienia głównej fabuły." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["czarna-kompania", "mroczna-wieza", "conan"]
 }

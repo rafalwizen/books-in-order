@@ -14,5 +14,5 @@
     { "question": "Czy to wampirzy horror czy thriller epidemiologiczny?", "answer": "Oba naraz. Fabuła toczy się jak śledztwo epidemiologiczne, ale źródłem zarazy jest starożytny wampir — krew, miasto i mechanika zarażania grają tu pierwsze skrzypce." },
     { "question": "Czym różni się serial od książek?", "answer": "Serial FX z lat 2014-2017 adaptuje te same trzy tomy w trzech sezonach, ale przerysowuje rolę epidemiologa Ephraima Goodweathera i dopisuje własne zakończenie. Książki są krótsze, mroczniejsze i bardziej spójne." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["kroniki-wampirow"]
 }

@@ -29,5 +29,5 @@
     { "question": "Co to jest Cykl Arfisty?", "answer": "To trzy tomy o Menolly (Dragonsong, Dragonsinger, Dragondrums) osadzone równolegle do wydarzeń Dragonquest i The White Dragon. Wpisujemy je w kolejności wydania, ale tworzą własną, zamkniętą historię." },
     { "question": "Czy czytać książki Todda McCaffreya?", "answer": "Od 2003 roku sagę kontynuował syn autorki, Todd, a później Gigi McCaffrey. Nasza lista obejmuje klasykę spisaną wyłącznie przez Anne McCaffrey — późniejsze tomy czytaj po jej ukończeniu." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["temeraire", "cykl-dziedzictwa"]
 }

@@ -20,5 +20,5 @@
     { "question": "Czym różni się ta seria od innych smoczych cykli?", "answer": "To fantasy historyczne: świat różni się od naszego tylko tym, że smoki istnieją i służą w armiach. Novik prowadzi bohaterów przez Chiny, Afrykę i Amerykę, trzymając się realnych wydarzeń lat 1805-1815." },
     { "question": "Czy seria jest zakończona?", "answer": "Tak, dziewiąty tom League of Dragons zamyka całą historię w 2016 roku. Novik napisała potem osobne powieści — Uprooted i Spinning Silver — niezwiązane z tym światem." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["hornblower", "jezdzcy-smokow-z-pern"]
 }

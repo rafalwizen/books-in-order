@@ -31,5 +31,5 @@
     { "question": "Ile książek liczy seria Dziennik cwaniaczka?", "answer": "Jeff Kinney wydaje nowe tomy regularnie, zwykle jeden rocznie — obecnie 19 książek. Seria jest jedną z najlepiej sprzedających się serii książek dla dzieci na świecie." },
     { "question": "Czy Dziennik cwaniaczka nadaje się dla młodszych czytelników?", "answer": "Tak, to seria dla czytelników od ok. 8 roku życia. Krótkie rozdziały, rysunki i humor sprawiają, że książki świetnie sprawdzają się jako pierwsze samodzielne lektury." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["geronimo-stilton", "dork-diaries", "wielki-nate"]
 }

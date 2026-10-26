@@ -19,5 +19,5 @@
     { "question": "Czy The Kill Order i The Fever Code są ważne?", "answer": "To prequele: The Kill Order opowiada o wybuchu zarazy, a The Fever Code o dzieciństwie Thomasa i Teresy. Nie są konieczne do zrozumienia trylogii, ale odpowiadają na większość pytań o WCKD i labirynt." },
     { "question": "Czy istnieje trzeci tom The Maze Cutter?", "answer": "Finałowy, trzeci tom trylogii Maze Cutter został zapowiedziany przez wydawcę, ale jego premiera była kilkukrotnie przesuwana. Gdy się ukaże, dodamy go do listy." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["maximum-ride", "igrzyska-smierci", "unwind"]
 }

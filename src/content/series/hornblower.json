@@ -22,5 +22,5 @@
     { "question": "Czy Hornblower and the Crisis jest ostatnim tomem?", "answer": "To pośmiertnie wydany, niedokończony rękopis z 1967 roku, uzupełniony krótką nowelą. Traktujemy go jako dodatek — właściwa saga to dziesięć ukończonych powieści." },
     { "question": "Co czytać po Hornblowerze?", "answer": "Naturalnym następcą jest cykl o Aubreyu i Maturinie Patricka O'Briana — młodszy o pokolenie i słynny z głębszej psychologii postaci. Obie sagi razem tworzą kanon powieści morskich." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["sharpe", "aubrey-maturin", "flashman", "temeraire"]
 }

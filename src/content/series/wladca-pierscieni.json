@@ -17,5 +17,5 @@
     { "question": "Ile książek liczy seria Władca Pierścieni?", "answer": "Główna trylogia Władcy Pierścieni składa się z 3 tomów: Drużyna Pierścienia, Dwie Wieże i Powrót Króla. Razem z Hobbitem jako prequelem to 4 książki." },
     { "question": "Czy warto czytać Silmarillion?", "answer": "Silmarillion to księga mitów i legend Śródziemia. Należy ją czytać po trylogii, jeśli chcesz poznać pełną historię świata Tolkiena. Jest trudniejsza w czytaniu niż Władca Pierścieni." }
   ],
-  "relatedSeries": ["ziemiomorze"]
+  "relatedSeries": ["kolo-czasu", "shannara", "opowiesci-z-narnii", "ziemiomorze", "cykl-dziedzictwa"]
 }

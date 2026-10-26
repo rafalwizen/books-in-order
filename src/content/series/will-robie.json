@@ -15,5 +15,5 @@
     { "question": "W jakiej kolejności czytać o Willu Robiem?", "answer": "Od The Innocent (2012) w kolejności wydania. Robie i nastolatka Julie, których losy splatają się w pierwszym tomie, tworzą duet na cały cykl — kolejność jest więc istotna." },
     { "question": "Ile tomów ma seria Will Robie?", "answer": "Pięć powieści wydanych w latach 2012-2017. Na razie nie zapowiedziano kolejnych — Baldacci rozwija obecnie inne cykle, m.in. o Amosie Deckerze i Atlee Pine." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["amos-decker", "jack-reacher", "mitch-rapp"]
 }

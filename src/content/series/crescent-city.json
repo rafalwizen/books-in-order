@@ -14,5 +14,5 @@
     { "question": "Ile tomów będzie miała seria?", "answer": "Sarah J. Maas zapowiada, że Crescent City będzie trylogią główną z możliwymi spin-offami. Trzy wydane tomy tworzą zamkniętą historię Bryce i Hunta." },
     { "question": "Czy trzeba znać Tron ze szkła i Sad cierni i róż?", "answer": "Nie, Crescent City to samodzielna seria. Fani pozostałych światów Maas wyłapią jednak easter eggi — zwłaszcza w Domu Płomienia i Cienia." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["tron-ze-szkla", "sad-cierni-i-roz"]
 }

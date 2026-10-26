@@ -30,5 +30,5 @@
     { "question": "Czy Darkstalker i Dragonslayer są obowiązkowe?", "answer": "Nie — to powieści z serii Legends, samodzielne historie rozszerzające świat. Darkstalker działa jak prequel drugiego łuku, a Dragonslayer pokazuje te same wydarzenia z ludzkiej perspektywy." },
     { "question": "Ile łuków będzie miała seria?", "answer": "Po zamknięciu trzeciego łuku w 2022 roku czwarty rozpoczął się tomem The Hybrid Prince (2026). Zapowiedziano, że czwarty i piąty łuk staną się finałem sagi." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["wojownicy", "cykl-dziedzictwa", "straznicy-gahool"]
 }

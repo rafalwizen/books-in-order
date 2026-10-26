@@ -32,5 +32,5 @@
     { "question": "Od czego zacząć, jeśli nie całością?", "answer": "Najczęściej poleca się Germinal albo Nana — to najsłynniejsze powieści cyklu i w pełni samodzielne. Kolejność ma znaczenie dopiero przy wątkach rodzinnych, które domykają się w Klęsce i Doktorze Pascalu." },
     { "question": "Dlaczego część tytułów jest po francusku?", "answer": "Niektóre powieści nie doczekały się jednej ustalonej polskiej wersji tytułu, więc podajemy oryginał. Kanoniczne polskie tytuły — jak Fortuna Rougonów czy Bestia ludzka — zostawiamy w polskiej formie." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["komedia-ludzka", "saga-forsytow"]
 }

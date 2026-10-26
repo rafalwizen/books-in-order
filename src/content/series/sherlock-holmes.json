@@ -20,5 +20,5 @@
     { "question": "Ile opowiadań napisał Conan Doyle?", "answer": "Kanon to 4 powieści i 56 opowiadań. Na naszej liście opowiadania ujęliśmy w pięć zbiorów książkowych, tak jak ukazywały się w druku." },
     { "question": "Od czego zacząć, jeśli nie chcę czytać wszystkiego?", "answer": "Od zbioru Przygody Sherlocka Holmesa — to esencja kanonu. Następnie Pies Baskerville'ów jako najsłynniejsza powieść, a potem resztę w kolejności wydania." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["herkules-poirot", "ojciec-brown"]
 }

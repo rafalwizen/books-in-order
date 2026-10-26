@@ -32,5 +32,5 @@
     { "question": "Kto naprawdę napisał Braci Hardy?", "answer": "Franklin W. Dixon to pseudonim wydawniczy — książki pisał zespół autorów, z których najważniejszy był Leslie McFarlane, autor większości wczesnych tomów uważanych za najlepsze." },
     { "question": "Dlaczego lista kończy się na tomie 20?", "answer": "Seria liczy łącznie 190 tomów, wydanych od 1927 roku po dziś dzień. Prezentujemy klasyczne, oryginalne wydania pierwszej dwudziestki — złotą erę serii w klimacie lat 20. i 30." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["nancy-drew", "39-clues"]
 }

@@ -24,5 +24,5 @@
     { "question": "Kiedy czytać Port of Shadows i nowsze tomy?", "answer": "Port of Shadows (2018) wraca do wydarzeń między pierwszym a drugim tomem, a otwarta w 2025 roku nowa seria (Lies Weeping) kontynuuje losy Kompanii. To pozycje dla fanów — wystarczy znać główną dziewiątkę." },
     { "question": "Dlaczego seria jest uważana za wzór dark fantasy?", "answer": "Cook pokazuje wojnę oczami zwykłych najemników: brud, zmęczenie i morale ważą więcej niż magia, a Kapitan i Kot Laleczka to wciąż ten sam oddział mimo upływu lat. To wzorzec dla całego podgatunku mrocznych kronik najemnych rot." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["malazanska-ksiega-poleglych", "pierwsze-prawo", "wiedzmin"]
 }

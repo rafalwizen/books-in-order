@@ -17,5 +17,5 @@
     { "question": "Ile opowiadań napisał Chesterton?", "answer": "Pięć zbiorów zawiera łącznie 51 opowiadań. Po śmierci autora dołączano do wydań jeszcze kilka tekstów rozproszonych, ale kanon to właśnie te pięć tomów." },
     { "question": "Czym ojciec Brown różni się od Sherlocka Holmesa?", "answer": "Zamiast laboratoryjnej dedukcji opartej na fizycznych śladach ojciec Brown używa znajomości ludzkiej natury i empatii — rozumie zbrodniarza, bo zna mroczne zakątki własnej duszy. To odwrotność metody Holmesa." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["sherlock-holmes", "nero-wolfe"]
 }

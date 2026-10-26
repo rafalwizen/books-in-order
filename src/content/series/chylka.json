@@ -31,5 +31,5 @@
     { "question": "Ile książek liczy seria z Joanną Chyłką?", "answer": "Obecnie 20 powieści wydanych w latach 2015–2026 w Wydawnictwie Czwarta Strona. Remigiusz Mróz wydaje nowe tomy regularnie — zwykle dwa rocznie." },
     { "question": "Czy każda sprawa Chyłki to osobna historia?", "answer": "Tak — każdy tom opisuje odrębną sprawę karną i można ją śledzić niezależnie. Jednak wątki osobiste bohaterów, zwłaszcza relacja Chyłki z aplikantem Kornelem, rozwijają się przez całą serię, dlatego kolejność wydania jest zalecana." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["harry-hole", "millennium"]
 }

@@ -25,5 +25,5 @@
     { "question": "Czy Dog Man to seria dla dzieci?", "answer": "Tak, to komiksy dla czytelników ok. 7-10 lat, idealne na samodzielne czytanie. Dorosłym kojarzą się z parodiami klasyki — od Opowieści o dwóch miastach po Dwadzieścia tysięcy mil podmorskiej żeglugi." },
     { "question": "Co nowego w serii Dog Man?", "answer": "W 2025 roku ukazał się tom Big Jim Believes, a na listopad 2026 zapowiedziano Dog Man: A Sprinkle in Time. Seria wciąż rośnie — po premierze dodamy nowe tomy." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["kapitan-majtas", "wielki-nate"]
 }

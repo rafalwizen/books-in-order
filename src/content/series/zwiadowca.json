@@ -32,5 +32,5 @@
     { "question": "Czym różni się Royal Ranger?", "answer": "Po The Lost Stories Flanagan przeniosi ciężar na Maddie, pierwszą dziewczynę w korpusie. Kontynuacja zaczyna się od tomu A New Beginning (2013) i liczy siedem części do 2024 roku — traktujemy ją jako bezpośrednią następczynię i podajemy po głównej serii." },
     { "question": "Czy czytać prequele The Early Years?", "answer": "Warto, ale dopiero po głównej serii. The Tournament at Gorlan i The Battle of Hackham Heath opowiadają o młodym Halcie i zwycięstwie nad Morgarathem — czytane wcześniej zdradzałyby zwroty akcji z późniejszych tomów." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["redwall", "kroniki-prydainu", "alex-rider"]
 }

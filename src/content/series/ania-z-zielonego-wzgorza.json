@@ -23,5 +23,5 @@
     { "question": "Dlaczego Ania ze Świerkowego Zagonu jest dopiero dziewiąta?", "answer": "Bo tak ukazała się drukiem — w 1936 roku, choć fabularnie dzieje się między Anią z wyspy a Anne's House of Dreams. W kolejności chronologicznej byłaby czwarta, ale my stosujemy kolejność wydania." },
     { "question": "Czy Kroniki Avonlea trzeba czytać?", "answer": "To zbiory opowiadań osadzonych w Avonlea, w których Ania pojawia się epizodycznie. Można je czytać niezależnie od powieści — na liście umieszczamy je w miejscach wydania." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["muminki", "malory-towers"]
 }

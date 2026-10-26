@@ -17,5 +17,5 @@
     { "question": "Czy seria Sąd cierni i róż jest ukończona?", "answer": "Nie, seria jest wciąż kontynuowana. Główny wątek trylogii jest domknięty w trzecim tomie, ale Sarah J. Maas zapowiedziała kolejne książki rozgrywające się w tym świecie." },
     { "question": "Czy Sąd mrozu i gwiazd jest pełnoprawnym tomem serii?", "answer": "To krótsza opowieść (nowela) łącząca trzeci tom z Sądem srebrnych płomieni. Warto ją przeczytać w kolejności wydania, bo wprowadza wydarzenia bezpośrednio poprzedzające piątą część." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["tron-ze-szkla", "crescent-city", "czwarte-skrzydlo"]
 }

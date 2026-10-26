@@ -22,5 +22,5 @@
     { "question": "Kto napisał The Hunters?", "answer": "Po Midnight wydawca zatrudnił anonimowego autora do kontynuacji — trylogia The Hunters i późniejsza The Salvation powstały już bez L.J. Smith. Formalnie należą do kanonu serii." },
     { "question": "Co ze Stefan's Diaries?", "answer": "To sześć tomów poświęconych przeszłości Stefana i Damona, pisanych przez płatnych autorów na fali popularności serialu. Stanowią osobny, luźno powiązany cykl." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["kroniki-wampirow", "zmierzch"]
 }

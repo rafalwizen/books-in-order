@@ -28,5 +28,5 @@
     { "question": "Dla kogo jest ta seria?", "answer": "Formalnie to literatura young adult, ale humor, tempo i mroczne tony trafiają równie dobrze do dorosłych. To jedna z najzabawniejszych serii urban fantasy na rynku." },
     { "question": "Czy serię da się jeszcze czytać po The Dying of the Light?", "answer": "Tak — tom dziewiąty zamyka pierwszą fazę, ale Landy wrócił w 2017 roku z Resurrection i seria trwa do dziś. Nie przerywaj lektury na połowie przygód Valkyrii." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["akta-dresdena", "mroczne-materie"]
 }

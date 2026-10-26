@@ -24,5 +24,5 @@
     { "question": "Od czego zacząć, jeśli nie całą serią?", "answer": "Klasyczna droga to Ojciec Goriot — tam po raz pierwszy spotykamy Rastignaca i poznajemy mechanizm paryskich ambicji. Alternatywnie Eugenia Grandet jako najkrótsze i najbardziej samodzielne wejście w świat Balzaka." },
     { "question": "Czym jest Stracone złudzenia w tym zestawieniu?", "answer": "To kilkutomowa epopeja uznawana za szczyt cyklu — Balzac pisał ją w latach 1837-1843, a tabela podaje rok pierwszej części. Bez niej i Blasków i nędzy kurtyzan wątek Luciena de Rubempré traci połowę smaku, dlatego stoją obok siebie." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["kingsbridge", "rougon-macquart", "saga-forsytow"]
 }

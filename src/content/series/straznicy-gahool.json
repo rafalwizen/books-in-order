@@ -30,5 +30,5 @@
     { "question": "Czym jest The Rise of a Legend?", "answer": "Prequel z 2013 roku o młodości Ezylryba, jednego z najstarszych strażników. Czyta się go po głównej piętnastce — zdradza korzenie wątków, które w serii właściwej są tylko wspominane." },
     { "question": "Czy są inne serie z tego świata?", "answer": "Tak — spin-offy Wolves of the Beyond i Bears of the Ice rozgrywają się w tym samym świecie, każdy z własną numeracją zaczynającą się od pierwszego tomu. Nie są potrzebne do zrozumienia głównej sagi." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["skrzydla-ognia", "wojownicy"]
 }

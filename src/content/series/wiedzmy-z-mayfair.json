@@ -15,5 +15,5 @@
     { "question": "Czy trylogia łączy się z Kronikami wampirów?", "answer": "Tak — tomy Merrick, Folwark Blackwood i Blood Canticle z Kronik wampirów splatają oba światy. Czytaj je po zakończeniu obu trylogii." },
     { "question": "Czy istnieje serialowa adaptacja?", "answer": "Tak, AMC wyprodukowało serial Mayfair Witches (od 2023) z Alexandrą Daddario w roli Rowan. Serial luźno opiera się na trylogii i zmienia część wątków." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["kroniki-wampirow"]
 }

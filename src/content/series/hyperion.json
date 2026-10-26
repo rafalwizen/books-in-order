@@ -17,5 +17,5 @@
     { "question": "Czy Hyperion ma otwarte zakończenie?", "answer": "Tak — pierwszy tom kończy się w najlepszym momencie: siedmiu pielgrzymów dopiero dociera do grobowców czasu i nic nie zostaje rozstrzygnięte. Pełne domknięcie przynosi dopiero Upadek Hyperiona." },
     { "question": "Co to jest Orphans of the Helix?", "answer": "Krótka nowela osadzona w świecie kantosów, opublikowana w antologii Far Horizons. To smaczek dla fanów — nie jest wymagana do zrozumienia czterech powieści." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["ekspansja", "kultura"]
 }

@@ -26,5 +26,5 @@
     { "question": "Czym są tomy od 1998 roku?", "answer": "Kontynuacja Jill Paton Walsh, dopisanej na podstawie notatek i szkiców Sayers. Thrones, Dominations to przeróbka jej niewydanego konspektu — czyta się je po oryginalnej jedenastce." },
     { "question": "Czy istnieją jeszcze opowiadania?", "answer": "Tak, Sayers napisała kilkanaście opowiadań o Wimseyu, zbieranych w tomach Lord Peter Views the Body, Hangman's Holiday czy In the Teeth of the Evidence. To dodatek dla fanów, nie warunek zrozumienia powieści." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["herkules-poirot", "nero-wolfe"]
 }

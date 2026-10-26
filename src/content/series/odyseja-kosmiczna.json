@@ -17,5 +17,5 @@
     { "question": "Czemu książka i film z 1968 roku różnią się szczegółami?", "answer": "Powstawały równolegle — Clarke pisał powieść na podstawie własnego opowiadania, a Kubrick filmował we współpracy z nim. Wersje książkowa i filmowa to równoległe wizje tej samej historii." },
     { "question": "Czy kolejne tomy są spójne?", "answer": "Clarke sam przyznawał, że każda kontynuacja unieważnia część ustaleń poprzedniej — radził traktować tomy jako warianty tej samej przyszłości. Czyta się je po kolei, ale nie trzeba śledzić ciągłości jak w sagach fabularnych." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["diuma", "problem-trzech-cial"]
 }

@@ -31,5 +31,5 @@
     { "question": "Kto naprawdę pisze tę serię?", "answer": "Autorką scenariuszy jest Elisabetta Dami, choć książki podpisane są imieniem bohatera. Seria powstała we Włoszech i doczekała się ponad stu tomów oraz spin-offów." },
     { "question": "Ile tomów ma Geronimo Stilton?", "answer": "Ponad sto w głównej serii, a poza nią cykle specjalne, biografie i książki o siostrzeńcu. Prezentujemy klasyczną pierwszą dwudziestkę — solidne wejście w świat Stiltona." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["mis-paddington", "dziennik-cwaniaczka", "magic-tree-house"]
 }

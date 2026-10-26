@@ -18,5 +18,5 @@
     { "question": "Kiedy czytać The Fork, the Witch and the Worm?", "answer": "To zbiór trzech opowiadań osadzonych po finale Dziedzictwa, z Eragonem w nowej roli. Czytaj po tomie czwartym — ewentualnie tuż przed Murtaghiem." },
     { "question": "Ile lat miał Paolini, gdy napisał Eragona?", "answer": "Piętnaście, gdy zaczynał, i dziewiętnaście, gdy książkę wydano rodzinnym wydawnictwem — zanim prawa kupiło Knopf i zrobiło z Eragona światowy bestseller." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["wladca-pierscieni", "skrzydla-ognia", "jezdzcy-smokow-z-pern"]
 }

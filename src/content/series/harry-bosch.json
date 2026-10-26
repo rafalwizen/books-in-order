@@ -37,5 +37,5 @@
     { "question": "Które tomy to współpraca z Renée Ballard?", "answer": "Od tomu Dark Sacred Night (2018) seria współdzieli bohaterów z cyklem Ballard: Dark Sacred Night, The Night Fire, The Dark Hours, Desert Star, The Waiting i The Hollow to śledztwa Boscha i Ballard razem." },
     { "question": "Czy czytać też Mickey'ego Hallera?", "answer": "Warto — adwokat Lincoln Lawyer pojawia się w życiu Boscha kilkukrotnie, a tom The Crossing opiera się właśnie na ich współpracy. To jednak osobny cykl, który można czytać niezależnie." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["mickey-haller", "cormoran-strike", "jack-reacher"]
 }

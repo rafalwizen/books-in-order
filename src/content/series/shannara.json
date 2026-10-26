@@ -36,5 +36,5 @@
     { "question": "A czytać chronologicznie?", "answer": "Chronologia zaczyna się od trylogii Słowo i Pustka, osadzonej w naszym świecie, a następnie Genesis of Shannara i Legends of Shannara spinają oba światy. To dodatkowych osiem książek — czytelnikom zaczynającym od Shannary wystarczy główna linia." },
     { "question": "Czym są First King of Shannara i Galaphile?", "answer": "Prequele: First King (1996) opowiada o wojnie z Broną sprzed wydarzeń Miecza, a Galaphile (2025) sięga jeszcze dalej, do założycieli zakonu druidów. Oba czyta się po głównej linii, jako dopełnienie." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["kolo-czasu", "belgariada", "wladca-pierscieni"]
 }

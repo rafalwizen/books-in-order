@@ -19,5 +19,5 @@
     { "question": "Kto napisał naprawdę te książki?", "answer": "Robert Galbraith to pseudonim J.K. Rowling. Autorka ukrywała się pod nim przez dwa lata, aż do ujawnienia w 2014 roku — od tego czasu seria ukazuje się nadal jako dzieło Galbraitha." },
     { "question": "Czy seria jest ukończona?", "answer": "Nie — po The Hallmarked Man (2025) zapowiedziano kolejne śledztwo (Sleep Tight, Evangeline). Rowling zapowiada, że seria liczyć ma więcej niż dziesięć tomów." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["harry-bosch", "mickey-haller"]
 }

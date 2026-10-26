@@ -33,5 +33,5 @@
     { "question": "Co to za tom The Final Unfinished Voyage?", "answer": "Po śmierci O'Briana w 2000 roku został rękopis niedokończonego 21. tomu, wydany pośmiertnie w 2004 roku. To fragment — traktujemy go jako dodatek dla wiernych czytelników." },
     { "question": "Czy cykl jest porównywalny z Hornblowerem?", "answer": "Tak — O'Brian świadomie mierzył się z cyklem C.S. Forestera o Hornblowerze, ale poszedł głębiej w relacje bohaterów i realizm epoki. Fani marynistyki zwykle znają i cenią oba cykle." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["sharpe", "hornblower"]
 }

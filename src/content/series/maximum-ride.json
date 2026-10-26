@@ -22,5 +22,5 @@
     { "question": "Czym są Hawk i City of the Dead?", "answer": "Spin-off Maximum Ride: Next Generation — główną bohaterką jest Hawk, córka Max. Seria liczy dwa tomy i czyta się ją po zakończeniu oryginalnej dziewiątki." },
     { "question": "Czy Patterson napisał to sam?", "answer": "Nie do końca — Maximum Ride powstawała podobnie jak większość serii Pattersona, we współpracy z innymi autorami, a pierwsze trzy tomy są luźno oparte na jego starszych książkach dla dorosłych: When the Wind Blows i The Lake House." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["alex-cross", "wiezien-labiryntu"]
 }

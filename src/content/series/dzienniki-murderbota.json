@@ -20,5 +20,5 @@
     { "question": "Czym różnią się nowele od powieści w tej serii?", "answer": "Cztery pierwsze tomy oraz Fugitive Telemetry to krótkie formy (ok. 150 stron), a Network Effect, System Collapse i Platform Decay to pełnowymiarowe powieści. Wszystkie tworzą jedną ciągłą opowieść o tym samym bohaterze." },
     { "question": "Dlaczego bohater nazywa się Murderbot?", "answer": "To autoprzydomek jednostki ochroniarskiej SecUnit, która potajemnie zhakowała swój moduł kontrolujący i uzyskała wolną wolę. Woli oglądać seriale sci-fi niż rozmawiać z ludźmi — i właśnie ten kontrast napędza humor całej serii." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["kultura", "sprawl", "locked-tomb"]
 }

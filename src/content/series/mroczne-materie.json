@@ -18,5 +18,5 @@
     { "question": "Co czytać po zakończeniu trylogii?", "answer": "Krótkie nowele Lyra's Oxford, Once Upon a Time in the North i Serpentine wracają do bohaterów po finale. Pełną prequelową trylogię Księga pyłu wydano jako osobny cykl." },
     { "question": "Dlaczego pierwszy tom ma dwa tytuły?", "answer": "W Wielkiej Brytanii ukazał się jako Northern Lights, a w USA jako The Golden Compass. Polska edycja tłumaczy tytuł oryginalny — Zorza polarna." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["opowiesci-z-narnii", "harry-potter", "skulduggery-pleasant"]
 }

@@ -16,5 +16,5 @@
     { "question": "Czym jest UnBound?", "answer": "Zbiór opowiadań z 2015 roku, który domyka losy bohaterów po finale UnDivided i dodaje historie poboczne. Czyta się go na samym końcu." },
     { "question": "Czy to seria dla dorosłych?", "answer": "Formalnie young adult, ale tematy — traktowanie ciał jako towaru, polityczne kompromisy w sprawie życia — bywają cięższe niż w wielu powieściach dla dorosłych." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["igrzyska-smierci", "wiezien-labiryntu"]
 }

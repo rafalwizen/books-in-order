@@ -21,5 +21,5 @@
     { "question": "Kiedy czytać Wiatr przez dziurę od klucza?", "answer": "To tom 4,5 — fabularnie dzieje się między Czarnoksiężnikiem i kryształem a Wilkami z Calla, ale wyszedł dopiero w 2012 roku. Najlepiej przeczytać go po ukończeniu głównej serii." },
     { "question": "Czy Małe siostry Elurii są obowiązkowe?", "answer": "To dłuższa nowela o Rolandzie sprzed wydarzeń z pierwszego tomu, wydana w antologii Legendy. Wzbogaca wizerunek rewolwerowca, ale nie jest konieczna do zrozumienia cyklu." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["wiedzmin", "kroniki-amberu"]
 }

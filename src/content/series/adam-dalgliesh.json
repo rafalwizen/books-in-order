@@ -27,5 +27,5 @@
     { "question": "Czym są dwa tomy powiązane?", "answer": "An Unsuitable Job for a Woman i The Skull Beneath the Skin to dwie powieści o detektyw Cordelii Gray — jedynej innej bohaterce cyklu kryminalnego James. Dalgliesh pojawia się w nich tylko epizodycznie." },
     { "question": "Które tomy uchodzą za najlepsze?", "answer": "Najczęściej wymienia się A Taste for Death, Devices and Desires i finałową The Private Patient — to tam James najpełniej łączy kryminał z powieścią psychologiczną." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["inspektor-morse", "kay-scarpetta"]
 }

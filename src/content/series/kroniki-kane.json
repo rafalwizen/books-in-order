@@ -15,5 +15,5 @@
     { "question": "Czy seria łączy się z Percym Jacksonem?", "answer": "Dzieli z nim współczesny świat, ale bogowie egipscy działają w osobnym układzie — serię można czytać zupełnie niezależnie. Riordan połączył oba światy tylko w krótkich opowiadaniach z tomu Demigods and Magicians." },
     { "question": "Co czytać po zakończeniu trylogii?", "answer": "Zbiór Brooklyn House Magician's Manual oraz wspomniane Demigods and Magicians — trzy opowiadania crossoverowe z Percym i Annabeth. To już jednak dodatki, nie pełnoprawna kontynuacja." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["percy-jackson", "bohaterowie-olimpu", "proby-apolona"]
 }

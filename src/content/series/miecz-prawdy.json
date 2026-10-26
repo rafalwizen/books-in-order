@@ -29,5 +29,5 @@
     { "question": "Co to są Debt of Bones i The First Confessor?", "answer": "To prequele: Debt of Bones opowiada o Zeddicusie Zoranderze sprzed głównej serii, a The First Confessor o legendzie Magdy Searus sprzed tysięcy lat. Oba czytaj po Confessorze." },
     { "question": "Czy seria Legacy of the Sword to kontynuacja?", "answer": "Nie — to spin-off o dzieciach Richarda i Kahlan, pisany przez Terry'ego Goodkinda we współpracy z Brianem Rubinem. Należy czytać po zakończeniu obu głównych cykli." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["kolo-czasu"]
 }

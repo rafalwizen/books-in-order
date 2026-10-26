@@ -48,5 +48,5 @@
     { "question": "Ile powieści o Poirocie napisała Agatha Christie?", "answer": "Christie napisała 33 powieści i dwa zbiory opowiadań z Herkulesem Poirotem oraz zbiory krótszych tekstów. Na naszej liście znajdziesz komplet w kolejności wydania, od 1920 do 1975 roku." },
     { "question": "Dlaczego Kurtyna jest ostatnia, choć powstała wcześniej?", "answer": "Kurtyna, pożegnalną sprawę Poirota, Christie napisała podczas II wojny światowej i poleciła opublikować dopiero pod koniec życia. Wyszła w 1975 roku i zamyka serię — czytaj ją zawsze na końcu." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["miss-marple", "sherlock-holmes", "lord-peter-wimsey"]
 }

@@ -16,5 +16,5 @@
     { "question": "Czym jest Burning Chrome?", "answer": "Zbiór opowiadań Gibsona z 1986 roku, w tym Johnny Mnemonic i tytułowe Burning Chrome. To właśnie tam narodził się świat trylogii — czyta się go po Neuromancerze albo przed nim." },
     { "question": "Czy to najlepsze Gibson na start?", "answer": "Neuromancer to klasyk, ale trudny w odbiorze — Gibson zaczyna in medias res i niczego nie tłumaczy. Jeśli klimat okaże się zbyt gęsty, można zacząć od Graf Zero, który bywa nazywany najbardziej przystępnym tomem trylogii." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["dzienniki-murderbota"]
 }

@@ -33,5 +33,5 @@
     { "question": "Czy kolejność chronologiczna jest lepsza?", "answer": "Niektóre tomy to prequele — np. Martin the Warrior opowiada o bohaterze, którego legendę poznasz w Mossflowerze. Kolejność wydania zachowuje jednak napięcie odkrywania historii świata i jest zalecana przez wydawcę." },
     { "question": "Czy seria jest ukończona?", "answer": "Tak — Brian Jacques zmarł w 2011 roku, a The Rogue Crew wydano pośmiertnie i zamyka 22-powieściową sagę." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["zwiadowca", "kroniki-prydainu"]
 }

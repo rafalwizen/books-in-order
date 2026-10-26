@@ -17,5 +17,5 @@
     { "question": "Ile książek będzie w serii Pieśń Lodu i Ognia?", "answer": "Planowanych jest 7 książek. Obecnie wydanych jest 5: Gra o Tron, Starcie królów, Nawałnica mieczy, Uczta dla wron i Taniec ze smokami." },
     { "question": "Czy Uczta dla wron i Taniec ze smokami dzieją się równocześnie?", "answer": "Tak, częściowo. Uczta dla wron i Taniec ze smokami obejmują ten sam okres czasu, ale skupiają się na różnych postaciach i lokalizacjach." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["pierwsze-prawo", "malazanska-ksiega-poleglych"]
 }

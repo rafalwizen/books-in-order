@@ -19,5 +19,5 @@
     { "question": "Czym są tomy od A do Z i in the Kitchen?", "answer": "To książki towarzyszące: Mary Poppins from A to Z to alfabetyczny przewodnik po świecie serii, a Mary Poppins in the Kitchen powstał jako książka kucharska z przepisami pani Cook. Czyta się je okazjonalnie, po głównych tomach." },
     { "question": "Czy książki są jak film Disneya?", "answer": "Tylko z grubsza. Film z 1964 roku czerpie głównie z pierwszego tomu, a książkowa Mary Poppins jest bardziej wyniosła i tajemnicza niż filmowa Julie Andrews. Travers opierała się przy tym na mitologii celtyckiej, co w filmie ledwie widać." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["kraina-oz", "muminki"]
 }

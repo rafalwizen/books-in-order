@@ -32,5 +32,5 @@
     { "question": "Czym różni się ta lista od innych zestawień Conana?", "answer": "Zawiera wyłącznie oryginalne, ukończone historie Roberta E. Howarda. Pomijamy powieści dokończone lub napisane przez innych autorów (de Camp, Carter, Jordan) oraz fragmenty — to one powodują rozbieżności między zestawieniami." },
     { "question": "Dlaczego cztery opowiadania są oznaczone jako powiązane?", "answer": "The God in the Bowl, The Frost-Giant's Daughter, The Black Stranger i The Vale of Lost Women ukazały się pośmiertnie, wiele lat po śmierci Howarda (1936). To autentyczne teksty autora, ale nie zdążyły trafić do prasy za jego życia." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["wiedzmin"]
 }

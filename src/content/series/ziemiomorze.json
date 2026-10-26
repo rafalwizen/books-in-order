@@ -17,5 +17,5 @@
     { "question": "Czy trzeba czytać Opowieści z Ziemiomorza?", "answer": "Opowieści z Ziemiomorza to zbiór opowiadań, które wzbogacają świat cyklu. Nie są obowiązkowe dla głównej fabuły, ale pomagają zrozumieć tło przed lekturą Na innych wiatrach." },
     { "question": "Ile książek liczy cykl Ziemiomorze?", "answer": "Cykl składa się z 4 głównych powieści, 1 tomu opowiadań i 1 powieści kończącej, co daje łącznie 6 książek." }
   ],
-  "relatedSeries": ["wladca-pierscieni"]
+  "relatedSeries": ["wladca-pierscieni", "kroniki-amberu"]
 }

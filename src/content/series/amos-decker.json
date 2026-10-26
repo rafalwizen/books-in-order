@@ -17,5 +17,5 @@
     { "question": "W jakiej kolejności czytać o Amosie Deckerze?", "answer": "Od Memory Man (2015) i dalej w kolejności wydania. Po wydarzeniach z pierwszego tomu Decker wraca do pracy w policji federalnej, a wątki osobiste rozwijają się z tomu na tom." },
     { "question": "Co wyróżnia Amosa Deckera?", "answer": "Po urazie głowy w karierze futbolisty Decker zyskał doskonałą pamięć — perfekcyjne wspomnienie, które bywa przekleństwem, bo na zawsze zapamiętał też nagrobek swojej rodziny. Ta cecha napędza fabułę całej serii." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["will-robie", "alex-cross"]
 }

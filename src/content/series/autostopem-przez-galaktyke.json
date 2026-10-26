@@ -18,5 +18,5 @@
     { "question": "Dlaczego trylogia ma pięć części?", "answer": "Douglas Adams żartobliwie nazywał ją trylogią w pięciu częściach — po sukcesie pierwszych książek dopisywał kolejne. Po jego śmierci Eoin Colfer dodał oficjalny szósty tom, And Another Thing... (2009)." },
     { "question": "Czy And Another Thing... trzeba czytać?", "answer": "To opcjonalna kontynuacja napisana przez Eoina Colfera za zgodą rodziny Adamsa. Pierwsze pięć książek tworzy zamkniętą całość autorstwa samego Adamsa." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["swiat-dysku", "dungeon-crawler-carl"]
 }

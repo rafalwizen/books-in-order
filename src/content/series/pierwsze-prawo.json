@@ -23,5 +23,5 @@
     { "question": "Czy Best Served Cold, Bohaterowie i Czerwony kraj są obowiązkowe?", "answer": "To samodzielne powieści — każdą można przeczytać po trylogii. Wprowadzają jednak wątki i postacie, które wracają w Epoce Szaleństwa, więc kolejność wydania to najlepszy plan." },
     { "question": "Kto jest bohaterem Epoki Szaleństwa?", "answer": "Nowe pokolenie: przemysłowa Savine dan Glokta, książę Orso, Rikke z Północy i młody Leo dan Brock. Akcja toczy się na tle rewolucji przemysłowej i krwawej rewolty ludu. Bohaterowie pierwszej trylogii, jak Glokta i Logen, pojawiają się w tle." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["gra-o-tron", "malazanska-ksiega-poleglych", "czarna-kompania"]
 }

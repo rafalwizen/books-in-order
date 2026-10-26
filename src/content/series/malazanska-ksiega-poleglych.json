@@ -22,5 +22,5 @@
     { "question": "Czy Malazańska Księga Poległych jest trudna na start?", "answer": "Tak, Ogrody Księżyca uchodzą za jeden z najtrudniejszych początków w fantasy — akcja toczy się na kilku kontynentach i bez wyjaśniania podstaw świata. To zamierzone; wytrwaj, a od trzeciego tomu historia zaczyna się domykać." },
     { "question": "Czy saga jest ukończona?", "answer": "Tak, główna dekada tomów została zamknięta w 2011 roku Okaleczonym bogiem. Świat Malazan kontynuują side-stories autorstwa Iana Camerona Esslemonta (współtwórcy świata) oraz dalsze cykle samego Eriksona." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["gra-o-tron", "czarna-kompania", "pierwsze-prawo"]
 }

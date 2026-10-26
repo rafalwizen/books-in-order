@@ -54,5 +54,5 @@
     { "question": "Ile łuków ma seria Wojownicy?", "answer": "Do tej pory ukazało się dziewięć łuków po sześć tomów. Nasza lista obejmuje pierwszych siedem (do 2021 roku); kolejne łuki — A Starless Clan i Changing Skies — są wciąż wydawane i stopniowo tłumaczone na polski." },
     { "question": "Czy czytać superedycje i mangi?", "answer": "To pozycje dodatkowe: superedycje (np. Firestar's Quest) to dłuższe samodzielne historie pojedynczych bohaterów, a komiksy opowiadają poboczne wątki. Do głównej fabuły wystarczą łuki główne z naszej listy." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["skrzydla-ognia", "straznicy-gahool"]
 }

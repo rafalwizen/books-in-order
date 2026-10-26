@@ -20,5 +20,5 @@
     { "question": "Czym jest Beyond the Spiderwick Chronicles?", "answer": "To trzytomowa kontynuacja z nowymi bohaterami — Nicholasem i Laurą Vargas — ale w tym samym świecie i z udziałem postaci z pierwotnej piątki. Czyta się ją po zakończeniu głównej serii." },
     { "question": "Czy znać książki przed serialem?", "answer": "Serial z 2024 roku mocno przerabia fabułę książek. Piątka DiTerlizziego i Black to zaledwie kilkaset stron — czyta się ją w jeden wieczór, więc warto zacząć od źródła." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["kroniki-prydainu", "kraina-oz"]
 }

@@ -74,5 +74,5 @@
     { "question": "Czym są nowele z numeracją x.5?", "answer": "Między powieściami ukazują się krótkie nowele w antologiach, np. Midnight in Death czy Ritual in Death. Nie są potrzebne do fabuły — podajemy same powieści, a nowele można traktować jako opcjonalny dodatek." },
     { "question": "Kim jest J.D. Robb?", "answer": "To pseudonim Nory Roberts, pod którym pisze ona futurystyczne kryminały. Akcja rozgrywa się w Nowym Jorku lat pięćdziesiątych XXI wieku, ale serię czyta się jak klasyczny cykl policyjny — technologia jest tylko tłem." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["kay-scarpetta", "millennium"]
 }

@@ -17,5 +17,5 @@
     { "question": "Czy Wieczór i poranek to prequel?", "answer": "Tak, akcja toczy się na przełomie tysiącleci, kilkaset lat przed Filarami Ziemi. Wydano go jednak czwartym tomem — czytanie w kolejności wydania nie psuje żadnych wątków." },
     { "question": "Czy trzeba znać historię Anglii?", "answer": "Nie — Ken Follett sam wprowadza czytelnika w realia każdej epoki, od wojny domowej o tron w XII wieku po wojny religijne XVI wieku. Książki czerpią z historii, ale są w pełni samowystarczalne." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["poldark", "komedia-ludzka"]
 }

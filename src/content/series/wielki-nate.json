@@ -19,5 +19,5 @@
     { "question": "Czym powieści różnią się od komiksów Big Nate?", "answer": "Peirce tworzył najpierw paski komiksowe, a powieści — z rozdziałami ilustrowanymi w tym samym stylu — mają pełną fabułę. Poza nimi istnieją tylko zeszyty z zabawami i gra." },
     { "question": "Dla kogo jest ta seria?", "answer": "Głównie dla czytelników od siedmiu do dwunastu lat — to lektura z gatunku dziennika niezdarów, jak Dziennik Nikki czy Diary of a Wimpy Kid." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["dog-man", "kapitan-majtas", "dziennik-cwaniaczka", "dork-diaries"]
 }

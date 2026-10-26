@@ -16,5 +16,5 @@
     { "question": "Ile książek liczy seria Igrzyska Śmierci?", "answer": "Główna trylogia składa się z 3 książek: Igrzyska Śmierci, W Pierścieniu Ognia i Kosogłos. Dodatkowo wydano dwie powieści prequele: Balladę ptaków i węży (2020) i Wschód słońca na żniwach (2025)." },
     { "question": "Czy trzeba czytać prequele?", "answer": "Nie, główna trylogia jest kompletną historią. Prequele (Ballada ptaków i węży, Wschód słońca na żniwach) można czytać po trylogii." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["harry-potter", "wiezien-labiryntu", "unwind"]
 }

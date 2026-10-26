@@ -37,5 +37,5 @@
     { "question": "Kto pisze serię po śmierci Flynna?", "answer": "Od tomu The Survivor (2015) serię kontynuuje Kyle Mills na podstawie notatek Flynna, a potem Don Bentley. Wydawca prowadzi serię dalej w duchu oryginału." },
     { "question": "Czym jest Term Limits?", "answer": "Debiut Flynna z 1997 roku, osadzony w tym samym świecie — Rapp w nim nie występuje, ale poznajemy część postaci z późniejszych tomów. To dobry dodatek po kilkunastu powieściach głównej serii." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["will-robie", "alex-cross", "jack-reacher"]
 }

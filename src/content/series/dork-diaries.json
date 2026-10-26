@@ -28,5 +28,5 @@
     { "question": "Dlaczego tytuły są po angielsku?", "answer": "Seria znana jest w Polsce głównie jako Dziennik Nikki, ale poszczególne tomy wychodziły u nas z własną numeracją, która nie pokrywa się z amerykańską. Podajemy oryginalne tytuły i kolejność wydania." },
     { "question": "Czy seria jest zakończona?", "answer": "Tom szesnasty z 2024 roku jest najnowszym. Russell pisze też spin-off o Maxie Crumblym — to niezależna seria, którą czyta się osobno." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["dziennik-cwaniaczka", "wielki-nate"]
 }

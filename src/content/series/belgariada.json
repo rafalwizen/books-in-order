@@ -24,5 +24,5 @@
     { "question": "Czym jest Malloreon?", "answer": "Bezpośrednia pięciotomowa kontynuacja, zaczynająca się kilka lat po finale Belgariady i wracająca do większości bohaterów. Czyta się ją zawsze po całości Belgariady — a pętla fabularna obu serii domyka się dopiero w The Seeress of Kell." },
     { "question": "Czy Belgarath i Polgara to kolejne ciągi dalsze?", "answer": "Nie — to dwie obszerne powieści-prequele spisane jako pamiętniki tytułowych czarodziejów. Czyta się je na samym końcu, bo opowiadają historię świata sprzed wydarzeń obu serii." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["kolo-czasu", "shannara"]
 }

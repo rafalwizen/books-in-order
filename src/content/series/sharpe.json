@@ -38,5 +38,5 @@
     { "question": "Kolejność wydania czy chronologiczna?", "answer": "To najsłynniejszy dylemat serii. Bernard Cornwell radzi czytać chronologicznie — od Sharpe's Tiger (1799, Indie) po Sharpe's Devil (1820-21). Kolejność wydania jest jednak równie poprawna i to właśnie w niej seria zdobyła pierwszych czytelników." },
     { "question": "Dlaczego między 2007 a 2021 rokiem jest przerwa?", "answer": "Po Sharpe's Fury Cornwell zajmował się innymi cyklami i wrócił do Sharpe dopiero po latach — najpierw powieściami uzupełniającymi środek kariery bohatera (Sharpe's Assassin, Command i Storm). Nadal wypełniają luki w chronologii, a nie wydłużają życie bohatera." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["kroniki-saskie", "hornblower", "aubrey-maturin", "flashman"]
 }

@@ -26,5 +26,5 @@
     { "question": "Dlaczego Śpiące morderstwo jest ostatnie?", "answer": "Christie napisała je podczas II wojny światowej jako pożegnanie z Marple i kazała wydać dopiero po swojej śmierci. Ukazało się w 1976 roku — dlatego zamyka listę, choć fabularnie pasuje do znacznie wcześniejszych tomów." },
     { "question": "Czy trzeba czytać zbiory opowiadań?", "answer": "Trzynaście zagadek oraz Miss Marple's Final Cases to krótkie sprawy rozwiązywane przy herbacie i oczku w drzwiach — pełne uroku, ale można je traktować jako dodatek do 12 powieści." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["herkules-poirot", "inspektor-morse", "biuro-nr-1"]
 }

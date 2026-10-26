@@ -16,5 +16,5 @@
     { "question": "Ile książek liczy saga Zmierzch?", "answer": "Główna saga składa się z 4 książek. Dodatkowo wydany został Świt - pierwsza odsłona (2020), będąca retellingiem pierwszego tomu z perspektywy Edwarda." },
     { "question": "Czy trzeba czytać Świt - pierwszą odsłonę?", "answer": "Nie, to dodatkowa powieść opowiadająca historię pierwszego tomu z perspektywy Edwarda. Można ją przeczytać po głównej sadze." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["sookie-stackhouse", "piecdziesiat-twarzy-greya", "pamietniki-wampirow"]
 }

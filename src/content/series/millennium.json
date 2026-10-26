@@ -19,5 +19,5 @@
     { "question": "Kto pisze serię po śmierci Larssona?", "answer": "Stieg Larsson zmarł w 2004 roku, przed publikacją trylogii. Tomy 4-6 napisał David Lagercrantz, a od tomu 7 serię prowadzi Karin Smirnoff — wszystkie za zgodą spadkobierców." },
     { "question": "Czy kontynuacje są warte lektury?", "answer": "Odbiór jest mieszany, ale najnowsze tomy wracają do mocnej postaci Lisbeth. Jeśli kochasz trylogię, warto dać szansę To, co nas nie zabija — filmowe zakończenie wątków z Zameczka." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["harry-hole", "wydzial-q", "in-death", "chylka"]
 }

@@ -15,5 +15,5 @@
     { "question": "Czy filmy Netflixa odpowiadają książkom?", "answer": "Z grubsza: pierwsze dwa filmy adaptują pierwsze dwa tomy, trzeci — Always and Forever — kończy sagę. Największa różnica to postać Johna Ambrose'a, którą filmy przeniosły w inne miejsce fabuły." },
     { "question": "Jest coś po trzecim tomie?", "answer": "Z książek — nic, trylogia jest domknięta. Powstał za to serial XO, Kitty o młodszej siostrze, ale to samodzielna historia telewizyjna, nie kontynuacja powieści." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["piecdziesiat-twarzy-greya"]
 }

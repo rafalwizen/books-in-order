@@ -27,5 +27,5 @@
     { "question": "Czy Koło Czasu jest ukończone?", "answer": "Tak, cykl liczy 14 tomów i jest zakończony. Po śmierci Roberta Jordana w 2007 roku trzy ostatnie tomy (The Gathering Storm, Towers of Midnight i A Memory of Light) dopisał Brandon Sanderson na podstawie notatek autora." },
     { "question": "Czy Koło Czasu ma ekranizację?", "answer": "Tak, w latach 2021–2024 Amazon Prime Video emitował serial The Wheel of Time z Rosamund Pike w roli głównej. Seria książkowa jest jednak znacznie bogatsza fabularnie niż adaptacja." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["wladca-pierscieni", "shannara", "belgariada", "miecz-prawdy"]
 }

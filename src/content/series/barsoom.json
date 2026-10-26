@@ -22,5 +22,5 @@
     { "question": "Skąd te dziwne daty w tabeli?", "answer": "Powieści ukazywały się najpierw w odcinkach w czasopismach pulpowych, a edycje książkowe wychodziły latami później — np. Księżniczka Marsa jako książka dopiero w 1917 roku. Podajemy lata pierwszej publikacji, zgodnie z tabelą Wikipedii." },
     { "question": "Czym jest John Carter of Mars?", "answer": "To zbiór dwóch opowiadań wydany pośmiertnie z materiałów Burroughsa. Zamyka wydaną za życia autora część cyklu — kolejne teksty o Barsoomie są już dziełem innych pisarzy." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["tarzan"]
 }

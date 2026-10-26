@@ -43,5 +43,5 @@
     { "question": "Czy da się czytać chronologicznie?", "answer": "Da się, ale nie zalecamy. Prequele jak The Enemy czy Night School opublikowano w połowie serii i napisano z myślą o czytelniku znającym dorosłego Reachera — czytane jako pierwsze tracą znaczną część smaku." },
     { "question": "Kto pisze serię od tomu The Sentinel?", "answer": "Od 2020 roku Lee Child pisze wspólnie z bratem Andrew Childem, który stopniowo przejął serię. Od In Too Deep (2024) wymieniani są obaj, a wydawca zapowiada dalsze tomy." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["will-robie", "harry-bosch", "mitch-rapp"]
 }

@@ -16,5 +16,5 @@
     { "question": "Ile książek będzie miała seria Czwarte skrzydło?", "answer": "Rebecca Yarros zaplanowała pięciotomową sagę (Empyrean). Trzy pierwsze tomy są już wydane, a czwarty — Threshing Day — zapowiedziany na 2026 rok." },
     { "question": "Czy Czwarte skrzydło to seria dla dorosłych?", "answer": "Tak, to tzw. new adult fantasy romance — seria kierowana do dorosłych czytelników, z wyraźną linią romantyczną między Violet a Xadenem Riorsonem." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["tron-ze-szkla", "sad-cierni-i-roz"]
 }

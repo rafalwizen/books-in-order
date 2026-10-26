@@ -45,5 +45,5 @@
     { "question": "Dlaczego tylko powieści?", "answer": "Stout pisał też nowele o Wolfie, zbierane później w osobne tomy po dwie-trzy sztuki — pełny korpus liczy ponad czterdzieści pozycji. Trzymamy się 33 powieści, czyli kręgosłupa serii." },
     { "question": "Który tom na początek?", "answer": "Najczęściej poleca się Some Buried Caesar albo The Doorbell Rang — pierwsze jako jedna z najlepszych powieści, drugie jako najbardziej głośne starcie Wolfe'a z FBI." }
   ],
-  "relatedSeries": []
+  "relatedSeries": ["ojciec-brown", "lord-peter-wimsey"]
 }
