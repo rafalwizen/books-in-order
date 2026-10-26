@@ -6,7 +6,7 @@ Polish-language static website that helps readers find the correct reading order
 
 ## ✨ Features
 
-- **10 book series** with full reading order (Wiedźmin, Harry Potter, Władca Pierścieni, Pieśń Lodu i Ognia, Świat Dysku, Diuna, Cykl Fundacji, Ziemiomorze, Igrzyska Śmierci, Zmierzch)
+- **120 book series** with full reading order — from Wiedźmin, Harry Potter and Władca Pierścieni to Jack Reacher, In Death and Kroniki Amberu
 - **Full-text search** powered by Pagefind with Polish language support
 - **Author pages** — browse all series by a given author
 - **Genre pages** — discover series by genre (fantasy, sci-fi, dystopia, etc.)
@@ -57,6 +57,8 @@ npm run dev
 | `npm run dev` | Start local dev server at `localhost:4321` |
 | `npm run build` | Build production site to `./dist/` |
 | `npm run preview` | Preview build locally before deploying |
+| `npm run rank:series` | Rank candidate series by Wikipedia pageviews |
+| `npm run verify:series` | Validate all series data against Wikipedia |
 
 ## 📁 Project Structure
 
@@ -83,6 +85,11 @@ books-in-order/
 │   └── layouts/             # Page layouts
 ├── astro.config.mjs
 ├── tailwind.config.mjs
+├── scripts/                 # Content pipeline (no extra dependencies)
+│   ├── rank-series.mjs      # Rank candidate series by Wikipedia pageviews
+│   ├── verify-series.mjs    # Local schema checks + Wikipedia cross-check
+│   ├── lib/                 # HTTP pool, wiki helpers, author slugify, report
+│   └── data/                # Candidates, ranking, selection, verification reports
 └── package.json
 ```
 
