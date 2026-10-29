@@ -1,0 +1,44 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { getAllSeries, getAllGenres } from '../../utils/series';
+import { generateBreadcrumbJsonLd, generateCollectionPageJsonLd } from '../../utils/seo';
+
+const allSeries = await getAllSeries();
+// Sorted by series count descending, so the most popular genres come first.
+const genres = [...getAllGenres(allSeries).entries()].sort((a, b) => b[1] - a[1]);
+const genreName = (slug: string) => slug.replace(/-/g, ' ');
+
+const title = 'Gatunki — kolejność czytania serii';
+const description = `Wszystkie gatunki (${genres.length}) wraz z seriami i kolejnością czytania. Sprawdź, w jakiej kolejności czytać książki z ulubionego gatunku.`;
+const jsonLd = [
+  generateCollectionPageJsonLd(
+    'Gatunki',
+    description,
+    Astro.site!.href,
+    '/gatunki',
+    genres.map(([slug, count]) => ({ name: `${genreName(slug)} (${count})`, path: `/gatunki/${slug}` }))
+  ),
+  generateBreadcrumbJsonLd([{ name: 'Strona główna', url: '/' }, { name: 'Gatunki', url: '/gatunki' }], Astro.site!.href),
+];
+---
+
+<BaseLayout title={title} description={description} ogType="website" jsonLd={jsonLd}>
+  <Breadcrumbs items={[{ name: 'Strona główna', href: '/' }, { name: 'Gatunki', href: '/gatunki/' }]} />
+
+  <h1 class="text-3xl font-bold mb-2">Gatunki</h1>
+  <p class="text-lg text-gray-600 mb-8">
+    {genres.length} {genres.length === 1 ? 'gatunek' : genres.length < 5 ? 'gatunki' : 'gatunków'} — wybierz i sprawdź kolejność czytania
+  </p>
+
+  <div class="grid gap-3 sm:grid-cols-2">
+    {genres.map(([slug, count]) => (
+      <a href={`/gatunki/${slug}/`} class="block border border-gray-200 rounded-lg p-4 hover:bg-gray-50 transition-colors">
+        <h2 class="font-semibold text-blue-700 capitalize">{genreName(slug)}</h2>
+        <p class="text-sm text-gray-500">
+          {count} {count === 1 ? 'seria' : count < 5 ? 'serie' : 'serii'}
+        </p>
+      </a>
+    ))}
+  </div>
+</BaseLayout>

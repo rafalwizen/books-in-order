@@ -21,7 +21,7 @@ const jsonLd = generateWebsiteJsonLd(Astro.site!.href, 'Kolejnosc-Czytania.pl');
     </p>
   </div>
 
-  <form action="/szukaj" method="get" class="mb-10">
+  <form action="/szukaj/" method="get" class="mb-10">
     <div class="relative">
       <input
         type="search"
@@ -37,7 +37,7 @@ const jsonLd = generateWebsiteJsonLd(Astro.site!.href, 'Kolejnosc-Czytania.pl');
     <div class="flex flex-wrap gap-2">
       {[...genres.entries()].map(([genre, count]) => (
         <a
-          href={`/gatunki/${genre}`}
+          href={`/gatunki/${genre}/`}
           class="px-4 py-2 bg-gray-100 rounded-full text-gray-700 hover:bg-blue-100 hover:text-blue-700 transition-colors"
         >
           {genre} ({count})
@@ -50,7 +50,7 @@ const jsonLd = generateWebsiteJsonLd(Astro.site!.href, 'Kolejnosc-Czytania.pl');
     <h2 class="text-2xl font-bold mb-4">Wszystkie serie</h2>
     <div class="grid gap-3 sm:grid-cols-2">
       {allSeries.map((s) => (
-        <a href={`/${s.id}`} class="block border border-gray-200 rounded-lg p-4 hover:bg-gray-50 transition-colors">
+        <a href={`/${s.id}/`} class="block border border-gray-200 rounded-lg p-4 hover:bg-gray-50 transition-colors">
           <h3 class="font-semibold text-blue-700">{s.data.title}</h3>
           <p class="text-sm text-gray-600">{s.data.author}</p>
           <p class="text-sm text-gray-500">{s.data.books.length} {s.data.books.length === 1 ? 'książka' : s.data.books.length < 5 ? 'książki' : 'książek'}</p>

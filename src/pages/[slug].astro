@@ -41,7 +41,7 @@ const jsonLd = [
 ---
 
 <BaseLayout title={title} description={description} jsonLd={jsonLd}>
-  <Breadcrumbs items={[{ name: 'Strona główna', href: '/' }, { name: series.title, href: `/${slug}` }]} />
+  <Breadcrumbs items={[{ name: 'Strona główna', href: '/' }, { name: series.title, href: `/${slug}/` }]} />
 
   <article>
     <header class="mb-8">
@@ -52,7 +52,7 @@ const jsonLd = [
         <p class="text-lg text-gray-500 italic mb-2">{series.titleOriginal}</p>
       )}
       <p class="text-lg text-gray-700">
-        Autor: <a href={`/autorzy/${series.authorSlug}`} class="text-blue-700 hover:underline">{series.author}</a>
+        Autor: <a href={`/autorzy/${series.authorSlug}/`} class="text-blue-700 hover:underline">{series.author}</a>
         {' '} &middot; {series.books.length} {series.books.length === 1 ? 'książka' : series.books.length < 5 ? 'książki' : 'książek'}
       </p>
     </header>
@@ -75,7 +75,7 @@ const jsonLd = [
       <h2 class="text-2xl font-bold mb-4">Inne serie autora</h2>
       <div class="grid gap-3 sm:grid-cols-2">
         {sameAuthor.map((s) => (
-          <a href={`/${s.id}`} class="block border border-gray-200 rounded-lg p-4 hover:bg-gray-50 transition-colors">
+          <a href={`/${s.id}/`} class="block border border-gray-200 rounded-lg p-4 hover:bg-gray-50 transition-colors">
             <h3 class="font-semibold text-blue-700">{s.data.title}</h3>
             <p class="text-sm text-gray-600">{s.data.books.length} {s.data.books.length === 1 ? 'książka' : s.data.books.length < 5 ? 'książki' : 'książek'}</p>
           </a>
@@ -89,13 +89,13 @@ const jsonLd = [
       <h2 class="text-2xl font-bold mb-4">Powiązane serie</h2>
       <div class="grid gap-3 sm:grid-cols-2">
         {related.map((s) => (
-          <a href={`/${s.id}`} class="block border border-gray-200 rounded-lg p-4 hover:bg-gray-50 transition-colors">
+          <a href={`/${s.id}/`} class="block border border-gray-200 rounded-lg p-4 hover:bg-gray-50 transition-colors">
             <h3 class="font-semibold text-blue-700">{s.data.title}</h3>
             <p class="text-sm text-gray-600">{s.data.author} &middot; {s.data.books.length} {s.data.books.length === 1 ? 'książka' : s.data.books.length < 5 ? 'książki' : 'książek'}</p>
           </a>
         ))}
         {sameGenreFirst.map((s) => (
-          <a href={`/${s.id}`} class="block border border-gray-200 rounded-lg p-4 hover:bg-gray-50 transition-colors">
+          <a href={`/${s.id}/`} class="block border border-gray-200 rounded-lg p-4 hover:bg-gray-50 transition-colors">
             <h3 class="font-semibold text-blue-700">{s.data.title}</h3>
             <p class="text-sm text-gray-600">{s.data.author} &middot; {s.data.books.length} {s.data.books.length === 1 ? 'książka' : s.data.books.length < 5 ? 'książki' : 'książek'}</p>
           </a>

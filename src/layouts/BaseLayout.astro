@@ -55,9 +55,11 @@ const canonical = canonicalUrl || new URL(Astro.url.pathname, Astro.site).href;
         <a href="/" class="text-xl font-bold text-blue-700 hover:text-blue-900">
           Kolejnosc-Czytania.pl
         </a>
-        <a href="/szukaj" class="text-gray-600 hover:text-gray-900">
-          Szukaj
-        </a>
+        <div class="flex items-center gap-5">
+          <a href="/autorzy/" class="text-gray-600 hover:text-gray-900">Autorzy</a>
+          <a href="/gatunki/" class="text-gray-600 hover:text-gray-900">Gatunki</a>
+          <a href="/szukaj/" class="text-gray-600 hover:text-gray-900">Szukaj</a>
+        </div>
       </nav>
     </header>
 

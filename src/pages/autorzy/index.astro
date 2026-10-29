@@ -1,0 +1,44 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { getAllSeries, getAllAuthors } from '../../utils/series';
+import { generateBreadcrumbJsonLd, generateCollectionPageJsonLd } from '../../utils/seo';
+
+const allSeries = await getAllSeries();
+const authors = [...getAllAuthors(allSeries).values()].sort((a, b) =>
+  a.name.localeCompare(b.name, 'pl')
+);
+
+const title = 'Autorzy — kolejność czytania serii A–Z';
+const description = `Wszyscy autorzy na stronie (${authors.length}) wraz z seriami i kolejnością czytania. Sprawdź, w jakiej kolejności czytać książki ulubionego autora.`;
+const jsonLd = [
+  generateCollectionPageJsonLd(
+    'Autorzy',
+    description,
+    Astro.site!.href,
+    '/autorzy',
+    authors.map((a) => ({ name: a.name, path: `/autorzy/${a.slug}` }))
+  ),
+  generateBreadcrumbJsonLd([{ name: 'Strona główna', url: '/' }, { name: 'Autorzy', url: '/autorzy' }], Astro.site!.href),
+];
+---
+
+<BaseLayout title={title} description={description} ogType="website" jsonLd={jsonLd}>
+  <Breadcrumbs items={[{ name: 'Strona główna', href: '/' }, { name: 'Autorzy', href: '/autorzy/' }]} />
+
+  <h1 class="text-3xl font-bold mb-2">Autorzy — A–Z</h1>
+  <p class="text-lg text-gray-600 mb-8">
+    {authors.length} {authors.length === 1 ? 'autor' : authors.length < 5 ? 'autorzy' : 'autorów'} — wybierz nazwisko i sprawdź kolejność czytania
+  </p>
+
+  <div class="grid gap-3 sm:grid-cols-2">
+    {authors.map((a) => (
+      <a href={`/autorzy/${a.slug}/`} class="block border border-gray-200 rounded-lg p-4 hover:bg-gray-50 transition-colors">
+        <h2 class="font-semibold text-blue-700">{a.name}</h2>
+        <p class="text-sm text-gray-500">
+          {a.seriesCount} {a.seriesCount === 1 ? 'seria' : a.seriesCount < 5 ? 'serie' : 'serii'}
+        </p>
+      </a>
+    ))}
+  </div>
+</BaseLayout>
