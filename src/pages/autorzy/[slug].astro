@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getAllSeries, getSeriesByAuthor } from '../../utils/series';
+import { generateCollectionPageJsonLd } from '../../utils/seo';
 
 export async function getStaticPaths() {
   const series = await getAllSeries();
@@ -20,12 +21,22 @@ const { author } = Astro.props;
 const { slug } = Astro.params;
 const allSeries = await getAllSeries();
 const authorSeries = getSeriesByAuthor(allSeries, slug!);
+const totalBooks = authorSeries.reduce((sum, s) => sum + s.data.books.length, 0);
+const seriesWord = authorSeries.length === 1 ? 'seria' : authorSeries.length < 5 ? 'serie' : 'serii';
+const booksWord = totalBooks === 1 ? 'książka' : totalBooks < 5 ? 'książki' : 'książek';
 
-const title = `${author.name} - serie książek`;
-const description = `Wszystkie serie książek autora ${author.name}. Sprawdź kolejność czytania.`;
+const title = `Kolejność czytania książek ${author.name}`;
+const description = `${author.name} — kolejność czytania: ${authorSeries.length} ${seriesWord} i ${totalBooks} ${booksWord} łącznie. Sprawdź, w jakiej kolejności czytać każdą serię.`;
+const jsonLd = generateCollectionPageJsonLd(
+  `${author.name} — serie książek`,
+  description,
+  Astro.site!.href,
+  `/autorzy/${slug}`,
+  authorSeries.map((s) => ({ name: s.data.title, path: `/${s.id}` }))
+);
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} jsonLd={jsonLd}>
   <nav class="mb-6 text-sm text-gray-500">
     <ol class="flex flex-wrap items-center gap-1">
       <li class="flex items-center gap-1">

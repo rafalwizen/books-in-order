@@ -1,21 +1,23 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getAllSeries, getAllGenres } from '../utils/series';
+import { generateWebsiteJsonLd } from '../utils/seo';
 
 const allSeries = await getAllSeries();
 const genres = getAllGenres(allSeries);
 
-const title = 'KolejnoscKsiazek.pl';
-const description = 'Sprawdź w jakiej kolejności czytać książki z ulubionych serii. Kompletne listy książek w porządku chronologicznym z latami wydania.';
+const title = 'Kolejność czytania książek — wszystkie serie A–Z';
+const description = `Nie wiesz, w jakiej kolejności czytać książki z ulubionej serii? Kompletne listy ${allSeries.length} serii w porządku chronologicznym — z latami wydania.`;
+const jsonLd = generateWebsiteJsonLd(Astro.site!.href, 'Kolejnosc-Czytania.pl');
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} ogType="website" jsonLd={jsonLd}>
   <div class="text-center mb-10">
     <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-      Kolejność książek
+      Kolejność czytania książek
     </h1>
     <p class="text-lg text-gray-600 max-w-2xl mx-auto">
-      Sprawdź w jakiej kolejności czytać książki z ulubionych serii. Pełne listy w porządku chronologicznym z latami wydania.
+      Sprawdź, w jakiej kolejności czytać książki z ulubionych serii. Pełne listy w porządku chronologicznym z latami wydania.
     </p>
   </div>
 

@@ -4,12 +4,13 @@ interface Props {
   description: string;
   canonicalUrl?: string;
   jsonLd?: object | object[];
+  ogType?: 'website' | 'article';
 }
 
 import '../styles/global.css';
 
-const { title, description, canonicalUrl, jsonLd } = Astro.props;
-const siteTitle = 'KolejnoscKsiazek.pl';
+const { title, description, canonicalUrl, jsonLd, ogType = 'article' } = Astro.props;
+const siteTitle = 'Kolejnosc-Czytania.pl';
 const fullTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
 const canonical = canonicalUrl || new URL(Astro.url.pathname, Astro.site).href;
 ---
@@ -28,7 +29,7 @@ const canonical = canonicalUrl || new URL(Astro.url.pathname, Astro.site).href;
 
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:type" content="article" />
+    <meta property="og:type" content={ogType} />
     <meta property="og:locale" content="pl_PL" />
     <meta property="og:url" content={canonical} />
     <meta property="og:site_name" content={siteTitle} />
@@ -52,7 +53,7 @@ const canonical = canonicalUrl || new URL(Astro.url.pathname, Astro.site).href;
     <header class="border-b border-gray-200">
       <nav class="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between">
         <a href="/" class="text-xl font-bold text-blue-700 hover:text-blue-900">
-          KolejnoscKsiazek.pl
+          Kolejnosc-Czytania.pl
         </a>
         <a href="/szukaj" class="text-gray-600 hover:text-gray-900">
           Szukaj
@@ -66,7 +67,7 @@ const canonical = canonicalUrl || new URL(Astro.url.pathname, Astro.site).href;
 
     <footer class="border-t border-gray-200 mt-12">
       <div class="max-w-4xl mx-auto px-4 py-6 text-center text-sm text-gray-500">
-        <p>&copy; {new Date().getFullYear()} KolejnoscKsiazek.pl</p>
+        <p>&copy; {new Date().getFullYear()} Kolejnosc-Czytania.pl</p>
       </div>
     </footer>
   </body>

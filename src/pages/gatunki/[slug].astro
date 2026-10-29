@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getAllSeries, getSeriesByGenre } from '../../utils/series';
+import { generateCollectionPageJsonLd } from '../../utils/seo';
 
 export async function getStaticPaths() {
   const series = await getAllSeries();
@@ -19,12 +20,20 @@ const { slug } = Astro.params;
 const allSeries = await getAllSeries();
 const genreSeries = getSeriesByGenre(allSeries, slug!);
 const genreName = slug!.replace(/-/g, ' ');
+const seriesWord = genreSeries.length === 1 ? 'seria' : genreSeries.length < 5 ? 'serie' : 'serii';
 
-const title = `${genreName} - serie książek w kolejności`;
-const description = `Wszystkie serie książek z gatunku ${genreName}. Sprawdź kolejność czytania.`;
+const title = `Kolejność czytania: serie ${genreName}`;
+const description = `${genreName} — kolejność czytania: ${genreSeries.length} ${seriesWord}. Sprawdź, w jakiej kolejności czytać każdą serię — pełne listy w porządku chronologicznym.`;
+const jsonLd = generateCollectionPageJsonLd(
+  `Serie ${genreName}`,
+  description,
+  Astro.site!.href,
+  `/gatunki/${slug}`,
+  genreSeries.map((s) => ({ name: s.data.title, path: `/${s.id}` }))
+);
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} jsonLd={jsonLd}>
   <nav class="mb-6 text-sm text-gray-500">
     <ol class="flex flex-wrap items-center gap-1">
       <li class="flex items-center gap-1">
