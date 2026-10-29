@@ -21,7 +21,7 @@ Polish-language static website that helps readers find the correct reading order
 | [Tailwind CSS](https://tailwindcss.com/) v4 | Styling |
 | [Pagefind](https://pagefind.app/) | Client-side search |
 | [TypeScript](https://www.typescriptlang.org/) | Type safety |
-| [Vercel](https://vercel.com/) | Hosting & deployment |
+| [Cloudflare Workers](https://workers.cloudflare.com/) | Hosting & deployment (static assets) |
 
 ## ⚡ PageSpeed Insights
 
@@ -59,6 +59,14 @@ npm run dev
 | `npm run preview` | Preview build locally before deploying |
 | `npm run rank:series` | Rank candidate series by Wikipedia pageviews |
 | `npm run verify:series` | Validate all series data against Wikipedia |
+
+## 🚀 Deployment
+
+The site is deployed on **Cloudflare Workers** (static assets) via Workers Builds, connected to this GitHub repository — every push to `master` triggers a build and deploy automatically.
+
+- Build command: `npm run build` · Deploy command: `npx wrangler deploy` (Node 22.12)
+- `wrangler.jsonc` serves `./dist` as static assets, with custom 404 handling
+- Custom domain: `kolejnoc-czytania.pl` (DNS managed in the same Cloudflare account)
 
 ## 📁 Project Structure
 
