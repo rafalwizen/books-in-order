@@ -1,8 +1,8 @@
-# 📚 KolejnośćKsiążek.pl
+# 📚 Kolejnosc-Czytania.pl
 
 Polish-language static website that helps readers find the correct reading order for popular book series. Each series page shows books in chronological order with original and Polish publication years, book types, and frequently asked questions.
 
-**Live site:** [kolejnoscksiazek.pl](https://kolejnoscksiazek.pl)
+**Live site:** [kolejnosc-czytania.pl](https://kolejnosc-czytania.pl)
 
 ## ✨ Features
 

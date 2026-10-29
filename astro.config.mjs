@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap';
 import pagefind from 'astro-pagefind';
 
 export default defineConfig({
-  site: 'https://kolejnoscksiazek.pl',
+  site: 'https://kolejnosc-czytania.pl',
   compressHTML: true,
   integrations: [
     sitemap(),

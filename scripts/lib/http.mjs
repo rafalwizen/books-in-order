@@ -3,7 +3,7 @@
 // minimum interval between request starts, retries with Retry-After support.
 
 export const USER_AGENT =
-  'books-in-order-tools/1.0 (https://kolejnoscksiazek.pl)';
+  'books-in-order-tools/1.0 (https://kolejnosc-czytania.pl)';
 
 const REQUEST_TIMEOUT_MS = 20_000;
 const MAX_RETRIES = 3;
