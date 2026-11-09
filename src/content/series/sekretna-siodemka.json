@@ -1,0 +1,32 @@
+{
+  "title": "Sekretna siódemka",
+  "titleOriginal": "The Secret Seven",
+  "author": "Enid Blyton",
+  "authorSlug": "enid-blyton",
+  "genre": ["klasyka", "przygodowa"],
+  "description": "Kolejność czytania serii Sekretna siódemka Enid Blyton. Piętnaście tomów przygód dziecięcego klubu detektywów z lat 1949–1963, od The Secret Seven po Fun for the Secret Seven.",
+  "books": [
+    { "order": 1, "title": "The Secret Seven", "yearOriginal": 1949, "type": "powieść" },
+    { "order": 2, "title": "Secret Seven Adventure", "yearOriginal": 1950, "type": "powieść" },
+    { "order": 3, "title": "Well Done, Secret Seven", "yearOriginal": 1951, "type": "powieść" },
+    { "order": 4, "title": "Secret Seven on the Trail", "yearOriginal": 1952, "type": "powieść" },
+    { "order": 5, "title": "Go Ahead Secret Seven", "yearOriginal": 1953, "type": "powieść" },
+    { "order": 6, "title": "Good Work Secret Seven", "yearOriginal": 1954, "type": "powieść" },
+    { "order": 7, "title": "Secret Seven Win Through", "yearOriginal": 1955, "type": "powieść" },
+    { "order": 8, "title": "Three Cheers Secret Seven", "yearOriginal": 1956, "type": "powieść" },
+    { "order": 9, "title": "Secret Seven Mystery", "yearOriginal": 1957, "type": "powieść" },
+    { "order": 10, "title": "Puzzle for the Secret Seven", "yearOriginal": 1958, "type": "powieść" },
+    { "order": 11, "title": "Secret Seven Fireworks", "yearOriginal": 1959, "type": "powieść" },
+    { "order": 12, "title": "Good Old Secret Seven", "yearOriginal": 1960, "type": "powieść" },
+    { "order": 13, "title": "Shock for the Secret Seven", "yearOriginal": 1961, "type": "powieść" },
+    { "order": 14, "title": "Look Out Secret Seven", "yearOriginal": 1962, "type": "powieść" },
+    { "order": 15, "title": "Fun for the Secret Seven", "yearOriginal": 1963, "type": "powieść" },
+    { "order": 16, "title": "Secret Seven: Short Story Collection", "yearOriginal": 1997, "type": "opowiadanie" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Sekretną siódemkę?", "answer": "W kolejności wydania, od The Secret Seven (1949). Każdy tom to zamknięta zagadka, ale siódemka i jej klubowicze powracają z tomu na tom, więc kolejność publikacji jest najnaturalniejsza." },
+    { "question": "Czy seria ukazała się po polsku?", "answer": "Seria znana jest w Polsce jako Sekretna siódemka, jednak pełna lista polskich tytułów i dat wydań nie jest potwierdzona w źródłach encyklopedycznych — dlatego podajemy oryginalne tytuły angielskie z latami pierwszego wydania." },
+    { "question": "Kto napisał kontynuacje serii?", "answer": "Enid Blyton napisała piętnaście tomów w latach 1949–1963. W latach 2018–2019 Pamela Butchart dopisała dwa nowe tytuły, które nie wchodzą do oryginalnego cyklu Blyton." }
+  ],
+  "relatedSeries": ["bracia-hardy", "nancy-drew", "39-clues"]
+}

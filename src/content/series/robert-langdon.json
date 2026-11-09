@@ -1,0 +1,21 @@
+{
+  "title": "Robert Langdon",
+  "author": "Dan Brown",
+  "authorSlug": "dan-brown",
+  "genre": ["thriller"],
+  "description": "Kolejność czytania książek z serii Robert Langdon Dana Browna. Wszystkie powieści o harwardzkim symbologu rozszyfrowującym zagadki sztuki i religii, od Aniołów i demonów (2000) po Tajemnicę tajemnic (2025).",
+  "books": [
+    { "order": 1, "title": "Anioły i demony", "titleOriginal": "Angels & Demons", "yearOriginal": 2000, "yearPolish": 2003, "type": "powieść" },
+    { "order": 2, "title": "Kod Leonarda da Vinci", "titleOriginal": "The Da Vinci Code", "yearOriginal": 2003, "yearPolish": 2004, "type": "powieść" },
+    { "order": 3, "title": "Zaginiony symbol", "titleOriginal": "The Lost Symbol", "yearOriginal": 2009, "yearPolish": 2010, "type": "powieść" },
+    { "order": 4, "title": "Inferno", "yearOriginal": 2013, "yearPolish": 2013, "type": "powieść" },
+    { "order": 5, "title": "Początek", "titleOriginal": "Origin", "yearOriginal": 2017, "yearPolish": 2017, "type": "powieść" },
+    { "order": 6, "title": "Tajemnica tajemnic", "titleOriginal": "The Secret of Secrets", "yearOriginal": 2025, "yearPolish": 2025, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać serię z Robertem Langdonem?", "answer": "W kolejności wydania, od Aniołów i demonów (2000). Każda powieść to odrębna zagadka, ale wątki z poprzednich tomów (np. historia Watykanu czy Institutum Hermeticum) wracają w dalszych częściach." },
+    { "question": "Ile książek liczy seria Robert Langdon?", "answer": "Sześć powieści: Anioły i demony (2000), Kod Leonarda da Vinci (2003), Zaginiony symbol (2009), Inferno (2013), Początek (2017) i Tajemnica tajemnic (2025)." },
+    { "question": "Od jakiej książki zacząć, jeśli widziałem filmy?", "answer": "Od Aniołów i demonów — to pierwszy tom cyklu i prolog całej historii Langdona. Ekranizacje obejmują tylko trzy powieści (Kod Leonarda da Vinci, Anioły i demony, Inferno), a seria dostępna w książkach jest znacznie dłuższa." }
+  ],
+  "relatedSeries": ["mitch-rapp", "jack-reacher", "harry-bosch"]
+}

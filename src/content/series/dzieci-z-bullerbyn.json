@@ -1,0 +1,21 @@
+{
+  "title": "Dzieci z Bullerbyn",
+  "author": "Astrid Lindgren",
+  "authorSlug": "astrid-lindgren",
+  "genre": ["klasyka", "przygodowa"],
+  "description": "Kolejność czytania trylogii Dzieci z Bullerbyn Astrid Lindgren. Trzy tomy życia szwedzkiej osady oczami małej Lisy — od Alla vi barn i Bullerbyn po Wesoło jest w Bullerbyn, po polsku od 1957 roku.",
+  "books": [
+    { "order": 1, "title": "Dzieci z Bullerbyn", "titleOriginal": "Alla vi barn i Bullerbyn", "yearOriginal": 1947, "yearPolish": 1957, "type": "powieść" },
+    { "order": 2, "title": "Więcej o dzieciach z Bullerbyn", "titleOriginal": "Mer om oss barn i Bullerbyn", "yearOriginal": 1949, "yearPolish": 1957, "type": "powieść" },
+    { "order": 3, "title": "Wesoło jest w Bullerbyn", "titleOriginal": "Bara roligt i Bullerbyn", "yearOriginal": 1952, "yearPolish": 1957, "type": "powieść" },
+    { "order": 4, "title": "Boże Narodzenie w Bullerbyn", "titleOriginal": "Jul i Bullerbyn", "yearOriginal": 1963, "type": "powiązane" },
+    { "order": 5, "title": "Wiosna w Bullerbyn", "titleOriginal": "Vår i Bullerbyn", "yearOriginal": 1965, "type": "powiązane" },
+    { "order": 6, "title": "Dzień Dziecka w Bullerbyn", "titleOriginal": "Barnens dag i Bullerbyn", "yearOriginal": 1966, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Dzieci z Bullerbyn?", "answer": "To trylogia, więc po kolei: Dzieci z Bullerbyn, Więcej o dzieciach z Bullerbyn i Wesoło jest w Bullerbyn. Od pierwszego polskiego wydania z 1957 roku wszystkie trzy części ukazują się zwykle w jednym tomie w przekładzie Ireny Szuch-Wyszomirskiej." },
+    { "question": "Czy książki obrazkowe są częścią serii?", "answer": "Boże Narodzenie, Wiosna i Dzień Dziecka w Bullerbyn to późniejsze książki obrazkowe z lat 60. Traktujemy je jako uzupełnienie dla najmłodszych czytelników, a nie obowiązkowe tomy trylogii." },
+    { "question": "Dla jakiego wieku jest Bullerbyn?", "answer": "Narratorka Lisa ma siedem lat, a książka od 2017 roku jest lekturą szkolną klas I–III. To ciepła, spokojna proza — świetna także do czytania na głos." }
+  ],
+  "relatedSeries": ["muminki", "pippi"]
+}

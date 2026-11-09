@@ -1,0 +1,41 @@
+{
+  "title": "Charlie Parker",
+  "author": "John Connolly",
+  "authorSlug": "john-connolly",
+  "genre": ["kryminal", "horror"],
+  "description": "Kolejność czytania książek z serii Charlie Parker Johna Connolly'ego. Wszystkie powieści o detektywie z Maine ścigającym zło nadprzyrodzone — od Wszystko martwe (1999) po A River Red with Blood (2026).",
+  "books": [
+    { "order": 1, "title": "Wszystko martwe", "titleOriginal": "Every Dead Thing", "yearOriginal": 1999, "type": "powieść" },
+    { "order": 2, "title": "Kraina cieni", "titleOriginal": "Dark Hollow", "yearOriginal": 2000, "type": "powieść" },
+    { "order": 3, "title": "Morderczy gatunek", "titleOriginal": "The Killing Kind", "yearOriginal": 2001, "type": "powieść" },
+    { "order": 4, "title": "Biała droga", "titleOriginal": "The White Road", "yearOriginal": 2002, "type": "powieść" },
+    { "order": 5, "title": "Czarny anioł", "titleOriginal": "The Black Angel", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 6, "title": "Niespokojni", "titleOriginal": "The Unquiet", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 7, "title": "The Reapers", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 8, "title": "The Lovers", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 9, "title": "The Whisperers", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 10, "title": "The Burning Soul", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 11, "title": "The Wrath of Angels", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 12, "title": "The Wolf in Winter", "yearOriginal": 2014, "type": "powieść" },
+    { "order": 13, "title": "A Song of Shadows", "yearOriginal": 2015, "type": "powieść" },
+    { "order": 14, "title": "A Time of Torment", "yearOriginal": 2016, "type": "powieść" },
+    { "order": 15, "title": "A Game of Ghosts", "yearOriginal": 2017, "type": "powieść" },
+    { "order": 16, "title": "The Woman in the Woods", "yearOriginal": 2018, "type": "powieść" },
+    { "order": 17, "title": "A Book of Bones", "yearOriginal": 2019, "type": "powieść" },
+    { "order": 18, "title": "The Dirty South", "yearOriginal": 2020, "type": "powieść" },
+    { "order": 19, "title": "The Nameless Ones", "yearOriginal": 2021, "type": "powieść" },
+    { "order": 20, "title": "The Furies", "yearOriginal": 2022, "type": "powieść" },
+    { "order": 21, "title": "The Instruments of Darkness", "yearOriginal": 2024, "type": "powieść" },
+    { "order": 22, "title": "The Children of Eve", "yearOriginal": 2025, "type": "powieść" },
+    { "order": 23, "title": "A River Red with Blood", "yearOriginal": 2026, "type": "powieść" },
+    { "order": 24, "title": "Nokturny", "titleOriginal": "Nocturnes", "yearOriginal": 2004, "type": "powiązane" },
+    { "order": 25, "title": "Night Music: Nocturnes 2", "yearOriginal": 2015, "type": "powiązane" },
+    { "order": 26, "title": "Night & Day", "yearOriginal": 2024, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać serię Charlie Parker?", "answer": "Zdecydowanie w kolejności wydania, od Wszystko martwe (1999). Wątki nadprzyrodzone — wojna Parkera z Upadłymi oraz postacie Angela i Louisa — narastają z tomu na tom, a późniejsze powieści wprost odsyłają do wydarzeń z pierwszych części." },
+    { "question": "Ile książek liczy seria Charlie Parker?", "answer": "23 powieści wydane w latach 1999–2026, od Every Dead Thing po A River Red with Blood (2026). Uzupełniają je zbiory opowiadań Nokturny (2004), Night Music (2015) i Night & Day (2024)." },
+    { "question": "Czy Charlie Parker to kryminał czy horror?", "answer": "Oba gatunki naraz — Connolly łączy klasyczny thriller kryminalny z wątkami grozy. Pierwsze tomy, od Wszystko martwe po Białą drogę (2002), to czysty kryminał, a od Czarnego anioła (2005) żywioł nadprzyrodzony nabiera coraz większej wagi." }
+  ],
+  "relatedSeries": ["akta-dresdena", "anita-blake", "harry-bosch"]
+}

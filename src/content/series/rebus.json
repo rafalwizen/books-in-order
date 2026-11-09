@@ -1,0 +1,42 @@
+{
+  "title": "Rebus",
+  "author": "Ian Rankin",
+  "authorSlug": "ian-rankin",
+  "genre": ["kryminal", "thriller"],
+  "description": "Kolejność czytania książek z serii Rebus Iana Rankina. Kompletna lista 25 powieści o inspektorze Johnie Rebusie z Edynburga — od Supełków i krzyżyków (1987) po Midnight and Blue (2024) — w porządku wydania.",
+  "books": [
+    { "order": 1, "title": "Supełki i krzyżyki", "titleOriginal": "Knots and Crosses", "yearOriginal": 1987, "type": "powieść" },
+    { "order": 2, "title": "Mętna woda", "titleOriginal": "Hide and Seek", "yearOriginal": 1991, "type": "powieść" },
+    { "order": 3, "title": "Kieł i pazur", "titleOriginal": "Tooth and Nail", "yearOriginal": 1992, "type": "powieść" },
+    { "order": 4, "title": "Zagrajmy w butelkę", "titleOriginal": "Strip Jack", "yearOriginal": 1992, "type": "powieść" },
+    { "order": 5, "title": "Czarna księga", "titleOriginal": "The Black Book", "yearOriginal": 1993, "type": "powieść" },
+    { "order": 6, "title": "Miecz i tarcza", "titleOriginal": "Mortal Causes", "yearOriginal": 1994, "type": "powieść" },
+    { "order": 7, "title": "Let It Bleed", "yearOriginal": 1995, "type": "powieść" },
+    { "order": 8, "title": "Black & Blue", "yearOriginal": 1997, "type": "powieść" },
+    { "order": 9, "title": "Wiszący ogród", "titleOriginal": "The Hanging Garden", "yearOriginal": 1998, "type": "powieść" },
+    { "order": 10, "title": "Martwe dusze", "titleOriginal": "Dead Souls", "yearOriginal": 1999, "type": "powieść" },
+    { "order": 11, "title": "Z głębi mroku", "titleOriginal": "Set in Darkness", "yearOriginal": 2000, "type": "powieść" },
+    { "order": 12, "title": "Kaskady", "titleOriginal": "The Falls", "yearOriginal": 2001, "type": "powieść" },
+    { "order": 13, "title": "Odrodzeni", "titleOriginal": "Resurrection Men", "yearOriginal": 2002, "type": "powieść" },
+    { "order": 14, "title": "Próba krwi", "titleOriginal": "A Question of Blood", "yearOriginal": 2003, "type": "powieść" },
+    { "order": 15, "title": "Zaułek szkieletów", "titleOriginal": "Fleshmarket Close", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 16, "title": "Memento Mori", "titleOriginal": "The Naming of the Dead", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 17, "title": "Pożegnalny blues", "titleOriginal": "Exit Music", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 18, "title": "Stojąc w cudzym grobie", "titleOriginal": "Standing in Another Man's Grave", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 19, "title": "Święci Biblii Cienia", "titleOriginal": "Saints of the Shadow Bible", "yearOriginal": 2013, "type": "powieść" },
+    { "order": 20, "title": "Nawet zdziczałe psy", "titleOriginal": "Even Dogs in the Wild", "yearOriginal": 2015, "type": "powieść" },
+    { "order": 21, "title": "Wszyscy diabli", "titleOriginal": "Rather Be the Devil", "yearOriginal": 2016, "type": "powieść" },
+    { "order": 22, "title": "W domu kłamstw", "titleOriginal": "In a House of Lies", "yearOriginal": 2018, "type": "powieść" },
+    { "order": 23, "title": "Pieśń na mroczne czasy", "titleOriginal": "A Song for the Dark Times", "yearOriginal": 2020, "type": "powieść" },
+    { "order": 24, "title": "Serce pełne grobów", "titleOriginal": "A Heart Full of Headstones", "yearOriginal": 2022, "type": "powieść" },
+    { "order": 25, "title": "Midnight and Blue", "yearOriginal": 2024, "type": "powieść" },
+    { "order": 26, "title": "A Good Hanging and Other Stories", "yearOriginal": 1992, "type": "powiązane" },
+    { "order": 27, "title": "The Beat Goes On", "yearOriginal": 2014, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać serię Rebus?", "answer": "W kolejności wydania, od Supełków i krzyżyków (1987). Rebus starzeje się w czasie rzeczywistym — od młodego sierżanta po emerytowanego inspektora wracającego do śledztw jako cywil — a relacje, zwłaszcza z Siobhan Clarke, rozwijają się z tomu na tom." },
+    { "question": "Ile książek liczy seria Rebus?", "answer": "25 powieści wydanych w latach 1987–2024, od Knots and Crosses po Midnight and Blue. Po tomie Exit Music (2007), w którym Rebus odchodzi ze służby, Rankin wrócił do bohatera w Standing in Another Man's Grave (2012) i pisze serię dalej." },
+    { "question": "Od którego tomu Rebusa zacząć?", "answer": "Najlepiej od pierwszego — Supełków i krzyżyków (1987) — bo cała seria to jedna, ciągła historia. Jeśli chcesz mocnego pojedynczego tomu, sięgnij po Black & Blue (1997), uhonorowanego Gold Daggerem i uważanego za jeden z najlepszych." }
+  ],
+  "relatedSeries": ["kurt-wallander", "harry-bosch", "inspektor-morse", "harry-hole"]
+}

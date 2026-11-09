@@ -1,0 +1,18 @@
+{
+  "title": "Trylogia",
+  "author": "Henryk Sienkiewicz",
+  "authorSlug": "henryk-sienkiewicz",
+  "genre": ["historyczna", "przygodowa"],
+  "description": "Kolejność czytania Trylogii Henryka Sienkiewicza. Trzy powieści pisane dla pokrzepienia serc — Ogniem i mieczem, Potop i Pan Wołodyjowski — opowiadające o bohaterskich losach Rzeczypospolitej XVII wieku.",
+  "books": [
+    { "order": 1, "title": "Ogniem i mieczem", "yearOriginal": 1884, "type": "powieść" },
+    { "order": 2, "title": "Potop", "yearOriginal": 1886, "type": "powieść" },
+    { "order": 3, "title": "Pan Wołodyjowski", "yearOriginal": 1888, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Trylogię Sienkiewicza?", "answer": "Zawsze po kolei: Ogniem i mieczem (1884), Potop (1886), Pan Wołodyjowski (1888). Fabuła i bohaterowie — zwłaszcza Andrzej Kmicic i Michał Wołodyjowski — prowadzą ciągły wątek przez wszystkie trzy tomy, więc każda zmiana kolejności psuje fabułę." },
+    { "question": "Ile książek liczy Trylogia?", "answer": "Dokładnie trzy powieści. Cykl powstawał w latach 1883–1888 i ukazywał się najpierw w odcinkach na łamach „Słowa”, a następnie w wydaniach książkowych." },
+    { "question": "O czym jest Trylogia Sienkiewicza?", "answer": "To panoramiczne powieści historyczne o wojnach XVII wieku: powstaniu Chmielnickiego (Ogniem i mieczem), potopie szwedzkim (Potop) i wojnach z Turcją (Pan Wołodyjowski). Sienkiewicz pisał je „dla pokrzepienia serc” zaborzonej Polski." }
+  ],
+  "relatedSeries": ["krolowie-przekleci", "krystyna-corka-lavransa", "sharpe"]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Dirk Pitt",
+  "author": "Clive Cussler",
+  "authorSlug": "clive-cussler",
+  "genre": ["przygodowa", "thriller"],
+  "description": "Kolejność czytania książek z serii Dirk Pitt Clive'a Cusslera. Wszystkie powieści o specjalnym agencie NUMA poszukującym morskich wraków — od Afery śródziemnomorskiej (1973) po Obsidian Sky (2026).",
+  "books": [
+    { "order": 1, "title": "Afera śródziemnomorska", "titleOriginal": "The Mediterranean Caper", "yearOriginal": 1973, "type": "powieść" },
+    { "order": 2, "title": "Lodowa pułapka", "titleOriginal": "Iceberg", "yearOriginal": 1975, "type": "powieść" },
+    { "order": 3, "title": "Wydobyć Titanica", "titleOriginal": "Raise the Titanic!", "yearOriginal": 1976, "type": "powieść" },
+    { "order": 4, "title": "Vixen 03", "yearOriginal": 1978, "type": "powieść" },
+    { "order": 5, "title": "Na dno nocy", "titleOriginal": "Night Probe!", "yearOriginal": 1981, "type": "powieść" },
+    { "order": 6, "title": "Wir Pacyfiku", "titleOriginal": "Pacific Vortex!", "yearOriginal": 1983, "type": "powieść" },
+    { "order": 7, "title": "Operacja HF", "titleOriginal": "Deep Six", "yearOriginal": 1984, "type": "powieść" },
+    { "order": 8, "title": "Cyklop", "titleOriginal": "Cyclops", "yearOriginal": 1986, "type": "powieść" },
+    { "order": 9, "title": "Skarb", "titleOriginal": "Treasure", "yearOriginal": 1988, "type": "powieść" },
+    { "order": 10, "title": "Smok", "titleOriginal": "Dragon", "yearOriginal": 1990, "type": "powieść" },
+    { "order": 11, "title": "Sahara", "yearOriginal": 1992, "type": "powieść" },
+    { "order": 12, "title": "Złoto Inków", "titleOriginal": "Inca Gold", "yearOriginal": 1994, "type": "powieść" },
+    { "order": 13, "title": "Zabójcze wibracje", "titleOriginal": "Shock Wave", "yearOriginal": 1996, "type": "powieść" },
+    { "order": 14, "title": "Potop", "titleOriginal": "Flood Tide", "yearOriginal": 1997, "type": "powieść" },
+    { "order": 15, "title": "Atlantyda Odnaleziona", "titleOriginal": "Atlantis Found", "yearOriginal": 1999, "type": "powieść" },
+    { "order": 16, "title": "Cerber", "titleOriginal": "Valhalla Rising", "yearOriginal": 2001, "type": "powieść" },
+    { "order": 17, "title": "Odyseja trojańska", "titleOriginal": "Trojan Odyssey", "yearOriginal": 2003, "type": "powieść" },
+    { "order": 18, "title": "Czarny wiatr", "titleOriginal": "Black Wind", "yearOriginal": 2004, "yearPolish": 2005, "type": "powieść" },
+    { "order": 19, "title": "Skarb Czyngis-chana", "titleOriginal": "Treasure of Khan", "yearOriginal": 2006, "yearPolish": 2007, "type": "powieść" },
+    { "order": 20, "title": "Arktyczna mgła", "titleOriginal": "Arctic Drift", "yearOriginal": 2008, "yearPolish": 2009, "type": "powieść" },
+    { "order": 21, "title": "Świt Półksiężyca", "titleOriginal": "Crescent Dawn", "yearOriginal": 2010, "yearPolish": 2011, "type": "powieść" },
+    { "order": 22, "title": "Strzała Posejdona", "titleOriginal": "Poseidon's Arrow", "yearOriginal": 2012, "yearPolish": 2013, "type": "powieść" },
+    { "order": 23, "title": "Burza nad Hawaną", "titleOriginal": "Havana Storm", "yearOriginal": 2014, "yearPolish": 2015, "type": "powieść" },
+    { "order": 24, "title": "Złoto Cara", "titleOriginal": "Odessa Sea", "yearOriginal": 2016, "yearPolish": 2017, "type": "powieść" },
+    { "order": 25, "title": "Celtic Empire", "yearOriginal": 2019, "type": "powieść" },
+    { "order": 26, "title": "The Devil's Sea", "yearOriginal": 2021, "type": "powieść" },
+    { "order": 27, "title": "The Corsican Shadow", "yearOriginal": 2023, "type": "powieść" },
+    { "order": 28, "title": "Obsidian Sky", "yearOriginal": 2026, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Dirka Pitta?", "answer": "W kolejności wydania, od Afery śródziemnomorskiej (1973). Powieści łączą się luźno, ale historia rodziny Pittów narasta z tomu na tom — dzieci Dirka pojawiają się w Czarnym wietrze (2004) i wracają w późniejszych częściach." },
+    { "question": "Ile książek liczy seria Dirk Pitt?", "answer": "28 powieści wydanych w latach 1973–2026. Od tomu Czarny wiatr (2004) serię współpisał syn autora Dirk Cussler, który po śmierci Clive'a w 2020 roku samodzielnie prowadzi cykl." },
+    { "question": "Czy Pacific Vortex! czytać jako szósty?", "answer": "Tak — Pacific Vortex! powstał jako pierwsza napisana powieść o Pittcie, ale ukazał się dopiero w 1983 roku, jako szósta z kolei. W kolejności wydania czyta się go więc po Na dnie nocy (1981), a nie na początku serii." }
+  ],
+  "relatedSeries": ["pan-samochodzik", "aubrey-maturin", "mitch-rapp"]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Koszmarny Karolek",
+  "titleOriginal": "Horrid Henry",
+  "author": "Francesca Simon",
+  "authorSlug": "francesca-simon",
+  "genre": ["komedia"],
+  "description": "Kolejność czytania serii Koszmarny Karolek Franceski Simon. Dwadzieścia pięć tomów przygód najkoszmarniejszego chłopca w literaturze dziecięcej, od Koszmarnego Karolka po Up, Up and Away.",
+  "books": [
+    { "order": 1, "title": "Koszmarny Karolek", "titleOriginal": "Horrid Henry", "yearOriginal": 1994, "yearPolish": 1994, "type": "tom" },
+    { "order": 2, "title": "Koszmarny Karolek i Tajny Klub", "titleOriginal": "Horrid Henry and the Secret Club", "yearOriginal": 1995, "yearPolish": 2002, "type": "tom" },
+    { "order": 3, "title": "Koszmarny Karolek i Zębowa Wróżka", "titleOriginal": "Horrid Henry Tricks the Tooth Fairy", "yearOriginal": 1996, "type": "tom" },
+    { "order": 4, "title": "Koszmarny Karolek i wszy", "titleOriginal": "Horrid Henry's Nits", "yearOriginal": 1997, "type": "tom" },
+    { "order": 5, "title": "Koszmarny Karolek i wielka forsa", "titleOriginal": "Horrid Henry Gets Rich Quick", "yearOriginal": 1998, "yearPolish": 2002, "type": "tom" },
+    { "order": 6, "title": "Koszmarny Karolek i nawiedzony dom", "titleOriginal": "Horrid Henry's Haunted House", "yearOriginal": 1999, "yearPolish": 2002, "type": "tom" },
+    { "order": 7, "title": "Koszmarny Karolek i klątwa mumii", "titleOriginal": "Horrid Henry and the Mummy's Curse", "yearOriginal": 2000, "type": "tom" },
+    { "order": 8, "title": "Zemsta Koszmarnego Karolka", "titleOriginal": "Horrid Henry's Revenge", "yearOriginal": 2001, "type": "tom" },
+    { "order": 9, "title": "Koszmarny Karolek i nieznośna niania", "titleOriginal": "Horrid Henry and the Bogey Babysitter", "yearOriginal": 2002, "yearPolish": 2005, "type": "tom" },
+    { "order": 10, "title": "Koszmarny Karolek i cuchnąca bomba", "titleOriginal": "Horrid Henry's Stinkbomb", "yearOriginal": 2002, "type": "tom" },
+    { "order": 11, "title": "Koszmarny Karolek i wstrętne gacie", "titleOriginal": "Horrid Henry's Underpants", "yearOriginal": 2003, "yearPolish": 2004, "type": "tom" },
+    { "order": 12, "title": "Koszmarny Karolek i wizyta królowej", "titleOriginal": "Horrid Henry Meets the Queen", "yearOriginal": 2004, "type": "tom" },
+    { "order": 13, "title": "Koszmarny Karolek i megabombowa machina czasowa", "titleOriginal": "Horrid Henry and the Mega-Mean Time Machine", "yearOriginal": 2005, "yearPolish": 2008, "type": "tom" },
+    { "order": 14, "title": "Koszmarny Karolek i Bestia Boiska", "titleOriginal": "Horrid Henry and the Football Fiend", "yearOriginal": 2006, "yearPolish": 2008, "type": "tom" },
+    { "order": 15, "title": "Koszmarny Karolek i wigilijne figle", "titleOriginal": "Horrid Henry's Christmas Cracker", "yearOriginal": 2006, "yearPolish": 2008, "type": "tom" },
+    { "order": 16, "title": "Koszmarny Karolek i straszliwy śniegowy potwór", "titleOriginal": "Horrid Henry and the Abominable Snowman", "yearOriginal": 2007, "type": "tom" },
+    { "order": 17, "title": "Koszmarny Karolek i napad na bank", "titleOriginal": "Horrid Henry Robs the Bank", "yearOriginal": 2008, "yearPolish": 2009, "type": "tom" },
+    { "order": 18, "title": "Koszmarny Karolek niepokoi nieboszczyka", "titleOriginal": "Horrid Henry Wakes the Dead", "yearOriginal": 2009, "type": "tom" },
+    { "order": 19, "title": "Koszmarny Karolek i koncert szczurów", "titleOriginal": "Horrid Henry Rocks!", "yearOriginal": 2010, "type": "tom" },
+    { "order": 20, "title": "Koszmarny Karolek i wampirozombi", "titleOriginal": "Horrid Henry and the Zombie Vampire", "yearOriginal": 2011, "yearPolish": 2011, "type": "tom" },
+    { "order": 21, "title": "Koszmarny Karolek i kino grozy", "titleOriginal": "Horrid Henry's Monster Movie", "yearOriginal": 2012, "yearPolish": 2012, "type": "tom" },
+    { "order": 22, "title": "Horrid Henry's Nightmare", "yearOriginal": 2013, "type": "tom" },
+    { "order": 23, "title": "Horrid Henry's Krazy Ketchup", "yearOriginal": 2014, "type": "tom" },
+    { "order": 24, "title": "Horrid Henry's Cannibal Curse", "yearOriginal": 2015, "type": "tom" },
+    { "order": 25, "title": "Horrid Henry: Up, Up and Away", "yearOriginal": 2019, "type": "tom" },
+    { "order": 26, "title": "Horrid Henry's Bedtime", "yearOriginal": 2005, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Koszmarnego Karolka?", "answer": "Każdy tomik to cztery niezależne, zabawne historie, więc można zaczynać od dowolnego. Najprzyjemniej jednak iść za kolejnością wydania — od pierwszego Koszmarnego Karolka z 1994 roku." },
+    { "question": "Ile książek liczy seria?", "answer": "Dwadzieścia cztery główne tomiki z lat 1994–2015 oraz rocznicowy Horrid Henry: Up, Up and Away z 2019 roku. W Polsce większość wczesnych tomów wydało wydawnictwo Znak." },
+    { "question": "Czym różnią się główne tomiki od pozostałych książek?", "answer": "Główne tomiki zawierają po cztery historie z czarno-białymi ilustracjami Tony'ego Rossa. Osobno wydano serię Early Readers z pojedynczymi historiami dla młodszych czytelników, zbiory opowiadań i książki z żartami — tych pozycji nie uwzględniamy w kolejności." }
+  ],
+  "relatedSeries": ["dziennik-cwaniaczka", "wielki-nate", "dog-man"]
+}

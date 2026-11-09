@@ -1,0 +1,31 @@
+{
+  "title": "Pan Samochodzik",
+  "author": "Zbigniew Nienacki",
+  "authorSlug": "zbigniew-nienacki",
+  "genre": ["przygodowa", "klasyka"],
+  "description": "Kolejność czytania książek z cyklu Pan Samochodzik Zbigniewa Nienackiego. Dwanaście powieści o historyku sztuki tropiącym zagadki zabytków, od Wyspy Złoczyńców (1964) po Pana Samochodzika i człowieka z UFO (1985).",
+  "books": [
+    { "order": 1, "title": "Wyspa Złoczyńców", "yearOriginal": 1964, "type": "powieść" },
+    { "order": 2, "title": "Pan Samochodzik i templariusze", "yearOriginal": 1966, "type": "powieść" },
+    { "order": 3, "title": "Księga strachów", "yearOriginal": 1967, "type": "powieść" },
+    { "order": 4, "title": "Niesamowity dwór", "yearOriginal": 1970, "type": "powieść" },
+    { "order": 5, "title": "Nowe przygody Pana Samochodzika", "yearOriginal": 1970, "type": "powieść" },
+    { "order": 6, "title": "Pan Samochodzik i zagadki Fromborka", "yearOriginal": 1972, "type": "powieść" },
+    { "order": 7, "title": "Pan Samochodzik i Fantomas", "yearOriginal": 1973, "type": "powieść" },
+    { "order": 8, "title": "Pan Samochodzik i tajemnica tajemnic", "yearOriginal": 1975, "type": "powieść" },
+    { "order": 9, "title": "Pan Samochodzik i Winnetou", "yearOriginal": 1976, "type": "powieść" },
+    { "order": 10, "title": "Pan Samochodzik i Niewidzialni", "yearOriginal": 1977, "type": "powieść" },
+    { "order": 11, "title": "Pan Samochodzik i złota rękawica", "yearOriginal": 1979, "type": "powieść" },
+    { "order": 12, "title": "Pan Samochodzik i człowiek z UFO", "yearOriginal": 1985, "type": "powieść" },
+    { "order": 13, "title": "Uroczysko", "yearOriginal": 1957, "type": "powiązane" },
+    { "order": 14, "title": "Skarb Atanaryka", "yearOriginal": 1960, "type": "powiązane" },
+    { "order": 15, "title": "Pozwolenie na przywóz lwa", "yearOriginal": 1961, "type": "powiązane" },
+    { "order": 16, "title": "Pan Samochodzik i nieuchwytny kolekcjoner", "yearOriginal": 1997, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Pana Samochodzika?", "answer": "W kolejności wydania, od Wyspy Złoczyńców (1964) — to tom, w którym poznajemy bohatera i jego wehikuł. Kolejne powieści są w zasadzie samodzielne, ale znajomość wcześniejszych przygód i postaci drugoplanowych dużo daje." },
+    { "question": "Ile książek o Panu Samochodziku napisał Zbigniew Nienacki?", "answer": "Dwanaście powieści w latach 1964–1985. Trzy wcześniejsze książki z tym samym bohaterem-dziennikarzem (Uroczysko, Skarb Atanaryka, Pozwolenie na przywóz lwa) uznaje się za prequele cyklu, a po śmierci autora wydano tom dokończony przez Jerzego Ignaciuka." },
+    { "question": "Czy warto czytać kontynuacje innych autorów?", "answer": "To osobna seria wydawnictwa Warmia — ponad sto tomów pisanych pod pseudonimami (m.in. przez Andrzeja Pilipiuka). Są to kontynuacje w innym duchu i z innymi bohaterami; rdzenny cykl Nienackiego kończy się na tomie Pan Samochodzik i człowiek z UFO." }
+  ],
+  "relatedSeries": ["akademia-pana-kleksa", "zwiadowca", "bracia-hardy"]
+}

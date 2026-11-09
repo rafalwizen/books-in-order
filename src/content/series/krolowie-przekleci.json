@@ -1,0 +1,22 @@
+{
+  "title": "Królowie przeklęci",
+  "author": "Maurice Druon",
+  "authorSlug": "maurice-druon",
+  "genre": ["historyczna"],
+  "description": "Kolejność czytania cyklu Królowie przeklęci Maurice'a Druona. Wszystkie 7 tomów intryg dynastycznych Kapetyngów, od Króla z żelaza (1955) po Kiedy król gubi kraj (1977).",
+  "books": [
+    { "order": 1, "title": "Król z żelaza", "titleOriginal": "Le Roi de fer", "yearOriginal": 1955, "type": "powieść" },
+    { "order": 2, "title": "Zamordowana królowa", "titleOriginal": "La Reine étranglée", "yearOriginal": 1955, "type": "powieść" },
+    { "order": 3, "title": "Trucizna królewska", "titleOriginal": "Les Poisons de la couronne", "yearOriginal": 1956, "type": "powieść" },
+    { "order": 4, "title": "Prawo mężczyzn", "titleOriginal": "La Loi des mâles", "yearOriginal": 1957, "type": "powieść" },
+    { "order": 5, "title": "Wilczyca z Francji", "titleOriginal": "La Louve de France", "yearOriginal": 1959, "type": "powieść" },
+    { "order": 6, "title": "Lew i lilie", "titleOriginal": "Le Lis et le Lion", "yearOriginal": 1960, "type": "powieść" },
+    { "order": 7, "title": "Kiedy król gubi kraj", "titleOriginal": "Quand un Roi perd la France", "yearOriginal": 1977, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Królów przeklętych?", "answer": "Wyłącznie w kolejności wydania, od Króla z żelaza. To jedna ciągła opowieść o upadku rodu Kapetyngów, a przez wszystkie tomy biegnie wątek Roberta d'Artois walczącego o hrabstwo Artois — zaczynanie ze środka psuje większość intryg." },
+    { "question": "Czy siódmy tom jest obowiązkowy?", "answer": "Główna historia zamyka się w tomie szóstym, Lew i lilie. Siódmy tom, Kiedy król gubi kraj, powstał aż siedemnaście lat później i ma inną konstrukcję — to raczej epilog losów Francji niż klasyczna część cyklu, ale po polsku ukazał się w komplecie." },
+    { "question": "Czy warto znać serial przed książkami?", "answer": "Najpierw książki. Cykl ekranizowano dwukrotnie — w 1972 roku we Francji i w 2005 roku w reżyserii Josée Dayan — ale oba seriale skracają gęstą sieć intryg Druona do kilkudziesięciu minut na tom." }
+  ],
+  "relatedSeries": ["kingsbridge", "kadfael", "krystyna-corka-lavransa"]
+}

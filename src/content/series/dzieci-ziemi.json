@@ -1,0 +1,21 @@
+{
+  "title": "Dzieci Ziemi",
+  "author": "Jean M. Auel",
+  "authorSlug": "jean-m-auel",
+  "genre": ["historyczna", "fantasy"],
+  "description": "Kolejność czytania cyklu Dzieci Ziemi Jean M. Auel. Wszystkie 6 tomów prehistorycznej sagi Ayli, od Klanu niedźwiedzia jaskiniowego (1980) po Krainę jaskiń (2011).",
+  "books": [
+    { "order": 1, "title": "Klan niedźwiedzia jaskiniowego", "titleOriginal": "The Clan of the Cave Bear", "yearOriginal": 1980, "type": "powieść" },
+    { "order": 2, "title": "Dolina koni", "titleOriginal": "The Valley of Horses", "yearOriginal": 1982, "type": "powieść" },
+    { "order": 3, "title": "Łowcy mamutów", "titleOriginal": "The Mammoth Hunters", "yearOriginal": 1985, "type": "powieść" },
+    { "order": 4, "title": "Wielka wędrówka", "titleOriginal": "The Plains of Passage", "yearOriginal": 1990, "type": "powieść" },
+    { "order": 5, "title": "Kamienne sadyby", "titleOriginal": "The Shelters of Stone", "yearOriginal": 2002, "type": "powieść" },
+    { "order": 6, "title": "Kraina jaskiń", "titleOriginal": "The Land of Painted Caves", "yearOriginal": 2011, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Dzieci Ziemi?", "answer": "W kolejności wydania, od Klanu niedźwiedzia jaskiniowego. Sześć tomów to jedna ciągła biografia Ayli — od dziewczynki wychowanej przez neandertalczyków po dorosłą kobietę — więc każda zmiana kolejności odbiera wcześniejsze wątki." },
+    { "question": "Czy powstanie siódmy tom?", "answer": "Jean M. Auel wspominała w wywiadach o możliwym siódmym tomie, ale promocja Krainy jaskiń (2011) zapowiadała go jako finał cyklu i od tamtej pory nie ukazała się żadna kontynuacja." },
+    { "question": "Czy film zastąpi pierwszą książkę?", "answer": "Nie. Ekranizacja Klanu niedźwiedzia jaskiniowego z 1986 roku z Daryl Hannah obejmuje tylko pierwszy tom i znacznie upraszcza jego fabułę — książka wprowadza znacznie więcej postaci klanu i zwyczajów." }
+  ],
+  "relatedSeries": ["kingsbridge", "kolo-czasu"]
+}

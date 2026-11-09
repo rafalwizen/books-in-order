@@ -1,0 +1,18 @@
+{
+  "title": "Akademia pana Kleksa",
+  "author": "Jan Brzechwa",
+  "authorSlug": "jan-brzechwa",
+  "genre": ["fantasy", "klasyka"],
+  "description": "Kolejność czytania trylogii pana Kleksa Jana Brzechwy. Od Akademii pana Kleksa przez Podróże po Tryumf — klasyczna polska fantazja o szkole, w której wykłada się kleksografię.",
+  "books": [
+    { "order": 1, "title": "Akademia pana Kleksa", "yearOriginal": 1946, "type": "powieść" },
+    { "order": 2, "title": "Podróże pana Kleksa", "yearOriginal": 1961, "type": "powieść" },
+    { "order": 3, "title": "Tryumf pana Kleksa", "yearOriginal": 1965, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać pana Kleksa?", "answer": "W kolejności wydania: Akademia pana Kleksa, Podróże pana Kleksa i Tryumf pana Kleksa. Adaś Niezgódka i pan Kleks przechodzą przez wszystkie trzy tomy, a akcja biegnie liniowo." },
+    { "question": "Ile książek o panie Kleksie napisał Brzechwa?", "answer": "Trzy — z lat 1946, 1961 i 1965. Kultowe ekranizacje z Piotrem Fronczewskim oraz film z 2024 roku powstały na ich podstawie, ale nie są osobnymi książkami Brzechwy." },
+    { "question": "Czy Akademia pana Kleksa to lektura szkolna?", "answer": "Tak — pierwsza część należy do kanonu polskiej literatury dziecięcej i list lektur. Świetnie sprawdza się jako pierwszy tom do czytania na głos, bo rozdziały są krótkie i pełne absurdalnego humoru." }
+  ],
+  "relatedSeries": ["opowiesci-z-narnii", "kraina-oz"]
+}

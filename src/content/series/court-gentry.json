@@ -1,0 +1,31 @@
+{
+  "title": "Court Gentry",
+  "author": "Mark Greaney",
+  "authorSlug": "mark-greaney",
+  "genre": ["thriller"],
+  "description": "Kolejność czytania serii Court Gentry Marka Greaneya, znanej także jako Gray Man. Wszystkie powieści o najemniku zwanym Szarym Człowiekiem, ściganym przez dawnych mocodawców z CIA, od The Gray Man (2009).",
+  "books": [
+    { "order": 1, "title": "The Gray Man", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 2, "title": "On Target", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 3, "title": "Ballistic", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 4, "title": "Dead Eye", "yearOriginal": 2013, "type": "powieść" },
+    { "order": 5, "title": "Back Blast", "yearOriginal": 2016, "type": "powieść" },
+    { "order": 6, "title": "Gunmetal Gray", "yearOriginal": 2017, "type": "powieść" },
+    { "order": 7, "title": "Agent in Place", "yearOriginal": 2018, "type": "powieść" },
+    { "order": 8, "title": "Mission Critical", "yearOriginal": 2019, "type": "powieść" },
+    { "order": 9, "title": "One Minute Out", "yearOriginal": 2020, "type": "powieść" },
+    { "order": 10, "title": "Relentless", "yearOriginal": 2021, "type": "powieść" },
+    { "order": 11, "title": "Sierra Six", "yearOriginal": 2022, "type": "powieść" },
+    { "order": 12, "title": "Burner", "yearOriginal": 2023, "type": "powieść" },
+    { "order": 13, "title": "The Chaos Agent", "yearOriginal": 2024, "type": "powieść" },
+    { "order": 14, "title": "Midnight Black", "yearOriginal": 2025, "type": "powieść" },
+    { "order": 15, "title": "The Hard Line", "yearOriginal": 2026, "type": "powieść" },
+    { "order": 16, "title": "Dark Union", "yearOriginal": 2027, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać serię Court Gentry?", "answer": "W kolejności wydania, od The Gray Man (2009). Zlecenia są odrębne, ale główny wątek — kto i dlaczego wykraścił Gentry'emu przeszłość i dlaczego CIA go ściga — narasta zwłaszcza od tomu Back Blast (2016)." },
+    { "question": "Ile książek liczy seria Gray Man?", "answer": "Piętnaście powieści opublikowanych w latach 2009–2026, od The Gray Man po The Hard Line, z szesnastym tomem Dark Union zapowiedzianym na 2027 rok. Mark Greaney pisze serię samodzielnie." },
+    { "question": "Czy film The Gray Man z Netflixa opiera się na książce?", "answer": "Tak, The Gray Man (2022) z Ryanem Goslingiem to swobodna adaptacja pierwszego tomu z 2009 roku. Fabuła filmu mocno odbiega od powieści, a kolejne części serii nie zostały dotąd sfilmowane." }
+  ],
+  "relatedSeries": ["jack-reacher", "mitch-rapp", "will-robie"]
+}

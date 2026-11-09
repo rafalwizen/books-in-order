@@ -1,0 +1,33 @@
+{
+  "title": "CHERUB",
+  "author": "Robert Muchamore",
+  "authorSlug": "robert-muchamore",
+  "genre": ["young-adult", "thriller"],
+  "description": "Kolejność czytania serii CHERUB Roberta Muchamore. Osiemnaście książek o nastoletnich agentach tajnej brytyjskiej organizacji wywiadowczej — od Rekruta (2004) po New Guard (2016).",
+  "books": [
+    { "order": 1, "title": "Rekrut", "titleOriginal": "The Recruit", "yearOriginal": 2004, "yearPolish": 2007, "type": "powieść" },
+    { "order": 2, "title": "Kurier", "titleOriginal": "Class A", "yearOriginal": 2004, "yearPolish": 2008, "type": "powieść" },
+    { "order": 3, "title": "Ucieczka", "titleOriginal": "Maximum Security", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 4, "title": "Świadek", "titleOriginal": "The Killing", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 5, "title": "Sekta", "titleOriginal": "Divine Madness", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 6, "title": "Bojownicy", "titleOriginal": "Man vs. Beast", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 7, "title": "Wpadka", "titleOriginal": "The Fall", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 8, "title": "Gangster", "titleOriginal": "Mad Dogs", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 9, "title": "Lunatyk", "titleOriginal": "The Sleepwalker", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 10, "title": "Czarne Słońce", "titleOriginal": "Dark Sun", "yearOriginal": 2008, "type": "opowiadanie" },
+    { "order": 11, "title": "Generał", "titleOriginal": "The General", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 12, "title": "Bandyci", "titleOriginal": "Brigands M.C.", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 13, "title": "Fala", "titleOriginal": "Shadow Wave", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 14, "title": "Republika", "titleOriginal": "People's Republic", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 15, "title": "Anioł Stróż", "titleOriginal": "Guardian Angel", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 16, "title": "Czarny Piątek", "titleOriginal": "Black Friday", "yearOriginal": 2013, "type": "powieść" },
+    { "order": 17, "title": "Odwet", "titleOriginal": "Lone Wolf", "yearOriginal": 2014, "type": "powieść" },
+    { "order": 18, "title": "New Guard", "yearOriginal": 2016, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać CHERUB?", "answer": "Od Rekruta (2004) i dalej w kolejności wydania. James Adams zaczyna jako jedenastoletni rekrut, a z każdym tomem przechodzi kolejne szczeble kariery agenta, więc kolejność publikacji jest jedyną sensowną." },
+    { "question": "Ile książek liczy seria CHERUB?", "answer": "Siedemnaście powieści oraz nowela Czarne Słońce z 2008 roku, napisana z okazji World Book Day. W Polsce serię wydaje Egmont; polski tytuł ostatniego tomu, New Guard (2016), nie został potwierdzony." },
+    { "question": "Co to jest druga seria CHERUB?", "answer": "Od tomu Republika (2011) zaczyna się druga seria, zwana Aramov — nowym głównym bohaterem jest Ryan Sharma, a dorosły już James Adams wraca na kampus jako personel. Najpierw warto znać zakończenie pierwszej serii." }
+  ],
+  "relatedSeries": ["alex-rider", "igrzyska-smierci"]
+}

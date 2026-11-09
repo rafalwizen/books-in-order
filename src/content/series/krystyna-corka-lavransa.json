@@ -1,0 +1,18 @@
+{
+  "title": "Krystyna, córka Lavransa",
+  "author": "Sigrid Undset",
+  "authorSlug": "sigrid-undset",
+  "genre": ["historyczna", "klasyka"],
+  "description": "Kolejność czytania trylogii Krystyna, córka Lavransa Sigrid Undset. Trzy tomy życia bohaterki w średniowiecznej Norwegii — Wianek, Żona i Krzyż (1920-1922), podstawa Nobla z 1928 roku.",
+  "books": [
+    { "order": 1, "title": "Wianek", "titleOriginal": "Kransen", "yearOriginal": 1920, "yearPolish": 1929, "type": "powieść" },
+    { "order": 2, "title": "Żona", "titleOriginal": "Husfrue", "yearOriginal": 1921, "yearPolish": 1929, "type": "powieść" },
+    { "order": 3, "title": "Krzyż", "titleOriginal": "Korset", "yearOriginal": 1922, "yearPolish": 1929, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Krystynę, córkę Lavransa?", "answer": "Zawsze od Wianka przez Żonę po Krzyż. To kronika jednego życia — od dzieciństwa Krystyny przez małżeństwo z Erlendem po starość — a każdy tom czerpie z zamkniętych wydarzeń poprzedniego, więc kolejność jest jedyną możliwą." },
+    { "question": "Za co Undset dostała Nagrodę Nobla?", "answer": "Sigrid Undset otrzymała Literacką Nagrodę Nobla w 1928 roku, przyznaną „szczególnie za jej wspaniałe opisy życia w średniowiecznej Skandynawii” — właśnie ta trylogia była główną podstawą wyróżnienia." },
+    { "question": "Czy istnieje ekranizacja trylogii?", "answer": "Tak, w 1995 roku Liv Ullmann zekranizowała trylogię jako Kristin Lavransdatter. Film obejmuje głównie wątek miłosny Krystyny i Erlenda, więc książki wciąż dają znacznie pełniejszy obraz całego cyklu." }
+  ],
+  "relatedSeries": ["krolowie-przekleci", "trylogia-sienkiewicza", "kadfael"]
+}

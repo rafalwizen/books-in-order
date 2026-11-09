@@ -1,0 +1,18 @@
+{
+  "title": "Trylogia stulecia",
+  "author": "Ken Follett",
+  "authorSlug": "ken-follett",
+  "genre": ["historyczna"],
+  "description": "Kolejność czytania Trylogii stulecia Kena Folletta. Trzy tomy sagi pięciu rodzin przemierzających XX wiek — Upadek gigantów, Zima świata i Krawędź wieczności (2010-2014).",
+  "books": [
+    { "order": 1, "title": "Upadek gigantów", "titleOriginal": "Fall of Giants", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 2, "title": "Zima świata", "titleOriginal": "Winter of the World", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 3, "title": "Krawędź wieczności", "titleOriginal": "Edge of Eternity", "yearOriginal": 2014, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Trylogię stulecia?", "answer": "W kolejności wydania, która jest też porządkiem chronologicznym: Upadek gigantów obejmuje pierwszą wojnę światową i rewolucję rosyjską, Zima świata drugą wojnę światową, a Krawędź wieczności zimną wojnę. Dzieci bohaterów przejmują rolę narratorów w kolejnych tomach." },
+    { "question": "Czy Trylogia stulecia łączy się z Kingsbridge?", "answer": "Nie, to dwie odrębne serie. Kingsbridge opowiada o fikcyjnym angielskim miasteczku na przestrzeni wieków, a Trylogia stulecia śledzi pięć rodzin — walijską, niemiecką, rosyjską, amerykańską i angielską — przez całe XX stulecie." },
+    { "question": "Czy to zakończona seria?", "answer": "Tak, trylogia jest zamknięta — Krawędź wieczności z 2014 roku zamyka losy trzech pokoleń. Ken Follett po jej zakończeniu wrócił do serii Kingsbridge, publikując kolejne jej tomy." }
+  ],
+  "relatedSeries": ["kingsbridge", "kroniki-saskie"]
+}
