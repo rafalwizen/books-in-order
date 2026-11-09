@@ -1,76 +1,942 @@
 {
   "series": [
     {
-      "slug": "swiat-dysku",
-      "title": "Świat Dysku",
-      "aliases": ["Discworld"],
+      "slug": "39-clues",
+      "title": "39 wskazówek",
+      "aliases": [
+        "The 39 Clues"
+      ]
+    },
+    {
+      "slug": "adam-dalgliesh",
+      "title": "Adam Dalgliesh",
+      "aliases": []
+    },
+    {
+      "slug": "akademia-pana-kleksa",
+      "title": "Akademia pana Kleksa",
+      "aliases": []
+    },
+    {
+      "slug": "akta-dresdena",
+      "title": "Akta Dresdena",
+      "aliases": [
+        "The Dresden Files"
+      ]
+    },
+    {
+      "slug": "alex-cross",
+      "title": "Alex Cross",
+      "aliases": []
+    },
+    {
+      "slug": "alex-rider",
+      "title": "Alex Rider",
+      "aliases": []
+    },
+    {
+      "slug": "amos-decker",
+      "title": "Amos Decker",
+      "aliases": []
+    },
+    {
+      "slug": "ania-z-zielonego-wzgorza",
+      "title": "Ania z Zielonego Wzgórza",
+      "aliases": [
+        "Anne of Green Gables"
+      ]
+    },
+    {
+      "slug": "anita-blake",
+      "title": "Anita Blake",
+      "aliases": [
+        "Anita Blake: Vampire Hunter"
+      ]
+    },
+    {
+      "slug": "archiwum-burzy",
+      "title": "Archiwum Burzy",
+      "aliases": [
+        "The Stormlight Archive"
+      ]
+    },
+    {
+      "slug": "aubrey-maturin",
+      "title": "Aubrey i Maturin",
+      "aliases": [
+        "Aubrey–Maturin series"
+      ]
+    },
+    {
+      "slug": "autostopem-przez-galaktyke",
+      "title": "Autostopem przez Galaktykę",
+      "aliases": [
+        "The Hitchhiker's Guide to the Galaxy"
+      ]
+    },
+    {
+      "slug": "barsoom",
+      "title": "Barsoom",
+      "aliases": []
+    },
+    {
+      "slug": "belgariada",
+      "title": "Belgariada",
+      "aliases": [
+        "The Belgariad"
+      ]
+    },
+    {
+      "slug": "biuro-nr-1",
+      "title": "Damskie biuro detektywistyczne",
+      "aliases": [
+        "The No. 1 Ladies' Detective Agency"
+      ]
+    },
+    {
+      "slug": "bohaterowie-olimpu",
+      "title": "Bohaterowie Olimpu",
+      "aliases": [
+        "The Heroes of Olympus"
+      ]
+    },
+    {
+      "slug": "bracia-hardy",
+      "title": "Bracia Hardy",
+      "aliases": [
+        "The Hardy Boys"
+      ]
+    },
+    {
+      "slug": "charlie-parker",
+      "title": "Charlie Parker",
+      "aliases": []
+    },
+    {
+      "slug": "cherub",
+      "title": "CHERUB",
+      "aliases": []
+    },
+    {
+      "slug": "chylka",
+      "title": "Joanna Chyłka",
+      "aliases": []
+    },
+    {
+      "slug": "conan",
+      "title": "Conan",
+      "aliases": []
+    },
+    {
+      "slug": "cormoran-strike",
+      "title": "Cormoran Strike",
+      "aliases": []
+    },
+    {
+      "slug": "court-gentry",
+      "title": "Court Gentry",
+      "aliases": [
+        "Gray Man"
+      ]
+    },
+    {
+      "slug": "crescent-city",
+      "title": "Crescent City",
+      "aliases": []
+    },
+    {
+      "slug": "cykl-dziedzictwa",
+      "title": "Cykl Dziedzictwa",
+      "aliases": [
+        "The Inheritance Cycle"
+      ]
+    },
+    {
+      "slug": "cykl-fundacji",
+      "title": "Cykl Fundacji",
+      "aliases": [
+        "Foundation series"
+      ],
       "wiki": {
-        "project": "pl",
-        "article": "Świat Dysku",
-        "fallbacks": [{ "project": "en", "article": "Discworld" }]
+        "project": "en",
+        "article": "Foundation series"
       }
     },
     {
-      "slug": "wiedzmin",
-      "title": "Wiedźmin",
-      "aliases": ["The Witcher"],
+      "slug": "czarna-kompania",
+      "title": "Czarna Kompania",
+      "aliases": [
+        "The Black Company"
+      ]
+    },
+    {
+      "slug": "czwarte-skrzydlo",
+      "title": "Czwarte skrzydło",
+      "aliases": [
+        "Empyrean"
+      ]
+    },
+    {
+      "slug": "dirk-pitt",
+      "title": "Dirk Pitt",
+      "aliases": []
+    },
+    {
+      "slug": "diuma",
+      "title": "Diuna",
+      "aliases": [
+        "Dune"
+      ],
       "wiki": {
-        "project": "pl",
-        "article": "Wiedźmin",
-        "fallbacks": [{ "project": "en", "article": "The Witcher" }]
+        "project": "en",
+        "article": "Dune (franchise)",
+        "fallbacks": [
+          {
+            "project": "en",
+            "article": "Dune (novel)"
+          }
+        ]
       }
+    },
+    {
+      "slug": "do-wszystkich-chlopow",
+      "title": "Do wszystkich chłopców, których kochałam",
+      "aliases": [
+        "To All the Boys I've Loved Before"
+      ]
+    },
+    {
+      "slug": "dog-man",
+      "title": "Dog Man",
+      "aliases": []
+    },
+    {
+      "slug": "dork-diaries",
+      "title": "Dziennik Nikki",
+      "aliases": [
+        "Dork Diaries"
+      ]
+    },
+    {
+      "slug": "dungeon-crawler-carl",
+      "title": "Dungeon Crawler Carl",
+      "aliases": []
+    },
+    {
+      "slug": "dzieci-z-bullerbyn",
+      "title": "Dzieci z Bullerbyn",
+      "aliases": [
+        "The Children of Bullerbyn"
+      ]
+    },
+    {
+      "slug": "dzieci-ziemi",
+      "title": "Dzieci Ziemi",
+      "aliases": [
+        "Earth's Children"
+      ]
+    },
+    {
+      "slug": "dziennik-cwaniaczka",
+      "title": "Dziennik cwaniaczka",
+      "aliases": [
+        "Diary of a Wimpy Kid"
+      ]
+    },
+    {
+      "slug": "dzienniki-murderbota",
+      "title": "Dzienniki Murderbota",
+      "aliases": [
+        "The Murderbot Diaries"
+      ]
+    },
+    {
+      "slug": "ekspansja",
+      "title": "Ekspansja",
+      "aliases": [
+        "The Expanse"
+      ]
+    },
+    {
+      "slug": "flashman",
+      "title": "The Flashman Papers",
+      "aliases": []
+    },
+    {
+      "slug": "geronimo-stilton",
+      "title": "Geronimo Stilton",
+      "aliases": []
+    },
+    {
+      "slug": "gra-o-tron",
+      "title": "Pieśń Lodu i Ognia",
+      "aliases": [
+        "A Song of Ice and Fire",
+        "Game of Thrones"
+      ],
+      "wiki": {
+        "project": "en",
+        "article": "A Song of Ice and Fire"
+      }
+    },
+    {
+      "slug": "harry-bosch",
+      "title": "Harry Bosch",
+      "aliases": []
+    },
+    {
+      "slug": "harry-hole",
+      "title": "Harry Hole",
+      "aliases": []
     },
     {
       "slug": "harry-potter",
       "title": "Harry Potter",
       "aliases": [],
-      "wiki": { "project": "en", "article": "Harry Potter" }
-    },
-    {
-      "slug": "wladca-pierscieni",
-      "title": "Władca Pierścieni",
-      "aliases": ["The Lord of the Rings"],
-      "wiki": { "project": "en", "article": "The Lord of the Rings" }
-    },
-    {
-      "slug": "gra-o-tron",
-      "title": "Pieśń Lodu i Ognia",
-      "aliases": ["A Song of Ice and Fire", "Game of Thrones"],
-      "wiki": { "project": "en", "article": "A Song of Ice and Fire" }
-    },
-    {
-      "slug": "diuma",
-      "title": "Diuna",
-      "aliases": ["Dune"],
       "wiki": {
         "project": "en",
-        "article": "Dune (franchise)",
-        "fallbacks": [{ "project": "en", "article": "Dune (novel)" }]
+        "article": "Harry Potter"
       }
     },
     {
-      "slug": "cykl-fundacji",
-      "title": "Cykl Fundacji",
-      "aliases": ["Foundation series"],
-      "wiki": { "project": "en", "article": "Foundation series" }
+      "slug": "herkules-poirot",
+      "title": "Herkules Poirot",
+      "aliases": [
+        "Hercule Poirot"
+      ]
     },
     {
-      "slug": "ziemiomorze",
-      "title": "Ziemiomorze",
-      "aliases": ["Earthsea"],
-      "wiki": { "project": "en", "article": "Earthsea" }
+      "slug": "hornblower",
+      "title": "Hornblower",
+      "aliases": []
+    },
+    {
+      "slug": "horrid-henry",
+      "title": "Horrid Henry",
+      "aliases": [
+        "Koszmarny Karolek"
+      ]
+    },
+    {
+      "slug": "hyperion",
+      "title": "Hyperion",
+      "aliases": [
+        "Hyperion Cantos"
+      ]
     },
     {
       "slug": "igrzyska-smierci",
       "title": "Igrzyska Śmierci",
-      "aliases": ["The Hunger Games"],
-      "wiki": { "project": "en", "article": "The Hunger Games (novel series)" }
+      "aliases": [
+        "The Hunger Games"
+      ],
+      "wiki": {
+        "project": "en",
+        "article": "The Hunger Games (novel series)"
+      }
+    },
+    {
+      "slug": "in-death",
+      "title": "In Death",
+      "aliases": []
+    },
+    {
+      "slug": "inspektor-morse",
+      "title": "Inspektor Morse",
+      "aliases": []
+    },
+    {
+      "slug": "jack-reacher",
+      "title": "Jack Reacher",
+      "aliases": []
+    },
+    {
+      "slug": "jeeves",
+      "title": "Jeeves i Wooster",
+      "aliases": [
+        "Jeeves"
+      ]
+    },
+    {
+      "slug": "jezdzcy-smokow-z-pern",
+      "title": "Jeźdźcy smoków z Pern",
+      "aliases": [
+        "Dragonriders of Pern"
+      ]
+    },
+    {
+      "slug": "kadfael",
+      "title": "Kadfael",
+      "aliases": [
+        "The Cadfael Chronicles"
+      ]
+    },
+    {
+      "slug": "kapitan-majtas",
+      "title": "Kapitan Majtas",
+      "aliases": [
+        "Captain Underpants"
+      ]
+    },
+    {
+      "slug": "kay-scarpetta",
+      "title": "Kay Scarpetta",
+      "aliases": []
+    },
+    {
+      "slug": "kingsbridge",
+      "title": "Kingsbridge",
+      "aliases": [
+        "Kingsbridge series"
+      ]
+    },
+    {
+      "slug": "kolo-czasu",
+      "title": "Koło Czasu",
+      "aliases": [
+        "The Wheel of Time"
+      ]
+    },
+    {
+      "slug": "komedia-ludzka",
+      "title": "Komedia ludzka",
+      "aliases": [
+        "La Comédie humaine"
+      ]
+    },
+    {
+      "slug": "kraina-oz",
+      "title": "Kraina Oz",
+      "aliases": [
+        "The Oz Books"
+      ]
+    },
+    {
+      "slug": "krolowie-przekleci",
+      "title": "Królowie przeklęci",
+      "aliases": [
+        "The Accursed Kings",
+        "Les Rois maudits"
+      ]
+    },
+    {
+      "slug": "kronika-krolobojcy",
+      "title": "Kronika Królobójcy",
+      "aliases": [
+        "The Kingkiller Chronicle"
+      ]
+    },
+    {
+      "slug": "kroniki-amberu",
+      "title": "Kroniki Amberu",
+      "aliases": [
+        "The Chronicles of Amber"
+      ]
+    },
+    {
+      "slug": "kroniki-kane",
+      "title": "Kroniki Kane",
+      "aliases": [
+        "The Kane Chronicles"
+      ]
+    },
+    {
+      "slug": "kroniki-prydainu",
+      "title": "Kroniki Pydainu",
+      "aliases": [
+        "The Chronicles of Prydain"
+      ]
+    },
+    {
+      "slug": "kroniki-saskie",
+      "title": "Kroniki saskie",
+      "aliases": [
+        "The Saxon Stories"
+      ]
+    },
+    {
+      "slug": "kroniki-spiderwick",
+      "title": "Kroniki Spiderwick",
+      "aliases": [
+        "The Spiderwick Chronicles"
+      ]
+    },
+    {
+      "slug": "kroniki-wampirow",
+      "title": "Kroniki wampirów",
+      "aliases": [
+        "The Vampire Chronicles"
+      ]
+    },
+    {
+      "slug": "krystyna-corka-lavransa",
+      "title": "Krystyna, córka Lavransa",
+      "aliases": [
+        "Kristin Lavransdatter"
+      ]
+    },
+    {
+      "slug": "kultura",
+      "title": "Kultura",
+      "aliases": [
+        "The Culture"
+      ]
+    },
+    {
+      "slug": "kurt-wallander",
+      "title": "Kurt Wallander",
+      "aliases": [
+        "Wallander"
+      ]
+    },
+    {
+      "slug": "locked-tomb",
+      "title": "The Locked Tomb",
+      "aliases": []
+    },
+    {
+      "slug": "lord-peter-wimsey",
+      "title": "Lord Peter Wimsey",
+      "aliases": []
+    },
+    {
+      "slug": "magic-tree-house",
+      "title": "Magic Tree House",
+      "aliases": []
+    },
+    {
+      "slug": "malazanska-ksiega-poleglych",
+      "title": "Malazańska Księga Poległych",
+      "aliases": [
+        "Malazan Book of the Fallen"
+      ]
+    },
+    {
+      "slug": "malory-towers",
+      "title": "Malory Towers",
+      "aliases": []
+    },
+    {
+      "slug": "mary-poppins",
+      "title": "Mary Poppins",
+      "aliases": []
+    },
+    {
+      "slug": "maximum-ride",
+      "title": "Maximum Ride",
+      "aliases": []
+    },
+    {
+      "slug": "mickey-haller",
+      "title": "Mickey Haller",
+      "aliases": []
+    },
+    {
+      "slug": "miecz-prawdy",
+      "title": "Miecz Prawdy",
+      "aliases": [
+        "The Sword of Truth"
+      ]
+    },
+    {
+      "slug": "millennium",
+      "title": "Millennium",
+      "aliases": []
+    },
+    {
+      "slug": "mis-paddington",
+      "title": "Miś Paddington",
+      "aliases": [
+        "Paddington"
+      ]
+    },
+    {
+      "slug": "miss-marple",
+      "title": "Panna Marple",
+      "aliases": [
+        "Miss Marple"
+      ]
+    },
+    {
+      "slug": "mitch-rapp",
+      "title": "Mitch Rapp",
+      "aliases": []
+    },
+    {
+      "slug": "mroczna-wieza",
+      "title": "Mroczna Wieża",
+      "aliases": [
+        "The Dark Tower"
+      ]
+    },
+    {
+      "slug": "mroczne-materie",
+      "title": "Mroczne materie",
+      "aliases": [
+        "His Dark Materials"
+      ]
+    },
+    {
+      "slug": "muminki",
+      "title": "Muminki",
+      "aliases": [
+        "The Moomins"
+      ]
+    },
+    {
+      "slug": "nancy-drew",
+      "title": "Nancy Drew",
+      "aliases": []
+    },
+    {
+      "slug": "nero-wolfe",
+      "title": "Nero Wolfe",
+      "aliases": []
+    },
+    {
+      "slug": "odyseja-kosmiczna",
+      "title": "Odyseja kosmiczna",
+      "aliases": [
+        "Space Odyssey"
+      ]
+    },
+    {
+      "slug": "ojciec-brown",
+      "title": "Ojciec Brown",
+      "aliases": [
+        "Father Brown"
+      ]
+    },
+    {
+      "slug": "opowiesci-z-narnii",
+      "title": "Opowieści z Narnii",
+      "aliases": [
+        "The Chronicles of Narnia"
+      ]
+    },
+    {
+      "slug": "pamietniki-wampirow",
+      "title": "Pamiętniki wampirów",
+      "aliases": [
+        "The Vampire Diaries"
+      ]
+    },
+    {
+      "slug": "pan-samochodzik",
+      "title": "Pan Samochodzik",
+      "aliases": []
+    },
+    {
+      "slug": "percy-jackson",
+      "title": "Percy Jackson",
+      "aliases": [
+        "Percy Jackson & the Olympians"
+      ]
+    },
+    {
+      "slug": "piecdziesiat-twarzy-greya",
+      "title": "Pięćdziesiąt twarzy Greya",
+      "aliases": [
+        "Fifty Shades"
+      ]
+    },
+    {
+      "slug": "pierwsze-prawo",
+      "title": "Pierwsze Prawo",
+      "aliases": [
+        "The First Law"
+      ]
+    },
+    {
+      "slug": "pippi",
+      "title": "Pippi Pończoszanka",
+      "aliases": [
+        "Pippi Longstocking"
+      ]
+    },
+    {
+      "slug": "poldark",
+      "title": "Poldark",
+      "aliases": []
+    },
+    {
+      "slug": "problem-trzech-cial",
+      "title": "Problem trzech ciał",
+      "aliases": [
+        "Remembrance of Earth's Past"
+      ]
+    },
+    {
+      "slug": "proby-apolona",
+      "title": "Próby Apollona",
+      "aliases": [
+        "The Trials of Apollo"
+      ]
+    },
+    {
+      "slug": "rebus",
+      "title": "Rebus",
+      "aliases": [
+        "Inspector Rebus"
+      ]
+    },
+    {
+      "slug": "redwall",
+      "title": "Redwall",
+      "aliases": []
+    },
+    {
+      "slug": "robert-langdon",
+      "title": "Robert Langdon",
+      "aliases": []
+    },
+    {
+      "slug": "rougon-macquart",
+      "title": "Cykl Rougon-Macquart",
+      "aliases": [
+        "Les Rougon-Macquart"
+      ]
+    },
+    {
+      "slug": "sad-cierni-i-roz",
+      "title": "Sąd cierni i róż",
+      "aliases": [
+        "A Court of Thorns and Roses"
+      ]
+    },
+    {
+      "slug": "saga-forsytow",
+      "title": "Saga Forsytów",
+      "aliases": [
+        "The Forsyte Saga"
+      ]
+    },
+    {
+      "slug": "sekretna-siodemka",
+      "title": "Sekretna siódemka",
+      "aliases": [
+        "The Secret Seven"
+      ]
+    },
+    {
+      "slug": "shannara",
+      "title": "Shannara",
+      "aliases": []
+    },
+    {
+      "slug": "sharpe",
+      "title": "Sharpe",
+      "aliases": []
+    },
+    {
+      "slug": "sherlock-holmes",
+      "title": "Sherlock Holmes",
+      "aliases": []
+    },
+    {
+      "slug": "skrzydla-ognia",
+      "title": "Skrzydła ognia",
+      "aliases": [
+        "Wings of Fire"
+      ]
+    },
+    {
+      "slug": "skulduggery-pleasant",
+      "title": "Skulduggery Pleasant",
+      "aliases": []
+    },
+    {
+      "slug": "sookie-stackhouse",
+      "title": "Sookie Stackhouse",
+      "aliases": [
+        "The Southern Vampire Mysteries"
+      ]
+    },
+    {
+      "slug": "sprawl",
+      "title": "Sprawl",
+      "aliases": [
+        "Sprawl trilogy"
+      ]
+    },
+    {
+      "slug": "straznicy-gahool",
+      "title": "Strażnicy Ga'Hoole",
+      "aliases": [
+        "Guardians of Ga'Hoole"
+      ]
+    },
+    {
+      "slug": "swiat-dysku",
+      "title": "Świat Dysku",
+      "aliases": [
+        "Discworld"
+      ],
+      "wiki": {
+        "project": "pl",
+        "article": "Świat Dysku",
+        "fallbacks": [
+          {
+            "project": "en",
+            "article": "Discworld"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "tarzan",
+      "title": "Tarzan",
+      "aliases": []
+    },
+    {
+      "slug": "temeraire",
+      "title": "Temeraire",
+      "aliases": []
+    },
+    {
+      "slug": "the-strain",
+      "title": "The Strain",
+      "aliases": []
+    },
+    {
+      "slug": "tron-ze-szkla",
+      "title": "Tron ze szkła",
+      "aliases": [
+        "Throne of Glass"
+      ]
+    },
+    {
+      "slug": "trylogia-marsjanska",
+      "title": "Trylogia marsjańska",
+      "aliases": [
+        "Mars trilogy"
+      ]
+    },
+    {
+      "slug": "trylogia-sienkiewicza",
+      "title": "Trylogia",
+      "aliases": []
+    },
+    {
+      "slug": "trylogia-stulecia",
+      "title": "Trylogia stulecia",
+      "aliases": [
+        "The Century Trilogy"
+      ]
+    },
+    {
+      "slug": "unwind",
+      "title": "Unwind",
+      "aliases": []
+    },
+    {
+      "slug": "wiedzmin",
+      "title": "Wiedźmin",
+      "aliases": [
+        "The Witcher"
+      ],
+      "wiki": {
+        "project": "pl",
+        "article": "Wiedźmin",
+        "fallbacks": [
+          {
+            "project": "en",
+            "article": "The Witcher"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "wiedzmy-z-mayfair",
+      "title": "Czarownice z Mayfair",
+      "aliases": [
+        "Lives of the Mayfair Witches"
+      ]
+    },
+    {
+      "slug": "wielki-nate",
+      "title": "Big Nate",
+      "aliases": []
+    },
+    {
+      "slug": "wiezien-labiryntu",
+      "title": "Więzień labiryntu",
+      "aliases": [
+        "The Maze Runner"
+      ]
+    },
+    {
+      "slug": "will-robie",
+      "title": "Will Robie",
+      "aliases": []
+    },
+    {
+      "slug": "wladca-pierscieni",
+      "title": "Władca Pierścieni",
+      "aliases": [
+        "The Lord of the Rings"
+      ],
+      "wiki": {
+        "project": "en",
+        "article": "The Lord of the Rings"
+      }
+    },
+    {
+      "slug": "wojna-starego-czlowieka",
+      "title": "Wojna starego człowieka",
+      "aliases": [
+        "Old Man's War"
+      ]
+    },
+    {
+      "slug": "wojownicy",
+      "title": "Wojownicy",
+      "aliases": [
+        "Warriors"
+      ]
+    },
+    {
+      "slug": "wydzial-q",
+      "title": "Wydział Q",
+      "aliases": [
+        "Department Q"
+      ]
+    },
+    {
+      "slug": "ziemiomorze",
+      "title": "Ziemiomorze",
+      "aliases": [
+        "Earthsea"
+      ],
+      "wiki": {
+        "project": "en",
+        "article": "Earthsea"
+      }
     },
     {
       "slug": "zmierzch",
       "title": "Zmierzch",
-      "aliases": ["Twilight"],
-      "wiki": { "project": "en", "article": "Twilight (novel series)" }
+      "aliases": [
+        "Twilight"
+      ],
+      "wiki": {
+        "project": "en",
+        "article": "Twilight (novel series)"
+      }
+    },
+    {
+      "slug": "zrodzony-z-mgly",
+      "title": "Zrodzony z mgły",
+      "aliases": [
+        "Mistborn"
+      ]
+    },
+    {
+      "slug": "zwiadowca",
+      "title": "Zwiadowca",
+      "aliases": [
+        "Ranger's Apprentice"
+      ]
     }
   ]
 }

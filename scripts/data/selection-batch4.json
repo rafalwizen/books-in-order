@@ -1,0 +1,460 @@
+{
+  "generatedAt": "2026-11-02T18:31:25.235Z",
+  "note": "Batch 4 (a+b): top-50 unused ranking candidates; manual dupes excluded (saga-forsyteow=saga-forsytow, jezdncy-smokow-z-pern=jezdzcy-smokow-z-pern)",
+  "window": {
+    "from": "2025-10",
+    "to": "2026-09"
+  },
+  "selected": [
+    {
+      "batch": "4a",
+      "rank": 1,
+      "slug": "krolowie-przekleci",
+      "workingTitle": "Królowie przeklęci",
+      "author": "Maurice Druon",
+      "medianMonthlyViews": 5328,
+      "source": "en.wikipedia/wiki/The Accursed Kings"
+    },
+    {
+      "batch": "4a",
+      "rank": 2,
+      "slug": "dzieci-ziemi",
+      "workingTitle": "Dzieci Ziemi",
+      "author": "Jean M. Auel",
+      "medianMonthlyViews": 5304,
+      "source": "en.wikipedia/wiki/Earth's Children"
+    },
+    {
+      "batch": "4a",
+      "rank": 3,
+      "slug": "wojna-starego-czlowieka",
+      "workingTitle": "Wojna starego człowieka",
+      "author": "John Scalzi",
+      "medianMonthlyViews": 5222,
+      "source": "en.wikipedia/wiki/Old Man's War series"
+    },
+    {
+      "batch": "4a",
+      "rank": 4,
+      "slug": "dirk-pitt",
+      "workingTitle": "Dirk Pitt",
+      "author": "Clive Cussler",
+      "medianMonthlyViews": 5177,
+      "source": "en.wikipedia/wiki/Dirk Pitt"
+    },
+    {
+      "batch": "4a",
+      "rank": 5,
+      "slug": "saga-wojny-magow",
+      "workingTitle": "Saga Wojny Magów",
+      "author": "Raymond E. Feist",
+      "medianMonthlyViews": 4738,
+      "source": "en.wikipedia/wiki/The Riftwar Saga"
+    },
+    {
+      "batch": "4a",
+      "rank": 6,
+      "slug": "cherub",
+      "workingTitle": "CHERUB",
+      "author": "Robert Muchamore",
+      "medianMonthlyViews": 4645,
+      "source": "en.wikipedia/wiki/CHERUB"
+    },
+    {
+      "batch": "4a",
+      "rank": 7,
+      "slug": "magnus-chase",
+      "workingTitle": "Magnus Chase i bogowie Asgardu",
+      "author": "Rick Riordan",
+      "medianMonthlyViews": 4638,
+      "source": "en.wikipedia/wiki/Magnus Chase and the Gods of Asgard"
+    },
+    {
+      "batch": "4a",
+      "rank": 8,
+      "slug": "selekcja",
+      "workingTitle": "Selekcja",
+      "author": "Kiera Cass",
+      "medianMonthlyViews": 4621,
+      "source": "en.wikipedia/wiki/The Selection"
+    },
+    {
+      "batch": "4a",
+      "rank": 9,
+      "slug": "anita-blake",
+      "workingTitle": "Anita Blake",
+      "author": "Laurell K. Hamilton",
+      "medianMonthlyViews": 4619,
+      "source": "en.wikipedia/wiki/Anita Blake: Vampire Hunter"
+    },
+    {
+      "batch": "4a",
+      "rank": 10,
+      "slug": "sekretna-siodemka",
+      "workingTitle": "Sekretna siódemka",
+      "author": "Enid Blyton",
+      "medianMonthlyViews": 4551,
+      "source": "en.wikipedia/wiki/The Secret Seven"
+    },
+    {
+      "batch": "4a",
+      "rank": 11,
+      "slug": "robert-langdon",
+      "workingTitle": "Robert Langdon",
+      "author": "Dan Brown",
+      "medianMonthlyViews": 4550,
+      "source": "en.wikipedia/wiki/Robert Langdon (book series)"
+    },
+    {
+      "batch": "4a",
+      "rank": 12,
+      "slug": "pan-samochodzik",
+      "workingTitle": "Pan Samochodzik",
+      "author": "Zbigniew Nienacki",
+      "medianMonthlyViews": 4533,
+      "source": "pl.wikipedia/wiki/Pan Samochodzik"
+    },
+    {
+      "batch": "4a",
+      "rank": 13,
+      "slug": "krystyna-corka-lavransa",
+      "workingTitle": "Krystyna, córka Lavransa",
+      "author": "Sigrid Undset",
+      "medianMonthlyViews": 4513,
+      "source": "en.wikipedia/wiki/Kristin Lavransdatter"
+    },
+    {
+      "batch": "4a",
+      "rank": 14,
+      "slug": "rebus",
+      "workingTitle": "Rebus",
+      "author": "Ian Rankin",
+      "medianMonthlyViews": 4256,
+      "source": "en.wikipedia/wiki/Inspector Rebus"
+    },
+    {
+      "batch": "4a",
+      "rank": 15,
+      "slug": "court-gentry",
+      "workingTitle": "Court Gentry",
+      "author": "Mark Greaney",
+      "medianMonthlyViews": 4210,
+      "source": "en.wikipedia/wiki/The Gray Man (novel)"
+    },
+    {
+      "batch": "4a",
+      "rank": 16,
+      "slug": "charlie-parker",
+      "workingTitle": "Charlie Parker",
+      "author": "John Connolly",
+      "medianMonthlyViews": 4084,
+      "source": "en.wikipedia/wiki/John Connolly (author)"
+    },
+    {
+      "batch": "4a",
+      "rank": 17,
+      "slug": "trylogia-stulecia",
+      "workingTitle": "Trylogia stulecia",
+      "author": "Ken Follett",
+      "medianMonthlyViews": 3993,
+      "source": "en.wikipedia/wiki/Fall of Giants"
+    },
+    {
+      "batch": "4a",
+      "rank": 18,
+      "slug": "horrid-henry",
+      "workingTitle": "Horrid Henry",
+      "author": "Francesca Simon",
+      "medianMonthlyViews": 3671,
+      "source": "en.wikipedia/wiki/Horrid Henry"
+    },
+    {
+      "batch": "4a",
+      "rank": 19,
+      "slug": "dzieci-z-bullerbyn",
+      "workingTitle": "Dzieci z Bullerbyn",
+      "author": "Astrid Lindgren",
+      "medianMonthlyViews": 3474,
+      "source": "pl.wikipedia/wiki/Dzieci z Bullerbyn"
+    },
+    {
+      "batch": "4a",
+      "rank": 20,
+      "slug": "dom-nocy",
+      "workingTitle": "Dom nocy",
+      "author": "P.C. Cast",
+      "medianMonthlyViews": 3466,
+      "source": "en.wikipedia/wiki/House of Night"
+    },
+    {
+      "batch": "4a",
+      "rank": 21,
+      "slug": "stare-krolestwo",
+      "workingTitle": "Stare Królestwo",
+      "author": "Garth Nix",
+      "medianMonthlyViews": 3229,
+      "source": "en.wikipedia/wiki/The Old Kingdom"
+    },
+    {
+      "batch": "4a",
+      "rank": 22,
+      "slug": "kurt-wallander",
+      "workingTitle": "Kurt Wallander",
+      "author": "Henning Mankell",
+      "medianMonthlyViews": 3206,
+      "source": "en.wikipedia/wiki/Kurt Wallander"
+    },
+    {
+      "batch": "4a",
+      "rank": 23,
+      "slug": "akademia-pana-kleksa",
+      "workingTitle": "Akademia pana Kleksa",
+      "author": "Jan Brzechwa",
+      "medianMonthlyViews": 3016,
+      "source": "pl.wikipedia/wiki/Akademia pana Kleksa"
+    },
+    {
+      "batch": "4a",
+      "rank": 24,
+      "slug": "kadfael",
+      "workingTitle": "Kadfael",
+      "author": "Ellis Peters",
+      "medianMonthlyViews": 2990,
+      "source": "en.wikipedia/wiki/Cadfael"
+    },
+    {
+      "batch": "4a",
+      "rank": 25,
+      "slug": "trylogia-sienkiewicza",
+      "workingTitle": "Trylogia",
+      "author": "Henryk Sienkiewicz",
+      "medianMonthlyViews": 2942,
+      "source": "pl.wikipedia/wiki/Trylogia Sienkiewicza"
+    },
+    {
+      "batch": "4b",
+      "rank": 26,
+      "slug": "trylogia-husycka",
+      "workingTitle": "Trylogia husycka",
+      "author": "Andrzej Sapkowski",
+      "medianMonthlyViews": 2942,
+      "source": "pl.wikipedia/wiki/Trylogia husycka"
+    },
+    {
+      "batch": "4b",
+      "rank": 27,
+      "slug": "jezycjada",
+      "workingTitle": "Jeżycjada",
+      "author": "Małgorzata Musierowicz",
+      "medianMonthlyViews": 2692,
+      "source": "pl.wikipedia/wiki/Jeżycjada"
+    },
+    {
+      "batch": "4b",
+      "rank": 28,
+      "slug": "spenser",
+      "workingTitle": "Spenser",
+      "author": "Robert B. Parker",
+      "medianMonthlyViews": 2595,
+      "source": "en.wikipedia/wiki/Spenser (character)"
+    },
+    {
+      "batch": "4b",
+      "rank": 29,
+      "slug": "stephanie-plum",
+      "workingTitle": "Stephanie Plum",
+      "author": "Janet Evanovich",
+      "medianMonthlyViews": 2365,
+      "source": "en.wikipedia/wiki/Stephanie Plum"
+    },
+    {
+      "batch": "4b",
+      "rank": 30,
+      "slug": "martin-beck",
+      "workingTitle": "Martin Beck",
+      "author": "Maj Sjöwall",
+      "medianMonthlyViews": 2326,
+      "source": "en.wikipedia/wiki/Martin Beck"
+    },
+    {
+      "batch": "4b",
+      "rank": 31,
+      "slug": "temperance-brennan",
+      "workingTitle": "Temperance Brennan",
+      "author": "Kathy Reichs",
+      "medianMonthlyViews": 2265,
+      "source": "en.wikipedia/wiki/Temperance Brennan"
+    },
+    {
+      "batch": "4b",
+      "rank": 32,
+      "slug": "hollows",
+      "workingTitle": "Hollows",
+      "author": "Kim Harrison",
+      "medianMonthlyViews": 2259,
+      "source": "en.wikipedia/wiki/Hollows (series)"
+    },
+    {
+      "batch": "4b",
+      "rank": 33,
+      "slug": "gabriel-allon",
+      "workingTitle": "Gabriel Allon",
+      "author": "Daniel Silva",
+      "medianMonthlyViews": 2210,
+      "source": "en.wikipedia/wiki/Gabriel Allon"
+    },
+    {
+      "batch": "4b",
+      "rank": 34,
+      "slug": "uglies",
+      "workingTitle": "Uglies",
+      "author": "Scott Westerfeld",
+      "medianMonthlyViews": 2023,
+      "source": "en.wikipedia/wiki/Uglies (novel series)"
+    },
+    {
+      "batch": "4b",
+      "rank": 35,
+      "slug": "teodor-szacki",
+      "workingTitle": "Teodor Szacki",
+      "author": "Zygmunt Miłoszewski",
+      "medianMonthlyViews": 1970,
+      "source": "pl.wikipedia/wiki/Zygmunt Miłoszewski"
+    },
+    {
+      "batch": "4b",
+      "rank": 36,
+      "slug": "pan-lodowego-ogrodu",
+      "workingTitle": "Pan Lodowego Ogrodu",
+      "author": "Jarosław Grzędowicz",
+      "medianMonthlyViews": 1957,
+      "source": "pl.wikipedia/wiki/Pan Lodowego Ogrodu"
+    },
+    {
+      "batch": "4b",
+      "rank": 37,
+      "slug": "bernie-gunther",
+      "workingTitle": "Bernie Gunther",
+      "author": "Philip Kerr",
+      "medianMonthlyViews": 1942,
+      "source": "en.wikipedia/wiki/Bernie Gunther"
+    },
+    {
+      "batch": "4b",
+      "rank": 38,
+      "slug": "niewierni",
+      "workingTitle": "Niewierni",
+      "author": "Veronica Roth",
+      "medianMonthlyViews": 1935,
+      "source": "en.wikipedia/wiki/Divergent (book series)"
+    },
+    {
+      "batch": "4b",
+      "rank": 39,
+      "slug": "ringworld",
+      "workingTitle": "Ringworld",
+      "author": "Larry Niven",
+      "medianMonthlyViews": 1777,
+      "source": "en.wikipedia/wiki/Ringworld series"
+    },
+    {
+      "batch": "4b",
+      "rank": 40,
+      "slug": "cykl-skrytobojcy",
+      "workingTitle": "Cykl Skrytobójcy",
+      "author": "Robin Hobb",
+      "medianMonthlyViews": 1718,
+      "source": "en.wikipedia/wiki/Realm of the Elderlings"
+    },
+    {
+      "batch": "4b",
+      "rank": 41,
+      "slug": "cykl-robotyczny",
+      "workingTitle": "Cykl robotyczny",
+      "author": "Isaac Asimov",
+      "medianMonthlyViews": 1629,
+      "source": "en.wikipedia/wiki/Robot series (Asimov)"
+    },
+    {
+      "batch": "4b",
+      "rank": 42,
+      "slug": "dave-robicheaux",
+      "workingTitle": "Dave Robicheaux",
+      "author": "James Lee Burke",
+      "medianMonthlyViews": 1579,
+      "source": "en.wikipedia/wiki/Dave Robicheaux"
+    },
+    {
+      "batch": "4b",
+      "rank": 43,
+      "slug": "myron-bolitar",
+      "workingTitle": "Myron Bolitar",
+      "author": "Harlan Coben",
+      "medianMonthlyViews": 1290,
+      "source": "en.wikipedia/wiki/Myron Bolitar"
+    },
+    {
+      "batch": "4b",
+      "rank": 44,
+      "slug": "slyna-piatka",
+      "workingTitle": "Słynna piątka",
+      "author": "Enid Blyton",
+      "medianMonthlyViews": 1027,
+      "source": "en.wikipedia/wiki/The Famous Five (novel series)"
+    },
+    {
+      "batch": "4b",
+      "rank": 45,
+      "slug": "logan-mcrae",
+      "workingTitle": "Logan McRae",
+      "author": "Stuart MacBride",
+      "medianMonthlyViews": 770,
+      "source": "en.wikipedia/wiki/Logan McRae"
+    },
+    {
+      "batch": "4b",
+      "rank": 46,
+      "slug": "wampirza-akademia",
+      "workingTitle": "Wampirza akademia",
+      "author": "Richelle Mead",
+      "medianMonthlyViews": 764,
+      "source": "en.wikipedia/wiki/Vampire Academy (novel)"
+    },
+    {
+      "batch": "4b",
+      "rank": 47,
+      "slug": "trzej-detektywi",
+      "workingTitle": "Trzej detektywi",
+      "author": "Robert Arthur",
+      "medianMonthlyViews": 623,
+      "source": "en.wikipedia/wiki/Three Investigators"
+    },
+    {
+      "batch": "4b",
+      "rank": 48,
+      "slug": "magiczne-drzewo",
+      "workingTitle": "Magiczne drzewo",
+      "author": "Andrzej Maleszka",
+      "medianMonthlyViews": 575,
+      "source": "pl.wikipedia/wiki/Magiczne drzewo"
+    },
+    {
+      "batch": "4b",
+      "rank": 49,
+      "slug": "elric",
+      "workingTitle": "Elric z Melniboné",
+      "author": "Michael Moorcock",
+      "medianMonthlyViews": 547,
+      "source": "en.wikipedia/wiki/Elric"
+    },
+    {
+      "batch": "4b",
+      "rank": 50,
+      "slug": "artemis-fowl",
+      "workingTitle": "Artemis Fowl",
+      "author": "Eoin Colfer",
+      "medianMonthlyViews": 500,
+      "source": "en.wikipedia/wiki/Artemis Fowl (series)"
+    }
+  ]
+}
