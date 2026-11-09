@@ -15,6 +15,7 @@ const CACHE_TTL_MS = 7 * 24 * 60 * 60 * 1000;
 const API_HOSTS = {
   en: 'https://en.wikipedia.org',
   pl: 'https://pl.wikipedia.org',
+  fr: 'https://fr.wikipedia.org',
 };
 
 function articleToUrlTitle(article) {

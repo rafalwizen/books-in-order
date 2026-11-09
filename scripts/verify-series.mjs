@@ -417,7 +417,9 @@ if (opts.debugRows) {
 const allFiles = (await readdir(SERIES_DIR)).filter((f) => f.endsWith('.json')).map((f) => f.replace(/\.json$/, '')).sort();
 let slugs;
 if (opts.slugs) slugs = opts.slugs;
-else if (opts.baseline) slugs = existingSeries.map((s) => s.slug);
+// Baseline = the original hand-curated entries (they carry wiki mappings);
+// later entries were added only for dedupe/alias purposes.
+else if (opts.baseline) slugs = existingSeries.filter((s) => s.wiki).map((s) => s.slug);
 else slugs = allFiles;
 
 const pool = createPool(4, 100);
