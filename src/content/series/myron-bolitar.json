@@ -1,0 +1,27 @@
+{
+  "title": "Myron Bolitar",
+  "author": "Harlan Coben",
+  "authorSlug": "harlan-coben",
+  "genre": ["kryminal", "thriller"],
+  "description": "Kolejność czytania serii Myron Bolitar Harlana Cobena. Dwanaście powieści o byłym koszykarzu, a dziś agencie sportowym, który wplątuje się w kryminalne śledztwa — od Bez skrupułów (1995) po Pomyśl dwa razy (2024).",
+  "books": [
+    { "order": 1, "title": "Bez skrupułów", "titleOriginal": "Deal Breaker", "yearOriginal": 1995, "type": "powieść" },
+    { "order": 2, "title": "Krótka piłka", "titleOriginal": "Drop Shot", "yearOriginal": 1996, "type": "powieść" },
+    { "order": 3, "title": "Bez śladu", "titleOriginal": "Fade Away", "yearOriginal": 1996, "type": "powieść" },
+    { "order": 4, "title": "Błękitna krew", "titleOriginal": "Back Spin", "yearOriginal": 1997, "type": "powieść" },
+    { "order": 5, "title": "Jeden fałszywy ruch", "titleOriginal": "One False Move", "yearOriginal": 1998, "type": "powieść" },
+    { "order": 6, "title": "Ostatni szczegół", "titleOriginal": "The Final Detail", "yearOriginal": 1999, "type": "powieść" },
+    { "order": 7, "title": "Najczarniejszy strach", "titleOriginal": "Darkest Fear", "yearOriginal": 2000, "type": "powieść" },
+    { "order": 8, "title": "Obiecaj mi", "titleOriginal": "Promise Me", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 9, "title": "Zaginiona", "titleOriginal": "Long Lost", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 10, "title": "Wszyscy mamy tajemnice", "titleOriginal": "Live Wire", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 11, "title": "W domu", "titleOriginal": "Home", "yearOriginal": 2016, "type": "powieść" },
+    { "order": 12, "title": "Pomyśl dwa razy", "titleOriginal": "Think Twice", "yearOriginal": 2024, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać serię Myron Bolitar?", "answer": "W kolejności wydania, począwszy od Bez skrupułów (1995). Chronologia fabuły pokrywa się z kolejnością publikacji, a relacje Myrona z Winem i Esperanzą oraz wątki osobiste rozwijają się z tomu na tom, więc czytanie po kolei daje najwięcej." },
+    { "question": "Dlaczego między Najczarniejszym strachem (2000) a Obiecaj mi (2006) jest sześcioletnia przerwa?", "answer": "W latach 2001-2005 Harlan Coben skupił się na powieściach spoza cyklu, m.in. Nie mów nikomu (2001) i Bez pożegnania (2002). Do Myrona wrócił w 2006 roku z Obiecaj mi — przerwa nie przeszkadza w czytaniu, historia biegnie dalej." },
+    { "question": "Czy trylogia Mickey Bolitar to część tej serii?", "answer": "Nie, to młodzieżowy spin-off o siostrzeńcu Myrona: Schronienie (2011), Kilka sekund od śmierci (2012) i Odnaleziony (2014). Można ją czytać samodzielnie, ale znajomość tomów o Myronie (zwłaszcza Wszyscy mamy tajemnice) sprawia, że więcej rzeczy się układa. Osobną powieścią spoza cyklu jest też Mów mi Win (2021) z przyjacielem Myrona w roli głównej." }
+  ],
+  "relatedSeries": ["jack-reacher", "alex-cross"]
+}

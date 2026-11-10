@@ -1,0 +1,40 @@
+{
+  "title": "Temperance Brennan",
+  "author": "Kathy Reichs",
+  "authorSlug": "kathy-reichs",
+  "genre": ["kryminal", "thriller"],
+  "description": "Kolejność czytania cyklu Temperance Brennan Kathy Reichs — antropolożki sądowej pracującej w Montrealu i Charlotte. Seria liczy 24 powieści, od Zapachu śmierci (1997) po Evil Bones (2025) i zainspirowała serial Kości.",
+  "books": [
+    { "order": 1, "title": "Zapach śmierci", "titleOriginal": "Déjà Dead", "yearOriginal": 1997, "yearPolish": 1999, "type": "powieść" },
+    { "order": 2, "title": "Śmierć za dnia", "titleOriginal": "Death Du Jour", "yearOriginal": 1999, "yearPolish": 2001, "type": "powieść" },
+    { "order": 3, "title": "Śmiertelne decyzje", "titleOriginal": "Deadly Decisions", "yearOriginal": 2000, "yearPolish": 2008, "type": "powieść" },
+    { "order": 4, "title": "Zabójcza podróż", "titleOriginal": "Fatal Voyage", "yearOriginal": 2001, "yearPolish": 2008, "type": "powieść" },
+    { "order": 5, "title": "Pogrzebane tajemnice", "titleOriginal": "Grave Secrets", "yearOriginal": 2002, "yearPolish": 2008, "type": "powieść" },
+    { "order": 6, "title": "Nagie kości", "titleOriginal": "Bare Bones", "yearOriginal": 2003, "yearPolish": 2008, "type": "powieść" },
+    { "order": 7, "title": "Poniedziałkowa żałoba", "titleOriginal": "Monday Mourning", "yearOriginal": 2004, "yearPolish": 2008, "type": "powieść" },
+    { "order": 8, "title": "Starożytne kości", "titleOriginal": "Cross Bones", "yearOriginal": 2005, "yearPolish": 2012, "type": "powieść" },
+    { "order": 9, "title": "Okruchy śmierci", "titleOriginal": "Break No Bones", "yearOriginal": 2006, "yearPolish": 2008, "type": "powieść" },
+    { "order": 10, "title": "Kości w proch", "titleOriginal": "Bones to Ashes", "yearOriginal": 2007, "yearPolish": 2009, "type": "powieść" },
+    { "order": 11, "title": "Diabelskie kości", "titleOriginal": "Devil Bones", "yearOriginal": 2008, "yearPolish": 2009, "type": "powieść" },
+    { "order": 12, "title": "206 kości", "titleOriginal": "206 Bones", "yearOriginal": 2009, "yearPolish": 2011, "type": "powieść" },
+    { "order": 13, "title": "Kości Pająka", "titleOriginal": "Spider Bones", "yearOriginal": 2010, "yearPolish": 2013, "type": "powieść" },
+    { "order": 14, "title": "Z krwi i kości", "titleOriginal": "Flash and Bones", "yearOriginal": 2011, "yearPolish": 2012, "type": "powieść" },
+    { "order": 15, "title": "Kości są wieczne", "titleOriginal": "Bones Are Forever", "yearOriginal": 2012, "yearPolish": 2014, "type": "powieść" },
+    { "order": 16, "title": "Kości zaginionych", "titleOriginal": "Bones of the Lost", "yearOriginal": 2013, "yearPolish": 2015, "type": "powieść" },
+    { "order": 17, "title": "Kości nie kłamią", "titleOriginal": "Bones Never Lie", "yearOriginal": 2014, "yearPolish": 2017, "type": "powieść" },
+    { "order": 18, "title": "Kości mówią", "titleOriginal": "Speaking in Bones", "yearOriginal": 2015, "yearPolish": 2018, "type": "powieść" },
+    { "order": 19, "title": "A Conspiracy of Bones", "yearOriginal": 2020, "type": "powieść" },
+    { "order": 20, "title": "The Bone Code", "yearOriginal": 2021, "type": "powieść" },
+    { "order": 21, "title": "Cold, Cold Bones", "yearOriginal": 2022, "type": "powieść" },
+    { "order": 22, "title": "The Bone Hacker", "yearOriginal": 2023, "type": "powieść" },
+    { "order": 23, "title": "Fire and Bones", "yearOriginal": 2024, "type": "powieść" },
+    { "order": 24, "title": "Evil Bones", "yearOriginal": 2025, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać serię Temperance Brennan?", "answer": "W kolejności wydania, od Zapachu śmierci (1997). Każda sprawa to odrębna zagadka, ale życie prywatne Tempe — relacja z detektywem Ryanem, rodzinne sekrety, walka z nałogiem — rozwija się z tomu na tom, więc czytanie po kolei daje najwięcej." },
+    { "question": "Ile książek liczy seria i ile wydano po polsku?", "answer": "Cykl obejmuje 24 powieści, od Déjà Dead (1997) po Evil Bones (2025). Po polsku ukazało się tylko 18 tomów — do Kości mówią (Speaking in Bones, 2015) z 2018 roku; tomów od A Conspiracy of Bones (2020) wzwyż polscy wydawcy dotąd nie przetłumaczyli. Istnieje też zbiór czterech nowel, The Bone Collection (2016), niedostępny po polsku." },
+    { "question": "Czy seria jest podstawą serialu Kości (Bones)?", "answer": "Serial Kości bazuje na bohaterce powieści i samej autorce — Kathy Reichs była jego producentką. Telewizyjna Brennan jest jednak młodszą wersją postaci: pracuje w Waszyngtonie u boku agenta Seeleya Bootha, a w powieściach Tempe dzieli życie między Montreal a Charlotte. Fabuły serialu i książek są niezależne, więc można je poznawać w dowolnej kolejności." },
+    { "question": "Od której książki zacząć?", "answer": "Najlepiej od początku, czyli Zapachu śmierci (1997) — debiut nagrodzony Arthur Ellis Award, który wprowadza Tempe i jej świat. Czytelnikom szukającym szybkiego wstępu poleca się też tom Kości nie kłamią (2014), w którym wraca przeciwniczka z pierwszych części, ale bez znajomości wcześniejszych tomów wiele niuansów umyka." }
+  ],
+  "relatedSeries": ["kay-scarpetta", "harry-bosch"]
+}

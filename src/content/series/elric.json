@@ -1,0 +1,28 @@
+{
+  "title": "Elryk z Melniboné",
+  "author": "Michael Moorcock",
+  "authorSlug": "michael-moorcock",
+  "genre": ["dark-fantasy", "fantasy"],
+  "description": "Saga o Elryku Michaela Moorcocka — kolebka mrocznego fantasy. Trzynaście tomów przygód ostatniego władcy Melniboné i jego miecza Zwiastuna Burz — od zbioru The Stealer of Souls (1963) po The Citadel of Forgotten Myths (2022).",
+  "books": [
+    { "order": 1, "title": "The Stealer of Souls", "yearOriginal": 1963, "type": "tom" },
+    { "order": 2, "title": "Zwiastun burz", "titleOriginal": "Stormbringer", "yearOriginal": 1965, "yearPolish": 1995, "type": "powieść" },
+    { "order": 3, "title": "Znikająca wieża", "titleOriginal": "The Vanishing Tower", "yearOriginal": 1971, "yearPolish": 1994, "type": "powieść" },
+    { "order": 4, "title": "Elryk z Melniboné", "titleOriginal": "Elric of Melniboné", "yearOriginal": 1972, "yearPolish": 1994, "type": "powieść" },
+    { "order": 5, "title": "Żeglarz na morzach przeznaczenia", "titleOriginal": "The Sailor on the Seas of Fate", "yearOriginal": 1976, "yearPolish": 1994, "type": "powieść" },
+    { "order": 6, "title": "Klątwa białego wilka", "titleOriginal": "The Weird of the White Wolf", "yearOriginal": 1977, "yearPolish": 1994, "type": "powieść" },
+    { "order": 7, "title": "Klątwa czarnego miecza", "titleOriginal": "The Bane of the Black Sword", "yearOriginal": 1977, "yearPolish": 1994, "type": "powieść" },
+    { "order": 8, "title": "Perłowa forteca", "titleOriginal": "The Fortress of the Pearl", "yearOriginal": 1989, "yearPolish": 1994, "type": "powieść" },
+    { "order": 9, "title": "Zemsta róży", "titleOriginal": "The Revenge of the Rose", "yearOriginal": 1991, "yearPolish": 1995, "type": "powieść" },
+    { "order": 10, "title": "The Dreamthief's Daughter", "yearOriginal": 2001, "type": "powieść" },
+    { "order": 11, "title": "The Skrayling Tree", "yearOriginal": 2003, "type": "powieść" },
+    { "order": 12, "title": "The White Wolf's Son", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 13, "title": "The Citadel of Forgotten Myths", "yearOriginal": 2022, "type": "tom" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać sagę o Elryku?", "answer": "Moorcock pisał cykl w porządku innym niż chronologia świata: Stormbringer, który kończy klasyczną część sagi, powstał już w 1965 roku jako druga książka, a Elryk z Melniboné dopiero w 1972 jako świadomie napisany wstęp do cyklu. Dlatego najbezpieczniej trzymać się kolejności wydania oryginalnego, jak na tej liście — początkujący może też zacząć od Elryka z Melniboné i czytać dalej według numeracji." },
+    { "question": "Które polskie wydanie wybrać — Amber czy Zysk?", "answer": "W latach 1993–1995 wydawnictwo Amber wydało osiem powieści sagi, przy czym część tytułów miała inne brzmienie: Śniące miasto to to samo dzieło co Klątwa białego wilka, a Kronika Czarnego Miecza co Klątwa czarnego miecza. Od 2024 roku Zysk wznawia całość w tomach zbiorczych: Elryk z Melniboné (2024, części 1–4) oraz Zwiastun burz (2025, części 5–8)." },
+    { "question": "Czy wszystkie książki o Elryku ukazały się po polsku?", "answer": "Nie. Po polsku dostępnych jest osiem powieści w wydaniach Amber i Zysku. Zbiór wczesnych opowiadań The Stealer of Souls (1963), późna trylogia The Dreamthief's Daughter, The Skrayling Tree i The White Wolf's Son (2001–2005) oraz zbiór The Citadel of Forgotten Myths (2022) nie mają potwierdzonych polskich edycji — te pozycje czyta się w oryginale." }
+  ],
+  "relatedSeries": ["kroniki-amberu", "conan", "mroczna-wieza"]
+}

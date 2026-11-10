@@ -1,0 +1,36 @@
+{
+  "title": "Zapadlisko",
+  "author": "Kim Harrison",
+  "authorSlug": "kim-harrison",
+  "genre": ["urban-fantasy", "fantasy"],
+  "description": "Kolejność czytania cyklu Zapadlisko Kim Harrison. Osiemnaście powieści urban fantasy o wiedźmie i łowczyni nagród Rachel Morgan — od Przynieście mi głowę wiedźmy (2004) po Demon's Bluff (2024). W Polsce Fabryka Słów wydała dotąd tylko pięć pierwszych tomów.",
+  "books": [
+    { "order": 1, "title": "Przynieście mi głowę wiedźmy", "titleOriginal": "Dead Witch Walking", "yearOriginal": 2004, "yearPolish": 2009, "type": "powieść" },
+    { "order": 2, "title": "Dobry, zły i nieumarły", "titleOriginal": "The Good, the Bad, and the Undead", "yearOriginal": 2005, "yearPolish": 2010, "type": "powieść" },
+    { "order": 3, "title": "Każda magia jest dobra", "titleOriginal": "Every Which Way But Dead", "yearOriginal": 2005, "yearPolish": 2010, "type": "powieść" },
+    { "order": 4, "title": "Za garść amuletów", "titleOriginal": "A Fistful of Charms", "yearOriginal": 2006, "yearPolish": 2017, "type": "powieść" },
+    { "order": 5, "title": "Za kilka demonów więcej", "titleOriginal": "For A Few Demons More", "yearOriginal": 2007, "yearPolish": 2018, "type": "powieść" },
+    { "order": 6, "title": "The Outlaw Demon Wails", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 7, "title": "White Witch, Black Curse", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 8, "title": "Black Magic Sanction", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 9, "title": "Pale Demon", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 10, "title": "A Perfect Blood", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 11, "title": "Ever After", "yearOriginal": 2013, "type": "powieść" },
+    { "order": 12, "title": "The Undead Pool", "yearOriginal": 2014, "type": "powieść" },
+    { "order": 13, "title": "The Witch With No Name", "yearOriginal": 2014, "type": "powieść" },
+    { "order": 14, "title": "American Demon", "yearOriginal": 2020, "type": "powieść" },
+    { "order": 15, "title": "Million Dollar Demon", "yearOriginal": 2021, "type": "powieść" },
+    { "order": 16, "title": "Trouble with the Cursed", "yearOriginal": 2022, "type": "powieść" },
+    { "order": 17, "title": "Demons of Good and Evil", "yearOriginal": 2023, "type": "powieść" },
+    { "order": 18, "title": "Demon's Bluff", "yearOriginal": 2024, "type": "powieść" },
+    { "order": 19, "title": "Into the Woods", "yearOriginal": 2012, "type": "tom" },
+    { "order": 20, "title": "The Hollows Insider", "yearOriginal": 2013, "type": "powiązane" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Zapadlisko?", "answer": "W kolejności wydania, od Przynieście mi głowę wiedźmy. Fabuła jest ciągła: Rachel Morgan, wampirzyca Ivy i piksy Jenks prowadzą razem interes, a bohaterka z tomu na tom opanowuje coraz trudniejszą magię, więc pomijanie tomów utrudnia śledzenie wątków." },
+    { "question": "Ile tomów Zapadliska ukazało się po polsku?", "answer": "Pięć. Fabryka Słów wydała cykl w latach 2009–2018: Przynieście mi głowę wiedźmy, Dobry, zły i nieumarły, Każda magia jest dobra, Za garść amuletów i Za kilka demonów więcej. Tomów od The Outlaw Demon Wails (2008) wzwyż nie przetłumaczono — dalszą część cyklu trzeba czytać po angielsku." },
+    { "question": "Czy The Turn trzeba przeczytać przed pierwszym tomem?", "answer": "Nie. The Turn (2017) to prequel o rodzicach Trenta Kalamacka z czasów Zwoju, czyli zdarzeń sprzed dekad opisywanych w głównym cyklu. Można go przeczytać na początku, ale nabiera pełni dopiero w kontekście postaci i wydarzeń znanych z dalszych tomów — najlepiej po oryginalnej trzynastotomowej serii." },
+    { "question": "Czy seria kończy się na tomie The Witch With No Name?", "answer": "The Witch With No Name (2014) miała pierwotnie zamykać cykl, ale w 2020 roku Kim Harrison wróciła do świata Zapadliska tomem American Demon, otwierając drugą serię przygód Rachel Morgan. Obecnie cykl liczy osiemnaście powieści, a na 2027 rok zapowiedziano tom dziewiętnasty, Absolute Demon." }
+  ],
+  "relatedSeries": ["sookie-stackhouse", "anita-blake", "akta-dresdena"]
+}
