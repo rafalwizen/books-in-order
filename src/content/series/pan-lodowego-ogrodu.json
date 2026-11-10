@@ -1,0 +1,20 @@
+{
+  "title": "Pan Lodowego Ogrodu",
+  "author": "Jarosław Grzędowicz",
+  "authorSlug": "jaroslaw-grzedowicz",
+  "genre": ["fantasy", "sci-fi"],
+  "description": "Kolejność czytania Pana Lodowego Ogrodu Jarosława Grzędowicza. Czterotomowa powieść science fantasy o komandosie Vuko Drakkainenie na planecie Midgaard — od tomu pierwszego (2005) po tom czwarty (2012). Nagroda Zajdla i Sfinksa.",
+  "books": [
+    { "order": 1, "title": "Pan Lodowego Ogrodu. Tom 1", "yearOriginal": 2005, "yearPolish": 2005, "type": "tom" },
+    { "order": 2, "title": "Pan Lodowego Ogrodu. Tom 2", "yearOriginal": 2007, "yearPolish": 2007, "type": "tom" },
+    { "order": 3, "title": "Pan Lodowego Ogrodu. Tom 3", "yearOriginal": 2009, "yearPolish": 2009, "type": "tom" },
+    { "order": 4, "title": "Pan Lodowego Ogrodu. Tom 4", "yearOriginal": 2012, "yearPolish": 2012, "type": "tom" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Pana Lodowego Ogrodu?", "answer": "Wyłącznie po kolei, od tomu pierwszego (2005) do czwartego (2012). To jedna ciągła opowieść o misji Vuko Drakkainena na planecie Midgaard, podzielona na cztery tomy — każdy kolejny wprost kontynuuje poprzedni, a tom trzeci kończy się cliffhangerem, więc zaczynanie ze środka nie ma sensu." },
+    { "question": "Ile tomów liczy Pan Lodowego Ogrodu?", "answer": "Cztery. Fabryka Słów wydała je w latach 2005–2012: tom 1 w 2005, tom 2 w 2007, tom 3 w 2009 i tom 4 w 2012. Sam autor podkreśla, że to nie jest cykl czterech powieści, lecz jedna powieść, ze względów technicznych podzielona na cztery tomy." },
+    { "question": "Czy warto znać nagrody, które zdobył cykl?", "answer": "Tom pierwszy zdobył Nagrodę im. Janusza A. Zajdla za rok 2005 oraz Sfinksa, a tom trzeci Sfinksa w 2010. Cykl uchodzi za klasykę polskiej fantastyki — łączne nakłady przekroczyły milion egzemplarzy, a porównywano go do Wiedźmina Sapkowskiego." },
+    { "question": "Czy powstanie piąty tom lub kontynuacja?", "answer": "Nie. Fabuła zamyka się w tomie czwartym, a w wywiadzie z 2012 roku Jarosław Grzędowicz zapowiedział, że nie planuje kontynuacji. W 2024 studio Mighty Koi zapowiedziało natomiast grę komputerową Nocny Wędrowiec opartą na powieści." }
+  ],
+  "relatedSeries": ["wiedzmin", "czarna-kompania"]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Trylogia husycka",
+  "author": "Andrzej Sapkowski",
+  "authorSlug": "andrzej-sapkowski",
+  "genre": ["fantasy", "historyczna"],
+  "description": "Kolejność czytania Trylogii husyckiej Andrzeja Sapkowskiego. Trzy powieści o medyku i czarodzieju Reynevanie uwikłanym w wojny husyckie — od Narrenturmu (2002) po Lux perpetua (2006).",
+  "books": [
+    { "order": 1, "title": "Narrenturm", "yearOriginal": 2002, "yearPolish": 2002, "type": "powieść" },
+    { "order": 2, "title": "Boży bojownicy", "yearOriginal": 2004, "yearPolish": 2004, "type": "powieść" },
+    { "order": 3, "title": "Lux perpetua", "yearOriginal": 2006, "yearPolish": 2006, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Trylogię husycką?", "answer": "Zawsze od Narrenturmu (2002), przez Boży bojownicy (2004), po Lux perpetua (2006). To jedna ciągła opowieść o Reinmarze z Bielawy, a wydarzenia następują bezpośrednio po sobie, więc kolejność wydania jest jedyną sensowną." },
+    { "question": "Ile książek liczy Trylogia husycka?", "answer": "Trzy powieści wydane przez SuperNowę w latach 2002-2006: Narrenturm, Boży bojownicy i Lux perpetua. Saga jest ukończona — ostatni tom zamyka losy Reynevana i Sapkowski nie zapowiedział kontynuacji." },
+    { "question": "Czy trzeba znać Wiedźmina, żeby czytać Trylogię husycką?", "answer": "Nie, to całkowicie samodzielna opowieść. Wspólny jest tylko autor i elementy fantastyki — zamiast baśniowego świata Geralta dostajemy XV-wieczną Europę i autentyczne tło wojen husyckich, głównie na Śląsku, z medycyną, alchemią i magią wplecionymi w realną historię." }
+  ],
+  "relatedSeries": ["wiedzmin", "krolowie-przekleci"]
+}

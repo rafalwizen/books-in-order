@@ -1,0 +1,19 @@
+{
+  "title": "Teodor Szacki",
+  "author": "Zygmunt Miłoszewski",
+  "authorSlug": "zygmunt-miloszewski",
+  "genre": ["kryminal", "thriller"],
+  "description": "Kolejność czytania trylogii kryminalnej o prokuratorze Teodorze Szackim Zygmunta Miłoszewskiego. Trzy powieści — od Uwikłania (2007) po Gniew (2014) — uzupełnione opowiadaniem Jeden procent (2011).",
+  "books": [
+    { "order": 1, "title": "Uwikłanie", "yearOriginal": 2007, "yearPolish": 2007, "type": "powieść" },
+    { "order": 2, "title": "Ziarno prawdy", "yearOriginal": 2011, "yearPolish": 2011, "type": "powieść" },
+    { "order": 3, "title": "Jeden procent", "yearOriginal": 2011, "yearPolish": 2011, "type": "opowiadanie" },
+    { "order": 4, "title": "Gniew", "yearOriginal": 2014, "yearPolish": 2014, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać książki o Teodorze Szackim?", "answer": "W kolejności wydania: Uwikłanie (2007), Ziarno prawdy (2011) i Gniew (2014). Kolejność publikacji pokrywa się z chronologią świata przedstawionego, a życie prywatne Szackiego ewoluuje z tomu na tom, więc czytanie od początku serii jest jedynym sensownym wyborem." },
+    { "question": "Ile książek liczy cykl z prokuratorem Szackim?", "answer": "To trylogia: Uwikłanie (2007, akcja w Warszawie), Ziarno prawdy (2011, Sandomierz) i Gniew (2014, Olsztyn). Ostatnia część długo funkcjonowała w zapowiedziach wydawniczych jako Na czerwonej ziemi. Bohater pojawia się też w opowiadaniu Jeden procent z 2011 roku, opublikowanym pierwotnie w „Playboyu”." },
+    { "question": "Czy warto znać ekranizacje cyklu?", "answer": "Uwikłanie doczekało się filmu Jacka Bromskiego (2011), ale z prokuratorem Agatą Szacką zamiast Teodora. Wierniejsza jest ekranizacja Ziarna prawdy Borysa Lankosza (2015) z Robertem Więckiewiczem w roli Szackiego. Oba filmy można oglądać niezależnie od książek." }
+  ],
+  "relatedSeries": ["chylka", "kurt-wallander", "rebus"]
+}
