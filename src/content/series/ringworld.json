@@ -1,0 +1,20 @@
+{
+  "title": "Pierścień",
+  "author": "Larry Niven",
+  "authorSlug": "larry-niven",
+  "genre": ["sci-fi"],
+  "description": "Cykl science fiction Larry’ego Nivena o Pierścieniu — gigantycznym sztucznym świecie krążącym wokół odległej gwiazdy. Cztery powieści, od nagrodzonego Hugo i Nebulą Pierścienia (1970) po Dzieci Pierścienia (2004). Klasyka złotej ery SF, część uniwersum Znanego Kosmosu.",
+  "books": [
+    { "order": 1, "title": "Pierścień", "titleOriginal": "Ringworld", "yearOriginal": 1970, "yearPolish": 1991, "type": "powieść" },
+    { "order": 2, "title": "Budowniczowie Pierścienia", "titleOriginal": "The Ringworld Engineers", "yearOriginal": 1979, "yearPolish": 1993, "type": "powieść" },
+    { "order": 3, "title": "Tron Pierścienia", "titleOriginal": "The Ringworld Throne", "yearOriginal": 1996, "yearPolish": 2011, "type": "powieść" },
+    { "order": 4, "title": "Dzieci Pierścienia", "titleOriginal": "Ringworld's Children", "yearOriginal": 2004, "yearPolish": 2012, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać cykl Pierścień?", "answer": "W kolejności wydania: Pierścień (1970), Budowniczowie Pierścienia (1979), Tron Pierścienia (1996) i Dzieci Pierścienia (2004). To jedna, ciągła historia Louisa Wu — każdy tom zaczyna się tam, gdzie skończył poprzednik, a kolejność publikacji pokrywa się z chronologią wydarzeń." },
+    { "question": "Czy trzeba znać inne książki z uniwersum Znanego Kosmosu?", "answer": "Nie. Pierścień to najważniejsza część większego uniwersum Nivena zwanego Znanym Kosmosem (Known Space), do którego należą też m.in. Protector (1973) i zbiory opowiadań o Beowulfie Shaefferze. Kontynuacje nawiązują jednak tylko do zdarzeń z pierwszego tomu, więc cztery powieści o Pierścieniu w zupełności wystarczą." },
+    { "question": "Co to jest seria Flota Światów i gdzie mieści się w cyklu?", "answer": "To pięć powieści towarzyszących pisanych wspólnie z Edwardem M. Lernerem (2007–2012). Cztery pierwsze — Fleet of Worlds, Juggler of Worlds, Destroyer of Worlds i Betrayer of Worlds — to prequele rozgrywające się przed wydarzeniami Pierścienia, a Fate of Worlds (2012) jest epilogiem zamykającym wątki Louisa Wu. Nie są konieczne; czyta się je po czterech głównych tomach. W Polsce ukazały się pierwsze tomy, m.in. Flota Światów i Żongler Światów." },
+    { "question": "W jakich wydaniach cykl ukazał się w Polsce?", "answer": "Pierścień po raz pierwszy opublikowano w 1988 roku jako wkładkę w magazynie Fantastyka, a w formie książkowej wydał go Amber (1991), który wydał też Budowniczów Pierścienia (1993). Dwa ostatnie tomy — Tron Pierścienia i Dzieci Pierścienia — wydało wydawnictwo Solaris, odpowiednio w 2011 i 2012 roku." }
+  ],
+  "relatedSeries": ["odyseja-kosmiczna", "hyperion", "kultura"]
+}

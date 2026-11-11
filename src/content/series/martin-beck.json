@@ -1,0 +1,38 @@
+{
+  "title": "Martin Beck",
+  "author": "Maj Sjöwall i Per Wahlöö",
+  "authorSlug": "maj-sjowall-i-per-wahloo",
+  "genre": ["kryminal", "klasyka"],
+  "description": "Kolejność czytania cyklu z komisarzem Martinem Beckiem duetu Maj Sjöwall i Per Wahlöö. Dziesięć powieści — od Roseanny (1965) po Ludzi przemocy (1975) — napisanych jako „roman om ett brott\", planowe dziesięciotomowe studium zbrodni w powojennej Szwecji.",
+  "books": [
+    { "order": 1, "title": "Roseanna", "yearOriginal": 1965, "yearPolish": 2009, "type": "powieść" },
+    { "order": 2, "title": "Mężczyzna, który rozpłynął się w powietrzu", "titleOriginal": "Mannen som gick upp i rök", "yearOriginal": 1966, "yearPolish": 2009, "type": "powieść" },
+    { "order": 3, "title": "Mężczyzna na balkonie", "titleOriginal": "Mannen på balkongen", "yearOriginal": 1967, "yearPolish": 2009, "type": "powieść" },
+    { "order": 4, "title": "Śmiejący się policjant", "titleOriginal": "Den skrattande polisen", "yearOriginal": 1968, "yearPolish": 2010, "type": "powieść" },
+    { "order": 5, "title": "Wóz strażacki, który zniknął", "titleOriginal": "Brandbilen som försvann", "yearOriginal": 1969, "yearPolish": 2010, "type": "powieść" },
+    { "order": 6, "title": "Morderstwo w Savoyu", "titleOriginal": "Polis, polis, potatismos!", "yearOriginal": 1970, "yearPolish": 2010, "type": "powieść" },
+    { "order": 7, "title": "Twardziel z Säffle", "titleOriginal": "Den vedervärdige mannen från Säffle", "yearOriginal": 1971, "yearPolish": 2011, "type": "powieść" },
+    { "order": 8, "title": "Zamknięty pokój", "titleOriginal": "Det slutna rummet", "yearOriginal": 1972, "yearPolish": 2011, "type": "powieść" },
+    { "order": 9, "title": "Zabójca policjanta", "titleOriginal": "Polismördaren", "yearOriginal": 1974, "yearPolish": 2012, "type": "powieść" },
+    { "order": 10, "title": "Ludzie przemocy", "titleOriginal": "Terroristerna", "yearOriginal": 1975, "yearPolish": 2012, "type": "powieść" }
+  ],
+  "faq": [
+    {
+      "question": "W jakiej kolejności czytać cykl z Martinem Beckiem?",
+      "answer": "W kolejności wydania, od Roseanny (1965) po Ludzi przemocy (1975). Każda powieść opisuje kolejny rok pracy komisarza Becka i zespołu sztokholmskiej policji, bohaterowie starzeją się i zmieniają, więc kolejność publikacji jest zarazem porządkiem chronologicznym."
+    },
+    {
+      "question": "Dlaczego seria kończy się na dziesięciu książkach?",
+      "answer": "Dziesięć tomów było od początku zamierzonym planem — cykl nosi wspólny tytuł „Roman om ett brott\" („Opowieść o zbrodni\") i miał ukazywać po jednej powieści rocznie przez dekadę. Krytyka szwedzkiego państwa dobrobytu doprowadzona została do końca w Terroristernach (1975); Per Wahlöö zmarł w 1975 roku i duet nie napisał już wspólnie żadnej książki."
+    },
+    {
+      "question": "Kiedy cykl ukazał się w Polsce?",
+      "answer": "Pojedyncze tomy wydawano u nas już od lat 70. — Śmiejący się policjant w 1973, Człowiek z Säffle w 1976, Zamknięty pokój w 1980 — ale kompletny cykl w ujednoliconych tytułach wydało dopiero Wydawnictwo Amber w latach 2009-2012. To właśnie ta edycja, z tomem dziesiątym jako Ludzie przemocy, jest dziś podstawową polską wersją serii."
+    },
+    {
+      "question": "Od którego tomu zacząć, jeśli chcę poznać najlepszą część cyklu?",
+      "answer": "Od Roseanny — to klasyczne wejście do serii. Za najmocniejsze tomy uchodzą jednak Śmiejący się policjant (1968), nagrodzony Edgarem Allana Po, oraz Zamknięty pokój (1972); oba da się czytać samodzielnie, ale wiele odwołań do zespołu śledczych zyskuje, gdy zna się wcześniejsze książki."
+    }
+  ],
+  "relatedSeries": ["kurt-wallander", "harry-hole", "inspektor-morse"]
+}

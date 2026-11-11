@@ -1,0 +1,21 @@
+{
+  "title": "Rywalki",
+  "author": "Kiera Cass",
+  "authorSlug": "kiera-cass",
+  "genre": ["dystopia", "young-adult", "romans"],
+  "description": "Romantyczno-dystopijny cykl Kiery Cass o telewizyjnym wyborze przyszłej królowej. Pięć powieści — od Rywalek (2012) po Koronę (2016) — opowiada historię dwóch pokoleń wybranych, a uzupełniają ją nowele o bohaterach drugoplanowych.",
+  "books": [
+    { "order": 1, "title": "Rywalki", "titleOriginal": "The Selection", "yearOriginal": 2012, "yearPolish": 2014, "type": "powieść" },
+    { "order": 2, "title": "Elita", "titleOriginal": "The Elite", "yearOriginal": 2013, "yearPolish": 2014, "type": "powieść" },
+    { "order": 3, "title": "Jedyna", "titleOriginal": "The One", "yearOriginal": 2014, "yearPolish": 2014, "type": "powieść" },
+    { "order": 4, "title": "Następczyni", "titleOriginal": "The Heir", "yearOriginal": 2015, "yearPolish": 2015, "type": "powieść" },
+    { "order": 5, "title": "Korona", "titleOriginal": "The Crown", "yearOriginal": 2016, "yearPolish": 2016, "type": "powieść" },
+    { "order": 6, "title": "Rywalki. Opowiadania", "titleOriginal": "Happily Ever After", "yearOriginal": 2015, "yearPolish": 2022, "type": "tom" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Rywalki?", "answer": "W kolejności wydania: Rywalki, Elita i Jedyna tworzą zamkniętą historię Ameryki Singer, a Następczyni i Korona rozgrywają się dwadzieścia lat później i opowiadają o jej córce, Eadlyn. Kolejność publikacji jest tu jednocześnie kolejnością chronologiczną, więc wystarczy czytać tomy po kolei." },
+    { "question": "Co zawierają Rywalki. Opowiadania?", "answer": "To polskie wydanie kompletu nowel, znanego w oryginale jako Happily Ever After (2015). Znajdują się w nim cztery nowele — o księciu Maxonie, gwardziście Aspenie, królowej Amberly i faworytce Marlee — oraz dodatkowe materiały o świecie serii. Wcześniej Jaguar wydał część nowel osobno jako Królowa i faworytka (2015) oraz Książę i gwardzista." },
+    { "question": "Czy trzeba czytać nowele, żeby zrozumieć serię?", "answer": "Nie. Pięć powieści tworzy kompletną, zamkniętą historię, a nowele są opcjonalnym uzupełnieniem — pokazują wydarzenia z perspektywy bohaterów drugoplanowych i dodają tło, ale nie wnoszą wątków koniecznych do zrozumienia fabuły." }
+  ],
+  "relatedSeries": ["igrzyska-smierci", "zmierzch", "wiezien-labiryntu"]
+}
