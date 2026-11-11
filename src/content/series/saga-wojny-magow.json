@@ -1,0 +1,19 @@
+{
+  "title": "Saga o wojnie światów",
+  "author": "Raymond E. Feist",
+  "authorSlug": "raymond-e-feist",
+  "genre": ["fantasy", "epic-fantasy"],
+  "description": "Kolejność czytania Sagi o wojnie światów Raymonda E. Feista — pierwszej serii wielkiego cyklu Riftwar. Cztery polskie tomy, od Adepta magii (1982) po Mrok w Sethanon (1986): klasyczne fantasy o wojnie dwóch światów.",
+  "books": [
+    { "order": 1, "title": "Adept magii", "titleOriginal": "Magician: Apprentice", "yearOriginal": 1982, "yearPolish": 1996, "type": "powieść" },
+    { "order": 2, "title": "Mistrz magii", "titleOriginal": "Magician: Master", "yearOriginal": 1982, "yearPolish": 1996, "type": "powieść" },
+    { "order": 3, "title": "Srebrzysty cierń", "titleOriginal": "Silverthorn", "yearOriginal": 1985, "yearPolish": 1996, "type": "powieść" },
+    { "order": 4, "title": "Mrok w Sethanon", "titleOriginal": "A Darkness at Sethanon", "yearOriginal": 1986, "yearPolish": 1997, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Sagę o wojnie światów?", "answer": "W kolejności wydania: Adept magii i Mistrz magii, potem Srebrzysty cierń i Mrok w Sethanon. Fabuła prowadzi chronologicznie od dzieciństwa Puga i Tomasa, więc kolejność publikacji jest zarazem kolejnością wydarzeń." },
+    { "question": "Dlaczego Magician wydano w Polsce w dwóch tomach?", "answer": "Magician (1982) to jedna powieść, którą ze względu na objętość podzielono na dwie części: Magician: Apprentice i Magician: Master. W Polsce ukazała się wyłącznie jako dwutomowe wydanie Adept magii i Mistrz magii, rozszerzone o wątki usunięte z pierwszych wydań angielskich." },
+    { "question": "Co czytać po Sadze o wojnie światów?", "answer": "Saga to dopiero początek wielkiego cyklu Riftwar, liczącego około trzydziestu powieści. Historię kontynuują m.in. seria Synowie Krondoru oraz trylogia Imperium Magów napisana razem z Janny Wurts — te książki nie należą już jednak do samej sagi. Całość bywa nazywana po prostu cyklem Riftwar, a na Lubimyczytać figura jako Saga o Midkemii i Kelewanie." }
+  ],
+  "relatedSeries": ["kolo-czasu", "belgariada", "miecz-prawdy"]
+}

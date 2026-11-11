@@ -1,0 +1,39 @@
+{
+  "title": "Jeżycjada",
+  "author": "Małgorzata Musierowicz",
+  "authorSlug": "malgorzata-musierowicz",
+  "genre": ["young-adult", "komedia"],
+  "description": "Kolejność czytania Jeżycjady Małgorzaty Musierowicz. Dwadzieścia trzy tomy sagi poznańskiej rodziny Borejków — od Małomównego i rodziny (1975) po Ciotkę Zgryzotkę (2018).",
+  "books": [
+    { "order": 1, "title": "Małomówny i rodzina", "yearOriginal": 1975, "yearPolish": 1975, "type": "powieść" },
+    { "order": 2, "title": "Szósta klepka", "yearOriginal": 1977, "yearPolish": 1977, "type": "powieść" },
+    { "order": 3, "title": "Kłamczucha", "yearOriginal": 1979, "yearPolish": 1979, "type": "powieść" },
+    { "order": 4, "title": "Kwiat kalafiora", "yearOriginal": 1981, "yearPolish": 1981, "type": "powieść" },
+    { "order": 5, "title": "Ida sierpniowa", "yearOriginal": 1981, "yearPolish": 1981, "type": "powieść" },
+    { "order": 6, "title": "Opium w rosole", "yearOriginal": 1986, "yearPolish": 1986, "type": "powieść" },
+    { "order": 7, "title": "Brulion Bebe B.", "yearOriginal": 1990, "yearPolish": 1990, "type": "powieść" },
+    { "order": 8, "title": "Noelka", "yearOriginal": 1992, "yearPolish": 1992, "type": "powieść" },
+    { "order": 9, "title": "Pulpecja", "yearOriginal": 1993, "yearPolish": 1993, "type": "powieść" },
+    { "order": 10, "title": "Dziecko piątku", "yearOriginal": 1993, "yearPolish": 1993, "type": "powieść" },
+    { "order": 11, "title": "Nutria i Nerwus", "yearOriginal": 1994, "yearPolish": 1994, "type": "powieść" },
+    { "order": 12, "title": "Córka Robrojka", "yearOriginal": 1996, "yearPolish": 1996, "type": "powieść" },
+    { "order": 13, "title": "Imieniny", "yearOriginal": 1998, "yearPolish": 1998, "type": "powieść" },
+    { "order": 14, "title": "Tygrys i Róża", "yearOriginal": 1999, "yearPolish": 1999, "type": "powieść" },
+    { "order": 15, "title": "Kalamburka", "yearOriginal": 2001, "yearPolish": 2001, "type": "powieść" },
+    { "order": 16, "title": "Język Trolli", "yearOriginal": 2004, "yearPolish": 2004, "type": "powieść" },
+    { "order": 17, "title": "Żaba", "yearOriginal": 2005, "yearPolish": 2005, "type": "powieść" },
+    { "order": 18, "title": "Czarna polewka", "yearOriginal": 2006, "yearPolish": 2006, "type": "powieść" },
+    { "order": 19, "title": "Sprężyna", "yearOriginal": 2008, "yearPolish": 2008, "type": "powieść" },
+    { "order": 20, "title": "McDusia", "yearOriginal": 2012, "yearPolish": 2012, "type": "powieść" },
+    { "order": 21, "title": "Wnuczka do orzechów", "yearOriginal": 2014, "yearPolish": 2014, "type": "powieść" },
+    { "order": 22, "title": "Feblik", "yearOriginal": 2015, "yearPolish": 2015, "type": "powieść" },
+    { "order": 23, "title": "Ciotka Zgryzotka", "yearOriginal": 2018, "yearPolish": 2018, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Jeżycjadę?", "answer": "Najlepiej w kolejności wydania, czyli od Małomównego i rodziny (1975) po Ciotkę Zgryzotkę (2018). Poszczególne tomy są formalnie samodzielne, ale każda książka odsyła do poprzednich — wiele żartów, aluzji i wątków rodzinnych rozumie się tylko znając wcześniejsze części." },
+    { "question": "Ile tomów liczy Jeżycjada?", "answer": "Dwadzieścia trzy książki: tom 0, Małomówny i rodzina (1975), oraz dwadzieścia dwa ponumerowane tomy, od Szóstej klepki (1977) po Ciotkę Zgryzotkę (2018). W marcu 2019 roku autorka ogłosiła zakończenie cyklu właśnie na dwudziestej drugiej powieści." },
+    { "question": "Czym jest tom 0 Jeżycjady?", "answer": "Małomówny i rodzina (1975), powieść o rodzinie Ptaszkowskich, nie opowiada o Borejkach. Małgorzata Musierowicz włączyła ją do cyklu na prośbę czytelników, dlatego oznaczana jest jako tom 0. Można ją czytać w dowolnym momencie." },
+    { "question": "Co czytać po zakończeniu Jeżycjady?", "answer": "Kontynuacją losów Borejków jest nowa seria autorki, Bukoliada, otwarta tomem Chucherko (2020). Odejmuje ona rodzinie po przeprowadzce z poznańskich Jeżyc pod Kostrzyn i jest pełną kontynuacją tego samego uniwersum, choć formalnie stanowi osobny cykl." }
+  ],
+  "relatedSeries": ["ania-z-zielonego-wzgorza", "akademia-pana-kleksa", "dzieci-z-bullerbyn"]
+}

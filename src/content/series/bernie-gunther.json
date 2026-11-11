@@ -1,0 +1,30 @@
+{
+  "title": "Bernie Gunther",
+  "author": "Philip Kerr",
+  "authorSlug": "philip-kerr",
+  "genre": ["kryminal", "historyczna", "thriller"],
+  "description": "Kolejność czytania cyklu Bernie Gunther Philipa Kerra. Czternaście powieści kryminalnych rozgrywających się w hitlerowskich Niemczech i po wojnie — od Marcowych fiołków (1989) po pośmiertną Metropolis (2019).",
+  "books": [
+    { "order": 1, "title": "Marcowe fiołki", "titleOriginal": "March Violets", "yearOriginal": 1989, "yearPolish": 2014, "type": "powieść" },
+    { "order": 2, "title": "Blady przestępca", "titleOriginal": "The Pale Criminal", "yearOriginal": 1990, "yearPolish": 2014, "type": "powieść" },
+    { "order": 3, "title": "Niemieckie requiem", "titleOriginal": "A German Requiem", "yearOriginal": 1991, "yearPolish": 2014, "type": "powieść" },
+    { "order": 4, "title": "The One from the Other", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 5, "title": "A Quiet Flame", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 6, "title": "If the Dead Rise Not", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 7, "title": "Field Grey", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 8, "title": "Miłość i śmierć w Pradze", "titleOriginal": "Prague Fatale", "yearOriginal": 2011, "yearPolish": 2015, "type": "powieść" },
+    { "order": 9, "title": "Był pan w Smoleńsku, kapitanie?", "titleOriginal": "A Man Without Breath", "yearOriginal": 2013, "yearPolish": 2015, "type": "powieść" },
+    { "order": 10, "title": "The Lady from Zagreb", "yearOriginal": 2015, "type": "powieść" },
+    { "order": 11, "title": "The Other Side of Silence", "yearOriginal": 2016, "type": "powieść" },
+    { "order": 12, "title": "Prussian Blue", "yearOriginal": 2017, "type": "powieść" },
+    { "order": 13, "title": "Greeks Bearing Gifts", "yearOriginal": 2018, "type": "powieść" },
+    { "order": 14, "title": "Metropolis", "yearOriginal": 2019, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać cykl Bernie Gunther?", "answer": "W kolejności wydania: najpierw berlińską trylogię (Marcowe fiołki, Blady przestępca, Niemieckie requiem), potem kolejne tomy aż po Metropolis. Philip Kerr układał tak cykl celowo i to on sam zalecał taką lekturę, mimo że akcja późniejszych powieści skacze po latach 1929-1956." },
+    { "question": "Czym różni się kolejność wydania od chronologii wydarzeń?", "answer": "Kolejność publikacji nie pokrywa się z chronologią świata przedstawionego. Ostatni tom, Metropolis (2019), jest prequelem rozgrywającym się w 1928 roku, gdy Gunther jeszcze pracuje w berlińskim wydziale zabójstw, a np. akcja tomu Był pan w Smoleńsku, kapitanie? toczy się w 1943 roku. Przy pierwszym czytaniu i tak warto trzymać się kolejności wydania." },
+    { "question": "Ile książek liczy cykl Bernie Gunther?", "answer": "Czternaście powieści napisanych między 1989 a 2019 rokiem. Philip Kerr zmarł w marcu 2018 roku na raka pęcherza, a ostatni ukończony tom, Metropolis, ukazał się już po jego śmierci." },
+    { "question": "Które tomy ukazały się po polsku?", "answer": "Po polsku potwierdzone są wydania berlińskiej trylogii (2014) oraz tomów Miłość i śmierć w Pradze i Był pan w Smoleńsku, kapitanie? (2015). Dla pozostałych powieści brak potwierdzonych polskich tytułów, dlatego na liście podajemy tytuły oryginalne." }
+  ],
+  "relatedSeries": ["kurt-wallander", "harry-hole"]
+}

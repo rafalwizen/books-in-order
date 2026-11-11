@@ -1,0 +1,42 @@
+{
+  "title": "Gabriel Allon",
+  "author": "Daniel Silva",
+  "authorSlug": "daniel-silva",
+  "genre": ["thriller"],
+  "description": "Kolejność czytania serii Gabriel Allon Daniela Silvy. Dwadzieścia sześć powieści szpiegowskich o izraelskim agencie wywiadu i restauratorze dzieł sztuki — od Artysty zbrodni (2000) po Okup (2026).",
+  "books": [
+    { "order": 1, "title": "Artysta zbrodni", "titleOriginal": "The Kill Artist", "yearOriginal": 2000, "type": "powieść" },
+    { "order": 2, "title": "Angielski zabójca", "titleOriginal": "The English Assassin", "yearOriginal": 2002, "type": "powieść" },
+    { "order": 3, "title": "Spowiednik", "titleOriginal": "The Confessor", "yearOriginal": 2003, "type": "powieść" },
+    { "order": 4, "title": "Śmierć w Wiedniu", "titleOriginal": "A Death in Vienna", "yearOriginal": 2004, "type": "powieść" },
+    { "order": 5, "title": "Książę ognia", "titleOriginal": "Prince of Fire", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 6, "title": "Posłaniec", "titleOriginal": "The Messenger", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 7, "title": "Tajny sługa", "titleOriginal": "The Secret Servant", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 8, "title": "Reguły Moskwy", "titleOriginal": "Moscow Rules", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 9, "title": "Uciekinier", "titleOriginal": "The Defector", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 10, "title": "Sprawa Rembrandta", "titleOriginal": "The Rembrandt Affair", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 11, "title": "Portret szpiega", "titleOriginal": "Portrait of a Spy", "yearOriginal": 2011, "type": "powieść" },
+    { "order": 12, "title": "Upadły anioł", "titleOriginal": "The Fallen Angel", "yearOriginal": 2012, "type": "powieść" },
+    { "order": 13, "title": "Angielska dziewczyna", "titleOriginal": "The English Girl", "yearOriginal": 2013, "type": "powieść" },
+    { "order": 14, "title": "Wielki skok", "titleOriginal": "The Heist", "yearOriginal": 2014, "type": "powieść" },
+    { "order": 15, "title": "Angielski szpieg", "titleOriginal": "The English Spy", "yearOriginal": 2015, "type": "powieść" },
+    { "order": 16, "title": "Czarna wdowa", "titleOriginal": "The Black Widow", "yearOriginal": 2016, "type": "powieść" },
+    { "order": 17, "title": "Dom szpiegów", "titleOriginal": "House of Spies", "yearOriginal": 2017, "type": "powieść" },
+    { "order": 18, "title": "Inna kobieta", "titleOriginal": "The Other Woman", "yearOriginal": 2018, "type": "powieść" },
+    { "order": 19, "title": "Nowa dziewczyna", "titleOriginal": "The New Girl", "yearOriginal": 2019, "type": "powieść" },
+    { "order": 20, "title": "Zakon", "titleOriginal": "The Order", "yearOriginal": 2020, "type": "powieść" },
+    { "order": 21, "title": "Wiolonczelistka", "titleOriginal": "The Cellist", "yearOriginal": 2021, "type": "powieść" },
+    { "order": 22, "title": "Portret nieznanej kobiety", "titleOriginal": "Portrait of an Unknown Woman", "yearOriginal": 2022, "type": "powieść" },
+    { "order": 23, "title": "Kolekcjoner", "titleOriginal": "The Collector", "yearOriginal": 2023, "type": "powieść" },
+    { "order": 24, "title": "Śmierć w Kornwalii", "titleOriginal": "A Death in Cornwall", "yearOriginal": 2024, "type": "powieść" },
+    { "order": 25, "title": "Poza podejrzeniem", "titleOriginal": "An Inside Job", "yearOriginal": 2025, "type": "powieść" },
+    { "order": 26, "title": "Okup", "titleOriginal": "Ransom", "yearOriginal": 2026, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać serię Gabriel Allon?", "answer": "W kolejności wydania, czyli od Artysty zbrodni (2000). Każdy tom zawiera zamkniętą intrygę, ale życie Allona — tragedię w Wiedniu, małżeństwo z Chiarą, w końcu drogę na szczyt izraelskiego wywiadu — Silva rozwija z tomu na tom, więc mieszanie kolejności psuje efekt." },
+    { "question": "Ile książek liczy seria Gabriel Allon?", "answer": "Dwadzieścia sześć powieści: od Artysty zbrodni (2000) po Okup (Ransom, 2026). Cała seria doczekała się polskich wydań — polskie tytuły wszystkich tomów znajdziesz na powyższej liście." },
+    { "question": "Od czego zacząć przygodę z Gabrielem Allonem?", "answer": "Od pierwszego tomu, Artysty zbrodni. Prolog cofa do 1972 roku i akcji odwetowej po masakrze w Monachium, a dalsza część przedstawia Allona jako restauratora dzieł sztuki, którego ściąga z powrotem do służby. To tu poznajemy też kluczowych bohaterów całej serii: Ariego Shamrona, Chiarię i Uziego Navota." },
+    { "question": "Czy tomy Gabriel Allon można czytać osobno?", "answer": "Każda powieść ma odrębną zagadkę — sztandarowy przykład to Sprawa Rembrandta czy Zakon — więc pojedynczy tom da się przeczytać samodzielnie. Jednak wątki osobiste i relacje w zespole Allona budowane są przez całą serię, więc najlepsze wrażenie daje lektura po kolei." }
+  ],
+  "relatedSeries": ["mitch-rapp", "court-gentry", "jack-reacher"]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Brzydcy",
+  "author": "Scott Westerfeld",
+  "authorSlug": "scott-westerfeld",
+  "genre": ["dystopia", "young-adult"],
+  "description": "Kolejność czytania serii Brzydcy Scotta Westerfelda. Cztery powieści o świecie, w którym każdy szesnastolatek przechodzi operację upiększającą — od Brzydkich (2005) po Nieważcych (2007), wydanych w Polsce w pięciu tomach.",
+  "books": [
+    { "order": 1, "title": "Brzydcy", "titleOriginal": "Uglies", "yearOriginal": 2005, "yearPolish": 2007, "type": "powieść" },
+    { "order": 2, "title": "Śliczni", "titleOriginal": "Pretties", "yearOriginal": 2005, "yearPolish": 2007, "type": "powieść" },
+    { "order": 3, "title": "Wyjątkowi", "titleOriginal": "Specials", "yearOriginal": 2006, "yearPolish": 2008, "type": "powieść" },
+    { "order": 4, "title": "Nieważcy 1", "titleOriginal": "Extras", "yearOriginal": 2007, "yearPolish": 2009, "type": "tom" },
+    { "order": 5, "title": "Nieważcy 2", "titleOriginal": "Extras", "yearOriginal": 2007, "yearPolish": 2009, "type": "tom" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Brzydkich?", "answer": "W kolejności wydania: Brzydcy, Śliczni, Wyjątkowi, a na końcu Niewądcy. Pierwsze trzy tomy tworzą zamkniętą historię Tally Youngblood, a czwarty rozdział prowadzi nowa bohaterka, Aya Fuse, więc kolejność publikacji jest jednocześnie kolejnością chronologiczną." },
+    { "question": "Dlaczego czwarta książka ukazała się w dwóch tomach?", "answer": "Extras, ostatnia powieść serii, została po polsku wydana przez Egmont w dwóch częściach: Niewądcy 1 i Niewądcy 2 (obie w 2009 roku). To jedna powieść podzielona na dwa woluminy, więc czyta się je jedna po drugiej." },
+    { "question": "Czy Brzydcy mają kontynuację?", "answer": "Tak. Od 2018 roku ukazuje się sequelowa seria Impostors (Impostors, Shatter City, Mirror's Edge, Youngbloods), rozgrywająca się kilkanaście lat po buncie Tally. Żadna z jej części dotychczas nie ukazała się po polsku." }
+  ],
+  "relatedSeries": ["igrzyska-smierci", "unwind"]
+}

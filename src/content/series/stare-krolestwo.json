@@ -1,0 +1,21 @@
+{
+  "title": "Stare Królestwo",
+  "author": "Garth Nix",
+  "authorSlug": "garth-nix",
+  "genre": ["fantasy", "young-adult"],
+  "description": "Kolejność czytania cyklu Stare Królestwo Gartha Nixa. Sześć powieści o nekromantach i magicznej Ścianie oddzielającej Stare Królestwo od Ancelstierre — od Sabriel (1995) po Terciel and Elinor (2021).",
+  "books": [
+    { "order": 1, "title": "Sabriel", "yearOriginal": 1995, "yearPolish": 2004, "type": "powieść" },
+    { "order": 2, "title": "Lirael – córka Clayrów", "titleOriginal": "Lirael", "yearOriginal": 2001, "yearPolish": 2004, "type": "powieść" },
+    { "order": 3, "title": "Abhorsen", "yearOriginal": 2003, "yearPolish": 2004, "type": "powieść" },
+    { "order": 4, "title": "Clariel", "yearOriginal": 2014, "yearPolish": 2015, "type": "powieść" },
+    { "order": 5, "title": "Goldenhand", "yearOriginal": 2016, "type": "powieść" },
+    { "order": 6, "title": "Terciel and Elinor", "yearOriginal": 2021, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Stare Królestwo?", "answer": "Przy pierwszym spotkaniu z cyklem — w kolejności wydania, od Sabriel (1995). Kolejność publikacji różni się od chronologii świata: Clariel (2014) rozgrywa się około sześciuset lat przed Sabriel, a Terciel and Elinor (2021) opowiada o rodzicach Sabriel. Oba tomy zakładają znajomość świata z pierwotnej trylogii." },
+    { "question": "Ile tomów liczy cykl i które ukazały się po polsku?", "answer": "Sześć powieści. Wydawnictwo Literackie wydało po polsku Sabriel, Lirael – córkę Clayrów i Abhorsena w 2004 roku oraz Clariel w 2015. Goldenhand (2016) i Terciel and Elinor (2021) nie mają dotąd polskich wydań — ostatnie polskie wydanie trylogii z 2014 roku jest nadal w obiegu." },
+    { "question": "Czy trzeba znać nowele i opowiadania?", "answer": "Nie. Jedyna istotna nowela, The Creature in the Case (2005), napisana na World Book Day, kontynuuje losy Nicholasa Sayre'a po wydarzeniach z Abhorsena. Nie ukazała się jako samodzielna książka — trafiła do zbioru Across the Wall: A Tale of the Abhorsen and Other Stories (2005)." }
+  ],
+  "relatedSeries": ["ziemiomorze", "mroczne-materie", "kroniki-prydainu"]
+}
