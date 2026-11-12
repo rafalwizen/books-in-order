@@ -1,0 +1,19 @@
+{
+  "title": "Cykl robotyczny",
+  "author": "Isaac Asimov",
+  "authorSlug": "isaac-asimov",
+  "genre": ["sci-fi", "kryminal"],
+  "description": "Kolejność czytania cyklu robotycznego Isaaca Asimova. Cztery powieści o detektywie Elijahu Baleyu i robotie R. Daneelu Olivawie — od Pozytonowego detektywa (1954) po Roboty i Imperium (1985).",
+  "books": [
+    { "order": 1, "title": "Pozytonowy detektyw", "titleOriginal": "The Caves of Steel", "yearOriginal": 1954, "yearPolish": 1960, "type": "powieść" },
+    { "order": 2, "title": "Nagie słońce", "titleOriginal": "The Naked Sun", "yearOriginal": 1957, "type": "powieść" },
+    { "order": 3, "title": "Roboty z planety świtu", "titleOriginal": "The Robots of Dawn", "yearOriginal": 1983, "type": "powieść" },
+    { "order": 4, "title": "Roboty i Imperium", "titleOriginal": "Robots and Empire", "yearOriginal": 1985, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać cykl robotyczny?", "answer": "W kolejności wydania: Pozytonowy detektyw (1954), Nagie słońce (1957), Roboty z planety świtu (1983) i Roboty i Imperium (1985). Kolejność publikacji jest tu zarazem kolejnością chronologiczną wydarzeń, a relacja Baleya z robotem Daneelem rozwija się z tomu na tom." },
+    { "question": "Czy Ja, robot i inne zbiory opowiadań należą do cyklu?", "answer": "Do cyklu robotycznego w ścisłym sensie należą cztery powieści o Elijahu Baleyu. Zbiory opowiadań o robotach pozytronowych — Ja, robot (1950) i Świat robotów (1982) — rozgrywają się tysiące lat wcześniej i opisują dzieje Susan Calvin oraz korporacji U.S. Robots. W Polsce Rebis wydaje je jako tomy cyklu Roboty, ale można je czytać niezależnie od powieści detektywistycznych." },
+    { "question": "Jaki jest związek cyklu robotycznego z Fundacją?", "answer": "Pod koniec życia Asimov połączył oba cykle w jedną historię przyszłości: R. Daneel Olivaw pojawia się w późnych tomach Fundacji, a Roboty i Imperium opisuje wydarzenia bezpośrednio poprzedzające narodziny Imperium Galaktycznego. Po cyklu robotycznym naturalnym continuationem jest więc cykl Fundacji, zaczynając od Preludium Fundacji lub od oryginalnej trylogii." }
+  ],
+  "relatedSeries": ["cykl-fundacji", "odyseja-kosmiczna", "dzienniki-murderbota"]
+}

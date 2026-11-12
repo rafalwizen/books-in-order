@@ -1,0 +1,33 @@
+{
+  "title": "Cykl Skrytobójcy",
+  "author": "Robin Hobb",
+  "authorSlug": "robin-hobb",
+  "genre": ["fantasy", "epic-fantasy"],
+  "description": "Kolejność czytania cyklu Skrytobójca Robin Hobb. Dziewięć powieści o Fitzu, nieślubnym synu księcia wytrenowanym na skrytobójcę — od Ucznia skrytobójcy (1995) po Przeznaczenie Skrytobójcy (2017).",
+  "books": [
+    { "order": 1, "title": "Uczeń skrytobójcy", "titleOriginal": "Assassin's Apprentice", "yearOriginal": 1995, "yearPolish": 1997, "type": "powieść" },
+    { "order": 2, "title": "Królewski skrytobójca", "titleOriginal": "Royal Assassin", "yearOriginal": 1996, "yearPolish": 1997, "type": "powieść" },
+    { "order": 3, "title": "Wyprawa skrytobójcy", "titleOriginal": "Assassin's Quest", "yearOriginal": 1997, "yearPolish": 1998, "type": "powieść" },
+    { "order": 4, "title": "Misja błazna", "titleOriginal": "Fool's Errand", "yearOriginal": 2001, "yearPolish": 2003, "type": "powieść" },
+    { "order": 5, "title": "Złocisty błazen", "titleOriginal": "Golden Fool", "yearOriginal": 2002, "yearPolish": 2004, "type": "powieść" },
+    { "order": 6, "title": "Przeznaczenie błazna", "titleOriginal": "Fool's Fate", "yearOriginal": 2003, "yearPolish": 2005, "type": "powieść" },
+    { "order": 7, "title": "Skrytobójca Błazna", "titleOriginal": "Fool's Assassin", "yearOriginal": 2014, "yearPolish": 2017, "type": "powieść" },
+    { "order": 8, "title": "Wyprawa Błazna", "titleOriginal": "Fool's Quest", "yearOriginal": 2015, "yearPolish": 2018, "type": "powieść" },
+    { "order": 9, "title": "Przeznaczenie Skrytobójcy", "titleOriginal": "Assassin's Fate", "yearOriginal": 2017, "yearPolish": 2019, "type": "powieść" }
+  ],
+  "faq": [
+    {
+      "question": "W jakiej kolejności czytać cykl Skrytobójcy?",
+      "answer": "Wyłącznie w kolejności wydania, czyli tom po tomie od Ucznia skrytobójcy (1995). To jedna ciągła historia życia Fita opowiedziana w pierwszej osobie: bohater starzeje się z każdym tomem, a fabuła Tawny Mana i trylogii Bastard i Błazen wprost nawiązuje do zakończenia poprzednich części. Kolejność publikacji jest tu jednocześnie kolejnością chronologiczną wydarzeń."
+    },
+    {
+      "question": "Ile książek liczy cykl i jak wygląda polskie wydanie?",
+      "answer": "Dziewięć powieści z lat 1995-2017, zebranych w trzy trylogie. W Polsce nie ukazały się one pod wspólnym szyldem: Trylogię Skrytobójcy wydało wydawnictwo Prószyński i S-ka (1997-1998, później wznowienia Maga), Trylogię Złotoskóry Mag (2003-2005), a Trylogię Bastard i Błazen również Mag (2017-2019). Dłuższe tomy wydawnictwo Mag dzieliło dodatkowo na części, co nie zmienia kolejności czytania."
+    },
+    {
+      "question": "Czy trzeba czytać inne cykle Robin Hobb z tego samego świata?",
+      "answer": "Nie jest to konieczne. Historia Fita zamyka się w tych dziewięciu powieściach. Osadzone są one w tym samym świecie co trylogia Kupcy i ich żywostatki (Czarodziejski statek, Szalony statek, Statek przeznaczenia) oraz kroniki Rain Wild, w których pojawiają się wątki i postacie wspólne z cyklem Skrytobójcy — czytelnicy chcący poznać pełny obraz świata Elderlings mogą sięgnąć po nie między tom 3. a 4. Nowele o Ficie, np. Words Like Coins i Blue Boots, są opcjonalnym uzupełnieniem."
+    }
+  ],
+  "relatedSeries": ["gra-o-tron", "pierwsze-prawo", "wiedzmin"]
+}
