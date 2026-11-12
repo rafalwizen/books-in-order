@@ -1,0 +1,22 @@
+{
+  "title": "Akademia wampirów",
+  "author": "Richelle Mead",
+  "authorSlug": "richelle-mead",
+  "genre": ["young-adult", "urban-fantasy", "romans"],
+  "description": "Kolejność czytania serii Akademia wampirów Richelle Mead. Sześć powieści o Rose Hathaway, strażniczce półwampirzycy Lissy — od Akademii wampirów (2007) po Ostatnie poświęcenie (2010). W Polsce wydaje ją Nasza Księgarnia.",
+  "books": [
+    { "order": 1, "title": "Akademia wampirów", "titleOriginal": "Vampire Academy", "yearOriginal": 2007, "type": "powieść" },
+    { "order": 2, "title": "W szponach mrozu", "titleOriginal": "Frostbite", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 3, "title": "Pocałunek cienia", "titleOriginal": "Shadow Kiss", "yearOriginal": 2008, "type": "powieść" },
+    { "order": 4, "title": "Przysięga krwi", "titleOriginal": "Blood Promise", "yearOriginal": 2009, "type": "powieść" },
+    { "order": 5, "title": "W mocy ducha", "titleOriginal": "Spirit Bound", "yearOriginal": 2010, "type": "powieść" },
+    { "order": 6, "title": "Ostatnie poświęcenie", "titleOriginal": "Last Sacrifice", "yearOriginal": 2010, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Akademię wampirów?", "answer": "Wyłącznie w kolejności wydania, od tomu pierwszego. Fabuła jest ciągła: Rose Hathaway szkoli się na strażniczkę Lissy, a każdy tom kończy się wydarzeniami, które bezpośrednio napędzają następny. Czytanie z przypadkowego miejsca zdradzi kluczowe zwroty akcji." },
+    { "question": "Ile tomów liczy Akademia wampirów?", "answer": "Sześć powieści: Akademia wampirów (2007), W szponach mrozu (2008), Pocałunek cienia (2008), Przysięga krwi (2009), W mocy ducha (2010) i Ostatnie poświęcenie (2010). Seria jest zamknięta — zakończenie przynosi szósty tom. W Polsce serię wydaje wydawnictwo Nasza Księgarnia." },
+    { "question": "Czy po Akademii wampirów czytać serię Zrodzona z krwi (Bloodlines)?", "answer": "Tak, to bezpośrednia kontynuacja w tym samym świecie. Zrodzona z krwi (ang. Bloodlines, 2011) liczy sześć tomów, a jej bohaterką jest alchemiczka Sydney Sage znana z Akademii wampirów. Najlepiej zacząć ją po przeczytaniu wszystkich sześciu tomów głównej serii — spin-off swobodnie zdradza jej zakończenie." },
+    { "question": "Czy Akademia wampirów ma ekranizację?", "answer": "Tak. W 2014 roku powstał film Akademia wampirów (ekranizacja pierwszego tomu), a w 2022 roku serwis Peacock wydał serial Vampire Academy. Obie adaptacje opowiadają historię od początku, więc nie zastępują książek, których fabuła jest znacznie bogatsza." }
+  ],
+  "relatedSeries": ["zmierzch", "kroniki-wampirow", "wiezien-labiryntu"]
+}

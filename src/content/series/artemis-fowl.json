@@ -1,0 +1,23 @@
+{
+  "title": "Artemis Fowl",
+  "author": "Eoin Colfer",
+  "authorSlug": "eoin-colfer",
+  "genre": ["fantasy", "young-adult", "przygodowa"],
+  "description": "Kolejność czytania serii Artemis Fowl Eoina Colfera. Osiem powieści o nastoletnim geniuszu przestępczym i świecie wróżek — od Artemis Fowl (2001) po The Last Guardian (2012).",
+  "books": [
+    { "order": 1, "title": "Artemis Fowl", "yearOriginal": 2001, "type": "powieść" },
+    { "order": 2, "title": "Artemis Fowl. Arktyczna przygoda", "titleOriginal": "Artemis Fowl and the Arctic Incident", "yearOriginal": 2002, "type": "powieść" },
+    { "order": 3, "title": "Artemis Fowl. Kod wieczności", "titleOriginal": "Artemis Fowl and the Eternity Code", "yearOriginal": 2003, "type": "powieść" },
+    { "order": 4, "title": "Artemis Fowl. Fortel wróżki", "titleOriginal": "Artemis Fowl and the Opal Deception", "yearOriginal": 2005, "type": "powieść" },
+    { "order": 5, "title": "Artemis Fowl. Zaginiona kolonia", "titleOriginal": "Artemis Fowl and the Lost Colony", "yearOriginal": 2006, "type": "powieść" },
+    { "order": 6, "title": "Artemis Fowl. Paradoks czasu", "titleOriginal": "Artemis Fowl and the Time Paradox", "yearOriginal": 2008, "yearPolish": 2009, "type": "powieść" },
+    { "order": 7, "title": "Artemis Fowl. Kompleks Atlantydy", "titleOriginal": "Artemis Fowl and the Atlantis Complex", "yearOriginal": 2010, "yearPolish": 2011, "type": "powieść" },
+    { "order": 8, "title": "Artemis Fowl. The Last Guardian", "titleOriginal": "Artemis Fowl and the Last Guardian", "yearOriginal": 2012, "type": "powieść" }
+  ],
+  "faq": [
+    { "question": "W jakiej kolejności czytać Artemisa Fowla?", "answer": "W kolejności wydania, od pierwszego tomu Artemis Fowl (2001) po The Last Guardian (2012). Fabuła jest ściśle ciągła: Artemis i jego sojuszniczka Holly Nieduża ewoluują z tomu na tom, a w części trzeciej i czwartej kluczowe jest wymazanie i odzyskanie pamięci bohatera." },
+    { "question": "Ile książek liczy seria Artemis Fowl?", "answer": "Główny cykl Eoina Colfera składa się z ośmiu powieści wydanych w latach 2001–2012. W Polsce ukazały się nakładem wydawnictwa W.A.B. Do cyklu dochodzą towarzyszące wydania, m.in. Kartoteka Artemisa Fowla i komiksowe adaptacje pierwszych tomów." },
+    { "question": "Czy po zakończeniu serii są kolejne książki o Fowlach?", "answer": "Tak. Od 2019 roku ukazuje się spin-off The Fowl Twins — trylogia o młodszych braciach-bliźniakach Artemisa, Mylesie i Beckecci (The Fowl Twins, Deny All Charges, Get What They Deserve, 2019–2021). Akcja dzieje się pięć lat po wydarzeniach The Last Guardian." }
+  ],
+  "relatedSeries": ["harry-potter", "percy-jackson", "sekretna-siodemka"]
+}
